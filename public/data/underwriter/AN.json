@@ -1,0 +1,12 @@
+{
+    "underwriter": {
+        "code": "AN",
+        "name": "WANTEG SEKURITAS",
+        "image": ""
+    },
+    "stocks": [
+        "MEDS",
+        "MKTR",
+        "SOUL"
+    ]
+}

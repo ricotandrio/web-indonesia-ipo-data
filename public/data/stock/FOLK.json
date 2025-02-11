@@ -1,0 +1,59 @@
+{
+    "ipo_status": "Closed",
+    "ticker_code": "FOLK",
+    "image": "",
+    "company_name": "PT Multi Garam Utama Tbk",
+    "sector": "Industrials",
+    "subsector": "Multi-sector Holdings",
+    "listing_board": "Pengembangan",
+    "final_price": 100.0,
+    "line_of_business": "Aktivitas Perusahaan Holding dan Aktivitas Konsultasi Manajemen",
+    "address": "Prosperity Tower 17-F District 8, SCBD, Jalan Jenderal Sudirman Kavling 52-53, Kelurahan Senayan, Kec, Kebayoran Baru, Jakarta Selatan, Provinsi DKI Jakarta, 12190",
+    "website": "https://folkgroup,co",
+    "number_of_shares_offered": 570000000,
+    "%_of_total_shares": 14.44,
+    "participant_admin": {
+        "code": "HD",
+        "name": "KGI SEKURITAS INDONESIA"
+    },
+    "book_building_opening": "20/07/2023",
+    "book_building_closing": "24/07/2023",
+    "lowest_book_building_price": 100,
+    "highest_book_building_price": 105,
+    "opening_of_offering_period": "01/08/2023",
+    "closing_of_offering_period": "03/08/2023",
+    "closing_date": "03/08/2023",
+    "distribution_date": "04/08/2023",
+    "listing_date": "07/08/2023",
+    "ara_arb_percentage": "35%",
+    "underwriters": [
+        {
+            "code": "HD",
+            "name": "KGI SEKURITAS INDONESIA",
+            "percentage": ""
+        },
+        {
+            "code": "IF",
+            "name": "SAMUEL SEKURITAS INDONESIA",
+            "percentage": ""
+        }
+    ],
+    "warrant": {
+        "code": "FOLK-W",
+        "per_share_ratio": 0.5,
+        "exercise_price_(rp)": 200.0,
+        "open": "-",
+        "high": "-",
+        "low": "-",
+        "close": "-"
+    },
+    "listing_price": {
+        "open": 135.0,
+        "high": 135.0,
+        "low": 110.0,
+        "close": 113.0,
+        "change": 13.0,
+        "percentage_change": "13.00%",
+        "volume": 771271300.0
+    }
+}

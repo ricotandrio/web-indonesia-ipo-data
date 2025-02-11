@@ -1,0 +1,64 @@
+{
+    "ipo_status": "Closed",
+    "ticker_code": "BSBK",
+    "image": "",
+    "company_name": "PT Wulandari Bangun Laksana Tbk",
+    "sector": "Properties & Real Estate",
+    "subsector": "Real Estate Development & Management",
+    "listing_board": "Utama",
+    "final_price": 100.0,
+    "line_of_business": "Bergerak dalam bidang property dan real estate",
+    "address": "Jl, Jend, Sudirman Nomor 47 Tower G Komplek Balikpapan Superblock Stall Kuda, Kelurahan Damai Bahagia, Kec, Balikpapan Selatan, Kota Balikpapan, Provinsi Kalimantan Timur, 76114",
+    "website": "https://www,balikpapansuperblock,com",
+    "number_of_shares_offered": 2750000000,
+    "%_of_total_shares": 12.09,
+    "participant_admin": {
+        "code": "SH",
+        "name": "ARTHA SEKURITAS INDONESIA"
+    },
+    "book_building_opening": "10/10/2022",
+    "book_building_closing": "17/10/2022",
+    "lowest_book_building_price": 100,
+    "highest_book_building_price": 120,
+    "opening_of_offering_period": "02/11/2022",
+    "closing_of_offering_period": "04/11/2022",
+    "closing_date": "04/11/2022",
+    "distribution_date": "07/11/2022",
+    "listing_date": "08/11/2022",
+    "ara_arb_percentage": "35%",
+    "underwriters": [
+        {
+            "code": "SH",
+            "name": "ARTHA SEKURITAS INDONESIA",
+            "percentage": ""
+        },
+        {
+            "code": "HD",
+            "name": "KGI SEKURITAS INDONESIA",
+            "percentage": ""
+        },
+        {
+            "code": "PG",
+            "name": "PANCA GLOBAL SEKURITAS",
+            "percentage": ""
+        }
+    ],
+    "warrant": {
+        "code": "BSBK-W",
+        "per_share_ratio": 1.37,
+        "exercise_price_(rp)": 125.0,
+        "open": "-",
+        "high": "-",
+        "low": "-",
+        "close": "-"
+    },
+    "listing_price": {
+        "open": 135.0,
+        "high": 135.0,
+        "low": 135.0,
+        "close": 135.0,
+        "change": 35.0,
+        "percentage_change": "35.00%",
+        "volume": 281895000.0
+    }
+}

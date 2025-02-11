@@ -1,0 +1,59 @@
+{
+    "ipo_status": "Closed",
+    "ticker_code": "BREN",
+    "image": "",
+    "company_name": "PT Barito Renewables Energy Tbk",
+    "sector": "Infrastructures",
+    "subsector": "Electric Utilities",
+    "listing_board": "Utama",
+    "final_price": 780.0,
+    "line_of_business": "Aktvitas perusahaan holding",
+    "address": "Wisma Barito Pacific II, Lantai 23, Jl, Let, Jend, S, Parman Kav, 60, RT 010, RW 005, Slipi, Palmerah, Jakarta 11410, Indonesia",
+    "website": "https://www,baritorenewables,co,id/",
+    "number_of_shares_offered": 4015000000,
+    "%_of_total_shares": 3.0,
+    "participant_admin": {
+        "code": "NI",
+        "name": "BNI SEKURITAS"
+    },
+    "book_building_opening": "18/09/2023",
+    "book_building_closing": "25/09/2023",
+    "lowest_book_building_price": 670,
+    "highest_book_building_price": 780,
+    "opening_of_offering_period": "03/10/2023",
+    "closing_of_offering_period": "05/10/2023",
+    "closing_date": "05/10/2023",
+    "distribution_date": "06/10/2023",
+    "listing_date": "09/10/2023",
+    "ara_arb_percentage": "25%",
+    "underwriters": [
+        {
+            "code": "NI",
+            "name": "BNI SEKURITAS",
+            "percentage": ""
+        },
+        {
+            "code": "TP",
+            "name": "OCBC SEKURITAS INDONESIA",
+            "percentage": ""
+        }
+    ],
+    "warrant": {
+        "code": "",
+        "per_share_ratio": 0.0,
+        "exercise_price_(rp)": "",
+        "open": "",
+        "high": "",
+        "low": "",
+        "close": ""
+    },
+    "listing_price": {
+        "open": 975.0,
+        "high": 975.0,
+        "low": 975.0,
+        "close": 975.0,
+        "change": 195.0,
+        "percentage_change": "25.00%",
+        "volume": 22298500.0
+    }
+}

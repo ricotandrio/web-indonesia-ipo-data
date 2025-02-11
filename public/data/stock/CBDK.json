@@ -1,0 +1,54 @@
+{
+    "ipo_status": "Closed",
+    "ticker_code": "CBDK",
+    "image": "",
+    "company_name": "PT Bangun Kosambi Sukses Tbk",
+    "sector": "Properties & Real Estate",
+    "subsector": "Real Estate Development & Management",
+    "listing_board": "",
+    "final_price": 4060.0,
+    "line_of_business": "Bergerak dalam bidang Real Estat dan Aktivitas Perusahaan Holding",
+    "address": "Jl. Inspeksi PIK 2, Terusan Jalan Perancis No.5 Tangerang 15211, Indonesia",
+    "website": "http://www.cbdpik2.com/",
+    "number_of_shares_offered": 566894500,
+    "%_of_total_shares": 10.0,
+    "participant_admin": {
+        "code": "LG",
+        "name": "TRIMEGAH SEKURITAS INDONESIA TBK."
+    },
+    "book_building_opening": "13/12/2024",
+    "book_building_closing": "20/12/2024",
+    "lowest_book_building_price": 3000,
+    "highest_book_building_price": 4060,
+    "opening_of_offering_period": "03/01/2025",
+    "closing_of_offering_period": "09/01/2025",
+    "closing_date": "09/01/2025",
+    "distribution_date": "10/01/2025",
+    "listing_date": "13/01/2025",
+    "ara_arb_percentage": "25%",
+    "underwriters": [
+        {
+            "code": "LG",
+            "name": "TRIMEGAH SEKURITAS INDONESIA TBK",
+            "percentage": 1.0
+        }
+    ],
+    "warrant": {
+        "code": "",
+        "per_share_ratio": "",
+        "exercise_price_(rp)": "",
+        "open": "",
+        "high": "",
+        "low": "",
+        "close": ""
+    },
+    "listing_price": {
+        "open": 5075.0,
+        "high": 5075.0,
+        "low": 5075.0,
+        "close": 5075.0,
+        "change": 1015.0,
+        "percentage_change": "25.00%",
+        "volume": 224900.0
+    }
+}

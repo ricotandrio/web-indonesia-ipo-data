@@ -1,0 +1,18 @@
+{
+    "underwriter": {
+        "code": "NI",
+        "name": "BNI SEKURITAS",
+        "image": ""
+    },
+    "stocks": [
+        "AMMN",
+        "ARCI",
+        "AXIO",
+        "BELI",
+        "BREN",
+        "ERAL",
+        "GOTO",
+        "MORA",
+        "TLDN"
+    ]
+}

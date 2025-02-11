@@ -1,0 +1,54 @@
+{
+    "ipo_status": "Closed",
+    "ticker_code": "BMHS",
+    "image": "",
+    "company_name": "PT Bundamedik Tbk",
+    "sector": "Healthcare",
+    "subsector": "Healthcare Providers",
+    "listing_board": "Utama",
+    "final_price": 340.0,
+    "line_of_business": "Bergerak di bidang aktivitas rumah sakit swasta, poliklinik swasta, dan rumah sakit lainnya",
+    "address": "Jl, Teuku Cik Ditiro No, 28, Menteng Jakarta 10350 - Indonesia",
+    "website": "https://www,bmhs,co,id",
+    "number_of_shares_offered": 620000000,
+    "%_of_total_shares": 7.26,
+    "participant_admin": {
+        "code": "KI",
+        "name": "CIPTADANA SEKURITAS ASIA"
+    },
+    "book_building_opening": "17/06/2021",
+    "book_building_closing": "22/06/2021",
+    "lowest_book_building_price": 300,
+    "highest_book_building_price": 350,
+    "opening_of_offering_period": "30/06/2021",
+    "closing_of_offering_period": "02/07/2021",
+    "closing_date": "02/07/2021",
+    "distribution_date": "05/07/2021",
+    "listing_date": "06/07/2021",
+    "ara_arb_percentage": "25%",
+    "underwriters": [
+        {
+            "code": "KI",
+            "name": "CIPTADANA SEKURITAS ASIA",
+            "percentage": ""
+        }
+    ],
+    "warrant": {
+        "code": "",
+        "per_share_ratio": 0.0,
+        "exercise_price_(rp)": "",
+        "open": "",
+        "high": "",
+        "low": "",
+        "close": ""
+    },
+    "listing_price": {
+        "open": 424.0,
+        "high": 424.0,
+        "low": 424.0,
+        "close": 424.0,
+        "change": 84.0,
+        "percentage_change": "24.71%",
+        "volume": 1723800.0
+    }
+}

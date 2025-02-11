@@ -1,0 +1,54 @@
+{
+    "ipo_status": "Closed",
+    "ticker_code": "ELPI",
+    "image": "",
+    "company_name": "PT Pelayaran Nasional Ekalya Purnamasari Tbk",
+    "sector": "Transportation & Logistic",
+    "subsector": "Logistics & Deliveries",
+    "listing_board": "Utama",
+    "final_price": 200.0,
+    "line_of_business": "Bergerak dalam bidang angkutan laut dan aktivitas penunjang angkutan",
+    "address": "Graha KCT Lt, 3 Jl, W,R, Supratman No,23 Surabaya, Jawa Timur- Indonesia",
+    "website": "https://www,pnep,co,id",
+    "number_of_shares_offered": 1112000000,
+    "%_of_total_shares": 15.0,
+    "participant_admin": {
+        "code": "LG",
+        "name": "TRIMEGAH SEKURITAS INDONESIA TBK,"
+    },
+    "book_building_opening": "14/07/2022",
+    "book_building_closing": "21/07/2022",
+    "lowest_book_building_price": 190,
+    "highest_book_building_price": 240,
+    "opening_of_offering_period": "02/08/2022",
+    "closing_of_offering_period": "04/08/2022",
+    "closing_date": "04/08/2022",
+    "distribution_date": "05/08/2022",
+    "listing_date": "08/08/2022",
+    "ara_arb_percentage": "35%",
+    "underwriters": [
+        {
+            "code": "LG",
+            "name": "TRIMEGAH SEKURITAS INDONESIA TBK",
+            "percentage": ""
+        }
+    ],
+    "warrant": {
+        "code": "",
+        "per_share_ratio": 0.0,
+        "exercise_price_(rp)": "",
+        "open": "",
+        "high": "",
+        "low": "",
+        "close": ""
+    },
+    "listing_price": {
+        "open": 270.0,
+        "high": 270.0,
+        "low": 224.0,
+        "close": 270.0,
+        "change": 70.0,
+        "percentage_change": "35.00%",
+        "volume": 655243700.0
+    }
+}

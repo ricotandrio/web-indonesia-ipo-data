@@ -1,0 +1,54 @@
+{
+    "ipo_status": "Closed",
+    "ticker_code": "SBMA",
+    "image": "",
+    "company_name": "PT Surya Biru Murni Acetylene Tbk",
+    "sector": "Basic Materials",
+    "subsector": "Basic Chemicals",
+    "listing_board": "Pengembangan",
+    "final_price": 180.0,
+    "line_of_business": "Bergerak di Bidang Industri Kimia Anorganik Gas",
+    "address": "Jalan Jendral Sudirman No, 5 - 6, Kelurahan Klandasan Ilir, Kecamatan Balikpapan Kota, Kota Balikpapan, Provinsi Kalimantan Timur 76113",
+    "website": "https://www,suryabirumurni,co,id",
+    "number_of_shares_offered": 278400000,
+    "%_of_total_shares": 29.99,
+    "participant_admin": {
+        "code": "HD",
+        "name": "KGI SEKURITAS INDONESIA"
+    },
+    "book_building_opening": "19/08/2021",
+    "book_building_closing": "23/08/2021",
+    "lowest_book_building_price": 180,
+    "highest_book_building_price": 230,
+    "opening_of_offering_period": "02/09/2021",
+    "closing_of_offering_period": "06/09/2021",
+    "closing_date": "06/09/2021",
+    "distribution_date": "07/09/2021",
+    "listing_date": "08/09/2021",
+    "ara_arb_percentage": "35%",
+    "underwriters": [
+        {
+            "code": "HD",
+            "name": "KGI SEKURITAS INDONESIA",
+            "percentage": ""
+        }
+    ],
+    "warrant": {
+        "code": "SBMA-W",
+        "per_share_ratio": 0.166666667,
+        "exercise_price_(rp)": 230.0,
+        "open": "-",
+        "high": "-",
+        "low": "-",
+        "close": "-"
+    },
+    "listing_price": {
+        "open": 200.0,
+        "high": 242.0,
+        "low": 200.0,
+        "close": 242.0,
+        "change": 62.0,
+        "percentage_change": "34.44%",
+        "volume": 19118900.0
+    }
+}

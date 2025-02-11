@@ -1,0 +1,24 @@
+{
+    "underwriter": {
+        "code": "OD",
+        "name": "BRI DANAREKSA SEKURITAS",
+        "image": ""
+    },
+    "stocks": [
+        "AKSL-C1",
+        "AMMN",
+        "BELI",
+        "BOAT",
+        "BSMT-C1",
+        "CBUT",
+        "CUAN",
+        "DGWG",
+        "MSJA",
+        "MTEL",
+        "NSSS",
+        "RUNS",
+        "UNTD",
+        "VTNY",
+        "WMPP"
+    ]
+}

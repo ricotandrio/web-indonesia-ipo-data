@@ -1,0 +1,59 @@
+{
+    "ipo_status": "Closed",
+    "ticker_code": "AVIA",
+    "image": "",
+    "company_name": "PT Avia Avian Tbk",
+    "sector": "Basic Materials",
+    "subsector": "Construction Materials",
+    "listing_board": "Utama",
+    "final_price": 930.0,
+    "line_of_business": "Industri dan perdagangan cat dan tinta cetak, pernis, lak, perekat/lem, mortar atau beton siap pakai",
+    "address": "Jl, Surabaya - Sidoarjo KM, 19, Kel, Wadungasih, Kec, Buduran, Sidoarjo 61254, Jawa Timur",
+    "website": "https://www,avianbrands,com",
+    "number_of_shares_offered": 6200000000,
+    "%_of_total_shares": 10.01,
+    "participant_admin": {
+        "code": "CC",
+        "name": "MANDIRI SEKURITAS"
+    },
+    "book_building_opening": "12/11/2021",
+    "book_building_closing": "18/11/2021",
+    "lowest_book_building_price": 780,
+    "highest_book_building_price": 930,
+    "opening_of_offering_period": "02/12/2021",
+    "closing_of_offering_period": "06/12/2021",
+    "closing_date": "06/12/2021",
+    "distribution_date": "07/12/2021",
+    "listing_date": "08/12/2021",
+    "ara_arb_percentage": "25%",
+    "underwriters": [
+        {
+            "code": "CC",
+            "name": "MANDIRI SEKURITAS",
+            "percentage": ""
+        },
+        {
+            "code": "LG",
+            "name": "TRIMEGAH SEKURITAS INDONESIA TBK",
+            "percentage": ""
+        }
+    ],
+    "warrant": {
+        "code": "",
+        "per_share_ratio": 0.0,
+        "exercise_price_(rp)": "",
+        "open": "",
+        "high": "",
+        "low": "",
+        "close": ""
+    },
+    "listing_price": {
+        "open": "",
+        "high": 970.0,
+        "low": 865.0,
+        "close": 865.0,
+        "change": -65.0,
+        "percentage_change": "-6.99%",
+        "volume": 706846700.0
+    }
+}

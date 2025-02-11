@@ -1,0 +1,54 @@
+{
+    "ipo_status": "Canceled",
+    "ticker_code": "FAMA",
+    "image": "",
+    "company_name": "PT Bank Fama International Tbk",
+    "sector": "Properties & Real Estate",
+    "subsector": "",
+    "listing_board": "",
+    "final_price": "",
+    "line_of_business": "Bank Umum Swasta Non Devisa",
+    "address": "Jl, Asia Afrika No,115 Bandung - Jawa Barat, 40112",
+    "website": "http://www,bankfama,co,id",
+    "number_of_shares_offered": 1312105000,
+    "%_of_total_shares": 24.0,
+    "participant_admin": {
+        "code": "AR",
+        "name": "BINAARTHA SEKURITAS"
+    },
+    "book_building_opening": "09/12/2020",
+    "book_building_closing": "17/12/2020",
+    "lowest_book_building_price": 298,
+    "highest_book_building_price": 328,
+    "opening_of_offering_period": "",
+    "closing_of_offering_period": "",
+    "closing_date": "",
+    "distribution_date": "",
+    "listing_date": "",
+    "ara_arb_percentage": "35%",
+    "underwriters": [
+        {
+            "code": "AR",
+            "name": "BINAARTHA SEKURITAS",
+            "percentage": ""
+        }
+    ],
+    "warrant": {
+        "code": "",
+        "per_share_ratio": 0.0,
+        "exercise_price_(rp)": "",
+        "open": "",
+        "high": "",
+        "low": "",
+        "close": ""
+    },
+    "listing_price": {
+        "open": "",
+        "high": "",
+        "low": "",
+        "close": "",
+        "change": "",
+        "percentage_change": "",
+        "volume": ""
+    }
+}

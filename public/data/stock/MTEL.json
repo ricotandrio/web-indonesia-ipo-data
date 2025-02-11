@@ -1,0 +1,79 @@
+{
+    "ipo_status": "Closed",
+    "ticker_code": "MTEL",
+    "image": "",
+    "company_name": "PT Dayamitra Telekomunikasi Tbk",
+    "sector": "Infrastructures",
+    "subsector": "Wireless Telecommunication Services",
+    "listing_board": "Utama",
+    "final_price": 800.0,
+    "line_of_business": "Penyedia Jasa Menara Telekomunikasi",
+    "address": "Telkom Landmark Tower Lt, 27 Jl, Gatot Subroto Kavling 52 Jakarta 12710",
+    "website": "https://www,mitratel,co,id/",
+    "number_of_shares_offered": 22920512000,
+    "%_of_total_shares": 27.63,
+    "participant_admin": {
+        "code": "CC",
+        "name": "MANDIRI SEKURITAS"
+    },
+    "book_building_opening": "26/10/2021",
+    "book_building_closing": "04/11/2021",
+    "lowest_book_building_price": 775,
+    "highest_book_building_price": 975,
+    "opening_of_offering_period": "16/11/2021",
+    "closing_of_offering_period": "18/11/2021",
+    "closing_date": "18/11/2021",
+    "distribution_date": "19/11/2021",
+    "listing_date": "22/11/2021",
+    "ara_arb_percentage": "25%",
+    "underwriters": [
+        {
+            "code": "CC",
+            "name": "MANDIRI SEKURITAS",
+            "percentage": ""
+        },
+        {
+            "code": "CP",
+            "name": "KB VALBURY SEKURITAS",
+            "percentage": ""
+        },
+        {
+            "code": "GR",
+            "name": "PANIN SEKURITAS TBK",
+            "percentage": ""
+        },
+        {
+            "code": "IF",
+            "name": "SAMUEL SEKURITAS INDONESIA",
+            "percentage": ""
+        },
+        {
+            "code": "IN",
+            "name": "INVESTINDO NUSANTARA SEKURITAS",
+            "percentage": ""
+        },
+        {
+            "code": "OD",
+            "name": "BRI DANAREKSA SEKURITAS",
+            "percentage": ""
+        }
+    ],
+    "warrant": {
+        "code": "",
+        "per_share_ratio": 0.0,
+        "exercise_price_(rp)": "",
+        "open": "",
+        "high": "",
+        "low": "",
+        "close": ""
+    },
+    "listing_price": {
+        "open": "",
+        "high": 890.0,
+        "low": 765.0,
+        "close": 765.0,
+        "change": -35.0,
+        "percentage_change": "-4.38%",
+        "volume": 1379410300.0
+    }
+}

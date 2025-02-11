@@ -1,0 +1,54 @@
+{
+    "ipo_status": "Closed",
+    "ticker_code": "MKAP",
+    "image": "",
+    "company_name": "PT Multikarya Asia Pasifik Raya Tbk",
+    "sector": "Energy",
+    "subsector": "Oil, Gas & Coal Equipment & Services",
+    "listing_board": "Pengembangan",
+    "final_price": 115.0,
+    "line_of_business": "Manufaktur, Jasa Perdagangan, Penyewaan, Perbaikan, Suku Cadang Pompa Industri Migas & Pertambangan",
+    "address": "Cibis Nine lt 16, JL TB Simatupang No 02, Jakarta Selatan, 12560, Indonesia",
+    "website": "https://www,mkapr,co,id/",
+    "number_of_shares_offered": 650000000,
+    "%_of_total_shares": 20.0,
+    "participant_admin": {
+        "code": "YJ",
+        "name": "LOTUS ANDALAN SEKURITAS"
+    },
+    "book_building_opening": "18/01/2024",
+    "book_building_closing": "25/01/2024",
+    "lowest_book_building_price": 105,
+    "highest_book_building_price": 120,
+    "opening_of_offering_period": "02/02/2024",
+    "closing_of_offering_period": "06/02/2024",
+    "closing_date": "06/02/2024",
+    "distribution_date": "07/02/2024",
+    "listing_date": "12/02/2024",
+    "ara_arb_percentage": "35%",
+    "underwriters": [
+        {
+            "code": "YJ",
+            "name": "LOTUS ANDALAN SEKURITAS",
+            "percentage": ""
+        }
+    ],
+    "warrant": {
+        "code": "",
+        "per_share_ratio": 0.0,
+        "exercise_price_(rp)": "",
+        "open": "",
+        "high": "",
+        "low": "",
+        "close": ""
+    },
+    "listing_price": {
+        "open": 150.0,
+        "high": 155.0,
+        "low": 150.0,
+        "close": 155.0,
+        "change": 40.0,
+        "percentage_change": "34.78%",
+        "volume": 27832900.0
+    }
+}

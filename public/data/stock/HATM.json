@@ -1,0 +1,54 @@
+{
+    "ipo_status": "Closed",
+    "ticker_code": "HATM",
+    "image": "",
+    "company_name": "PT HABCO TRANS MARITIMA TBK",
+    "sector": "Transportation & Logistic",
+    "subsector": "Logistics & Deliveries",
+    "listing_board": "Utama",
+    "final_price": 160.0,
+    "line_of_business": "Pengangkutan dengan Kegiatan Usaha Angkutan Laut Dalam Negeri untuk Barang Khusus",
+    "address": "Jalan H, Imam Munandar No, 247 F-G, Kel Tangkerang Utara, Kec Bukit Raya, Pekanbaru, Riau 28282",
+    "website": "https://habcomaritima,com/",
+    "number_of_shares_offered": 1118750000,
+    "%_of_total_shares": 16.65,
+    "participant_admin": {
+        "code": "XA",
+        "name": "NH KORINDO SEKURITAS INDONESIA"
+    },
+    "book_building_opening": "29/06/2022",
+    "book_building_closing": "01/07/2022",
+    "lowest_book_building_price": 150,
+    "highest_book_building_price": 250,
+    "opening_of_offering_period": "20/07/2022",
+    "closing_of_offering_period": "22/07/2022",
+    "closing_date": "22/07/2022",
+    "distribution_date": "25/07/2022",
+    "listing_date": "26/07/2022",
+    "ara_arb_percentage": "35%",
+    "underwriters": [
+        {
+            "code": "XA",
+            "name": "NH KORINDO SEKURITAS INDONESIA",
+            "percentage": ""
+        }
+    ],
+    "warrant": {
+        "code": "",
+        "per_share_ratio": 0.0,
+        "exercise_price_(rp)": "",
+        "open": "",
+        "high": "",
+        "low": "",
+        "close": ""
+    },
+    "listing_price": {
+        "open": "",
+        "high": 212.0,
+        "low": 149.0,
+        "close": 163.0,
+        "change": 3.0,
+        "percentage_change": "1.88%",
+        "volume": 781039300.0
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "ipo_status": "Closed",
+    "ticker_code": "STAA",
+    "image": "",
+    "company_name": "PT SUMBER TANI AGUNG RESOURCES Tbk",
+    "sector": "Consumer Non-Cyclicals",
+    "subsector": "Plantations & Crops",
+    "listing_board": "Utama",
+    "final_price": 600.0,
+    "line_of_business": "Perkebunan kelapa sawit & industri olah kelapa sawit baik secara langsung dan/atau Perusahaan Anak",
+    "address": "",
+    "website": "http://sta,co,id",
+    "number_of_shares_offered": 877072000,
+    "%_of_total_shares": 8.06,
+    "participant_admin": {
+        "code": "DP",
+        "name": "DBS VICKERS SEKURITAS INDONESIA"
+    },
+    "book_building_opening": "09/02/2022",
+    "book_building_closing": "15/02/2022",
+    "lowest_book_building_price": 470,
+    "highest_book_building_price": 605,
+    "opening_of_offering_period": "02/03/2022",
+    "closing_of_offering_period": "08/03/2022",
+    "closing_date": "08/03/2022",
+    "distribution_date": "09/03/2022",
+    "listing_date": "10/03/2022",
+    "ara_arb_percentage": "25%",
+    "underwriters": [
+        {
+            "code": "DP",
+            "name": "DBS VICKERS SEKURITAS INDONESIA",
+            "percentage": ""
+        }
+    ],
+    "warrant": {
+        "code": "",
+        "per_share_ratio": 0.0,
+        "exercise_price_(rp)": "",
+        "open": "",
+        "high": "",
+        "low": "",
+        "close": ""
+    },
+    "listing_price": {
+        "open": 600.0,
+        "high": 750.0,
+        "low": 600.0,
+        "close": 750.0,
+        "change": 150.0,
+        "percentage_change": "25.00%",
+        "volume": 118709200.0
+    }
+}

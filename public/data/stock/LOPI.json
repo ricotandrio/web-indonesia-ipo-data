@@ -1,0 +1,54 @@
+{
+    "ipo_status": "Closed",
+    "ticker_code": "LOPI",
+    "image": "",
+    "company_name": "PT Logisticsplus International Tbk",
+    "sector": "Transportation & Logistic",
+    "subsector": "Logistics & Deliveries",
+    "listing_board": "Akselerasi",
+    "final_price": 100.0,
+    "line_of_business": "Bergerak di Bidang Jasa Pengurusan Transportasi (Freight Forwarding)",
+    "address": "SAV Building Jl, Kavling Polri No, 20 Jagakarsa, Jakarta Selatan 12620, Indonesia",
+    "website": "https://www,logisticsplus,co,id",
+    "number_of_shares_offered": 300000000,
+    "%_of_total_shares": 27.27,
+    "participant_admin": {
+        "code": "SA",
+        "name": "ELIT SUKSES SEKURITAS"
+    },
+    "book_building_opening": "20/09/2023",
+    "book_building_closing": "22/09/2023",
+    "lowest_book_building_price": 100,
+    "highest_book_building_price": 150,
+    "opening_of_offering_period": "03/10/2023",
+    "closing_of_offering_period": "09/10/2023",
+    "closing_date": "09/10/2023",
+    "distribution_date": "10/10/2023",
+    "listing_date": "11/10/2023",
+    "ara_arb_percentage": "35%",
+    "underwriters": [
+        {
+            "code": "SA",
+            "name": "ELIT SUKSES SEKURITAS",
+            "percentage": ""
+        }
+    ],
+    "warrant": {
+        "code": "LOPI-W",
+        "per_share_ratio": 0.5,
+        "exercise_price_(rp)": 200.0,
+        "open": "-",
+        "high": "-",
+        "low": "-",
+        "close": "-"
+    },
+    "listing_price": {
+        "open": 90.0,
+        "high": 90.0,
+        "low": 90.0,
+        "close": 90.0,
+        "change": -10.0,
+        "percentage_change": "-10.00%",
+        "volume": 18156700.0
+    }
+}

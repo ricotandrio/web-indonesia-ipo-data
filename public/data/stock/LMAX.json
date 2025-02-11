@@ -1,0 +1,54 @@
+{
+    "ipo_status": "Closed",
+    "ticker_code": "LMAX",
+    "image": "",
+    "company_name": "PT Lupromax Pelumas Indonesia Tbk",
+    "sector": "Consumer Cyclicals",
+    "subsector": "Automotive Retail",
+    "listing_board": "Akselerasi",
+    "final_price": 200.0,
+    "line_of_business": "Bergerak dalam bidang usaha Pelumas dan Pelumas Aditif",
+    "address": "Ruko Graha Boulevard Blok A No,15 Jl, Raya Gading Serpong Kec, Kelapa Dua,Tangerang, Banten, Indonesia - 15810",
+    "website": "https://lupromax,co,id/",
+    "number_of_shares_offered": 195000000,
+    "%_of_total_shares": 26.09,
+    "participant_admin": {
+        "code": "AH",
+        "name": "SHINHAN SEKURITAS INDONESIA"
+    },
+    "book_building_opening": "21/07/2023",
+    "book_building_closing": "24/07/2023",
+    "lowest_book_building_price": 160,
+    "highest_book_building_price": 200,
+    "opening_of_offering_period": "02/08/2023",
+    "closing_of_offering_period": "07/08/2023",
+    "closing_date": "07/08/2023",
+    "distribution_date": "08/08/2023",
+    "listing_date": "09/08/2023",
+    "ara_arb_percentage": "35%",
+    "underwriters": [
+        {
+            "code": "AH",
+            "name": "SHINHAN SEKURITAS INDONESIA",
+            "percentage": ""
+        }
+    ],
+    "warrant": {
+        "code": "LMAX-W",
+        "per_share_ratio": 0.5,
+        "exercise_price_(rp)": 180.0,
+        "open": "-",
+        "high": "-",
+        "low": "-",
+        "close": "-"
+    },
+    "listing_price": {
+        "open": 200.0,
+        "high": 220.0,
+        "low": 180.0,
+        "close": 220.0,
+        "change": 20.0,
+        "percentage_change": "10.00%",
+        "volume": 107316800.0
+    }
+}

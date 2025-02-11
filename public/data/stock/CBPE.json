@@ -1,0 +1,54 @@
+{
+    "ipo_status": "Closed",
+    "ticker_code": "CBPE",
+    "image": "",
+    "company_name": "PT Citra Buana Prasida Tbk",
+    "sector": "Properties & Real Estate",
+    "subsector": "Real Estate Development & Management",
+    "listing_board": "Pengembangan",
+    "final_price": 150.0,
+    "line_of_business": "Bergerak di bidang real estat dan property",
+    "address": "Komplek Paskal Hyper Square Blok G Lantai 2 No, 206 \u2013 208, Jl, H,O,S, Cokroaminoto No, 25 \u2013 27 (dh, Jl, Pasirkaliki No, 25 \u2013 27), Bandung 40181, Tel,: (022) 8606 1108",
+    "website": "https://www,citrabuanaprasida,co,id",
+    "number_of_shares_offered": 271250000,
+    "%_of_total_shares": 20.0,
+    "participant_admin": {
+        "code": "GR",
+        "name": "PANIN SEKURITAS TBK,"
+    },
+    "book_building_opening": "19/12/2022",
+    "book_building_closing": "23/12/2022",
+    "lowest_book_building_price": 100,
+    "highest_book_building_price": 150,
+    "opening_of_offering_period": "02/01/2023",
+    "closing_of_offering_period": "04/01/2023",
+    "closing_date": "04/01/2023",
+    "distribution_date": "05/01/2023",
+    "listing_date": "06/01/2023",
+    "ara_arb_percentage": "35%",
+    "underwriters": [
+        {
+            "code": "GR",
+            "name": "PANIN SEKURITAS TBK",
+            "percentage": ""
+        }
+    ],
+    "warrant": {
+        "code": "",
+        "per_share_ratio": 0.0,
+        "exercise_price_(rp)": "",
+        "open": "",
+        "high": "",
+        "low": "",
+        "close": ""
+    },
+    "listing_price": {
+        "open": "",
+        "high": 200.0,
+        "low": 144.0,
+        "close": 149.0,
+        "change": -1.0,
+        "percentage_change": "-0.67%",
+        "volume": 172617000.0
+    }
+}

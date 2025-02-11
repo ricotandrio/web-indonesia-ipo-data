@@ -1,0 +1,13 @@
+{
+    "underwriter": {
+        "code": "DP",
+        "name": "DBS VICKERS SEKURITAS INDONESIA",
+        "image": ""
+    },
+    "stocks": [
+        "AMMN",
+        "BELI",
+        "NCKL",
+        "STAA"
+    ]
+}

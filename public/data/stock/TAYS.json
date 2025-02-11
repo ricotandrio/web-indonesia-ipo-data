@@ -1,0 +1,59 @@
+{
+    "ipo_status": "Closed",
+    "ticker_code": "TAYS",
+    "image": "",
+    "company_name": "PT JAYA SWARASA AGUNG TBK",
+    "sector": "Consumer Non-Cyclicals",
+    "subsector": "Processed Foods",
+    "listing_board": "Pengembangan",
+    "final_price": 360.0,
+    "line_of_business": "Industri Makanan Ringan",
+    "address": "Jalan Parung Panjang No, 68, Kp, Bungaok RT001/RW003 Desa Kemuning, Kecamatan Legok, Kabupaten Tangerang, Banten 15820,",
+    "website": "https://www,taysbakers,com",
+    "number_of_shares_offered": 240300000,
+    "%_of_total_shares": 21.87,
+    "participant_admin": {
+        "code": "XA",
+        "name": "NH KORINDO SEKURITAS INDONESIA"
+    },
+    "book_building_opening": "02/11/2021",
+    "book_building_closing": "08/11/2021",
+    "lowest_book_building_price": 336,
+    "highest_book_building_price": 360,
+    "opening_of_offering_period": "30/11/2021",
+    "closing_of_offering_period": "02/12/2021",
+    "closing_date": "02/12/2021",
+    "distribution_date": "03/12/2021",
+    "listing_date": "06/12/2021",
+    "ara_arb_percentage": "25%",
+    "underwriters": [
+        {
+            "code": "XA",
+            "name": "NH KORINDO SEKURITAS INDONESIA",
+            "percentage": ""
+        },
+        {
+            "code": "HD",
+            "name": "KGI SEKURITAS INDONESIA",
+            "percentage": ""
+        }
+    ],
+    "warrant": {
+        "code": "",
+        "per_share_ratio": 0.0,
+        "exercise_price_(rp)": "",
+        "open": "",
+        "high": "",
+        "low": "",
+        "close": ""
+    },
+    "listing_price": {
+        "open": 378.0,
+        "high": 400.0,
+        "low": 336.0,
+        "close": 336.0,
+        "change": -24.0,
+        "percentage_change": "-6.67%",
+        "volume": 67770500.0
+    }
+}

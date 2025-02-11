@@ -1,0 +1,54 @@
+{
+    "ipo_status": "Closed",
+    "ticker_code": "NAIK",
+    "image": "",
+    "company_name": "PT Adiwarna Anugerah Abadi Tbk",
+    "sector": "Industrials",
+    "subsector": "Diversified Industrial Trading",
+    "listing_board": "",
+    "final_price": 107.0,
+    "line_of_business": "Bergerak dalam bidang Perdagangan Sistem Proteksi Kebakaran dan Jasa Sistem Proteksi Kebakaran",
+    "address": "Perkantoran Mutiara Taman Palem No. 53 Cengkareng Timur, Kec. Cengkareng, Kota Adm. Jakarta Barat, Prov. DKI Jakarta 11730, Indonesia.",
+    "website": "https://www.adiwarna.co.id/",
+    "number_of_shares_offered": 750000000,
+    "%_of_total_shares": 23.08,
+    "participant_admin": {
+        "code": "EP",
+        "name": "MNC SEKURITAS"
+    },
+    "book_building_opening": "22/10/2024",
+    "book_building_closing": "24/10/2024",
+    "lowest_book_building_price": 100,
+    "highest_book_building_price": 107,
+    "opening_of_offering_period": "07/11/2024",
+    "closing_of_offering_period": "11/11/2024",
+    "closing_date": "11/11/2024",
+    "distribution_date": "12/11/2024",
+    "listing_date": "13/11/2024",
+    "ara_arb_percentage": "35%",
+    "underwriters": [
+        {
+            "code": "EP",
+            "name": "MNC SEKURITAS",
+            "percentage": ""
+        }
+    ],
+    "warrant": {
+        "code": "NAIK-W",
+        "per_share_ratio": 0.5,
+        "exercise_price_(rp)": 135.0,
+        "open": "28",
+        "high": "62",
+        "low": "19",
+        "close": "21"
+    },
+    "listing_price": {
+        "open": 144.0,
+        "high": 144.0,
+        "low": 128.0,
+        "close": 144.0,
+        "change": 37.0,
+        "percentage_change": "34.58%",
+        "volume": 170459400.0
+    }
+}

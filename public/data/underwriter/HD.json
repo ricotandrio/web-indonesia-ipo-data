@@ -1,0 +1,31 @@
+{
+    "underwriter": {
+        "code": "HD",
+        "name": "KGI SEKURITAS INDONESIA",
+        "image": ""
+    },
+    "stocks": [
+        "ASHA",
+        "BAIK",
+        "BATR",
+        "BMBL",
+        "BSBK",
+        "CBRE",
+        "CRAB",
+        "DEWI",
+        "DOOH",
+        "FOLK",
+        "FUTR",
+        "HYGN",
+        "IPPE",
+        "JATI",
+        "KOKA",
+        "MENN",
+        "MPIX",
+        "NEST",
+        "OBMD",
+        "SBMA",
+        "STRK",
+        "TAYS"
+    ]
+}

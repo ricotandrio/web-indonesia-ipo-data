@@ -1,0 +1,54 @@
+{
+    "ipo_status": "Closed",
+    "ticker_code": "YOII",
+    "image": "",
+    "company_name": "PT Asuransi Digital Bersama Tbk",
+    "sector": "Financials",
+    "subsector": "General Insurance",
+    "listing_board": "",
+    "final_price": 100.0,
+    "line_of_business": "Asuransi umum",
+    "address": "Gedung Tamansari Parama Lt. 9 Jl. Wahid Hasyim Kav. 84?88 Jakarta 10340",
+    "website": "https://adbinsure.com/",
+    "number_of_shares_offered": 412087500,
+    "%_of_total_shares": 12.03,
+    "participant_admin": {
+        "code": "LS",
+        "name": "RELIANCE SEKURITAS INDONESIA TBK."
+    },
+    "book_building_opening": "10/12/2024",
+    "book_building_closing": "18/12/2024",
+    "lowest_book_building_price": 100,
+    "highest_book_building_price": 110,
+    "opening_of_offering_period": "02/01/2025",
+    "closing_of_offering_period": "06/01/2025",
+    "closing_date": "06/01/2025",
+    "distribution_date": "07/01/2025",
+    "listing_date": "08/01/2025",
+    "ara_arb_percentage": "35%",
+    "underwriters": [
+        {
+            "code": "LS",
+            "name": "RELIANCE SEKURITAS INDONESIA TBK.",
+            "percentage": 1.0
+        }
+    ],
+    "warrant": {
+        "code": "",
+        "per_share_ratio": "",
+        "exercise_price_(rp)": "",
+        "open": "",
+        "high": "",
+        "low": "",
+        "close": ""
+    },
+    "listing_price": {
+        "open": 120.0,
+        "high": 135.0,
+        "low": 112.0,
+        "close": 135.0,
+        "change": 35.0,
+        "percentage_change": "35.00%",
+        "volume": 530888200.0
+    }
+}

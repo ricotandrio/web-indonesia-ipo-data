@@ -1,0 +1,54 @@
+{
+    "ipo_status": "Closed",
+    "ticker_code": "UNIQ",
+    "image": "",
+    "company_name": "PT Ulima Nitra Tbk",
+    "sector": "Energy",
+    "subsector": "Oil, Gas & Coal Equipment & Services",
+    "listing_board": "Utama",
+    "final_price": 118.0,
+    "line_of_business": "Jasa Pertambangan dan Jasa Sewa Menyewa Peralatan Pertambangan",
+    "address": "JL, Betet No, 28 RT 22/ RW 9, 9 Ilir, Ilir Timur II, Palembang, Sumatera Selatan, 30113",
+    "website": "https://www,ulimanitra,co,id",
+    "number_of_shares_offered": 300000000,
+    "%_of_total_shares": 9.56,
+    "participant_admin": {
+        "code": "SF",
+        "name": "SURYA FAJAR SEKURITAS"
+    },
+    "book_building_opening": "17/02/2021",
+    "book_building_closing": "19/02/2021",
+    "lowest_book_building_price": 115,
+    "highest_book_building_price": 118,
+    "opening_of_offering_period": "02/03/2021",
+    "closing_of_offering_period": "04/03/2021",
+    "closing_date": "04/03/2021",
+    "distribution_date": "05/03/2021",
+    "listing_date": "08/03/2021",
+    "ara_arb_percentage": "35%",
+    "underwriters": [
+        {
+            "code": "SF",
+            "name": "SURYA FAJAR SEKURITAS",
+            "percentage": ""
+        }
+    ],
+    "warrant": {
+        "code": "",
+        "per_share_ratio": 0.0,
+        "exercise_price_(rp)": "",
+        "open": "",
+        "high": "",
+        "low": "",
+        "close": ""
+    },
+    "listing_price": {
+        "open": 159.0,
+        "high": 159.0,
+        "low": 159.0,
+        "close": 159.0,
+        "change": 41.0,
+        "percentage_change": "34.75%",
+        "volume": 250613700.0
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "ipo_status": "Closed",
+    "ticker_code": "MANG",
+    "image": "",
+    "company_name": "PT Manggung Polahraya Tbk",
+    "sector": "Infrastructures",
+    "subsector": "Heavy Constructions & Civil Engineering",
+    "listing_board": "Akselerasi",
+    "final_price": 100.0,
+    "line_of_business": "Jasa Konstruksi Gedung, Pembangunan Infrastruktur Jalan, Produksi Aspal Hot Mix & Beton Ready Mix",
+    "address": "Jl, Pondok Pinang Raya No,1, Kebayoran Lama, Jakarta Selatan, DKI Jakarta 12310",
+    "website": "https://www,manggungpolahraya,co,id/",
+    "number_of_shares_offered": 762500000,
+    "%_of_total_shares": 20.0,
+    "participant_admin": {
+        "code": "PG",
+        "name": "PANCA GLOBAL SEKURITAS"
+    },
+    "book_building_opening": "14/12/2023",
+    "book_building_closing": "18/12/2023",
+    "lowest_book_building_price": 90,
+    "highest_book_building_price": 110,
+    "opening_of_offering_period": "03/01/2024",
+    "closing_of_offering_period": "09/01/2024",
+    "closing_date": "09/01/2024",
+    "distribution_date": "10/01/2024",
+    "listing_date": "11/01/2024",
+    "ara_arb_percentage": "35%",
+    "underwriters": [
+        {
+            "code": "PG",
+            "name": "PANCA GLOBAL SEKURITAS",
+            "percentage": ""
+        }
+    ],
+    "warrant": {
+        "code": "MANG-W",
+        "per_share_ratio": 0.3,
+        "exercise_price_(rp)": 125.0,
+        "open": "20",
+        "high": "50",
+        "low": "9",
+        "close": "10"
+    },
+    "listing_price": {
+        "open": 110.0,
+        "high": 110.0,
+        "low": 90.0,
+        "close": 90.0,
+        "change": -10.0,
+        "percentage_change": "-10.00%",
+        "volume": 45662500.0
+    }
+}

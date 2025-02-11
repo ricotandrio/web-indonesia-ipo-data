@@ -1,0 +1,54 @@
+{
+    "ipo_status": "Closed",
+    "ticker_code": "AADI",
+    "image": "",
+    "company_name": "PT Adaro Andalan Indonesia Tbk",
+    "sector": "Energy",
+    "subsector": "Coal Production",
+    "listing_board": "",
+    "final_price": 5550.0,
+    "line_of_business": "Perusahaan holding, perkebunan buah kelapa sawit, karet dan tanaman penghasil getah lainnya",
+    "address": "Cyber 2 Tower Lantai 26 Jl. H.R. Rasuna Said Blok X-5, No.13 Jakarta 12950 - Indonesia",
+    "website": "https://www.adaroindonesia.com",
+    "number_of_shares_offered": 778689200,
+    "%_of_total_shares": 10.0,
+    "participant_admin": {
+        "code": "LG",
+        "name": "TRIMEGAH SEKURITAS INDONESIA TBK."
+    },
+    "book_building_opening": "12/11/2024",
+    "book_building_closing": "18/11/2024",
+    "lowest_book_building_price": 4590,
+    "highest_book_building_price": 5900,
+    "opening_of_offering_period": "29/11/2024",
+    "closing_of_offering_period": "03/12/2024",
+    "closing_date": "03/12/2024",
+    "distribution_date": "04/12/2024",
+    "listing_date": "05/12/2024",
+    "ara_arb_percentage": "20%",
+    "underwriters": [
+        {
+            "code": "LG",
+            "name": "TRIMEGAH SEKURITAS INDONESIA TBK",
+            "percentage": ""
+        }
+    ],
+    "warrant": {
+        "code": "",
+        "per_share_ratio": 0.0,
+        "exercise_price_(rp)": "",
+        "open": "",
+        "high": "",
+        "low": "",
+        "close": ""
+    },
+    "listing_price": {
+        "open": 6650.0,
+        "high": 6650.0,
+        "low": 6650.0,
+        "close": 6650.0,
+        "change": 1100.0,
+        "percentage_change": "19.82%",
+        "volume": 4593000.0
+    }
+}

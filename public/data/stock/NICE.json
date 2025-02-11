@@ -1,0 +1,64 @@
+{
+    "ipo_status": "Closed",
+    "ticker_code": "NICE",
+    "image": "",
+    "company_name": "PT Adhi Kartiko Pratama Tbk,",
+    "sector": "Basic Materials",
+    "subsector": "Diversified Metals & Minerals",
+    "listing_board": "Pengembangan",
+    "final_price": 438.0,
+    "line_of_business": "Bergerak dalam Pertambangan Bijih Nikel",
+    "address": "",
+    "website": "https://www,akp,co,id",
+    "number_of_shares_offered": 1216404000,
+    "%_of_total_shares": 20.0,
+    "participant_admin": {
+        "code": "AI",
+        "name": "UOB KAY HIAN SEKURITAS"
+    },
+    "book_building_opening": "15/12/2023",
+    "book_building_closing": "21/12/2023",
+    "lowest_book_building_price": 430,
+    "highest_book_building_price": 530,
+    "opening_of_offering_period": "03/01/2024",
+    "closing_of_offering_period": "05/01/2024",
+    "closing_date": "05/01/2024",
+    "distribution_date": "08/01/2024",
+    "listing_date": "09/01/2024",
+    "ara_arb_percentage": "25%",
+    "underwriters": [
+        {
+            "code": "AI",
+            "name": "UOB KAY HIAN SEKURITAS",
+            "percentage": ""
+        },
+        {
+            "code": "CP",
+            "name": "KB VALBURY SEKURITAS",
+            "percentage": ""
+        },
+        {
+            "code": "LG",
+            "name": "TRIMEGAH SEKURITAS INDONESIA TBK",
+            "percentage": ""
+        }
+    ],
+    "warrant": {
+        "code": "",
+        "per_share_ratio": 0.0,
+        "exercise_price_(rp)": "",
+        "open": "",
+        "high": "",
+        "low": "",
+        "close": ""
+    },
+    "listing_price": {
+        "open": 450.0,
+        "high": 545.0,
+        "low": 438.0,
+        "close": 525.0,
+        "change": 87.0,
+        "percentage_change": "19.86%",
+        "volume": 317338600.0
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "ipo_status": "Closed",
+    "ticker_code": "TYRE",
+    "image": "",
+    "company_name": "PT King Tire Indonesia Tbk",
+    "sector": "Consumer Cyclicals",
+    "subsector": "Tires",
+    "listing_board": "Pengembangan",
+    "final_price": 138.0,
+    "line_of_business": "Bergerak dalam bidang Industri Ban Luar dan Ban Dalam",
+    "address": "Jl, Raya Serang KM, 68 Desa Nambo Ilir, Kecamatan Kibin Kabupaten Serang \u2013 Banten 42185",
+    "website": "https://www,kingland,co,id",
+    "number_of_shares_offered": 700000000,
+    "%_of_total_shares": 20.13,
+    "participant_admin": {
+        "code": "MI",
+        "name": "VICTORIA SEKURITAS INDONESIA"
+    },
+    "book_building_opening": "06/04/2023",
+    "book_building_closing": "12/04/2023",
+    "lowest_book_building_price": 108,
+    "highest_book_building_price": 138,
+    "opening_of_offering_period": "02/05/2023",
+    "closing_of_offering_period": "04/05/2023",
+    "closing_date": "04/05/2023",
+    "distribution_date": "05/05/2023",
+    "listing_date": "08/05/2023",
+    "ara_arb_percentage": "35%",
+    "underwriters": [
+        {
+            "code": "MI",
+            "name": "VICTORIA SEKURITAS INDONESIA",
+            "percentage": ""
+        }
+    ],
+    "warrant": {
+        "code": "TYRE-W",
+        "per_share_ratio": 0.5,
+        "exercise_price_(rp)": 150.0,
+        "open": "25",
+        "high": "50",
+        "low": "17",
+        "close": "20"
+    },
+    "listing_price": {
+        "open": 186.0,
+        "high": 186.0,
+        "low": 178.0,
+        "close": 186.0,
+        "change": 48.0,
+        "percentage_change": "34.78%",
+        "volume": 79940900.0
+    }
+}

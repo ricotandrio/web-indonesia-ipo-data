@@ -1,0 +1,54 @@
+{
+    "ipo_status": "Closed",
+    "ticker_code": "KDTN",
+    "image": "",
+    "company_name": "PT Puri Sentul Permai Tbk",
+    "sector": "Consumer Cyclicals",
+    "subsector": "Hotels, Resorts & Cruise Lines",
+    "listing_board": "Pengembangan",
+    "final_price": 150.0,
+    "line_of_business": "Bergerak dibidang jasa penyedia akomodasi berupa hotel, jasa penyediaan makan minum berupa restoran",
+    "address": "Jl, Surya Raya, Kav, Commercial Area 1 Olympic CBD Sentul, Desa Sentul Kecamatan Babakan Madang, Kabupaten Bogor 16810",
+    "website": "https://kedaton8,com/",
+    "number_of_shares_offered": 250000000,
+    "%_of_total_shares": 20.0,
+    "participant_admin": {
+        "code": "MI",
+        "name": "VICTORIA SEKURITAS INDONESIA"
+    },
+    "book_building_opening": "20/10/2022",
+    "book_building_closing": "26/10/2022",
+    "lowest_book_building_price": 140,
+    "highest_book_building_price": 160,
+    "opening_of_offering_period": "01/11/2022",
+    "closing_of_offering_period": "07/11/2022",
+    "closing_date": "07/11/2022",
+    "distribution_date": "08/11/2022",
+    "listing_date": "09/11/2022",
+    "ara_arb_percentage": "35%",
+    "underwriters": [
+        {
+            "code": "MI",
+            "name": "VICTORIA SEKURITAS INDONESIA",
+            "percentage": ""
+        }
+    ],
+    "warrant": {
+        "code": "KDTN-W",
+        "per_share_ratio": 0.2,
+        "exercise_price_(rp)": 180.0,
+        "open": "25",
+        "high": "150",
+        "low": "25",
+        "close": "84"
+    },
+    "listing_price": {
+        "open": "",
+        "high": 202.0,
+        "low": 165.0,
+        "close": 189.0,
+        "change": 39.0,
+        "percentage_change": "26.00%",
+        "volume": 541843000.0
+    }
+}

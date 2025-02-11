@@ -1,0 +1,54 @@
+{
+    "ipo_status": "Closed",
+    "ticker_code": "KKES",
+    "image": "",
+    "company_name": "PT Kusuma Kemindo Sentosa Tbk",
+    "sector": "Basic Materials",
+    "subsector": "Basic Chemicals",
+    "listing_board": "Pemantauan Khusus",
+    "final_price": 105.0,
+    "line_of_business": "Perdagangan Besar Bahan dan Barang Kimia",
+    "address": "Green Ville Maisonette Blok FA / 12A, Jakarta Barat, DKI Jakarta, 11510 - Indonesia",
+    "website": "https://kks-chemicals,com",
+    "number_of_shares_offered": 300000000,
+    "%_of_total_shares": 20.0,
+    "participant_admin": {
+        "code": "YP",
+        "name": "MIRAE ASSET SEKURITAS INDONESIA"
+    },
+    "book_building_opening": "19/07/2022",
+    "book_building_closing": "27/07/2022",
+    "lowest_book_building_price": 100,
+    "highest_book_building_price": 130,
+    "opening_of_offering_period": "02/08/2022",
+    "closing_of_offering_period": "04/08/2022",
+    "closing_date": "04/08/2022",
+    "distribution_date": "05/08/2022",
+    "listing_date": "08/08/2022",
+    "ara_arb_percentage": "35%",
+    "underwriters": [
+        {
+            "code": "YP",
+            "name": "MIRAE ASSET SEKURITAS INDONESIA",
+            "percentage": ""
+        }
+    ],
+    "warrant": {
+        "code": "",
+        "per_share_ratio": 0.0,
+        "exercise_price_(rp)": "",
+        "open": "",
+        "high": "",
+        "low": "",
+        "close": ""
+    },
+    "listing_price": {
+        "open": "",
+        "high": 138.0,
+        "low": 104.0,
+        "close": 127.0,
+        "change": 22.0,
+        "percentage_change": "20.95%",
+        "volume": 1016123800.0
+    }
+}

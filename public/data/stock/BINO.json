@@ -1,0 +1,59 @@
+{
+    "ipo_status": "Closed",
+    "ticker_code": "BINO",
+    "image": "",
+    "company_name": "PT Perma Plasindo Tbk",
+    "sector": "Industrials",
+    "subsector": "Office Supplies",
+    "listing_board": "Pengembangan",
+    "final_price": 138.0,
+    "line_of_business": "Aktivitas perusahaan holding serta produksi dan distribusi alat tulis kantor melalui entitas anak",
+    "address": "Jl, Raya Boulevard Barat Blok LC VI No 23, Kelapa Gading Barat, Jakarta Utara, Indonesia 14240",
+    "website": "https://www,permaplasindo,co,id/",
+    "number_of_shares_offered": 435000000,
+    "%_of_total_shares": 20.0,
+    "participant_admin": {
+        "code": "IU",
+        "name": "INDO CAPITAL SEKURITAS"
+    },
+    "book_building_opening": "28/10/2021",
+    "book_building_closing": "05/11/2021",
+    "lowest_book_building_price": 120,
+    "highest_book_building_price": 145,
+    "opening_of_offering_period": "18/11/2021",
+    "closing_of_offering_period": "23/11/2021",
+    "closing_date": "23/11/2021",
+    "distribution_date": "24/11/2021",
+    "listing_date": "25/11/2021",
+    "ara_arb_percentage": "35%",
+    "underwriters": [
+        {
+            "code": "IU",
+            "name": "INDO CAPITAL SEKURITAS",
+            "percentage": ""
+        },
+        {
+            "code": "MG",
+            "name": "SEMESTA INDOVEST SEKURITAS",
+            "percentage": ""
+        }
+    ],
+    "warrant": {
+        "code": "BINO-W",
+        "per_share_ratio": 0.5,
+        "exercise_price_(rp)": 168.0,
+        "open": "90",
+        "high": "140",
+        "low": "41",
+        "close": "44"
+    },
+    "listing_price": {
+        "open": "",
+        "high": 186.0,
+        "low": 155.0,
+        "close": 167.0,
+        "change": 29.0,
+        "percentage_change": "21.01%",
+        "volume": 836817600.0
+    }
+}

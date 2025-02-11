@@ -1,0 +1,54 @@
+{
+    "ipo_status": "Closed",
+    "ticker_code": "CGAS",
+    "image": "",
+    "company_name": "PT Citra Nusantara Gemilang Tbk",
+    "sector": "Energy",
+    "subsector": "Oil & Gas Storage & Distribution",
+    "listing_board": "Pengembangan",
+    "final_price": 338.0,
+    "line_of_business": "Perdagangan dan Distribusi Gas Alam",
+    "address": "Jl, Kalimalang No,126, Tegal Gede, Kelurahan Pasirsari, Kecamatan Cikarang Selatan, Kabupaten Bekasi, Provinsi Jawa Barat 17530 Indonesia",
+    "website": "https://cng,co,id/",
+    "number_of_shares_offered": 531429000,
+    "%_of_total_shares": 30.0,
+    "participant_admin": {
+        "code": "PO",
+        "name": "PILARMAS INVESTINDO SEKURITAS"
+    },
+    "book_building_opening": "14/12/2023",
+    "book_building_closing": "19/12/2023",
+    "lowest_book_building_price": 284,
+    "highest_book_building_price": 338,
+    "opening_of_offering_period": "02/01/2024",
+    "closing_of_offering_period": "04/01/2024",
+    "closing_date": "04/01/2024",
+    "distribution_date": "05/01/2024",
+    "listing_date": "08/01/2024",
+    "ara_arb_percentage": "25%",
+    "underwriters": [
+        {
+            "code": "PO",
+            "name": "PILARMAS INVESTINDO SEKURITAS",
+            "percentage": ""
+        }
+    ],
+    "warrant": {
+        "code": "CGAS-W",
+        "per_share_ratio": 0.5,
+        "exercise_price_(rp)": 306.0,
+        "open": "25",
+        "high": "204",
+        "low": "20",
+        "close": "187"
+    },
+    "listing_price": {
+        "open": 422.0,
+        "high": 422.0,
+        "low": 288.0,
+        "close": 422.0,
+        "change": 84.0,
+        "percentage_change": "24.85%",
+        "volume": 595805000.0
+    }
+}

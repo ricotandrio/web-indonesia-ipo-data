@@ -1,0 +1,54 @@
+{
+    "ipo_status": "Closed",
+    "ticker_code": "DOSS",
+    "image": "",
+    "company_name": "PT Global Sukses Digital Tbk",
+    "sector": "Consumer Cyclicals",
+    "subsector": "Electronics Retail",
+    "listing_board": "Pengembangan",
+    "final_price": 135.0,
+    "line_of_business": "Perdagangan Eceran Alat Fotografi dan Perlengkapannya",
+    "address": "Jl, Tebah No, 4,, Kel, Gunung, Kec, Kebayoran Baru, Jakarta Selatan",
+    "website": "https://www,globalsuksesdigital,com",
+    "number_of_shares_offered": 450000000,
+    "%_of_total_shares": 26.09,
+    "participant_admin": {
+        "code": "IF",
+        "name": "SAMUEL SEKURITAS INDONESIA"
+    },
+    "book_building_opening": "22/07/2024",
+    "book_building_closing": "26/07/2024",
+    "lowest_book_building_price": 130,
+    "highest_book_building_price": 135,
+    "opening_of_offering_period": "01/08/2024",
+    "closing_of_offering_period": "05/08/2024",
+    "closing_date": "05/08/2024",
+    "distribution_date": "06/08/2024",
+    "listing_date": "07/08/2024",
+    "ara_arb_percentage": "35%",
+    "underwriters": [
+        {
+            "code": "IF",
+            "name": "SAMUEL SEKURITAS INDONESIA",
+            "percentage": ""
+        }
+    ],
+    "warrant": {
+        "code": "",
+        "per_share_ratio": 0.0,
+        "exercise_price_(rp)": "",
+        "open": "",
+        "high": "",
+        "low": "",
+        "close": ""
+    },
+    "listing_price": {
+        "open": 182.0,
+        "high": 182.0,
+        "low": 182.0,
+        "close": 182.0,
+        "change": 47.0,
+        "percentage_change": "34.81%",
+        "volume": 6761400.0
+    }
+}

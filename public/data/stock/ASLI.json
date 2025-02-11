@@ -1,0 +1,54 @@
+{
+    "ipo_status": "Closed",
+    "ticker_code": "ASLI",
+    "image": "",
+    "company_name": "PT Asri Karya Lestari Tbk",
+    "sector": "Infrastructures",
+    "subsector": "Heavy Constructions & Civil Engineering",
+    "listing_board": "Pengembangan",
+    "final_price": 100.0,
+    "line_of_business": "Perseroan bergerak dalam bidang General Contractor khususnya pekerjaan pondasi, erection, bekisting",
+    "address": "Ruko Sentra Niaga Kalimalang B2 No3 Jl, Jend, Ahmad Yani, Bekasi, Jawa Barat 17144",
+    "website": "https://www,asrikaryalestari,co,id",
+    "number_of_shares_offered": 1250000000,
+    "%_of_total_shares": 20.0,
+    "participant_admin": {
+        "code": "XA",
+        "name": "NH KORINDO SEKURITAS INDONESIA"
+    },
+    "book_building_opening": "12/12/2023",
+    "book_building_closing": "18/12/2023",
+    "lowest_book_building_price": 100,
+    "highest_book_building_price": 130,
+    "opening_of_offering_period": "29/12/2023",
+    "closing_of_offering_period": "03/01/2024",
+    "closing_date": "03/01/2024",
+    "distribution_date": "04/01/2024",
+    "listing_date": "05/01/2024",
+    "ara_arb_percentage": "35%",
+    "underwriters": [
+        {
+            "code": "XA",
+            "name": "NH KORINDO SEKURITAS INDONESIA",
+            "percentage": ""
+        }
+    ],
+    "warrant": {
+        "code": "",
+        "per_share_ratio": 0.0,
+        "exercise_price_(rp)": "",
+        "open": "",
+        "high": "",
+        "low": "",
+        "close": ""
+    },
+    "listing_price": {
+        "open": 125.0,
+        "high": 133.0,
+        "low": 70.0,
+        "close": 89.0,
+        "change": -11.0,
+        "percentage_change": "-11.00%",
+        "volume": 1954842300.0
+    }
+}

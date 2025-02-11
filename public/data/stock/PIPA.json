@@ -1,0 +1,54 @@
+{
+    "ipo_status": "Closed",
+    "ticker_code": "PIPA",
+    "image": "",
+    "company_name": "PT Multi Makmur Lemindo Tbk",
+    "sector": "Industrials",
+    "subsector": "Building Products & Fixtures",
+    "listing_board": "Pemantauan Khusus",
+    "final_price": 105.0,
+    "line_of_business": "Bergerak di bidang manufaktur material bahan bangunan dari plastik berbahan dasar PVC dan perdagang",
+    "address": "Jl, Sultan Iskandar Muda No,70, Kedaung Baru, Neglasari Tangerang, Banten, 15128",
+    "website": "https://www,multimakmurlemindo,com",
+    "number_of_shares_offered": 925000000,
+    "%_of_total_shares": 27.01,
+    "participant_admin": {
+        "code": "AH",
+        "name": "SHINHAN SEKURITAS INDONESIA"
+    },
+    "book_building_opening": "15/03/2023",
+    "book_building_closing": "21/03/2023",
+    "lowest_book_building_price": 100,
+    "highest_book_building_price": 110,
+    "opening_of_offering_period": "03/04/2023",
+    "closing_of_offering_period": "05/04/2023",
+    "closing_date": "05/04/2023",
+    "distribution_date": "06/04/2023",
+    "listing_date": "10/04/2023",
+    "ara_arb_percentage": "35%",
+    "underwriters": [
+        {
+            "code": "AH",
+            "name": "SHINHAN SEKURITAS INDONESIA",
+            "percentage": ""
+        }
+    ],
+    "warrant": {
+        "code": "PIPA-W",
+        "per_share_ratio": 0.9,
+        "exercise_price_(rp)": 110.0,
+        "open": "22",
+        "high": "42",
+        "low": "10",
+        "close": "16"
+    },
+    "listing_price": {
+        "open": 135.0,
+        "high": 141.0,
+        "low": 135.0,
+        "close": 141.0,
+        "change": 36.0,
+        "percentage_change": "34.29%",
+        "volume": 20506300.0
+    }
+}

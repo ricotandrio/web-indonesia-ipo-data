@@ -1,0 +1,22 @@
+{
+    "underwriter": {
+        "code": "SF",
+        "name": "SURYA FAJAR SEKURITAS",
+        "image": ""
+    },
+    "stocks": [
+        "COAL",
+        "GPSO",
+        "HAJJ",
+        "IBOS",
+        "NAYZ",
+        "NPII",
+        "NTBK",
+        "TRON",
+        "UNIQ",
+        "UVCR",
+        "VISI",
+        "VTNY",
+        "WMPP"
+    ]
+}

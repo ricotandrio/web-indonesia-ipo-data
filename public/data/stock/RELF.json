@@ -1,0 +1,54 @@
+{
+    "ipo_status": "Closed",
+    "ticker_code": "RELF",
+    "image": "",
+    "company_name": "PT Graha Mitra Asia Tbk",
+    "sector": "Properties & Real Estate",
+    "subsector": "Real Estate Development & Management",
+    "listing_board": "Akselerasi",
+    "final_price": 90.0,
+    "line_of_business": "Property & Real Estate",
+    "address": "Sovereign Plaza Lt,5A Kav,36 Jl TB Simatupang Kota Jakarta Selatan - Daerah Khusus Ibukota Jakarta 12430",
+    "website": "http://www,relifeasia,com/",
+    "number_of_shares_offered": 1200000000,
+    "%_of_total_shares": 20.95,
+    "participant_admin": {
+        "code": "AI",
+        "name": "UOB KAY HIAN SEKURITAS"
+    },
+    "book_building_opening": "25/05/2023",
+    "book_building_closing": "05/06/2023",
+    "lowest_book_building_price": 90,
+    "highest_book_building_price": 100,
+    "opening_of_offering_period": "15/06/2023",
+    "closing_of_offering_period": "20/06/2023",
+    "closing_date": "20/06/2023",
+    "distribution_date": "21/06/2023",
+    "listing_date": "22/06/2023",
+    "ara_arb_percentage": "35%",
+    "underwriters": [
+        {
+            "code": "AI",
+            "name": "UOB KAY HIAN SEKURITAS",
+            "percentage": ""
+        }
+    ],
+    "warrant": {
+        "code": "RELF-W",
+        "per_share_ratio": 1.0,
+        "exercise_price_(rp)": 125.0,
+        "open": "-",
+        "high": "-",
+        "low": "-",
+        "close": "-"
+    },
+    "listing_price": {
+        "open": 81.0,
+        "high": 99.0,
+        "low": 81.0,
+        "close": 99.0,
+        "change": 9.0,
+        "percentage_change": "10.00%",
+        "volume": 542362100.0
+    }
+}

@@ -1,0 +1,64 @@
+{
+    "ipo_status": "Canceled",
+    "ticker_code": "BSMT-C1",
+    "image": "",
+    "company_name": "PT Bank Pembangunan Daerah Sumatera Utara Tbk,",
+    "sector": "Financials",
+    "subsector": "Banks",
+    "listing_board": "",
+    "final_price": "",
+    "line_of_business": "Jasa Perbankan",
+    "address": "Gedung Bank SUMUT JL, Imam Bonjol No 18 Medan 20212 Sumatera Utara, Indonesia",
+    "website": "https://www,banksumut,co,id",
+    "number_of_shares_offered": 2934798300,
+    "%_of_total_shares": 23.0,
+    "participant_admin": {
+        "code": "OD",
+        "name": "BRI DANAREKSA SEKURITAS"
+    },
+    "book_building_opening": "05/01/2023",
+    "book_building_closing": "18/01/2023",
+    "lowest_book_building_price": 350,
+    "highest_book_building_price": 510,
+    "opening_of_offering_period": "",
+    "closing_of_offering_period": "",
+    "closing_date": "",
+    "distribution_date": "",
+    "listing_date": "",
+    "ara_arb_percentage": "35%",
+    "underwriters": [
+        {
+            "code": "OD",
+            "name": "BRI DANAREKSA SEKURITAS",
+            "percentage": ""
+        },
+        {
+            "code": "AI",
+            "name": "UOB KAY HIAN SEKURITAS",
+            "percentage": ""
+        },
+        {
+            "code": "DR",
+            "name": "RHB SEKURITAS INDONESIA",
+            "percentage": ""
+        }
+    ],
+    "warrant": {
+        "code": "",
+        "per_share_ratio": 0.0,
+        "exercise_price_(rp)": "",
+        "open": "",
+        "high": "",
+        "low": "",
+        "close": ""
+    },
+    "listing_price": {
+        "open": "",
+        "high": "",
+        "low": "",
+        "close": "",
+        "change": "",
+        "percentage_change": "",
+        "volume": ""
+    }
+}

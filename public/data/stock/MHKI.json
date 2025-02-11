@@ -1,0 +1,54 @@
+{
+    "ipo_status": "Closed",
+    "ticker_code": "MHKI",
+    "image": "",
+    "company_name": "PT Multi Hanna Kreasindo Tbk",
+    "sector": "Industrials",
+    "subsector": "Environmental & Facilities Services",
+    "listing_board": "Pengembangan",
+    "final_price": 160.0,
+    "line_of_business": "Pengelolaan (treatment) Limbah Bahan Berbahaya dan Beracun (B3) dan Non B3 serta Perdagangan Besar",
+    "address": "Jl, Raya Narogong Km 12, Pangkalan II No, 23, Cikiwul Kec, Bantar Gebang, Kota Bekasi, Jawa Barat 17152 Telepon: +62 21 8250196 Fax: +62 21 82601939",
+    "website": "https://www,multihanna,co,id/",
+    "number_of_shares_offered": 750000000,
+    "%_of_total_shares": 20.0,
+    "participant_admin": {
+        "code": "XA",
+        "name": "NH KORINDO SEKURITAS INDONESIA"
+    },
+    "book_building_opening": "20/03/2024",
+    "book_building_closing": "22/03/2024",
+    "lowest_book_building_price": 160,
+    "highest_book_building_price": 200,
+    "opening_of_offering_period": "02/04/2024",
+    "closing_of_offering_period": "04/04/2024",
+    "closing_date": "04/04/2024",
+    "distribution_date": "05/04/2024",
+    "listing_date": "16/04/2024",
+    "ara_arb_percentage": "35%",
+    "underwriters": [
+        {
+            "code": "XA",
+            "name": "NH KORINDO SEKURITAS INDONESIA",
+            "percentage": ""
+        }
+    ],
+    "warrant": {
+        "code": "",
+        "per_share_ratio": 0.0,
+        "exercise_price_(rp)": "",
+        "open": "",
+        "high": "",
+        "low": "",
+        "close": ""
+    },
+    "listing_price": {
+        "open": "",
+        "high": 216.0,
+        "low": 136.0,
+        "close": 216.0,
+        "change": 56.0,
+        "percentage_change": "35.00%",
+        "volume": 269193800.0
+    }
+}

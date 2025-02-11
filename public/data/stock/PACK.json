@@ -1,0 +1,54 @@
+{
+    "ipo_status": "Closed",
+    "ticker_code": "PACK",
+    "image": "",
+    "company_name": "PT Solusi Kemasan Digital Tbk",
+    "sector": "Industrials",
+    "subsector": "Commercial Printing",
+    "listing_board": "Akselerasi",
+    "final_price": 162.0,
+    "line_of_business": "Industri Percetakan Digital Untuk Kemasan Fleksibel",
+    "address": "JL, Jababeka 2 Blok C/11-D Kawasan Industri Jababeka Cikarang Utara Kabupaten Bekasi, Jawa Barat 17530",
+    "website": "https://www,flexypack,com",
+    "number_of_shares_offered": 308000000,
+    "%_of_total_shares": 20.03,
+    "participant_admin": {
+        "code": "XA",
+        "name": "NH KORINDO SEKURITAS INDONESIA"
+    },
+    "book_building_opening": "12/01/2023",
+    "book_building_closing": "17/01/2023",
+    "lowest_book_building_price": 110,
+    "highest_book_building_price": 162,
+    "opening_of_offering_period": "02/02/2023",
+    "closing_of_offering_period": "06/02/2023",
+    "closing_date": "06/02/2023",
+    "distribution_date": "07/02/2023",
+    "listing_date": "08/02/2023",
+    "ara_arb_percentage": "35%",
+    "underwriters": [
+        {
+            "code": "XA",
+            "name": "NH KORINDO SEKURITAS INDONESIA",
+            "percentage": ""
+        }
+    ],
+    "warrant": {
+        "code": "PACK-W",
+        "per_share_ratio": 0.2,
+        "exercise_price_(rp)": 350.0,
+        "open": "15",
+        "high": "31",
+        "low": "13",
+        "close": "14"
+    },
+    "listing_price": {
+        "open": 160.0,
+        "high": 160.0,
+        "low": 146.0,
+        "close": 146.0,
+        "change": -16.0,
+        "percentage_change": "-9.88%",
+        "volume": 8127200.0
+    }
+}

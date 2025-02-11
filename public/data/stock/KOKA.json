@@ -1,0 +1,59 @@
+{
+    "ipo_status": "Closed",
+    "ticker_code": "KOKA",
+    "image": "",
+    "company_name": "PT Koka Indonesia Tbk",
+    "sector": "Materials",
+    "subsector": "",
+    "listing_board": "Pengembangan",
+    "final_price": 128.0,
+    "line_of_business": "Jasa Konstruksi Gedung Industri, Bangunan Sipil dan Gedung Hunian",
+    "address": "Jl. Sultan Iskandar Muda, No. 7, Lt. 3, Kebayoran Lama, Jakarta Selatan 12240",
+    "website": "https://koka.co.id/en/beranda-en/",
+    "number_of_shares_offered": 715333000,
+    "%_of_total_shares": 25.0,
+    "participant_admin": {
+        "code": "AI",
+        "name": "UOB KAY HIAN SEKURITAS"
+    },
+    "book_building_opening": "19/09/2023",
+    "book_building_closing": "26/09/2023",
+    "lowest_book_building_price": 128,
+    "highest_book_building_price": 161,
+    "opening_of_offering_period": "03/10/2023",
+    "closing_of_offering_period": "09/10/2023",
+    "closing_date": "09/10/2023",
+    "distribution_date": "10/10/2023",
+    "listing_date": "11/10/2023",
+    "ara_arb_percentage": "35%",
+    "underwriters": [
+        {
+            "code": "AI",
+            "name": "UOB KAY HIAN SEKURITAS",
+            "percentage": ""
+        },
+        {
+            "code": "HD",
+            "name": "KGI SEKURITAS INDONESIA",
+            "percentage": ""
+        }
+    ],
+    "warrant": {
+        "code": "",
+        "per_share_ratio": 0.0,
+        "exercise_price_(rp)": "",
+        "open": "",
+        "high": "",
+        "low": "",
+        "close": ""
+    },
+    "listing_price": {
+        "open": 172.0,
+        "high": 172.0,
+        "low": 135.0,
+        "close": 170.0,
+        "change": 42.0,
+        "percentage_change": "32.81%",
+        "volume": 883830600.0
+    }
+}

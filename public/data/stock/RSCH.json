@@ -1,0 +1,59 @@
+{
+    "ipo_status": "Closed",
+    "ticker_code": "RSCH",
+    "image": "",
+    "company_name": "PT Charlie Hospital Semarang Tbk",
+    "sector": "Healthcare",
+    "subsector": "Healthcare Providers",
+    "listing_board": "Pengembangan",
+    "final_price": 115.0,
+    "line_of_business": "Bergerak di bidang Aktivitas Rumah Sakit Swasta",
+    "address": "Jl, Raya Ngabean Kav 1A, Kel, Ngabean, Kec, Boja Kab, Kendal, Jawa Tengah 51381",
+    "website": "https://charliehospital,co,id/",
+    "number_of_shares_offered": 530000000,
+    "%_of_total_shares": 20.0,
+    "participant_admin": {
+        "code": "AH",
+        "name": "SHINHAN SEKURITAS INDONESIA"
+    },
+    "book_building_opening": "04/08/2023",
+    "book_building_closing": "08/08/2023",
+    "lowest_book_building_price": 105,
+    "highest_book_building_price": 125,
+    "opening_of_offering_period": "22/08/2023",
+    "closing_of_offering_period": "24/08/2023",
+    "closing_date": "24/08/2023",
+    "distribution_date": "25/08/2023",
+    "listing_date": "28/08/2023",
+    "ara_arb_percentage": "35%",
+    "underwriters": [
+        {
+            "code": "AH",
+            "name": "SHINHAN SEKURITAS INDONESIA",
+            "percentage": ""
+        },
+        {
+            "code": "SA",
+            "name": "ELIT SUKSES SEKURITAS",
+            "percentage": ""
+        }
+    ],
+    "warrant": {
+        "code": "",
+        "per_share_ratio": 0.0,
+        "exercise_price_(rp)": "",
+        "open": "",
+        "high": "",
+        "low": "",
+        "close": ""
+    },
+    "listing_price": {
+        "open": 145.0,
+        "high": 155.0,
+        "low": 125.0,
+        "close": 131.0,
+        "change": 16.0,
+        "percentage_change": "13.91%",
+        "volume": 895387300.0
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "ipo_status": "Closed",
+    "ticker_code": "HAJJ",
+    "image": "",
+    "company_name": "PT Arsy Buana Travelindo Tbk",
+    "sector": "Consumer Cyclicals",
+    "subsector": "Travel Agencies",
+    "listing_board": "Akselerasi",
+    "final_price": 140.0,
+    "line_of_business": "Perseroan bergerak dalam bidang Jasa Penyedia Akomodasi Perjalanan Wisata",
+    "address": "Ruko Harvest No, 3, Jl, Merpati Raya, Kel, Sawah, Kec, Ciputat, Kota Tangerang Selatan, 15413",
+    "website": "https://abttravel,id/",
+    "number_of_shares_offered": 687100000,
+    "%_of_total_shares": 29.99,
+    "participant_admin": {
+        "code": "SF",
+        "name": "SURYA FAJAR SEKURITAS"
+    },
+    "book_building_opening": "24/02/2023",
+    "book_building_closing": "09/03/2023",
+    "lowest_book_building_price": 140,
+    "highest_book_building_price": 145,
+    "opening_of_offering_period": "28/03/2023",
+    "closing_of_offering_period": "03/04/2023",
+    "closing_date": "03/04/2023",
+    "distribution_date": "04/04/2023",
+    "listing_date": "05/04/2023",
+    "ara_arb_percentage": "35%",
+    "underwriters": [
+        {
+            "code": "SF",
+            "name": "SURYA FAJAR SEKURITAS",
+            "percentage": ""
+        }
+    ],
+    "warrant": {
+        "code": "HAJJ-W",
+        "per_share_ratio": 0.8,
+        "exercise_price_(rp)": 175.0,
+        "open": "20",
+        "high": "35",
+        "low": "13",
+        "close": "30"
+    },
+    "listing_price": {
+        "open": 150.0,
+        "high": 154.0,
+        "low": 130.0,
+        "close": 154.0,
+        "change": 14.0,
+        "percentage_change": "10.00%",
+        "volume": 130126900.0
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "underwriter": {
+        "code": "KI",
+        "name": "CIPTADANA SEKURITAS ASIA",
+        "image": ""
+    },
+    "stocks": [
+        "ADMR",
+        "ALII",
+        "ASLC",
+        "BMHS",
+        "CMNT",
+        "MBMA",
+        "MTMH",
+        "OMED",
+        "VKTR",
+        "WIRG"
+    ]
+}

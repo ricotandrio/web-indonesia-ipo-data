@@ -1,0 +1,54 @@
+{
+    "ipo_status": "Closed",
+    "ticker_code": "GRPM",
+    "image": "",
+    "company_name": "PT Graha Prima Mentari Tbk",
+    "sector": "Transportation & Logistic",
+    "subsector": "Logistics & Deliveries",
+    "listing_board": "Akselerasi",
+    "final_price": 120.0,
+    "line_of_business": "Bidang Usaha Distribusi Minuman Berkarbonasi",
+    "address": "Jl, Tuparev No, 87A, Cirebon - Jawa Barat",
+    "website": "https://grahaprimamentari,co,id/",
+    "number_of_shares_offered": 309000000,
+    "%_of_total_shares": 20.0,
+    "participant_admin": {
+        "code": "XA",
+        "name": "NH KORINDO SEKURITAS INDONESIA"
+    },
+    "book_building_opening": "15/06/2023",
+    "book_building_closing": "20/06/2023",
+    "lowest_book_building_price": 120,
+    "highest_book_building_price": 130,
+    "opening_of_offering_period": "04/07/2023",
+    "closing_of_offering_period": "06/07/2023",
+    "closing_date": "06/07/2023",
+    "distribution_date": "07/07/2023",
+    "listing_date": "10/07/2023",
+    "ara_arb_percentage": "35%",
+    "underwriters": [
+        {
+            "code": "XA",
+            "name": "NH KORINDO SEKURITAS INDONESIA",
+            "percentage": ""
+        }
+    ],
+    "warrant": {
+        "code": "GRPM-W",
+        "per_share_ratio": 0.5,
+        "exercise_price_(rp)": 250.0,
+        "open": "8",
+        "high": "31",
+        "low": "4",
+        "close": "16"
+    },
+    "listing_price": {
+        "open": 108.0,
+        "high": 108.0,
+        "low": 108.0,
+        "close": 108.0,
+        "change": -12.0,
+        "percentage_change": "-10.00%",
+        "volume": 7573800.0
+    }
+}

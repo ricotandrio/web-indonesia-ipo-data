@@ -1,0 +1,34 @@
+{
+    "underwriter": {
+        "code": "XA",
+        "name": "NH KORINDO SEKURITAS INDONESIA",
+        "image": ""
+    },
+    "stocks": [
+        "ASLI",
+        "BIKE",
+        "BITU-C1",
+        "BRRC",
+        "CHEM",
+        "CRSN",
+        "ELIT",
+        "GPSO",
+        "GRPM",
+        "HATM",
+        "IBOS",
+        "KING",
+        "KUAS",
+        "LAJU",
+        "MHKI",
+        "NETV",
+        "PACK",
+        "PTMP",
+        "PTPS",
+        "SEMA",
+        "SICO",
+        "TAYS",
+        "UVCR",
+        "WINE",
+        "ZEUS-C1"
+    ]
+}

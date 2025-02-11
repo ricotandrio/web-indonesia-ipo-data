@@ -1,0 +1,54 @@
+{
+    "ipo_status": "Closed",
+    "ticker_code": "PRAY",
+    "image": "",
+    "company_name": "PT Famon Awal Bros Sedaya Tbk",
+    "sector": "Healthcare",
+    "subsector": "Healthcare Providers",
+    "listing_board": "Pengembangan",
+    "final_price": 900.0,
+    "line_of_business": "Bergerak di bidang aktivitas perusahaan holding dan jasa pelayanan kesehatan melalui Perusahaan Anak",
+    "address": "Ruko Mega Grosir Cempaka Mas Blok N/21 Sumur Batu, Kemayoran, Jakarta",
+    "website": "https://primayahospital,com/",
+    "number_of_shares_offered": 302222300,
+    "%_of_total_shares": 2.17,
+    "participant_admin": {
+        "code": "PD",
+        "name": "INDO PREMIER SEKURITAS"
+    },
+    "book_building_opening": "14/10/2022",
+    "book_building_closing": "21/10/2022",
+    "lowest_book_building_price": 900,
+    "highest_book_building_price": 950,
+    "opening_of_offering_period": "01/11/2022",
+    "closing_of_offering_period": "04/11/2022",
+    "closing_date": "04/11/2022",
+    "distribution_date": "07/11/2022",
+    "listing_date": "08/11/2022",
+    "ara_arb_percentage": "25%",
+    "underwriters": [
+        {
+            "code": "PD",
+            "name": "INDO PREMIER SEKURITAS",
+            "percentage": ""
+        }
+    ],
+    "warrant": {
+        "code": "",
+        "per_share_ratio": 0.0,
+        "exercise_price_(rp)": "",
+        "open": "",
+        "high": "",
+        "low": "",
+        "close": ""
+    },
+    "listing_price": {
+        "open": 1080.0,
+        "high": 1125.0,
+        "low": 840.0,
+        "close": 890.0,
+        "change": -10.0,
+        "percentage_change": "-1.11%",
+        "volume": 63667800.0
+    }
+}

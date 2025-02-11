@@ -1,0 +1,54 @@
+{
+    "ipo_status": "Closed",
+    "ticker_code": "MCOL",
+    "image": "",
+    "company_name": "PT Prima Andalan Mandiri Tbk",
+    "sector": "Energy",
+    "subsector": "Coal Production",
+    "listing_board": "Utama",
+    "final_price": 1420.0,
+    "line_of_business": "Pertambangan Batubara dan Jasa Pertambangan Melalui Entitas Anak",
+    "address": "Gedung Office 8, Lantai 28 SCBD Lot, 28, Jl, Jend, Sudirman Kav, 52 - 53, Kebayoran Baru, Jakarta 12190",
+    "website": "https://www,mandiricoal,co,id",
+    "number_of_shares_offered": 355560000,
+    "%_of_total_shares": 10.0,
+    "participant_admin": {
+        "code": "RF",
+        "name": "BUANA CAPITAL SEKURITAS"
+    },
+    "book_building_opening": "28/07/2021",
+    "book_building_closing": "16/08/2021",
+    "lowest_book_building_price": 1420,
+    "highest_book_building_price": 1600,
+    "opening_of_offering_period": "01/09/2021",
+    "closing_of_offering_period": "03/09/2021",
+    "closing_date": "03/09/2021",
+    "distribution_date": "06/09/2021",
+    "listing_date": "07/09/2021",
+    "ara_arb_percentage": "25%",
+    "underwriters": [
+        {
+            "code": "RF",
+            "name": "BUANA CAPITAL SEKURITAS",
+            "percentage": ""
+        }
+    ],
+    "warrant": {
+        "code": "",
+        "per_share_ratio": 0.0,
+        "exercise_price_(rp)": "",
+        "open": "",
+        "high": "",
+        "low": "",
+        "close": ""
+    },
+    "listing_price": {
+        "open": "",
+        "high": 1690.0,
+        "low": 1325.0,
+        "close": 1565.0,
+        "change": 145.0,
+        "percentage_change": "10.21%",
+        "volume": 66018000.0
+    }
+}

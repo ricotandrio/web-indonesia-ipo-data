@@ -1,0 +1,54 @@
+{
+    "ipo_status": "Closed",
+    "ticker_code": "SICO",
+    "image": "",
+    "company_name": "PT Sigma Energy Compressindo Tbk",
+    "sector": "Energy",
+    "subsector": "Oil, Gas & Coal Equipment & Services",
+    "listing_board": "Pengembangan",
+    "final_price": 230.0,
+    "line_of_business": "Jasa Penyewaan Alat-Alat Untuk Monetisasi Minyak dan Gas Suar Bakar dengan Menggunakan Teknologi",
+    "address": "GKM Green Tower 10th Floor Jl, TB Simatupang Kav 89 G Jakarta Selatan, 12520",
+    "website": "https://sinerco,co,id",
+    "number_of_shares_offered": 270000000,
+    "%_of_total_shares": 29.67,
+    "participant_admin": {
+        "code": "XA",
+        "name": "NH KORINDO SEKURITAS INDONESIA"
+    },
+    "book_building_opening": "15/03/2022",
+    "book_building_closing": "18/03/2022",
+    "lowest_book_building_price": 190,
+    "highest_book_building_price": 230,
+    "opening_of_offering_period": "04/04/2022",
+    "closing_of_offering_period": "06/04/2022",
+    "closing_date": "06/04/2022",
+    "distribution_date": "07/04/2022",
+    "listing_date": "08/04/2022",
+    "ara_arb_percentage": "25%",
+    "underwriters": [
+        {
+            "code": "XA",
+            "name": "NH KORINDO SEKURITAS INDONESIA",
+            "percentage": ""
+        }
+    ],
+    "warrant": {
+        "code": "SICO-W",
+        "per_share_ratio": 0.1,
+        "exercise_price_(rp)": 350.0,
+        "open": "100",
+        "high": "284",
+        "low": "100",
+        "close": "111"
+    },
+    "listing_price": {
+        "open": 286.0,
+        "high": 286.0,
+        "low": 244.0,
+        "close": 254.0,
+        "change": 24.0,
+        "percentage_change": "10.43%",
+        "volume": 496776500.0
+    }
+}

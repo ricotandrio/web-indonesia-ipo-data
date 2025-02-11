@@ -1,0 +1,54 @@
+{
+    "ipo_status": "Closed",
+    "ticker_code": "BOBA",
+    "image": "",
+    "company_name": "PT Formosa Ingredient Factory Tbk",
+    "sector": "Consumer Non-Cyclicals",
+    "subsector": "Processed Foods",
+    "listing_board": "Pengembangan",
+    "final_price": 280.0,
+    "line_of_business": "Produksi tapioca pearl, topping jelly, popping boba, premium sauce, syrup dan premix powder",
+    "address": "Berlian 88 Biz Estate Blok C No,1 Jl, Diklat Pemda, Kelapa Dua Tangerang \u2013 Banten 15810",
+    "website": "https://bobaking,co,id/",
+    "number_of_shares_offered": 140000000,
+    "%_of_total_shares": 12.11,
+    "participant_admin": {
+        "code": "MI",
+        "name": "VICTORIA SEKURITAS INDONESIA"
+    },
+    "book_building_opening": "05/10/2021",
+    "book_building_closing": "11/10/2021",
+    "lowest_book_building_price": 250,
+    "highest_book_building_price": 280,
+    "opening_of_offering_period": "26/10/2021",
+    "closing_of_offering_period": "28/10/2021",
+    "closing_date": "28/10/2021",
+    "distribution_date": "29/10/2021",
+    "listing_date": "01/11/2021",
+    "ara_arb_percentage": "25%",
+    "underwriters": [
+        {
+            "code": "MI",
+            "name": "VICTORIA SEKURITAS INDONESIA",
+            "percentage": ""
+        }
+    ],
+    "warrant": {
+        "code": "",
+        "per_share_ratio": 0.0,
+        "exercise_price_(rp)": "",
+        "open": "",
+        "high": "",
+        "low": "",
+        "close": ""
+    },
+    "listing_price": {
+        "open": 350.0,
+        "high": 350.0,
+        "low": 330.0,
+        "close": 350.0,
+        "change": 70.0,
+        "percentage_change": "25.00%",
+        "volume": 65012200.0
+    }
+}

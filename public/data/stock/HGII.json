@@ -1,0 +1,59 @@
+{
+    "ipo_status": "Closed",
+    "ticker_code": "HGII",
+    "image": "",
+    "company_name": "PT Hero Global Investment Tbk",
+    "sector": "Infrastructures",
+    "subsector": "Electric Utilities",
+    "listing_board": "",
+    "final_price": 200.0,
+    "line_of_business": "Bergerak dalam bidang aktivitas perusahaan holding di bidang energi baru terbarukan",
+    "address": "Jl. Setiabudi Tengah No. 22 Kuningan, Setiabudi, Jakarta Selatan 12910, DKI Jakarta, Indonesia Tel. (+62 21) 522 7533 Fax. (+62 21) 525 0019",
+    "website": "https://www.heroglobalinvestment.com",
+    "number_of_shares_offered": 1300000000,
+    "%_of_total_shares": 20.0,
+    "participant_admin": {
+        "code": "TP",
+        "name": "OCBC SEKURITAS INDONESIA"
+    },
+    "book_building_opening": "18/12/2024",
+    "book_building_closing": "23/12/2024",
+    "lowest_book_building_price": 200,
+    "highest_book_building_price": 230,
+    "opening_of_offering_period": "03/01/2025",
+    "closing_of_offering_period": "07/01/2025",
+    "closing_date": "07/01/2025",
+    "distribution_date": "08/01/2025",
+    "listing_date": "09/01/2025",
+    "ara_arb_percentage": "25%",
+    "underwriters": [
+        {
+            "code": "TP",
+            "name": "OCBC SEKURITAS INDONESIA",
+            "percentage": ""
+        },
+        {
+            "code": "AI",
+            "name": "UOB KAY HIAN SEKURITAS",
+            "percentage": ""
+        }
+    ],
+    "warrant": {
+        "code": "",
+        "per_share_ratio": "",
+        "exercise_price_(rp)": "",
+        "open": "",
+        "high": "",
+        "low": "",
+        "close": ""
+    },
+    "listing_price": {
+        "open": 250.0,
+        "high": 270.0,
+        "low": 208.0,
+        "close": 212.0,
+        "change": 12.0,
+        "percentage_change": "6.00%",
+        "volume": 795262600.0
+    }
+}

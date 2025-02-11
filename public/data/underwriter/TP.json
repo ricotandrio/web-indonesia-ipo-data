@@ -1,0 +1,13 @@
+{
+    "underwriter": {
+        "code": "TP",
+        "name": "OCBC SEKURITAS INDONESIA",
+        "image": ""
+    },
+    "stocks": [
+        "BREN",
+        "HGII",
+        "IKPM",
+        "NCKL"
+    ]
+}

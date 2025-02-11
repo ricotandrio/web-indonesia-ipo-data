@@ -1,0 +1,54 @@
+{
+    "ipo_status": "Closed",
+    "ticker_code": "INET",
+    "image": "",
+    "company_name": "PT Sinergi Inti Andalan Prima Tbk",
+    "sector": "Technology",
+    "subsector": "Networking Equipment",
+    "listing_board": "Pengembangan",
+    "final_price": 101.0,
+    "line_of_business": "Bergerak di bidang Teknologi Informasi",
+    "address": "Gedung Cyber 1, Lantai 10, Jl, Kuningan Barat No,8, Jakarta Selatan 12710",
+    "website": "https://siapnetworks,co,id/",
+    "number_of_shares_offered": 1500000000,
+    "%_of_total_shares": 20.0,
+    "participant_admin": {
+        "code": "AH",
+        "name": "SHINHAN SEKURITAS INDONESIA"
+    },
+    "book_building_opening": "26/06/2023",
+    "book_building_closing": "05/07/2023",
+    "lowest_book_building_price": 100,
+    "highest_book_building_price": 101,
+    "opening_of_offering_period": "17/07/2023",
+    "closing_of_offering_period": "20/07/2023",
+    "closing_date": "20/07/2023",
+    "distribution_date": "21/07/2023",
+    "listing_date": "24/07/2023",
+    "ara_arb_percentage": "35%",
+    "underwriters": [
+        {
+            "code": "AH",
+            "name": "SHINHAN SEKURITAS INDONESIA",
+            "percentage": ""
+        }
+    ],
+    "warrant": {
+        "code": "INET-W",
+        "per_share_ratio": 1.4,
+        "exercise_price_(rp)": 91.0,
+        "open": "4",
+        "high": "18",
+        "low": "4",
+        "close": "7"
+    },
+    "listing_price": {
+        "open": 101.0,
+        "high": 136.0,
+        "low": 86.0,
+        "close": 136.0,
+        "change": 35.0,
+        "percentage_change": "34.65%",
+        "volume": 492711600.0
+    }
+}

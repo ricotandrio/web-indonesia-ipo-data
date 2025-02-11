@@ -1,0 +1,59 @@
+{
+    "ipo_status": "Closed",
+    "ticker_code": "NTBK",
+    "image": "",
+    "company_name": "PT Nusatama Berkah Tbk",
+    "sector": "Industrials",
+    "subsector": "Construction Machinery & Heavy Vehicles",
+    "listing_board": "Pengembangan",
+    "final_price": 100.0,
+    "line_of_business": "Industri Manufaktur Kendaraan Khusus",
+    "address": "18 Office Park 6th Floor Suite C, Jl, TB Simatupang Kav, 18, Jakarta 12520, Indonesia",
+    "website": "http://www,nusatama,com/",
+    "number_of_shares_offered": 700000000,
+    "%_of_total_shares": 25.93,
+    "participant_admin": {
+        "code": "SF",
+        "name": "SURYA FAJAR SEKURITAS"
+    },
+    "book_building_opening": "19/01/2022",
+    "book_building_closing": "27/01/2022",
+    "lowest_book_building_price": 100,
+    "highest_book_building_price": 150,
+    "opening_of_offering_period": "02/02/2022",
+    "closing_of_offering_period": "07/02/2022",
+    "closing_date": "07/02/2022",
+    "distribution_date": "08/02/2022",
+    "listing_date": "09/02/2022",
+    "ara_arb_percentage": "35%",
+    "underwriters": [
+        {
+            "code": "SF",
+            "name": "SURYA FAJAR SEKURITAS",
+            "percentage": ""
+        },
+        {
+            "code": "II",
+            "name": "DANATAMA MAKMUR SEKURITAS",
+            "percentage": ""
+        }
+    ],
+    "warrant": {
+        "code": "NTBK-W",
+        "per_share_ratio": 1.0,
+        "exercise_price_(rp)": 120.0,
+        "open": "-",
+        "high": "-",
+        "low": "-",
+        "close": "-"
+    },
+    "listing_price": {
+        "open": 135.0,
+        "high": 135.0,
+        "low": 100.0,
+        "close": 135.0,
+        "change": 35.0,
+        "percentage_change": "35.00%",
+        "volume": 1781381000.0
+    }
+}

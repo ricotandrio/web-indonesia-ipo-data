@@ -1,0 +1,20 @@
+{
+    "underwriter": {
+        "code": "AZ",
+        "name": "SUCOR SEKURITAS",
+        "image": ""
+    },
+    "stocks": [
+        "ADCP",
+        "AWAN",
+        "CYBR",
+        "DRMA",
+        "GOTO",
+        "HILL",
+        "MBMA",
+        "MORA",
+        "NSSS",
+        "RAAM",
+        "RATU"
+    ]
+}

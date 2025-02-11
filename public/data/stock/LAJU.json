@@ -1,0 +1,54 @@
+{
+    "ipo_status": "Closed",
+    "ticker_code": "LAJU",
+    "image": "",
+    "company_name": "PT Jasa Berdikari Logistics Tbk",
+    "sector": "Transportation & Logistic",
+    "subsector": "Logistics & Deliveries",
+    "listing_board": "Pengembangan",
+    "final_price": 100.0,
+    "line_of_business": "Jasa Logistik Terintegrasi",
+    "address": "Jl, Kopi No, 4 D Lt, 2, Roa Malaka, Tambora Jakarta Barat \u2013 11230 Telepon: 021 \u2013 6912287",
+    "website": "https://www,jasaberdikari,co,id",
+    "number_of_shares_offered": 700000000,
+    "%_of_total_shares": 32.56,
+    "participant_admin": {
+        "code": "XA",
+        "name": "NH KORINDO SEKURITAS INDONESIA"
+    },
+    "book_building_opening": "30/12/2022",
+    "book_building_closing": "06/01/2023",
+    "lowest_book_building_price": 100,
+    "highest_book_building_price": 150,
+    "opening_of_offering_period": "20/01/2023",
+    "closing_of_offering_period": "25/01/2023",
+    "closing_date": "25/01/2023",
+    "distribution_date": "26/01/2023",
+    "listing_date": "27/01/2023",
+    "ara_arb_percentage": "35%",
+    "underwriters": [
+        {
+            "code": "XA",
+            "name": "NH KORINDO SEKURITAS INDONESIA",
+            "percentage": ""
+        }
+    ],
+    "warrant": {
+        "code": "LAJU-W",
+        "per_share_ratio": 0.2,
+        "exercise_price_(rp)": 175.0,
+        "open": "-",
+        "high": "-",
+        "low": "-",
+        "close": "-"
+    },
+    "listing_price": {
+        "open": 135.0,
+        "high": 135.0,
+        "low": 135.0,
+        "close": 135.0,
+        "change": 35.0,
+        "percentage_change": "35.00%",
+        "volume": 34804000.0
+    }
+}

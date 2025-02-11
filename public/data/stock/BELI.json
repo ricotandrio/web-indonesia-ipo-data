@@ -1,0 +1,84 @@
+{
+    "ipo_status": "Closed",
+    "ticker_code": "BELI",
+    "image": "",
+    "company_name": "PT Global Digital Niaga Tbk",
+    "sector": "Technology",
+    "subsector": "Online Applications & Services",
+    "listing_board": "Ekonomi Baru",
+    "final_price": 450.0,
+    "line_of_business": "Perdagangan eceran melalui media untuk barang campuran, aktivitas pengembangan aplikasi perdagangan",
+    "address": "Jl, Jendral Ahmad Yani No, 34, Kel, Panjunan, Kec, Kota Kudus, Kab, Kudus 59317, Jawa Tengah",
+    "website": "https://www,blibli,com",
+    "number_of_shares_offered": 17771205900,
+    "%_of_total_shares": 15.0,
+    "participant_admin": {
+        "code": "OD",
+        "name": "BRI DANAREKSA SEKURITAS"
+    },
+    "book_building_opening": "17/10/2022",
+    "book_building_closing": "24/10/2022",
+    "lowest_book_building_price": 410,
+    "highest_book_building_price": 460,
+    "opening_of_offering_period": "02/11/2022",
+    "closing_of_offering_period": "04/11/2022",
+    "closing_date": "04/11/2022",
+    "distribution_date": "07/11/2022",
+    "listing_date": "08/11/2022",
+    "ara_arb_percentage": "25%",
+    "underwriters": [
+        {
+            "code": "OD",
+            "name": "BRI DANAREKSA SEKURITAS",
+            "percentage": ""
+        },
+        {
+            "code": "CC",
+            "name": "MANDIRI SEKURITAS",
+            "percentage": ""
+        },
+        {
+            "code": "CP",
+            "name": "KB VALBURY SEKURITAS",
+            "percentage": ""
+        },
+        {
+            "code": "DP",
+            "name": "DBS VICKERS SEKURITAS INDONESIA",
+            "percentage": ""
+        },
+        {
+            "code": "NI",
+            "name": "BNI SEKURITAS",
+            "percentage": ""
+        },
+        {
+            "code": "PD",
+            "name": "INDO PREMIER SEKURITAS",
+            "percentage": ""
+        },
+        {
+            "code": "SQ",
+            "name": "BCA SEKURITAS",
+            "percentage": ""
+        }
+    ],
+    "warrant": {
+        "code": "",
+        "per_share_ratio": 0.0,
+        "exercise_price_(rp)": "",
+        "open": "",
+        "high": "",
+        "low": "",
+        "close": ""
+    },
+    "listing_price": {
+        "open": 440.0,
+        "high": 472.0,
+        "low": 440.0,
+        "close": 450.0,
+        "change": 0.0,
+        "percentage_change": "0.00%",
+        "volume": 900784300.0
+    }
+}

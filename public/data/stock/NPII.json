@@ -1,0 +1,59 @@
+{
+    "ipo_status": "Canceled",
+    "ticker_code": "NPII",
+    "image": "",
+    "company_name": "PT Mandiri Mineral Perkasa Tbk",
+    "sector": "Basic Materials",
+    "subsector": "Mining Equipment & Services",
+    "listing_board": "",
+    "final_price": "",
+    "line_of_business": "Bergerak di bidang jasa penunjang pertambangan dan penggalian lainnya",
+    "address": "Citra Tower Kemayoran, Jl, Benyamin Suaeb Kav A6 Lt, 18A, Kebon Kosong, Kemayoran, Jakarta Pusat",
+    "website": "https://www,mandirimineralperkasa,co,id",
+    "number_of_shares_offered": 950000000,
+    "%_of_total_shares": 0.73,
+    "participant_admin": {
+        "code": "SF",
+        "name": "SURYA FAJAR SEKURITAS"
+    },
+    "book_building_opening": "20/05/2022",
+    "book_building_closing": "30/05/2022",
+    "lowest_book_building_price": 132,
+    "highest_book_building_price": 142,
+    "opening_of_offering_period": "",
+    "closing_of_offering_period": "",
+    "closing_date": "",
+    "distribution_date": "",
+    "listing_date": "",
+    "ara_arb_percentage": "35%",
+    "underwriters": [
+        {
+            "code": "SF",
+            "name": "SURYA FAJAR SEKURITAS",
+            "percentage": ""
+        },
+        {
+            "code": "MI",
+            "name": "VICTORIA SEKURITAS INDONESIA",
+            "percentage": ""
+        }
+    ],
+    "warrant": {
+        "code": "NPII-W",
+        "per_share_ratio": 5.0,
+        "exercise_price_(rp)": 500.0,
+        "open": "-",
+        "high": "-",
+        "low": "-",
+        "close": "-"
+    },
+    "listing_price": {
+        "open": "",
+        "high": "",
+        "low": "",
+        "close": "",
+        "change": "",
+        "percentage_change": "",
+        "volume": ""
+    }
+}

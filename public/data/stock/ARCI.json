@@ -1,0 +1,64 @@
+{
+    "ipo_status": "Closed",
+    "ticker_code": "ARCI",
+    "image": "",
+    "company_name": "PT Archi Indonesia Tbk",
+    "sector": "Basic Materials",
+    "subsector": "Gold",
+    "listing_board": "Pengembangan",
+    "final_price": 750.0,
+    "line_of_business": "Perusahaan holding di bidang pertambangan mineral (antara lain, emas dan perak)",
+    "address": "Menara Rajawali, Lantai 19, Jl, DR Ide Anak Agung Gde Agung Lot #5,1, Kawasan Mega Kuningan, Jakarta Selatan 12950, Indonesia",
+    "website": "https://www,archiindonesia,com",
+    "number_of_shares_offered": 3725250000,
+    "%_of_total_shares": 15.0,
+    "participant_admin": {
+        "code": "AI",
+        "name": "UOB KAY HIAN SEKURITAS"
+    },
+    "book_building_opening": "31/05/2021",
+    "book_building_closing": "09/06/2021",
+    "lowest_book_building_price": 750,
+    "highest_book_building_price": 800,
+    "opening_of_offering_period": "22/06/2021",
+    "closing_of_offering_period": "24/06/2021",
+    "closing_date": "24/06/2021",
+    "distribution_date": "25/06/2021",
+    "listing_date": "28/06/2021",
+    "ara_arb_percentage": "25%",
+    "underwriters": [
+        {
+            "code": "AI",
+            "name": "UOB KAY HIAN SEKURITAS",
+            "percentage": ""
+        },
+        {
+            "code": "CC",
+            "name": "MANDIRI SEKURITAS",
+            "percentage": ""
+        },
+        {
+            "code": "NI",
+            "name": "BNI SEKURITAS",
+            "percentage": ""
+        }
+    ],
+    "warrant": {
+        "code": "",
+        "per_share_ratio": 0.0,
+        "exercise_price_(rp)": "",
+        "open": "",
+        "high": "",
+        "low": "",
+        "close": ""
+    },
+    "listing_price": {
+        "open": 750.0,
+        "high": 850.0,
+        "low": 745.0,
+        "close": 755.0,
+        "change": 5.0,
+        "percentage_change": "0.67%",
+        "volume": 374023600.0
+    }
+}

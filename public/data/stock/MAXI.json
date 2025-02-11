@@ -1,0 +1,54 @@
+{
+    "ipo_status": "Closed",
+    "ticker_code": "MAXI",
+    "image": "",
+    "company_name": "PT Maxindo Karya Anugerah Tbk",
+    "sector": "Consumer Non-Cyclicals",
+    "subsector": "Food Retail & Distributors",
+    "listing_board": "Pengembangan",
+    "final_price": 100.0,
+    "line_of_business": "Bergerak dalam bidang usaha Industri Makanan Ringan",
+    "address": "Kawasan Industri Sentul Jl, Cahaya Raya Kav H5, Desa Leuwinutug, Kec, Citeureup Bogor, Jawa Barat 16180, Indonesia",
+    "website": "https://maxisnacks,com/",
+    "number_of_shares_offered": 1000000000,
+    "%_of_total_shares": 10.41,
+    "participant_admin": {
+        "code": "AH",
+        "name": "SHINHAN SEKURITAS INDONESIA"
+    },
+    "book_building_opening": "22/05/2023",
+    "book_building_closing": "24/05/2023",
+    "lowest_book_building_price": 100,
+    "highest_book_building_price": 110,
+    "opening_of_offering_period": "06/06/2023",
+    "closing_of_offering_period": "08/06/2023",
+    "closing_date": "08/06/2023",
+    "distribution_date": "09/06/2023",
+    "listing_date": "12/06/2023",
+    "ara_arb_percentage": "35%",
+    "underwriters": [
+        {
+            "code": "AH",
+            "name": "SHINHAN SEKURITAS INDONESIA",
+            "percentage": ""
+        }
+    ],
+    "warrant": {
+        "code": "MAXI-W",
+        "per_share_ratio": 1.0,
+        "exercise_price_(rp)": 100.0,
+        "open": "10",
+        "high": "13",
+        "low": "2",
+        "close": "2"
+    },
+    "listing_price": {
+        "open": 91.0,
+        "high": 95.0,
+        "low": 85.0,
+        "close": 85.0,
+        "change": -15.0,
+        "percentage_change": "-15.00%",
+        "volume": 243418100.0
+    }
+}

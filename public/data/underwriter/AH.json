@@ -1,0 +1,26 @@
+{
+    "underwriter": {
+        "code": "AH",
+        "name": "SHINHAN SEKURITAS INDONESIA",
+        "image": ""
+    },
+    "stocks": [
+        "AEGS",
+        "CABR-C1",
+        "DGWG",
+        "GWAA",
+        "INET",
+        "IOTF",
+        "IRSX",
+        "JATI",
+        "KETR",
+        "LMAX",
+        "MAXI",
+        "PIPA",
+        "RSCH",
+        "SOUL",
+        "SURI",
+        "SWID",
+        "WGSH"
+    ]
+}

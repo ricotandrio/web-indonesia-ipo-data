@@ -1,0 +1,54 @@
+{
+    "ipo_status": "Closed",
+    "ticker_code": "IKPM",
+    "image": "",
+    "company_name": "PT Ikapharmindo Putramas Tbk",
+    "sector": "Healthcare",
+    "subsector": "Pharmaceuticals",
+    "listing_board": "Pengembangan",
+    "final_price": 165.0,
+    "line_of_business": "Bergerak Dalam Bidang Usaha Industri Farmasi, Personal Care",
+    "address": "Kl, Pulogadung Raya No,29 Kawasan Industri Pulogadung Jakarta Timur, 13930 Indonesia",
+    "website": "https://www,ikapharmindo,com",
+    "number_of_shares_offered": 336932500,
+    "%_of_total_shares": 20.0,
+    "participant_admin": {
+        "code": "TP",
+        "name": "OCBC SEKURITAS INDONESIA"
+    },
+    "book_building_opening": "23/10/2023",
+    "book_building_closing": "30/10/2023",
+    "lowest_book_building_price": 160,
+    "highest_book_building_price": 180,
+    "opening_of_offering_period": "02/11/2023",
+    "closing_of_offering_period": "06/11/2023",
+    "closing_date": "06/11/2023",
+    "distribution_date": "07/11/2023",
+    "listing_date": "08/11/2023",
+    "ara_arb_percentage": "35%",
+    "underwriters": [
+        {
+            "code": "TP",
+            "name": "OCBC SEKURITAS INDONESIA",
+            "percentage": ""
+        }
+    ],
+    "warrant": {
+        "code": "",
+        "per_share_ratio": 0.0,
+        "exercise_price_(rp)": "",
+        "open": "",
+        "high": "",
+        "low": "",
+        "close": ""
+    },
+    "listing_price": {
+        "open": "",
+        "high": 222.0,
+        "low": 174.0,
+        "close": 181.0,
+        "change": 16.0,
+        "percentage_change": "9.70%",
+        "volume": 480204600.0
+    }
+}

@@ -1,0 +1,59 @@
+{
+    "ipo_status": "Closed",
+    "ticker_code": "IBOS",
+    "image": "",
+    "company_name": "PT Indo Boga Sukses Tbk",
+    "sector": "Consumer Non-Cyclicals",
+    "subsector": "Processed Foods",
+    "listing_board": "Akselerasi",
+    "final_price": 100.0,
+    "line_of_business": "Restoran dan Aktivitas Perusahaan Holding",
+    "address": "Jalan Raya Randugowang, Desa Sendangadi, Kecamatan Mlati, Kabupaten Sleman, Yogyakarta 55285",
+    "website": "https://indobogasukses,com/",
+    "number_of_shares_offered": 1607360000,
+    "%_of_total_shares": 20.0,
+    "participant_admin": {
+        "code": "SF",
+        "name": "SURYA FAJAR SEKURITAS"
+    },
+    "book_building_opening": "31/03/2022",
+    "book_building_closing": "06/04/2022",
+    "lowest_book_building_price": 65,
+    "highest_book_building_price": 100,
+    "opening_of_offering_period": "19/04/2022",
+    "closing_of_offering_period": "21/04/2022",
+    "closing_date": "21/04/2022",
+    "distribution_date": "22/04/2022",
+    "listing_date": "25/04/2022",
+    "ara_arb_percentage": "35%",
+    "underwriters": [
+        {
+            "code": "SF",
+            "name": "SURYA FAJAR SEKURITAS",
+            "percentage": ""
+        },
+        {
+            "code": "XA",
+            "name": "NH KORINDO SEKURITAS INDONESIA",
+            "percentage": ""
+        }
+    ],
+    "warrant": {
+        "code": "IBOS-W",
+        "per_share_ratio": 0.5,
+        "exercise_price_(rp)": 180.0,
+        "open": "-",
+        "high": "-",
+        "low": "-",
+        "close": "-"
+    },
+    "listing_price": {
+        "open": 110.0,
+        "high": 110.0,
+        "low": 90.0,
+        "close": 110.0,
+        "change": 10.0,
+        "percentage_change": "10.00%",
+        "volume": 261111700.0
+    }
+}

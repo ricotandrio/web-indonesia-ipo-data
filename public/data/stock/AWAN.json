@@ -1,0 +1,59 @@
+{
+    "ipo_status": "Closed",
+    "ticker_code": "AWAN",
+    "image": "",
+    "company_name": "PT Era Digital Media Tbk",
+    "sector": "Technology",
+    "subsector": "Online Applications & Services",
+    "listing_board": "Pengembangan",
+    "final_price": 100.0,
+    "line_of_business": "Jasa Konten SMS Premium dan Aktivitas Perusahaan Holding",
+    "address": "Jl, Cikini Raya No, 72, Desa/Kelurahan Cikini, Kec, Menteng, Kota Adm, Jakarta Pusat, Provinsi DKI Jakarta, Kode Pos: 10330",
+    "website": "https://ptedm,com/",
+    "number_of_shares_offered": 750000000,
+    "%_of_total_shares": 21.83,
+    "participant_admin": {
+        "code": "IF",
+        "name": "SAMUEL SEKURITAS INDONESIA"
+    },
+    "book_building_opening": "28/03/2023",
+    "book_building_closing": "31/03/2023",
+    "lowest_book_building_price": 100,
+    "highest_book_building_price": 110,
+    "opening_of_offering_period": "12/04/2023",
+    "closing_of_offering_period": "14/04/2023",
+    "closing_date": "14/04/2023",
+    "distribution_date": "17/04/2023",
+    "listing_date": "18/04/2023",
+    "ara_arb_percentage": "35%",
+    "underwriters": [
+        {
+            "code": "IF",
+            "name": "SAMUEL SEKURITAS INDONESIA",
+            "percentage": ""
+        },
+        {
+            "code": "AZ",
+            "name": "SUCOR SEKURITAS",
+            "percentage": ""
+        }
+    ],
+    "warrant": {
+        "code": "",
+        "per_share_ratio": 0.0,
+        "exercise_price_(rp)": "",
+        "open": "",
+        "high": "",
+        "low": "",
+        "close": ""
+    },
+    "listing_price": {
+        "open": 135.0,
+        "high": 135.0,
+        "low": 135.0,
+        "close": 135.0,
+        "change": 35.0,
+        "percentage_change": "35.00%",
+        "volume": 5514600.0
+    }
+}

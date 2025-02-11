@@ -1,0 +1,59 @@
+{
+    "ipo_status": "Closed",
+    "ticker_code": "PGEO",
+    "image": "",
+    "company_name": "PT Pertamina Geothermal Energy Tbk",
+    "sector": "Infrastructures",
+    "subsector": "Electric Utilities",
+    "listing_board": "Utama",
+    "final_price": 875.0,
+    "line_of_business": "Menyelenggarakan usaha di bidang panas bumi dari sisi hulu dan/atau sisi hilir serta kegiatan usaha",
+    "address": "Grha Pertamina \u2013 Tower Pertamax Lt, 7 Jl, Medan Merdeka Timur No, 11-13 Gambir, Jakarta Pusat 10110, Indonesia",
+    "website": "https://www,pge,pertamina,com",
+    "number_of_shares_offered": 10350000000,
+    "%_of_total_shares": 25.0,
+    "participant_admin": {
+        "code": "CC",
+        "name": "MANDIRI SEKURITAS"
+    },
+    "book_building_opening": "01/02/2023",
+    "book_building_closing": "09/02/2023",
+    "lowest_book_building_price": 820,
+    "highest_book_building_price": 945,
+    "opening_of_offering_period": "20/02/2023",
+    "closing_of_offering_period": "22/02/2023",
+    "closing_date": "22/02/2023",
+    "distribution_date": "23/02/2023",
+    "listing_date": "24/02/2023",
+    "ara_arb_percentage": "25%",
+    "underwriters": [
+        {
+            "code": "CC",
+            "name": "MANDIRI SEKURITAS",
+            "percentage": ""
+        },
+        {
+            "code": "IF",
+            "name": "SAMUEL SEKURITAS INDONESIA",
+            "percentage": ""
+        }
+    ],
+    "warrant": {
+        "code": "",
+        "per_share_ratio": 0.0,
+        "exercise_price_(rp)": "",
+        "open": "",
+        "high": "",
+        "low": "",
+        "close": ""
+    },
+    "listing_price": {
+        "open": 925.0,
+        "high": 925.0,
+        "low": 815.0,
+        "close": 875.0,
+        "change": 0.0,
+        "percentage_change": "0.00%",
+        "volume": 584706700.0
+    }
+}

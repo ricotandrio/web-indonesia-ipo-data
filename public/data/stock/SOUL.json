@@ -1,0 +1,59 @@
+{
+    "ipo_status": "Closed",
+    "ticker_code": "SOUL",
+    "image": "",
+    "company_name": "PT Mitra Tirta Buwana Tbk",
+    "sector": "Consumer Non-Cyclicals",
+    "subsector": "Food Retail & Distributors",
+    "listing_board": "Akselerasi",
+    "final_price": 110.0,
+    "line_of_business": "Bergerak dalam bidang usaha Air Minum Dalam Kemasan",
+    "address": "Jl, Waru No, 74 Sambilegi Baru RT,001 RW,003 Maguwoharjo, Depok, Sleman Yogyakarta - Indonesia, 55282",
+    "website": "http://hexsoul,co,id/",
+    "number_of_shares_offered": 270000000,
+    "%_of_total_shares": 24.94,
+    "participant_admin": {
+        "code": "AN",
+        "name": "WANTEG SEKURITAS"
+    },
+    "book_building_opening": "19/12/2022",
+    "book_building_closing": "26/12/2022",
+    "lowest_book_building_price": 100,
+    "highest_book_building_price": 110,
+    "opening_of_offering_period": "02/01/2023",
+    "closing_of_offering_period": "04/01/2023",
+    "closing_date": "04/01/2023",
+    "distribution_date": "05/01/2023",
+    "listing_date": "06/01/2023",
+    "ara_arb_percentage": "35%",
+    "underwriters": [
+        {
+            "code": "AN",
+            "name": "WANTEG SEKURITAS",
+            "percentage": ""
+        },
+        {
+            "code": "AH",
+            "name": "SHINHAN SEKURITAS INDONESIA",
+            "percentage": ""
+        }
+    ],
+    "warrant": {
+        "code": "SOUL-W",
+        "per_share_ratio": 0.25,
+        "exercise_price_(rp)": 100.0,
+        "open": "-",
+        "high": "-",
+        "low": "-",
+        "close": "-"
+    },
+    "listing_price": {
+        "open": 112.0,
+        "high": 112.0,
+        "low": 99.0,
+        "close": 99.0,
+        "change": -11.0,
+        "percentage_change": "-10.00%",
+        "volume": 6556300.0
+    }
+}

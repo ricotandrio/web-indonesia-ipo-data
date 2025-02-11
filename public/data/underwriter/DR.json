@@ -1,0 +1,13 @@
+{
+    "underwriter": {
+        "code": "DR",
+        "name": "RHB SEKURITAS INDONESIA",
+        "image": ""
+    },
+    "stocks": [
+        "BSMT-C1",
+        "CBRE",
+        "HAIS",
+        "MPIX"
+    ]
+}

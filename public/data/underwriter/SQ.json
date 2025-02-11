@@ -1,0 +1,13 @@
+{
+    "underwriter": {
+        "code": "SQ",
+        "name": "BCA SEKURITAS",
+        "image": ""
+    },
+    "stocks": [
+        "AKSL-C1",
+        "BELI",
+        "MASB",
+        "MTMH"
+    ]
+}

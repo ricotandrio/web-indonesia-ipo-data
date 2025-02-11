@@ -1,0 +1,54 @@
+{
+    "ipo_status": "Closed",
+    "ticker_code": "GRPH",
+    "image": "",
+    "company_name": "PT Griptha Putra Persada Tbk",
+    "sector": "Consumer Cyclicals",
+    "subsector": "Hotels, Resorts & Cruise Lines",
+    "listing_board": "Pengembangan",
+    "final_price": 103.0,
+    "line_of_business": "Bergerak di Bidang Hotel Bintang, Restoran, dan MICE,",
+    "address": "Jl, AKBP R, Agil Kusumadya No, 100, Jati Wetan, Kecamatan Jati, Kabupaten Kudus, Jawa Tengah 59346, Indonesia,",
+    "website": "https://www,griptha,com",
+    "number_of_shares_offered": 200000000,
+    "%_of_total_shares": 20.0,
+    "participant_admin": {
+        "code": "SA",
+        "name": "ELIT SUKSES SEKURITAS"
+    },
+    "book_building_opening": "20/12/2023",
+    "book_building_closing": "28/12/2023",
+    "lowest_book_building_price": 100,
+    "highest_book_building_price": 105,
+    "opening_of_offering_period": "12/01/2024",
+    "closing_of_offering_period": "16/01/2024",
+    "closing_date": "16/01/2024",
+    "distribution_date": "17/01/2024",
+    "listing_date": "18/01/2024",
+    "ara_arb_percentage": "35%",
+    "underwriters": [
+        {
+            "code": "SA",
+            "name": "ELIT SUKSES SEKURITAS",
+            "percentage": ""
+        }
+    ],
+    "warrant": {
+        "code": "",
+        "per_share_ratio": 0.0,
+        "exercise_price_(rp)": "",
+        "open": "",
+        "high": "",
+        "low": "",
+        "close": ""
+    },
+    "listing_price": {
+        "open": 80.0,
+        "high": 134.0,
+        "low": 67.0,
+        "close": 118.0,
+        "change": 15.0,
+        "percentage_change": "14.56%",
+        "volume": 1764119400.0
+    }
+}

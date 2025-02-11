@@ -1,0 +1,59 @@
+{
+    "ipo_status": "Closed",
+    "ticker_code": "MSJA",
+    "image": "",
+    "company_name": "PT Multi Spunindo Jaya Tbk",
+    "sector": "Consumer Non-Cyclicals",
+    "subsector": "Personal Care Products",
+    "listing_board": "Utama",
+    "final_price": 300.0,
+    "line_of_business": "Industri Nonwoven",
+    "address": "Desa Jabaran, Kecamatan Balongbendo, Krian, Sidoarjo, Jawa Timur, Indonesia 61263",
+    "website": "https://www,spunindo,com",
+    "number_of_shares_offered": 882352900,
+    "%_of_total_shares": 15.0,
+    "participant_admin": {
+        "code": "OD",
+        "name": "BRI DANAREKSA SEKURITAS"
+    },
+    "book_building_opening": "18/12/2023",
+    "book_building_closing": "21/12/2023",
+    "lowest_book_building_price": 250,
+    "highest_book_building_price": 350,
+    "opening_of_offering_period": "03/01/2024",
+    "closing_of_offering_period": "08/01/2024",
+    "closing_date": "08/01/2024",
+    "distribution_date": "09/01/2024",
+    "listing_date": "10/01/2024",
+    "ara_arb_percentage": "25%",
+    "underwriters": [
+        {
+            "code": "OD",
+            "name": "BRI DANAREKSA SEKURITAS",
+            "percentage": ""
+        },
+        {
+            "code": "LS",
+            "name": "RELIANCE SEKURITAS INDONESIA TBK",
+            "percentage": ""
+        }
+    ],
+    "warrant": {
+        "code": "",
+        "per_share_ratio": 0.0,
+        "exercise_price_(rp)": "",
+        "open": "",
+        "high": "",
+        "low": "",
+        "close": ""
+    },
+    "listing_price": {
+        "open": "",
+        "high": 372.0,
+        "low": 282.0,
+        "close": 346.0,
+        "change": 46.0,
+        "percentage_change": "15.33%",
+        "volume": 658989300.0
+    }
+}

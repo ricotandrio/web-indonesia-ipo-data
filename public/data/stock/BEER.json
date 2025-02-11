@@ -1,0 +1,54 @@
+{
+    "ipo_status": "Closed",
+    "ticker_code": "BEER",
+    "image": "",
+    "company_name": "PT Jobubu Jarum Minahasa Tbk",
+    "sector": "Consumer Non-Cyclicals",
+    "subsector": "Liquors",
+    "listing_board": "Pengembangan",
+    "final_price": 220.0,
+    "line_of_business": "Industri Minuman Beralkohol Hasil Destilasi, Industri Minuman Beralkohol Hasil Fermentasi Anggur",
+    "address": "Desa Kapitu, Kelurahan Kapitu, Kecamatan Amurang Barat, Kabupaten Minahasa Selatan, Provinsi Sulawesi Utara",
+    "website": "http://www,jobubu,com/",
+    "number_of_shares_offered": 800000000,
+    "%_of_total_shares": 20.0,
+    "participant_admin": {
+        "code": "AI",
+        "name": "UOB KAY HIAN SEKURITAS"
+    },
+    "book_building_opening": "16/12/2022",
+    "book_building_closing": "22/12/2022",
+    "lowest_book_building_price": 200,
+    "highest_book_building_price": 220,
+    "opening_of_offering_period": "02/01/2023",
+    "closing_of_offering_period": "04/01/2023",
+    "closing_date": "04/01/2023",
+    "distribution_date": "05/01/2023",
+    "listing_date": "06/01/2023",
+    "ara_arb_percentage": "25%",
+    "underwriters": [
+        {
+            "code": "AI",
+            "name": "UOB KAY HIAN SEKURITAS",
+            "percentage": ""
+        }
+    ],
+    "warrant": {
+        "code": "",
+        "per_share_ratio": 0.0,
+        "exercise_price_(rp)": "",
+        "open": "",
+        "high": "",
+        "low": "",
+        "close": ""
+    },
+    "listing_price": {
+        "open": "",
+        "high": 274.0,
+        "low": 228.0,
+        "close": 258.0,
+        "change": 38.0,
+        "percentage_change": "17.27%",
+        "volume": 484691000.0
+    }
+}
