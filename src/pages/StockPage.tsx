@@ -1,3 +1,4 @@
+import { Avatar } from '@heroui/avatar';
 import '@src/assets/global.css';
 import { useEffect, useState } from 'react';
 import { useNavigate, useParams } from 'react-router-dom';
@@ -90,9 +91,12 @@ const StockPage = () => {
   return (
     <>
       <div className="m-14">
-        <h1 className="mb-5 text-2xl font-bold">
-          ({stockInformation?.ticker_code}) {stockInformation?.company_name}
-        </h1>
+        <div className='flex flex-row'>
+          <Avatar className='mr-2' src={stockInformation?.image}/>
+          <h1 className="mb-5 text-2xl font-bold">
+            ({stockInformation?.ticker_code}) {stockInformation?.company_name}
+          </h1>
+        </div>
 
         <p className="text-gray-600">
           <strong>Sector:</strong> {stockInformation?.sector} |{" "}
@@ -126,6 +130,20 @@ const StockPage = () => {
               {stockInformation?.website}
             </a>
           </p>
+
+        </div>
+
+        <div className="mt-5 border p-4 rounded-lg shadow">
+          <h2 className="text-lg font-semibold">IPO Information</h2>
+          <p>
+            <strong>Number of Shares Offered:</strong> {stockInformation?.number_of_shares_offered} saham
+          </p>
+          <p>
+            <strong>Percentage of Total Shares:</strong> {stockInformation?.percentage_of_total_shares * 100}%
+          </p>
+          <p>
+            <strong>Participant Admin:</strong> {stockInformation?.participant_admin?.name} ({stockInformation?.participant_admin?.code})
+          </p>
         </div>
 
         <div className="mt-5 border p-4 rounded-lg shadow">
@@ -145,6 +163,25 @@ const StockPage = () => {
         </div>
 
         <div className="mt-5 border p-4 rounded-lg shadow">
+          <h2 className="text-lg font-semibold">Offering to Listing Period</h2>
+          <p>
+            <strong>Opening:</strong> {stockInformation?.opening_of_offering_period}
+          </p>
+          <p>
+            <strong>Closing:</strong> {stockInformation?.closing_of_offering_period}
+          </p>
+          <p>
+            <strong>Closing Date:</strong> {stockInformation?.closing_date}
+          </p>
+          <p>
+            <strong>Distribution Date:</strong> {stockInformation?.distribution_date}
+          </p>
+          <p>
+            <strong>Listing Date:</strong> {stockInformation?.listing_date}
+          </p>
+        </div>
+
+        <div className="mt-5 border p-4 rounded-lg shadow">
           <h2 className="text-lg font-semibold">Underwriters</h2>
           {stockInformation?.underwriters?.map((uw, index) => (
             <p key={index}>
@@ -154,7 +191,7 @@ const StockPage = () => {
         </div>
 
         <div className="mt-5 border p-4 rounded-lg shadow">
-          <h2 className="text-lg font-semibold">Listing Price</h2>
+          <h2 className="text-lg font-semibold">Listing Price <small> (ARA/ARB: {stockInformation?.ara_arb_percentage}) </small></h2>
           <p>
             <strong>Open:</strong> Rp {stockInformation?.listing_price?.open}
           </p>
