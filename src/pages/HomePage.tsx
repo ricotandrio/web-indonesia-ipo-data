@@ -4,12 +4,24 @@ import { Button } from '@heroui/button';
 
 import uws from '@public/data/underwriters.json';
 import '@src/assets/global.css';
+import { BreadcrumbItem, Breadcrumbs } from '@heroui/breadcrumbs';
+import { Tooltip } from '@heroui/tooltip';
+
+import GithubIcon from '@src/assets/icons/github.svg';
+import { Divider } from '@heroui/divider';
 
 const HomePage = () => {
   const navigate = useNavigate();
 
   return (
     <>
+      <nav className='m-14 font-medium'>
+        <Breadcrumbs>
+          <BreadcrumbItem href="/">Home</BreadcrumbItem>
+        </Breadcrumbs>
+      </nav>
+
+
       <div className='m-14'>
 
         <h1 className='mb-5 text-2xl font-bold'>Underwriter</h1>
@@ -17,16 +29,21 @@ const HomePage = () => {
 
           {
             uws.map((uw, index) => (
-              <Button key={index} color='primary' onPress={() => navigate(`/uw/${uw}`)}>
-                {uw}
-              </Button>
+              <Tooltip key={index} className="capitalize" color="primary" content={`${uw?.underwriter_name}`}>
+
+                <Button key={index} color='primary' variant='flat' onPress={() => navigate(`/uw/${uw?.underwriter_code}`)}>
+                  {uw?.underwriter_code}
+                </Button>
+              </Tooltip>
             ))
           }
         </div>
 
-        <div className="mt-14 border p-4 rounded-lg shadow">
-          <h1 className='text-lg font-bold'>Disclaimer:</h1>
-          <p className='text-justify'>
+        <Divider className="my-8 mt-10" />
+
+        <div className="">
+          <h1 className='text-2xl font-bold'>Disclaimer</h1>
+          <p className='text-justify mt-2'>
             This website displays data related to Initial Public Offerings (IPOs) in Indonesia. The information is manually collected from a variety of sources, and while we strive to ensure accuracy, please note that the data may not always be up-to-date or fully accurate due to potential discrepancies in the source materials. This application has been created as an open-source project, and we welcome any contributions to improve the quality of the data. If you notice any inaccuracies or have suggestions for improvements, feel free to submit a pull request through the GitHub repository for this website. Your help in enhancing the accuracy and usefulness of this project is greatly appreciated!
           </p>
 
@@ -35,9 +52,13 @@ const HomePage = () => {
           </p>
 
           <div className='mt-5'>
-            <a href="https://github.com">
-              <Avatar size="md" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThdZlszhihSfJBfoXkpJtOvDk9p_sskS4rSQ&s" />
-            </a>
+            <Button
+              className="bg-black text-white font-medium"
+              onPress={() => window.open('https://github.com/ricotandrio/web-indonesia-ipo-data', '_blank')}
+              startContent={<img src={GithubIcon} className='w-5' />}
+            >
+              GitHub Repository
+            </Button>
           </div>
         </div>
       </div>

@@ -1,3 +1,4 @@
+import { BreadcrumbItem, Breadcrumbs } from '@heroui/breadcrumbs';
 import { Button } from '@heroui/button';
 
 import '@src/assets/global.css';
@@ -12,7 +13,7 @@ type uwInformation = {
   };
 }
 const UnderwriterPage = () => {
-  const {uwName} = useParams();
+  const { uwName } = useParams();
 
   const [uwInformation, setUwInformation] = useState({} as uwInformation);
 
@@ -28,7 +29,7 @@ const UnderwriterPage = () => {
         setUwInformation(jsonData);
 
       } catch (e) {
-        navigate('/error/500');  
+        navigate('/error/500');
       }
     }
 
@@ -37,10 +38,17 @@ const UnderwriterPage = () => {
 
   return (
     <>
+      <nav className='m-14 font-medium'>
+        <Breadcrumbs>
+          <BreadcrumbItem href="/">Home</BreadcrumbItem>
+          <BreadcrumbItem>Underwriter</BreadcrumbItem>
+        </Breadcrumbs>
+      </nav>
+
       <div className='m-14'>
 
         <h1 className='mb-5 text-2xl font-bold'>{uwInformation?.underwriter?.code} - {uwInformation?.underwriter?.name}</h1>
-        
+
         <div className="flex flex-wrap gap-4 items-center">
 
           {

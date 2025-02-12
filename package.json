@@ -11,9 +11,12 @@
   },
   "dependencies": {
     "@heroui/avatar": "^2.2.7",
+    "@heroui/breadcrumbs": "^2.2.7",
     "@heroui/button": "^2.2.10",
+    "@heroui/divider": "^2.2.6",
     "@heroui/system": "^2.4.7",
     "@heroui/theme": "^2.4.6",
+    "@heroui/tooltip": "^2.2.8",
     "framer-motion": "^12.4.2",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",

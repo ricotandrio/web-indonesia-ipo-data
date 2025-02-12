@@ -1,7 +1,12 @@
 import { Avatar } from '@heroui/avatar';
+import { Button } from '@heroui/button';
 import '@src/assets/global.css';
 import { useEffect, useState } from 'react';
 import { useNavigate, useParams } from 'react-router-dom';
+
+import TradingViewIcon from '@src/assets/icons/tradingview-svgrepo-com.svg';
+import RocketIcon from '@src/assets/icons/rocket.svg';
+import { BreadcrumbItem, Breadcrumbs } from '@heroui/breadcrumbs';
 
 type Underwriter = {
   code: string;
@@ -90,9 +95,16 @@ const StockPage = () => {
 
   return (
     <>
+      <nav className='m-14 font-medium'>
+        <Breadcrumbs>
+          <BreadcrumbItem href="/">Home</BreadcrumbItem>
+          <BreadcrumbItem onClick={() => window.history.back() }>Underwriter</BreadcrumbItem>
+          <BreadcrumbItem>Stock</BreadcrumbItem>
+        </Breadcrumbs>
+      </nav>
       <div className="m-14">
         <div className='flex flex-row'>
-          <Avatar className='mr-2' src={stockInformation?.image}/>
+          <Avatar className='mr-2' src={stockInformation?.image} />
           <h1 className="mb-5 text-2xl font-bold">
             ({stockInformation?.ticker_code}) {stockInformation?.company_name}
           </h1>
@@ -213,6 +225,26 @@ const StockPage = () => {
           <p>
             <strong>Volume:</strong> {stockInformation?.listing_price?.volume}
           </p>
+        </div>
+
+        <div className='flex flex-row gap-2'>
+
+          <Button
+            className="mt-5 bg-black text-white font-medium"
+            onPress={() => window.open(`https://www.tradingview.com/symbols/IDX-${stockInformation?.ticker_code}`, '_blank')}
+            startContent={<img src={TradingViewIcon} className='w-10' />}
+          >
+            Open in TradingView
+          </Button>
+
+          <Button
+            className="mt-5 text-white font-medium"
+            color='success'
+            onPress={() => window.open(`https://e-ipo.co.id/id/ipo/index?query=${stockInformation?.ticker_code}`, '_blank')}
+            startContent={<img src={RocketIcon} className='w-6' />}
+          >
+            Open in e-IPO
+          </Button>
         </div>
       </div>
     </>
