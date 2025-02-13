@@ -2,6 +2,7 @@ import { BreadcrumbItem, Breadcrumbs } from '@heroui/breadcrumbs';
 import { Button } from '@heroui/button';
 
 import '@src/assets/global.css';
+import NavbarComponent from '@src/components/Navbar';
 import { useEffect, useState } from 'react';
 import { useNavigate, useParams } from 'react-router-dom';
 
@@ -38,6 +39,8 @@ const UnderwriterPage = () => {
 
   return (
     <>
+
+      <NavbarComponent />
       <nav className='m-14 font-medium'>
         <Breadcrumbs>
           <BreadcrumbItem href="/">Home</BreadcrumbItem>

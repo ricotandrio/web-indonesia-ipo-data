@@ -7,6 +7,9 @@ import { useNavigate, useParams } from 'react-router-dom';
 import TradingViewIcon from '@src/assets/icons/tradingview-svgrepo-com.svg';
 import RocketIcon from '@src/assets/icons/rocket.svg';
 import { BreadcrumbItem, Breadcrumbs } from '@heroui/breadcrumbs';
+import NavbarComponent from '@src/components/Navbar';
+import { Tab, Tabs } from '@heroui/tabs';
+import { Card, CardBody } from '@heroui/card';
 
 type Underwriter = {
   code: string;
@@ -39,6 +42,25 @@ type ListingPrice = {
   volume: number;
 };
 
+type Performance = {
+  '1D': string;
+  '1W': string;
+  '1M': string;
+  '6M': string;
+  '1Y': string;
+  updated_at: string;
+  source: string;
+}
+
+type Fundamentals = {
+  aset_percentage: string;
+  laba_bersih_percentage: string;
+  liabilitas_percentage: string;
+  pendapatan_percentage: string;
+  source: string;
+  updated_at: string;
+}
+
 type StockInformation = {
   ipo_status: string;
   ticker_code: string;
@@ -67,6 +89,8 @@ type StockInformation = {
   underwriters: Underwriter[];
   warrant: Warrant;
   listing_price: ListingPrice;
+  performa: Performance;
+  fundamental: Fundamentals;
 };
 
 const StockPage = () => {
@@ -95,10 +119,12 @@ const StockPage = () => {
 
   return (
     <>
+
+      <NavbarComponent />
       <nav className='m-14 font-medium'>
         <Breadcrumbs>
           <BreadcrumbItem href="/">Home</BreadcrumbItem>
-          <BreadcrumbItem onClick={() => window.history.back() }>Underwriter</BreadcrumbItem>
+          <BreadcrumbItem onClick={() => window.history.back()}>Underwriter</BreadcrumbItem>
           <BreadcrumbItem>Stock</BreadcrumbItem>
         </Breadcrumbs>
       </nav>
@@ -115,116 +141,185 @@ const StockPage = () => {
           <strong>Subsector:</strong> {stockInformation?.subsector}
         </p>
 
-        <div className="mt-5 border p-4 rounded-lg shadow">
-          <p>
-            <strong>IPO Status:</strong> {stockInformation?.ipo_status}
-          </p>
-          <p>
-            <strong>Final Price:</strong> Rp {stockInformation?.final_price}
-          </p>
-          <p>
-            <strong>Listing Board:</strong> {stockInformation?.listing_board || "N/A"}
-          </p>
-          <p>
-            <strong>Line of Business:</strong> {stockInformation?.line_of_business}
-          </p>
-          <p>
-            <strong>Address:</strong> {stockInformation?.address}
-          </p>
-          <p>
-            <strong>Website:</strong>{" "}
-            <a
-              href={stockInformation?.website}
-              className="text-blue-500 hover:underline"
-              target="_blank"
-              rel="noopener noreferrer"
-            >
-              {stockInformation?.website}
-            </a>
-          </p>
 
-        </div>
+        <div className="flex w-full flex-col mt-5">
+          <Tabs aria-label="Options">
+            <Tab key="informasi-umum" title="Informasi Umum">
+              <Card shadow='sm'>
+                <CardBody>
+                  <p>
+                    <strong>IPO Status:</strong> {stockInformation?.ipo_status}
+                  </p>
+                  <p>
+                    <strong>Final Price:</strong> Rp {stockInformation?.final_price}
+                  </p>
+                  <p>
+                    <strong>Listing Board:</strong> {stockInformation?.listing_board || "N/A"}
+                  </p>
+                  <p>
+                    <strong>Line of Business:</strong> {stockInformation?.line_of_business}
+                  </p>
+                  <p>
+                    <strong>Address:</strong> {stockInformation?.address}
+                  </p>
+                  <p>
+                    <strong>Website:</strong>{" "}
+                    <a
+                      href={stockInformation?.website}
+                      className="text-blue-500 hover:underline"
+                      target="_blank"
+                      rel="noopener noreferrer"
+                    >
+                      {stockInformation?.website}
+                    </a>
+                  </p>
 
-        <div className="mt-5 border p-4 rounded-lg shadow">
-          <h2 className="text-lg font-semibold">IPO Information</h2>
-          <p>
-            <strong>Number of Shares Offered:</strong> {stockInformation?.number_of_shares_offered} saham
-          </p>
-          <p>
-            <strong>Percentage of Total Shares:</strong> {stockInformation?.percentage_of_total_shares * 100}%
-          </p>
-          <p>
-            <strong>Participant Admin:</strong> {stockInformation?.participant_admin?.name} ({stockInformation?.participant_admin?.code})
-          </p>
-        </div>
+                  <br />
+                  <p>
+                    <strong>Number of Shares Offered:</strong> {stockInformation?.number_of_shares_offered} saham
+                  </p>
+                  <p>
+                    <strong>Percentage of Total Shares:</strong> {stockInformation?.percentage_of_total_shares * 100}%
+                  </p>
+                  <p>
+                    <strong>Participant Admin:</strong> {stockInformation?.participant_admin?.name} ({stockInformation?.participant_admin?.code})
+                  </p>
+                </CardBody>
+              </Card>
+            </Tab>
 
-        <div className="mt-5 border p-4 rounded-lg shadow">
-          <h2 className="text-lg font-semibold">Book Building</h2>
-          <p>
-            <strong>Opening:</strong> {stockInformation?.book_building_opening}
-          </p>
-          <p>
-            <strong>Closing:</strong> {stockInformation?.book_building_closing}
-          </p>
-          <p>
-            <strong>Lowest Price:</strong> Rp {stockInformation?.lowest_book_building_price}
-          </p>
-          <p>
-            <strong>Highest Price:</strong> Rp {stockInformation?.highest_book_building_price}
-          </p>
-        </div>
+            <Tab key="book-building" title="Book Building">
+              <Card shadow='sm'>
+                <CardBody>
+                  <p>
+                    <strong>Opening:</strong> {stockInformation?.book_building_opening}
+                  </p>
+                  <p>
+                    <strong>Closing:</strong> {stockInformation?.book_building_closing}
+                  </p>
+                  <p>
+                    <strong>Lowest Price:</strong> Rp {stockInformation?.lowest_book_building_price}
+                  </p>
+                  <p>
+                    <strong>Highest Price:</strong> Rp {stockInformation?.highest_book_building_price}
+                  </p>
+                </CardBody>
+              </Card>
+            </Tab>
 
-        <div className="mt-5 border p-4 rounded-lg shadow">
-          <h2 className="text-lg font-semibold">Offering to Listing Period</h2>
-          <p>
-            <strong>Opening:</strong> {stockInformation?.opening_of_offering_period}
-          </p>
-          <p>
-            <strong>Closing:</strong> {stockInformation?.closing_of_offering_period}
-          </p>
-          <p>
-            <strong>Closing Date:</strong> {stockInformation?.closing_date}
-          </p>
-          <p>
-            <strong>Distribution Date:</strong> {stockInformation?.distribution_date}
-          </p>
-          <p>
-            <strong>Listing Date:</strong> {stockInformation?.listing_date}
-          </p>
-        </div>
-
-        <div className="mt-5 border p-4 rounded-lg shadow">
-          <h2 className="text-lg font-semibold">Underwriters</h2>
-          {stockInformation?.underwriters?.map((uw, index) => (
-            <p key={index}>
-              {uw.name} ({uw.code}) - {uw.percentage * 100}%
-            </p>
-          ))}
-        </div>
-
-        <div className="mt-5 border p-4 rounded-lg shadow">
-          <h2 className="text-lg font-semibold">Listing Price <small> (ARA/ARB: {stockInformation?.ara_arb_percentage}) </small></h2>
-          <p>
-            <strong>Open:</strong> Rp {stockInformation?.listing_price?.open}
-          </p>
-          <p>
-            <strong>High:</strong> Rp {stockInformation?.listing_price?.high}
-          </p>
-          <p>
-            <strong>Low:</strong> Rp {stockInformation?.listing_price?.low}
-          </p>
-          <p>
-            <strong>Close:</strong> Rp {stockInformation?.listing_price?.close}
-          </p>
-          <p>
-            <strong>Change: </strong>
-            <span className={`${stockInformation?.listing_price?.change > 0 ? 'text-green-500' : 'text-red-500'}`}>
-              {stockInformation?.listing_price?.change} ({stockInformation?.listing_price?.percentage_change})
-            </span>
-          </p>
-          <p>
-            <strong>Volume:</strong> {stockInformation?.listing_price?.volume}
-          </p>
+            <Tab key="offering-to-listing-period" title="Offering to Listing Period">
+              <Card shadow='sm'>
+                <CardBody>
+                  <p>
+                    <strong>Opening:</strong> {stockInformation?.opening_of_offering_period}
+                  </p>
+                  <p>
+                    <strong>Closing:</strong> {stockInformation?.closing_of_offering_period}
+                  </p>
+                  <p>
+                    <strong>Closing Date:</strong> {stockInformation?.closing_date}
+                  </p>
+                  <p>
+                    <strong>Distribution Date:</strong> {stockInformation?.distribution_date}
+                  </p>
+                  <p>
+                    <strong>Listing Date:</strong> {stockInformation?.listing_date}
+                  </p>
+                </CardBody>
+              </Card>
+            </Tab>
+            <Tab key="underwriters" title="Underwriters">
+              <Card shadow='sm'>
+                <CardBody>
+                  <div className='gap-3 flex flex-row'>
+                    {stockInformation?.underwriters?.map((uw, index) => (
+                      <Button key={index} color='primary' variant='flat' onPress={() => navigate(`/uw/${uw?.code}`)}>
+                        {uw?.code} - {uw?.name} ({uw?.percentage ? (uw?.percentage * 100) : "NaN"}%)
+                      </Button>
+                    ))}
+                  </div>
+                </CardBody>
+              </Card>
+            </Tab>
+            <Tab key="listing" title="Listing Price">
+              <Card shadow='sm'>
+                <CardBody>
+                  <p>
+                    <strong>Open:</strong> Rp {stockInformation?.listing_price?.open}
+                  </p>
+                  <p>
+                    <strong>High:</strong> Rp {stockInformation?.listing_price?.high}
+                  </p>
+                  <p>
+                    <strong>Low:</strong> Rp {stockInformation?.listing_price?.low}
+                  </p>
+                  <p>
+                    <strong>Close:</strong> Rp {stockInformation?.listing_price?.close}
+                  </p>
+                  <p>
+                    <strong>Change: </strong>
+                    <span className={`${stockInformation?.listing_price?.change > 0 ? 'text-green-500' : 'text-red-500'}`}>
+                      {stockInformation?.listing_price?.change} ({stockInformation?.listing_price?.percentage_change})
+                    </span>
+                  </p>
+                  <p>
+                    <strong>Volume:</strong> {stockInformation?.listing_price?.volume}
+                  </p>
+                </CardBody>
+              </Card>
+            </Tab>
+            <Tab key="performance" title="Performance">
+              <Card shadow='sm'>
+                <CardBody>
+                  <p>
+                    <strong>1D: </strong>{stockInformation?.performa?.['1D']}
+                  </p>
+                  <p>
+                    <strong>1W: </strong>{stockInformation?.performa?.['1W']}
+                  </p>
+                  <p>
+                    <strong>1M: </strong>{stockInformation?.performa?.['1M']}
+                  </p>
+                  <p>
+                    <strong>6M: </strong>{stockInformation?.performa?.['6M']}
+                  </p>
+                  <p>
+                    <strong>1Y: </strong>{stockInformation?.performa?.['1Y']}
+                  </p>
+                  <p>
+                    <strong>Updated at: </strong>{stockInformation?.performa?.updated_at}
+                  </p>
+                  <p>
+                    <strong>Source: </strong> <a target='_blank' className='underline text-blue-500' href={stockInformation?.performa?.source}>{stockInformation?.performa?.source}</a>
+                  </p>
+                </CardBody>
+              </Card>
+            </Tab>
+            <Tab key="fundamental" title="Fundamental">
+              <Card shadow='sm'>
+                <CardBody>
+                  <p>
+                    <strong>Aset: </strong>{stockInformation?.fundamental?.aset_percentage}
+                  </p>
+                  <p>
+                    <strong>Laba Bersih: </strong>{stockInformation?.fundamental?.laba_bersih_percentage}
+                  </p>
+                  <p>
+                    <strong>Liabilitas: </strong>{stockInformation?.fundamental?.liabilitas_percentage}
+                  </p>
+                  <p>
+                    <strong>Pendapatan: </strong>{stockInformation?.fundamental?.pendapatan_percentage}
+                  </p>
+                  <p>
+                    <strong>Updated at: </strong>{stockInformation?.fundamental?.updated_at}
+                  </p>
+                  <p>
+                    <strong>Source: </strong> <a target='_blank' className='underline text-blue-500' href={stockInformation?.fundamental?.source}>{stockInformation?.fundamental?.source}</a>
+                  </p>
+                </CardBody>
+              </Card>
+            </Tab>
+          </Tabs>
         </div>
 
         <div className='flex flex-row gap-2'>
