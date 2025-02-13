@@ -1,13 +1,7 @@
-import { useNavigate } from 'react-router-dom';
-import { Avatar } from '@heroui/avatar';
-import { Button } from '@heroui/button';
 
-import uws from '@public/data/underwriters.json';
 import '@src/assets/global.css';
 import { BreadcrumbItem, Breadcrumbs } from '@heroui/breadcrumbs';
-import { Tooltip } from '@heroui/tooltip';
 
-import GithubIcon from '@src/assets/icons/github.svg';
 import { Divider } from '@heroui/divider';
 import NavbarComponent from '@src/components/Navbar';
 

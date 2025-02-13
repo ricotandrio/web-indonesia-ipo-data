@@ -129,7 +129,7 @@ const StockPage = () => {
         </Breadcrumbs>
       </nav>
       <div className="m-14">
-        <div className='flex flex-row'>
+        <div className='flex flex-row flex-wrap'>
           <Avatar className='mr-2' src={stockInformation?.image} />
           <h1 className="mb-5 text-2xl font-bold">
             ({stockInformation?.ticker_code}) {stockInformation?.company_name}
@@ -322,7 +322,7 @@ const StockPage = () => {
           </Tabs>
         </div>
 
-        <div className='flex flex-row gap-2'>
+        <div className='flex flex-row flex-wrap gap-2'>
 
           <Button
             className="mt-5 bg-black text-white font-medium"

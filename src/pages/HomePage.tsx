@@ -1,5 +1,4 @@
 import { useNavigate } from 'react-router-dom';
-import { Avatar } from '@heroui/avatar';
 import { Button } from '@heroui/button';
 
 import uws from '@public/data/underwriters.json';

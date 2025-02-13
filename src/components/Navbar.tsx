@@ -8,7 +8,6 @@ import { Dropdown, DropdownItem, DropdownMenu, DropdownTrigger } from '@heroui/d
 
 import ChveronIcon from '@src/assets/icons/chevron.svg';
 import { useNavigate } from 'react-router-dom';
-import { Accordion, AccordionItem } from '@heroui/accordion';
 
 const NavbarComponent = () => {
   const [isMenuOpen, setIsMenuOpen] = useState(false);
