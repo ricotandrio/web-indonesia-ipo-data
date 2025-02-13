@@ -10,6 +10,7 @@ import { Tooltip } from '@heroui/tooltip';
 import GithubIcon from '@src/assets/icons/github.svg';
 import { Divider } from '@heroui/divider';
 import NavbarComponent from '@src/components/Navbar';
+import DataStatus from '@public/data/information.json';
 
 const HomePage = () => {
   const navigate = useNavigate();
@@ -42,7 +43,7 @@ const HomePage = () => {
         </div>
 
         <Divider className="my-8 mt-10" />
-
+        
         <div className='mt-5'>
           <Button
             className="bg-black text-white font-medium"
@@ -52,6 +53,10 @@ const HomePage = () => {
             GitHub Repository
           </Button>
         </div>
+
+        <footer className='mt-14 mb-3 w-full text-center'>
+          Last updated at {DataStatus?.updated_at}
+        </footer>
       </div>
     </>
   )
