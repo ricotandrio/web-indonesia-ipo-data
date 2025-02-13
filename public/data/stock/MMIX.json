@@ -9,7 +9,7 @@
     "final_price": 190.0,
     "line_of_business": "Perdagangan Besar Alat Laboratorium, Alat Farmasi dan Alat Kedokteran Untuk Manusia, dan Sewa Guna U",
     "address": "PT, Multi Medika Internasional Tbk Jl, Peternakan III No,55B, Kelurahan Kapuk, Kecamatan Cengkareng, Jakarta Barat \u2013 DKI Jakarta, Kode Pos 11720",
-    "website": "https://www,multimed,co,id/",
+    "website": "https://www.multimed.co.id/",
     "number_of_shares_offered": 600000000,
     "%_of_total_shares": 25.0,
     "participant_admin": {
@@ -50,5 +50,22 @@
         "change": 66.0,
         "percentage_change": "34.74%",
         "volume": 141452200.0
+    },
+    "performa": {
+        "1D": "35%",
+        "1W": "27%",
+        "1M": "71%",
+        "6M": "29%",
+        "1Y": "-11%",
+        "updated_at": "31 Juli 2024",
+        "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
+    },
+    "fundamental": {
+        "aset_percentage": "65%",
+        "liabilitas_percentage": "154%",
+        "pendapatan_percentage": "0%",
+        "laba_bersih_percentage": "-30%",
+        "updated_at": "31 Juli 2024",
+        "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
     }
 }

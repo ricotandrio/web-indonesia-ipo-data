@@ -9,7 +9,7 @@
     "final_price": 105.0,
     "line_of_business": "Perdagangan Besar Bahan dan Barang Kimia",
     "address": "Green Ville Maisonette Blok FA / 12A, Jakarta Barat, DKI Jakarta, 11510 - Indonesia",
-    "website": "https://kks-chemicals,com",
+    "website": "https://kks-chemicals.com",
     "number_of_shares_offered": 300000000,
     "%_of_total_shares": 20.0,
     "participant_admin": {
@@ -50,5 +50,22 @@
         "change": 22.0,
         "percentage_change": "20.95%",
         "volume": 1016123800.0
+    },
+    "performa": {
+        "1D": "21%",
+        "1W": "13%",
+        "1M": "62%",
+        "6M": "-10%",
+        "1Y": "-49%",
+        "updated_at": "31 Juli 2024",
+        "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
+    },
+    "fundamental": {
+        "aset_percentage": "8%",
+        "liabilitas_percentage": "10%",
+        "pendapatan_percentage": "-3%",
+        "laba_bersih_percentage": "-17%",
+        "updated_at": "31 Juli 2024",
+        "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
     }
 }

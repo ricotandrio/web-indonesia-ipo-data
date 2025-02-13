@@ -9,7 +9,7 @@
     "final_price": 100.0,
     "line_of_business": "Perdagangan eceran furniture untuk barang perlengkapan rumah tangga dan perlengkapan dapur",
     "address": "Jl, Otista Raya No, 33, Jakarta Timur, Indonesia",
-    "website": "https://www,oscarliving,com",
+    "website": "https://www.oscarliving.com",
     "number_of_shares_offered": 400000000,
     "%_of_total_shares": 21.1,
     "participant_admin": {
@@ -50,5 +50,22 @@
         "change": 1.0,
         "percentage_change": "1.00%",
         "volume": 324042700.0
+    },
+    "performa": {
+        "1D": "1%",
+        "1W": "0%",
+        "1M": "1%",
+        "6M": "-70%",
+        "1Y": "-79%",
+        "updated_at": "31 Juli 2024",
+        "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
+    },
+    "fundamental": {
+        "aset_percentage": "-10%",
+        "liabilitas_percentage": "-26%",
+        "pendapatan_percentage": "-65%",
+        "laba_bersih_percentage": "-534%",
+        "updated_at": "31 Juli 2024",
+        "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
     }
 }

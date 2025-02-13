@@ -9,7 +9,7 @@
     "final_price": 100.0,
     "line_of_business": "Jasa Teknikal dan Pemeliharaan Peralatan Telekomunikasi, Call Center, Perkantoran, Keamanan dan SDM",
     "address": "Jl, Kebagusan 1 No, 4, Kebagusan, Pasar Minggu, Jakarta Selatan, Kode Pos 12520, Indonesia",
-    "website": "https://www,persada,id",
+    "website": "https://www.persada.id",
     "number_of_shares_offered": 900000000,
     "%_of_total_shares": 28.57,
     "participant_admin": {
@@ -55,5 +55,22 @@
         "change": 10.0,
         "percentage_change": "10.00%",
         "volume": 1010583500.0
+    },
+    "performa": {
+        "1D": "10%",
+        "1W": "10%",
+        "1M": "144%",
+        "6M": "-19%",
+        "1Y": "-50%",
+        "updated_at": "31 Juli 2024",
+        "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
+    },
+    "fundamental": {
+        "aset_percentage": "-13%",
+        "liabilitas_percentage": "-19%",
+        "pendapatan_percentage": "16%",
+        "laba_bersih_percentage": "-224%",
+        "updated_at": "31 Juli 2024",
+        "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
     }
 }

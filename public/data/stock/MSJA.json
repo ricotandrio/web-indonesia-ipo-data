@@ -9,7 +9,7 @@
     "final_price": 300.0,
     "line_of_business": "Industri Nonwoven",
     "address": "Desa Jabaran, Kecamatan Balongbendo, Krian, Sidoarjo, Jawa Timur, Indonesia 61263",
-    "website": "https://www,spunindo,com",
+    "website": "https://www.spunindo.com",
     "number_of_shares_offered": 882352900,
     "%_of_total_shares": 15.0,
     "participant_admin": {
@@ -55,5 +55,22 @@
         "change": 46.0,
         "percentage_change": "15.33%",
         "volume": 658989300.0
+    },
+    "performa": {
+        "1D": "15%",
+        "1W": "25%",
+        "1M": "13%",
+        "6M": "-3%",
+        "1Y": "",
+        "updated_at": "31 Juli 2024",
+        "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
+    },
+    "fundamental": {
+        "aset_percentage": "",
+        "liabilitas_percentage": "",
+        "pendapatan_percentage": "",
+        "laba_bersih_percentage": "",
+        "updated_at": "31 Juli 2024",
+        "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
     }
 }

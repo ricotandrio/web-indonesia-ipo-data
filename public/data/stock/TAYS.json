@@ -9,7 +9,7 @@
     "final_price": 360.0,
     "line_of_business": "Industri Makanan Ringan",
     "address": "Jalan Parung Panjang No, 68, Kp, Bungaok RT001/RW003 Desa Kemuning, Kecamatan Legok, Kabupaten Tangerang, Banten 15820,",
-    "website": "https://www,taysbakers,com",
+    "website": "https://www.taysbakers.com",
     "number_of_shares_offered": 240300000,
     "%_of_total_shares": 21.87,
     "participant_admin": {
@@ -55,5 +55,22 @@
         "change": -24.0,
         "percentage_change": "-6.67%",
         "volume": 67770500.0
+    },
+    "performa": {
+        "1D": "-7%",
+        "1W": "-24%",
+        "1M": "-44%",
+        "6M": "-45%",
+        "1Y": "94%",
+        "updated_at": "31 Juli 2024",
+        "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
+    },
+    "fundamental": {
+        "aset_percentage": "8%",
+        "liabilitas_percentage": "8%",
+        "pendapatan_percentage": "5%",
+        "laba_bersih_percentage": "57%",
+        "updated_at": "31 Juli 2024",
+        "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
     }
 }

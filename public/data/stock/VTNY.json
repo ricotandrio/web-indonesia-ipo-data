@@ -9,7 +9,7 @@
     "final_price": 360.0,
     "line_of_business": "Aktivitas Perusahaan Holding dan Aktivitas Pengembangan Aplikasi Perdagangan Melalui Internet",
     "address": "World Trade Centre (WTC) 5 Lantai 13, Jl, Jend, Sudirman Kav, 29-31, Jakarta Selatan, 12920",
-    "website": "https://www,venteny,com",
+    "website": "https://www.venteny.com",
     "number_of_shares_offered": 939779100,
     "%_of_total_shares": 15.0,
     "participant_admin": {
@@ -60,5 +60,22 @@
         "change": 36.0,
         "percentage_change": "10.00%",
         "volume": 184666800.0
+    },
+    "performa": {
+        "1D": "10%",
+        "1W": "12%",
+        "1M": "18%",
+        "6M": "1%",
+        "1Y": "-27%",
+        "updated_at": "31 Juli 2024",
+        "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
+    },
+    "fundamental": {
+        "aset_percentage": "30%",
+        "liabilitas_percentage": "63%",
+        "pendapatan_percentage": "149%",
+        "laba_bersih_percentage": "-89%",
+        "updated_at": "31 Juli 2024",
+        "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
     }
 }

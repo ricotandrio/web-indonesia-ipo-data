@@ -9,7 +9,7 @@
     "final_price": 500.0,
     "line_of_business": "Manufaktur Komponen Kendaraan Bermotor",
     "address": "Jl, Angsana Raya Blok A9 No, 8 Delta Silicon I Kawasan Industri Lippo Cikarang Kelurahan Sukaresmi, Kecamatan Cikarang Selatan, Kabupaten Bekasi Jawa Barat - Indonesia",
-    "website": "https://www,dharmagroup,co,id",
+    "website": "https://www.dharmagroup.co.id",
     "number_of_shares_offered": 705882300,
     "%_of_total_shares": 15.0,
     "participant_admin": {
@@ -55,5 +55,22 @@
         "change": -4.0,
         "percentage_change": "-0.80%",
         "volume": 192255900.0
+    },
+    "performa": {
+        "1D": "-1%",
+        "1W": "5%",
+        "1M": "27%",
+        "6M": "21%",
+        "1Y": "20%",
+        "updated_at": "31 Juli 2024",
+        "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
+    },
+    "fundamental": {
+        "aset_percentage": "6%",
+        "liabilitas_percentage": "-12%",
+        "pendapatan_percentage": "34%",
+        "laba_bersih_percentage": "30%",
+        "updated_at": "31 Juli 2024",
+        "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
     }
 }

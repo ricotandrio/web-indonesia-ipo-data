@@ -9,7 +9,7 @@
     "final_price": 270.0,
     "line_of_business": "Bioskop dan Restoran",
     "address": "Jl, KH Wahid Hasyim No,96-A Jakarta Pusat 10340",
-    "website": "https://www,cinema21,co,id",
+    "website": "https://www.cinema21.co.id",
     "number_of_shares_offered": 8335000000,
     "%_of_total_shares": 10.0,
     "participant_admin": {
@@ -55,5 +55,22 @@
         "change": 46.0,
         "percentage_change": "17.04%",
         "volume": 2002459400.0
+    },
+    "performa": {
+        "1D": "17%",
+        "1W": "14%",
+        "1M": "1%",
+        "6M": "-4%",
+        "1Y": "",
+        "updated_at": "31 Juli 2024",
+        "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
+    },
+    "fundamental": {
+        "aset_percentage": "",
+        "liabilitas_percentage": "",
+        "pendapatan_percentage": "",
+        "laba_bersih_percentage": "",
+        "updated_at": "31 Juli 2024",
+        "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
     }
 }

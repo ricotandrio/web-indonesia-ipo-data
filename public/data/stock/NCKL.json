@@ -9,7 +9,7 @@
     "final_price": 1250.0,
     "line_of_business": "Bergerak di bidang usaha Pertambangan Bijih Nikel",
     "address": "Gedung Bank Panin Lt, 2 Jalan Jendral Sudirman Kav, 1 Kelurahan Gelora, Kecamatan Tanah Abang, Jakarta Pusat 10270",
-    "website": "https://www,tbpnickel,com",
+    "website": "https://www.tbpnickel.com",
     "number_of_shares_offered": 7997600000,
     "%_of_total_shares": 12.67,
     "participant_admin": {
@@ -65,5 +65,22 @@
         "change": 55.0,
         "percentage_change": "4.40%",
         "volume": 657355200.0
+    },
+    "performa": {
+        "1D": "4%",
+        "1W": "16%",
+        "1M": "-10%",
+        "6M": "-21%",
+        "1Y": "-28%",
+        "updated_at": "31 Juli 2024",
+        "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
+    },
+    "fundamental": {
+        "aset_percentage": "",
+        "liabilitas_percentage": "",
+        "pendapatan_percentage": "",
+        "laba_bersih_percentage": "",
+        "updated_at": "31 Juli 2024",
+        "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
     }
 }

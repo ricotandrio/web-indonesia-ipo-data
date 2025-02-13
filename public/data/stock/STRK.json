@@ -9,7 +9,7 @@
     "final_price": 100.0,
     "line_of_business": "Bergerak dalam bidang Industri Distribusi Minuman Beralkohol & Pengolahannya melalui Anak perusahaan",
     "address": "Jl, Tukad Banyu Poh 110 X, Sesetan Denpasar Selatan, 80223",
-    "website": "https://lovinabeachbrewery,com/",
+    "website": "https://lovinabeachbrewery.com/",
     "number_of_shares_offered": 1180000000,
     "%_of_total_shares": 11.01,
     "participant_admin": {
@@ -60,5 +60,22 @@
         "change": 35.0,
         "percentage_change": "35.00%",
         "volume": 21620800.0
+    },
+    "performa": {
+        "1D": "35%",
+        "1W": "128%",
+        "1M": "210%",
+        "6M": "-50%",
+        "1Y": "",
+        "updated_at": "31 Juli 2024",
+        "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
+    },
+    "fundamental": {
+        "aset_percentage": "",
+        "liabilitas_percentage": "",
+        "pendapatan_percentage": "",
+        "laba_bersih_percentage": "",
+        "updated_at": "31 Juli 2024",
+        "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
     }
 }

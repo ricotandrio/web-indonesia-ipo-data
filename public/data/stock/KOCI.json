@@ -9,7 +9,7 @@
     "final_price": 120.0,
     "line_of_business": "Konstruksi dan Real Estat",
     "address": "Jl, Raya Sukolilo, Tebul, Kwanyar, Bangkalan - 69163",
-    "website": "https://www,kokohcity,com",
+    "website": "https://www.kokohcity.com",
     "number_of_shares_offered": 450000000,
     "%_of_total_shares": 10.19,
     "participant_admin": {
@@ -50,5 +50,22 @@
         "change": -36.0,
         "percentage_change": "-30.00%",
         "volume": 554147700.0
+    },
+    "performa": {
+        "1D": "-30%",
+        "1W": "-43%",
+        "1M": "-58%",
+        "6M": "-52%",
+        "1Y": "",
+        "updated_at": "31 Juli 2024",
+        "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
+    },
+    "fundamental": {
+        "aset_percentage": "",
+        "liabilitas_percentage": "",
+        "pendapatan_percentage": "",
+        "laba_bersih_percentage": "",
+        "updated_at": "31 Juli 2024",
+        "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
     }
 }

@@ -9,7 +9,7 @@
     "final_price": 150.0,
     "line_of_business": "Perseroan bergerak dalam Industri dan perdagangan bahan kimia spesialisasi untuk industri tekstil",
     "address": "Jl, Industri Ubrug No, 70, Kp, Cisampih, Kel, Cibinong, Kec, Jatiluhur, Kab, Purwakarta, Jawa Barat 41152",
-    "website": "https://www,chemstarindonesia,com",
+    "website": "https://www.chemstarindonesia.com",
     "number_of_shares_offered": 500000000,
     "%_of_total_shares": 29.41,
     "participant_admin": {
@@ -50,5 +50,22 @@
         "change": 5.0,
         "percentage_change": "3.33%",
         "volume": 626280600.0
+    },
+    "performa": {
+        "1D": "3%",
+        "1W": "-17%",
+        "1M": "-18%",
+        "6M": "-6%",
+        "1Y": "-29%",
+        "updated_at": "31 Juli 2024",
+        "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
+    },
+    "fundamental": {
+        "aset_percentage": "8%",
+        "liabilitas_percentage": "47%",
+        "pendapatan_percentage": "-6%",
+        "laba_bersih_percentage": "-91%",
+        "updated_at": "31 Juli 2024",
+        "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
     }
 }

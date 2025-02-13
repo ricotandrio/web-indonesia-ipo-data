@@ -9,7 +9,7 @@
     "final_price": 300.0,
     "line_of_business": "Perkebunan dan Pengolahan Minyak Kelapa Sawit Terpadu",
     "address": "Kantor: Jl, Kodeco KM 1, Kel, Gunung Antasari, Kec, Simpang Empat, Kab, Tanah Bumbu, Kalimatan Selatan 72213 Operasional: Pabrik Refinery dan Pabrik Biodiesel di Desa Batu Ampar, Kec, Simpang Empat, Kab, Tanah Bumbu, Kalimantan Selatan",
-    "website": "https://www,ptjar,com",
+    "website": "https://www.ptjar.com",
     "number_of_shares_offered": 1222950000,
     "%_of_total_shares": 15.29,
     "participant_admin": {
@@ -65,5 +65,22 @@
         "change": 74.0,
         "percentage_change": "24.67%",
         "volume": 170219700.0
+    },
+    "performa": {
+        "1D": "25%",
+        "1W": "68%",
+        "1M": "46%",
+        "6M": "-8%",
+        "1Y": "-39%",
+        "updated_at": "31 Juli 2024",
+        "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
+    },
+    "fundamental": {
+        "aset_percentage": "5%",
+        "liabilitas_percentage": "0%",
+        "pendapatan_percentage": "-4%",
+        "laba_bersih_percentage": "85%",
+        "updated_at": "31 Juli 2024",
+        "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
     }
 }

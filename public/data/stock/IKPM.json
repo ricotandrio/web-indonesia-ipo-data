@@ -9,7 +9,7 @@
     "final_price": 165.0,
     "line_of_business": "Bergerak Dalam Bidang Usaha Industri Farmasi, Personal Care",
     "address": "Kl, Pulogadung Raya No,29 Kawasan Industri Pulogadung Jakarta Timur, 13930 Indonesia",
-    "website": "https://www,ikapharmindo,com",
+    "website": "https://www.ikapharmindo.com",
     "number_of_shares_offered": 336932500,
     "%_of_total_shares": 20.0,
     "participant_admin": {
@@ -50,5 +50,22 @@
         "change": 16.0,
         "percentage_change": "9.70%",
         "volume": 480204600.0
+    },
+    "performa": {
+        "1D": "10%",
+        "1W": "5%",
+        "1M": "16%",
+        "6M": "52%",
+        "1Y": "",
+        "updated_at": "31 Juli 2024",
+        "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
+    },
+    "fundamental": {
+        "aset_percentage": "",
+        "liabilitas_percentage": "",
+        "pendapatan_percentage": "",
+        "laba_bersih_percentage": "",
+        "updated_at": "31 Juli 2024",
+        "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
     }
 }

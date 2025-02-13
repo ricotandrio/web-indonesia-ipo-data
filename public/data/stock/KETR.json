@@ -9,7 +9,7 @@
     "final_price": 300.0,
     "line_of_business": "Pembangunan, penjualan dan pemeliharaan jaringan telekomunikasi kabel serat optik",
     "address": "Gedung Meta Epsi Lantai 2 Jl, Mayjend D,I, Panjaitan Kav, 2, Jakarta Timur",
-    "website": "https://www,triasmitra,com/",
+    "website": "https://www.triasmitra.com/",
     "number_of_shares_offered": 426200000,
     "%_of_total_shares": 15.0,
     "participant_admin": {
@@ -50,5 +50,22 @@
         "change": 20.0,
         "percentage_change": "6.67%",
         "volume": 223185300.0
+    },
+    "performa": {
+        "1D": "7%",
+        "1W": "-6%",
+        "1M": "-25%",
+        "6M": "-39%",
+        "1Y": "-23%",
+        "updated_at": "31 Juli 2024",
+        "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
+    },
+    "fundamental": {
+        "aset_percentage": "36%",
+        "liabilitas_percentage": "67%",
+        "pendapatan_percentage": "11%",
+        "laba_bersih_percentage": "15%",
+        "updated_at": "31 Juli 2024",
+        "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
     }
 }

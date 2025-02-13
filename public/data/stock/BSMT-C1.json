@@ -9,7 +9,7 @@
     "final_price": "",
     "line_of_business": "Jasa Perbankan",
     "address": "Gedung Bank SUMUT JL, Imam Bonjol No 18 Medan 20212 Sumatera Utara, Indonesia",
-    "website": "https://www,banksumut,co,id",
+    "website": "https://www.banksumut.co.id",
     "number_of_shares_offered": 2934798300,
     "%_of_total_shares": 23.0,
     "participant_admin": {
@@ -60,5 +60,22 @@
         "change": "",
         "percentage_change": "",
         "volume": ""
+    },
+    "performa": {
+        "1D": "",
+        "1W": "",
+        "1M": "",
+        "6M": "",
+        "1Y": "",
+        "updated_at": "31 Juli 2024",
+        "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
+    },
+    "fundamental": {
+        "aset_percentage": "",
+        "liabilitas_percentage": "",
+        "pendapatan_percentage": "",
+        "laba_bersih_percentage": "",
+        "updated_at": "31 Juli 2024",
+        "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
     }
 }

@@ -9,7 +9,7 @@
     "final_price": 140.0,
     "line_of_business": "Perdagangan Besar Komputer dan Perlengkapan Komputer",
     "address": "Wisma Exa Jl, Inspeksi PAM No,168, Cakung Barat Jakarta Timur 13910",
-    "website": "https://www,terra,co,id/",
+    "website": "https://www.terra.co.id/",
     "number_of_shares_offered": 1040126500,
     "%_of_total_shares": 17.81,
     "participant_admin": {
@@ -50,5 +50,22 @@
         "change": 49.0,
         "percentage_change": "35.00%",
         "volume": 75657800.0
+    },
+    "performa": {
+        "1D": "35%",
+        "1W": "54%",
+        "1M": "103%",
+        "6M": "43%",
+        "1Y": "-4%",
+        "updated_at": "31 Juli 2024",
+        "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
+    },
+    "fundamental": {
+        "aset_percentage": "-14%",
+        "liabilitas_percentage": "-32%",
+        "pendapatan_percentage": "-15%",
+        "laba_bersih_percentage": "41%",
+        "updated_at": "31 Juli 2024",
+        "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
     }
 }

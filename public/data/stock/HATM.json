@@ -9,7 +9,7 @@
     "final_price": 160.0,
     "line_of_business": "Pengangkutan dengan Kegiatan Usaha Angkutan Laut Dalam Negeri untuk Barang Khusus",
     "address": "Jalan H, Imam Munandar No, 247 F-G, Kel Tangkerang Utara, Kec Bukit Raya, Pekanbaru, Riau 28282",
-    "website": "https://habcomaritima,com/",
+    "website": "https://habcomaritima.com/",
     "number_of_shares_offered": 1118750000,
     "%_of_total_shares": 16.65,
     "participant_admin": {
@@ -50,5 +50,22 @@
         "change": 3.0,
         "percentage_change": "1.88%",
         "volume": 781039300.0
+    },
+    "performa": {
+        "1D": "2%",
+        "1W": "18%",
+        "1M": "181%",
+        "6M": "81%",
+        "1Y": "33%",
+        "updated_at": "31 Juli 2024",
+        "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
+    },
+    "fundamental": {
+        "aset_percentage": "46%",
+        "liabilitas_percentage": "950%",
+        "pendapatan_percentage": "55%",
+        "laba_bersih_percentage": "39%",
+        "updated_at": "31 Juli 2024",
+        "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
     }
 }

@@ -9,7 +9,7 @@
     "final_price": 100.0,
     "line_of_business": "Aktivitas Perusahaan Holding dan Aktivitas Konsultasi Manajemen",
     "address": "Prosperity Tower 17-F District 8, SCBD, Jalan Jenderal Sudirman Kavling 52-53, Kelurahan Senayan, Kec, Kebayoran Baru, Jakarta Selatan, Provinsi DKI Jakarta, 12190",
-    "website": "https://folkgroup,co",
+    "website": "https://folkgroup.co",
     "number_of_shares_offered": 570000000,
     "%_of_total_shares": 14.44,
     "participant_admin": {
@@ -55,5 +55,22 @@
         "change": 13.0,
         "percentage_change": "13.00%",
         "volume": 771271300.0
+    },
+    "performa": {
+        "1D": "13%",
+        "1W": "-15%",
+        "1M": "-27%",
+        "6M": "-41%",
+        "1Y": "",
+        "updated_at": "31 Juli 2024",
+        "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
+    },
+    "fundamental": {
+        "aset_percentage": "",
+        "liabilitas_percentage": "",
+        "pendapatan_percentage": "",
+        "laba_bersih_percentage": "",
+        "updated_at": "31 Juli 2024",
+        "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
     }
 }

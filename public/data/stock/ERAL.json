@@ -9,7 +9,7 @@
     "final_price": 390.0,
     "line_of_business": "Aktivitas Perdagangan Besar serta Perdagangan Eceran melalui Perusahaan Anak",
     "address": "Erajaya Plaza Jalan Bandengan Selatan No, 19-20, Kel, Pekojan, Kec, Tambora Kota Jakarta Barat, DKI Jakarta 11240",
-    "website": "https://www,ses,id/",
+    "website": "https://www.ses.id/",
     "number_of_shares_offered": 1037500000,
     "%_of_total_shares": 20.0,
     "participant_admin": {
@@ -55,5 +55,22 @@
         "change": 12.0,
         "percentage_change": "3.08%",
         "volume": 532259300.0
+    },
+    "performa": {
+        "1D": "3%",
+        "1W": "-6%",
+        "1M": "-5%",
+        "6M": "-22%",
+        "1Y": "",
+        "updated_at": "31 Juli 2024",
+        "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
+    },
+    "fundamental": {
+        "aset_percentage": "",
+        "liabilitas_percentage": "",
+        "pendapatan_percentage": "",
+        "laba_bersih_percentage": "",
+        "updated_at": "31 Juli 2024",
+        "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
     }
 }

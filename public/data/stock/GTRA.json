@@ -9,7 +9,7 @@
     "final_price": 150.0,
     "line_of_business": "Bergerak dalam bidang angkutan bermotor untuk barang umum",
     "address": "Gedung Graha 55 Lt,3, Jalan Tanah Abang II No, 57 Kel, Petojo Selatan, Kec, Gambir, Jakarta Pusat 10160, Indonesia",
-    "website": "https://www,grahatrans,com",
+    "website": "https://www.grahatrans.com",
     "number_of_shares_offered": 378875000,
     "%_of_total_shares": 20.0,
     "participant_admin": {
@@ -50,5 +50,22 @@
         "change": 52.0,
         "percentage_change": "34.67%",
         "volume": 11377100.0
+    },
+    "performa": {
+        "1D": "35%",
+        "1W": "85%",
+        "1M": "77%",
+        "6M": "39%",
+        "1Y": "9%",
+        "updated_at": "31 Juli 2024",
+        "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
+    },
+    "fundamental": {
+        "aset_percentage": "",
+        "liabilitas_percentage": "",
+        "pendapatan_percentage": "",
+        "laba_bersih_percentage": "",
+        "updated_at": "31 Juli 2024",
+        "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
     }
 }

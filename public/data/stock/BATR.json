@@ -9,7 +9,7 @@
     "final_price": 110.0,
     "line_of_business": "Manufaktur & Perdagangan produk Refraktori (Material Tahan Api) dan Insulasi Tahan Panas beserta J",
     "address": "Jl, Kebraon II No, 103 A, Surabaya, Jawa Timur 60222",
-    "website": "https://bentengapi,com/",
+    "website": "https://bentengapi.com/",
     "number_of_shares_offered": 620000000,
     "%_of_total_shares": 20.5,
     "participant_admin": {
@@ -50,5 +50,22 @@
         "change": 10.0,
         "percentage_change": "9.09%",
         "volume": 1294170600.0
+    },
+    "performa": {
+        "1D": "9%",
+        "1W": "-19%",
+        "1M": "-22%",
+        "6M": "",
+        "1Y": "",
+        "updated_at": "31 Juli 2024",
+        "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
+    },
+    "fundamental": {
+        "aset_percentage": "",
+        "liabilitas_percentage": "",
+        "pendapatan_percentage": "",
+        "laba_bersih_percentage": "",
+        "updated_at": "31 Juli 2024",
+        "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
     }
 }

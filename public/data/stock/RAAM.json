@@ -9,7 +9,7 @@
     "final_price": 234.0,
     "line_of_business": "Bidang perfilman, khususnya produksi film, pascaproduksi film dan distribusi film",
     "address": "Multivision Tower, Lt, 21 \u2013 23 Jl, Kuningan Mulia Lot 9B, Kuningan Jakarta Selatan 12980, Indonesia",
-    "website": "https://www,mvpworld,com",
+    "website": "https://www.mvpworld.com",
     "number_of_shares_offered": 929200000,
     "%_of_total_shares": 15.0,
     "participant_admin": {
@@ -55,5 +55,22 @@
         "change": 58.0,
         "percentage_change": "24.79%",
         "volume": 4227100.0
+    },
+    "performa": {
+        "1D": "25%",
+        "1W": "201%",
+        "1M": "225%",
+        "6M": "105%",
+        "1Y": "122%",
+        "updated_at": "31 Juli 2024",
+        "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
+    },
+    "fundamental": {
+        "aset_percentage": "",
+        "liabilitas_percentage": "",
+        "pendapatan_percentage": "",
+        "laba_bersih_percentage": "",
+        "updated_at": "31 Juli 2024",
+        "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
     }
 }

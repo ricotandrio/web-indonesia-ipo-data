@@ -9,7 +9,7 @@
     "final_price": 1250.0,
     "line_of_business": "Aktivitas Perusahaan Holding, Aktivitas Konsultasi Manajemen, Jasa Pertambangan dan Jasa Konstruksi",
     "address": "Blok R2, Jl, Taman Modern No, 19 RT,014/RW,006, Ujung Menteng, Kecamatan Cakung, Kota Jakarta Timur, Daerah Khusus Ibukota Jakarta 13960",
-    "website": "https://www,hillcon,co,id/",
+    "website": "https://www.hillcon.co.id/",
     "number_of_shares_offered": 442300000,
     "%_of_total_shares": 15.0,
     "participant_admin": {
@@ -55,5 +55,22 @@
         "change": 80.0,
         "percentage_change": "6.40%",
         "volume": 67971300.0
+    },
+    "performa": {
+        "1D": "6%",
+        "1W": "26%",
+        "1M": "62%",
+        "6M": "132%",
+        "1Y": "93%",
+        "updated_at": "31 Juli 2024",
+        "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
+    },
+    "fundamental": {
+        "aset_percentage": "",
+        "liabilitas_percentage": "",
+        "pendapatan_percentage": "",
+        "laba_bersih_percentage": "",
+        "updated_at": "31 Juli 2024",
+        "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
     }
 }

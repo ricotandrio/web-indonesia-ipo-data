@@ -9,7 +9,7 @@
     "final_price": 200.0,
     "line_of_business": "Bergerak dalam bidang angkutan laut dan aktivitas penunjang angkutan",
     "address": "Graha KCT Lt, 3 Jl, W,R, Supratman No,23 Surabaya, Jawa Timur- Indonesia",
-    "website": "https://www,pnep,co,id",
+    "website": "https://www.pnep.co.id",
     "number_of_shares_offered": 1112000000,
     "%_of_total_shares": 15.0,
     "participant_admin": {
@@ -50,5 +50,22 @@
         "change": 70.0,
         "percentage_change": "35.00%",
         "volume": 655243700.0
+    },
+    "performa": {
+        "1D": "35%",
+        "1W": "37%",
+        "1M": "14%",
+        "6M": "3%",
+        "1Y": "16%",
+        "updated_at": "31 Juli 2024",
+        "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
+    },
+    "fundamental": {
+        "aset_percentage": "22%",
+        "liabilitas_percentage": "103%",
+        "pendapatan_percentage": "70%",
+        "laba_bersih_percentage": "55%",
+        "updated_at": "31 Juli 2024",
+        "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
     }
 }

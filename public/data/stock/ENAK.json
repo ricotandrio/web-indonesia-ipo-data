@@ -9,7 +9,7 @@
     "final_price": 850.0,
     "line_of_business": "bergerak dalam bidang restoran",
     "address": "Jl, Raya Tanjung Barat No, 81A RT 002/04, Tanjung Barat, Jagakarsa, Jakarta Selatan 12530,",
-    "website": "https://www,champ-group,com/",
+    "website": "https://www.champ-group.com/",
     "number_of_shares_offered": 433333400,
     "%_of_total_shares": 20.0,
     "participant_admin": {
@@ -50,5 +50,22 @@
         "change": -25.0,
         "percentage_change": "-2.94%",
         "volume": 50305400.0
+    },
+    "performa": {
+        "1D": "-3%",
+        "1W": "-13%",
+        "1M": "-6%",
+        "6M": "122%",
+        "1Y": "44%",
+        "updated_at": "31 Juli 2024",
+        "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
+    },
+    "fundamental": {
+        "aset_percentage": "30%",
+        "liabilitas_percentage": "56%",
+        "pendapatan_percentage": "13%",
+        "laba_bersih_percentage": "-66%",
+        "updated_at": "31 Juli 2024",
+        "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
     }
 }

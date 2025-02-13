@@ -9,7 +9,7 @@
     "final_price": 680.0,
     "line_of_business": "Industri Semen",
     "address": "Jl, Raya Pluit Selatan Blok S No, 8 I-J RT022/RW008, Penjaringan Jakarta Utara 14440, Indonesia",
-    "website": "https://www,semenmerahputih,com",
+    "website": "https://www.semenmerahputih.com",
     "number_of_shares_offered": 1718800000,
     "%_of_total_shares": 10.04,
     "participant_admin": {
@@ -55,5 +55,22 @@
         "change": 170.0,
         "percentage_change": "25.00%",
         "volume": 84199200.0
+    },
+    "performa": {
+        "1D": "25%",
+        "1W": "20%",
+        "1M": "39%",
+        "6M": "55%",
+        "1Y": "49%",
+        "updated_at": "31 Juli 2024",
+        "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
+    },
+    "fundamental": {
+        "aset_percentage": "-3%",
+        "liabilitas_percentage": "-2%",
+        "pendapatan_percentage": "17%",
+        "laba_bersih_percentage": "-135%",
+        "updated_at": "31 Juli 2024",
+        "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
     }
 }

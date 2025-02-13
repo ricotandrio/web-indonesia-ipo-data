@@ -9,7 +9,7 @@
     "final_price": 168.0,
     "line_of_business": "Jasa teknologi informasi termasuk bidang multimedia, telekomunikasi dan periklanan",
     "address": "Jalan Panjang Raya No, 70 Kebon Jeruk Jakarta 11530 - Indonesia",
-    "website": "https://www,wirglobal,com",
+    "website": "https://www.wirglobal.com",
     "number_of_shares_offered": 2337090000,
     "%_of_total_shares": 20.0,
     "participant_admin": {
@@ -50,5 +50,22 @@
         "change": 58.0,
         "percentage_change": "34.52%",
         "volume": 7415400.0
+    },
+    "performa": {
+        "1D": "35%",
+        "1W": "227%",
+        "1M": "555%",
+        "6M": "152%",
+        "1Y": "-11%",
+        "updated_at": "31 Juli 2024",
+        "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
+    },
+    "fundamental": {
+        "aset_percentage": "27%",
+        "liabilitas_percentage": "59%",
+        "pendapatan_percentage": "47%",
+        "laba_bersih_percentage": "42%",
+        "updated_at": "31 Juli 2024",
+        "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
     }
 }

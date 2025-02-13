@@ -9,7 +9,7 @@
     "final_price": 180.0,
     "line_of_business": "Perdagangan Besar Mesin, Peralatan dan Perlengkapan Lainnya",
     "address": "Rukan Artha Gading Niaga Blok D-9, Kelapa Gading, Jakarta Utara 14240",
-    "website": "https://www,geoprima,co,id",
+    "website": "https://www.geoprima.co.id",
     "number_of_shares_offered": 166666600,
     "%_of_total_shares": 25.0,
     "participant_admin": {
@@ -55,5 +55,22 @@
         "change": 62.0,
         "percentage_change": "34.44%",
         "volume": 1496300.0
+    },
+    "performa": {
+        "1D": "34%",
+        "1W": "4%",
+        "1M": "-3%",
+        "6M": "-41%",
+        "1Y": "-32%",
+        "updated_at": "31 Juli 2024",
+        "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
+    },
+    "fundamental": {
+        "aset_percentage": "-3%",
+        "liabilitas_percentage": "-19%",
+        "pendapatan_percentage": "35%",
+        "laba_bersih_percentage": "-102%",
+        "updated_at": "31 Juli 2024",
+        "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
     }
 }

@@ -9,7 +9,7 @@
     "final_price": 338.0,
     "line_of_business": "Penyedia platform digital yang mengintegrasikan on-demand services, e-commerce dan fintech services",
     "address": "Gedung Pasaraya Blok M, lantai 6-7 Jl, Iskandarsyah II No, 2, Jakarta 12160",
-    "website": "https://www,gotocompany,com",
+    "website": "https://www.gotocompany.com",
     "number_of_shares_offered": 40615056000,
     "%_of_total_shares": 3.43,
     "participant_admin": {
@@ -80,5 +80,22 @@
         "change": 44.0,
         "percentage_change": "13.02%",
         "volume": 9410897000.0
+    },
+    "performa": {
+        "1D": "13%",
+        "1W": "12%",
+        "1M": "-30%",
+        "6M": "-28%",
+        "1Y": "-72%",
+        "updated_at": "31 Juli 2024",
+        "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
+    },
+    "fundamental": {
+        "aset_percentage": "-61%",
+        "liabilitas_percentage": "11%",
+        "pendapatan_percentage": "30%",
+        "laba_bersih_percentage": "124%",
+        "updated_at": "31 Juli 2024",
+        "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
     }
 }

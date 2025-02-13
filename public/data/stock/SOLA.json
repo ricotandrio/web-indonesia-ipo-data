@@ -9,7 +9,7 @@
     "final_price": 110.0,
     "line_of_business": "Perdagangan Aspal, Industri Pengolahan Aspal dan Jasa Konstruksi",
     "address": "Gedung Plaza Simatupang Lt, 6, Jl, TB Simatupang Kav, IS No, 01 Pondok Pinang, Kebayoran Lama, Jakarta Selatan, DKI Jakarta 12310",
-    "website": "https://www,xolare,co,id/",
+    "website": "https://www.xolare.co.id/",
     "number_of_shares_offered": 656250000,
     "%_of_total_shares": 20.0,
     "participant_admin": {
@@ -50,5 +50,22 @@
         "change": 38.0,
         "percentage_change": "34.55%",
         "volume": 1081629800.0
+    },
+    "performa": {
+        "1D": "35%",
+        "1W": "72%",
+        "1M": "-55%",
+        "6M": "",
+        "1Y": "",
+        "updated_at": "31 Juli 2024",
+        "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
+    },
+    "fundamental": {
+        "aset_percentage": "",
+        "liabilitas_percentage": "",
+        "pendapatan_percentage": "",
+        "laba_bersih_percentage": "",
+        "updated_at": "31 Juli 2024",
+        "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
     }
 }

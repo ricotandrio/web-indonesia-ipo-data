@@ -9,7 +9,7 @@
     "final_price": 135.0,
     "line_of_business": "Bergerak di Bidang Jasa Pengurusan Transportasi (Freight Forwarding)",
     "address": "Kantor Pusat: Gedung STC Senayan, Lantai 2, Ruang 38, Jl, Asia Afrika Pintu IX, Gelora, Tanah Abang Jakarta Pusat 10270, Indonesia Garasi dan Bengkel: Jl, Curug Dengdeng, Desa Lulut, Kec, Klapanunggal, Cileungsi, Kab, Bogor, Jawa Barat, Indonesia",
-    "website": "https://www,utamaradarcahaya,com",
+    "website": "https://www.utamaradarcahaya.com",
     "number_of_shares_offered": 150000000,
     "%_of_total_shares": 20.0,
     "participant_admin": {
@@ -50,5 +50,22 @@
         "change": -13.0,
         "percentage_change": "-9.63%",
         "volume": 215046195.0
+    },
+    "performa": {
+        "1D": "-10%",
+        "1W": "6%",
+        "1M": "-15%",
+        "6M": "-1%",
+        "1Y": "13%",
+        "updated_at": "31 Juli 2024",
+        "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
+    },
+    "fundamental": {
+        "aset_percentage": "41%",
+        "liabilitas_percentage": "94%",
+        "pendapatan_percentage": "24%",
+        "laba_bersih_percentage": "-9%",
+        "updated_at": "31 Juli 2024",
+        "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
     }
 }

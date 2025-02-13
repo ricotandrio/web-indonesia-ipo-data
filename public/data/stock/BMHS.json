@@ -9,7 +9,7 @@
     "final_price": 340.0,
     "line_of_business": "Bergerak di bidang aktivitas rumah sakit swasta, poliklinik swasta, dan rumah sakit lainnya",
     "address": "Jl, Teuku Cik Ditiro No, 28, Menteng Jakarta 10350 - Indonesia",
-    "website": "https://www,bmhs,co,id",
+    "website": "https://www.bmhs.co.id",
     "number_of_shares_offered": 620000000,
     "%_of_total_shares": 7.26,
     "participant_admin": {
@@ -50,5 +50,22 @@
         "change": 84.0,
         "percentage_change": "24.71%",
         "volume": 1723800.0
+    },
+    "performa": {
+        "1D": "25%",
+        "1W": "201%",
+        "1M": "203%",
+        "6M": "131%",
+        "1Y": "74%",
+        "updated_at": "31 Juli 2024",
+        "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
+    },
+    "fundamental": {
+        "aset_percentage": "4%",
+        "liabilitas_percentage": "11%",
+        "pendapatan_percentage": "-12%",
+        "laba_bersih_percentage": "-64%",
+        "updated_at": "31 Juli 2024",
+        "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
     }
 }

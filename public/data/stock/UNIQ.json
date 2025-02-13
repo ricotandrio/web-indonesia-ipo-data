@@ -9,7 +9,7 @@
     "final_price": 118.0,
     "line_of_business": "Jasa Pertambangan dan Jasa Sewa Menyewa Peralatan Pertambangan",
     "address": "JL, Betet No, 28 RT 22/ RW 9, 9 Ilir, Ilir Timur II, Palembang, Sumatera Selatan, 30113",
-    "website": "https://www,ulimanitra,co,id",
+    "website": "https://www.ulimanitra.co.id",
     "number_of_shares_offered": 300000000,
     "%_of_total_shares": 9.56,
     "participant_admin": {
@@ -50,5 +50,22 @@
         "change": 41.0,
         "percentage_change": "34.75%",
         "volume": 250613700.0
+    },
+    "performa": {
+        "1D": "35%",
+        "1W": "35%",
+        "1M": "5%",
+        "6M": "-25%",
+        "1Y": "-30%",
+        "updated_at": "31 Juli 2024",
+        "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
+    },
+    "fundamental": {
+        "aset_percentage": "13%",
+        "liabilitas_percentage": "24%",
+        "pendapatan_percentage": "33%",
+        "laba_bersih_percentage": "-342%",
+        "updated_at": "31 Juli 2024",
+        "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
     }
 }

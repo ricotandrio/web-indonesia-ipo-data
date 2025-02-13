@@ -50,5 +50,22 @@
         "change": 1015.0,
         "percentage_change": "25.00%",
         "volume": 224900.0
+    },
+    "performa": {
+        "1D": "",
+        "1W": "",
+        "1M": "",
+        "6M": "",
+        "1Y": "",
+        "updated_at": "31 Juli 2024",
+        "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
+    },
+    "fundamental": {
+        "aset_percentage": "",
+        "liabilitas_percentage": "",
+        "pendapatan_percentage": "",
+        "laba_bersih_percentage": "",
+        "updated_at": "31 Juli 2024",
+        "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
     }
 }

@@ -9,7 +9,7 @@
     "final_price": 230.0,
     "line_of_business": "Jasa Penyewaan Alat-Alat Untuk Monetisasi Minyak dan Gas Suar Bakar dengan Menggunakan Teknologi",
     "address": "GKM Green Tower 10th Floor Jl, TB Simatupang Kav 89 G Jakarta Selatan, 12520",
-    "website": "https://sinerco,co,id",
+    "website": "https://sinerco.co.id",
     "number_of_shares_offered": 270000000,
     "%_of_total_shares": 29.67,
     "participant_admin": {
@@ -50,5 +50,22 @@
         "change": 24.0,
         "percentage_change": "10.43%",
         "volume": 496776500.0
+    },
+    "performa": {
+        "1D": "10%",
+        "1W": "-16%",
+        "1M": "-32%",
+        "6M": "-21%",
+        "1Y": "-40%",
+        "updated_at": "31 Juli 2024",
+        "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
+    },
+    "fundamental": {
+        "aset_percentage": "2%",
+        "liabilitas_percentage": "-20%",
+        "pendapatan_percentage": "28%",
+        "laba_bersih_percentage": "2%",
+        "updated_at": "31 Juli 2024",
+        "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
     }
 }

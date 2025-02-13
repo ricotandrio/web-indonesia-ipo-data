@@ -9,7 +9,7 @@
     "final_price": 115.0,
     "line_of_business": "Bergerak di bidang Aktivitas Rumah Sakit Swasta",
     "address": "Jl, Raya Ngabean Kav 1A, Kel, Ngabean, Kec, Boja Kab, Kendal, Jawa Tengah 51381",
-    "website": "https://charliehospital,co,id/",
+    "website": "https://charliehospital.co.id/",
     "number_of_shares_offered": 530000000,
     "%_of_total_shares": 20.0,
     "participant_admin": {
@@ -55,5 +55,22 @@
         "change": 16.0,
         "percentage_change": "13.91%",
         "volume": 895387300.0
+    },
+    "performa": {
+        "1D": "14%",
+        "1W": "16%",
+        "1M": "5%",
+        "6M": "30%",
+        "1Y": "",
+        "updated_at": "31 Juli 2024",
+        "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
+    },
+    "fundamental": {
+        "aset_percentage": "",
+        "liabilitas_percentage": "",
+        "pendapatan_percentage": "",
+        "laba_bersih_percentage": "",
+        "updated_at": "31 Juli 2024",
+        "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
     }
 }

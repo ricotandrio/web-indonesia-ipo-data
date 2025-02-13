@@ -9,7 +9,7 @@
     "final_price": 100.0,
     "line_of_business": "Bergerak dalam bidang periklanan, aktivitas desain khusus film, video, program TV, animasi dan komik",
     "address": "Fatmawati Mas Blok III No, 307-309 Jl, RS Fatmawati No 20 Jakarta Selatan, Indonesia",
-    "website": "https://futurphuture,io/",
+    "website": "https://futurphuture.io/",
     "number_of_shares_offered": 1278000000,
     "%_of_total_shares": 20.0,
     "participant_admin": {
@@ -55,5 +55,22 @@
         "change": 0.0,
         "percentage_change": "0.00%",
         "volume": 667191300.0
+    },
+    "performa": {
+        "1D": "0%",
+        "1W": "42%",
+        "1M": "21%",
+        "6M": "-50%",
+        "1Y": "-50%",
+        "updated_at": "31 Juli 2024",
+        "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
+    },
+    "fundamental": {
+        "aset_percentage": "",
+        "liabilitas_percentage": "",
+        "pendapatan_percentage": "",
+        "laba_bersih_percentage": "",
+        "updated_at": "31 Juli 2024",
+        "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
     }
 }

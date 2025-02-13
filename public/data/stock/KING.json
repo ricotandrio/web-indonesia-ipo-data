@@ -9,7 +9,7 @@
     "final_price": 130.0,
     "line_of_business": "Jasa Cleaning Service, Security, Washroom Hygiene, Labour Supply dan Parkir melalui Perusahaan Anak",
     "address": "Jl, Raya Jembatan Tiga No, 8 Penjaringan Jakarta Utara 14440",
-    "website": "https://www,hoffmen,co,id",
+    "website": "https://www.hoffmen.co.id",
     "number_of_shares_offered": 520000000,
     "%_of_total_shares": 20.0,
     "participant_admin": {
@@ -50,5 +50,22 @@
         "change": -13.0,
         "percentage_change": "-10.00%",
         "volume": 4981700.0
+    },
+    "performa": {
+        "1D": "-10%",
+        "1W": "-12%",
+        "1M": "32%",
+        "6M": "4%",
+        "1Y": "35%",
+        "updated_at": "31 Juli 2024",
+        "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
+    },
+    "fundamental": {
+        "aset_percentage": "",
+        "liabilitas_percentage": "",
+        "pendapatan_percentage": "",
+        "laba_bersih_percentage": "",
+        "updated_at": "31 Juli 2024",
+        "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
     }
 }

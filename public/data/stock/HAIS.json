@@ -9,7 +9,7 @@
     "final_price": 300.0,
     "line_of_business": "Pengangkutan barang dengan menggunakan kapal laut untuk mengangkut suatu jenis barang tertentu,",
     "address": "",
-    "website": "https://www,pthis,id",
+    "website": "https://www.pthis.id",
     "number_of_shares_offered": 525250000,
     "%_of_total_shares": 20.0,
     "participant_admin": {
@@ -50,5 +50,22 @@
         "change": 74.0,
         "percentage_change": "24.67%",
         "volume": 12520400.0
+    },
+    "performa": {
+        "1D": "25%",
+        "1W": "-3%",
+        "1M": "-12%",
+        "6M": "-19%",
+        "1Y": "-19%",
+        "updated_at": "31 Juli 2024",
+        "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
+    },
+    "fundamental": {
+        "aset_percentage": "22%",
+        "liabilitas_percentage": "9%",
+        "pendapatan_percentage": "82%",
+        "laba_bersih_percentage": "232%",
+        "updated_at": "31 Juli 2024",
+        "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
     }
 }

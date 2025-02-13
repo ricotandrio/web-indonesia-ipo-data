@@ -9,7 +9,7 @@
     "final_price": 100.0,
     "line_of_business": "Distributor dan Instalasi Perangkat Global Positioning System (GPS) untuk Otomotif dan Logistik",
     "address": "Fox Logger Tower Jl, Cideng Barat nomor 31A, RT, 003/RW, 011, Kelurahan Cideng, Kecamatan Gambir, Jakarta Pusat 10150",
-    "website": "https://www,foxlogger,co,id",
+    "website": "https://www.foxlogger.co.id",
     "number_of_shares_offered": 1100000000,
     "%_of_total_shares": 20.83,
     "participant_admin": {
@@ -55,5 +55,22 @@
         "change": 35.0,
         "percentage_change": "35.00%",
         "volume": 104582900.0
+    },
+    "performa": {
+        "1D": "35%",
+        "1W": "5%",
+        "1M": "9%",
+        "6M": "37%",
+        "1Y": "",
+        "updated_at": "31 Juli 2024",
+        "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
+    },
+    "fundamental": {
+        "aset_percentage": "",
+        "liabilitas_percentage": "",
+        "pendapatan_percentage": "",
+        "laba_bersih_percentage": "",
+        "updated_at": "31 Juli 2024",
+        "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
     }
 }

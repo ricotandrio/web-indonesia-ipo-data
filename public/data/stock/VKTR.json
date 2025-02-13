@@ -9,7 +9,7 @@
     "final_price": 100.0,
     "line_of_business": "Bergerak di bidang perdagangan KBLBB, komponen suku cadang, dan industri pengecoran besi",
     "address": "Bakrie Tower Lantai 35 Jl, H,R, Rasuna Said Jakarta 12940",
-    "website": "https://www,vktr,id",
+    "website": "https://www.vktr.id",
     "number_of_shares_offered": 8750000000,
     "%_of_total_shares": 20.0,
     "participant_admin": {
@@ -60,5 +60,22 @@
         "change": 11.0,
         "percentage_change": "11.00%",
         "volume": 2865807700.0
+    },
+    "performa": {
+        "1D": "11%",
+        "1W": "15%",
+        "1M": "30%",
+        "6M": "15%",
+        "1Y": "0%",
+        "updated_at": "31 Juli 2024",
+        "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
+    },
+    "fundamental": {
+        "aset_percentage": "",
+        "liabilitas_percentage": "",
+        "pendapatan_percentage": "",
+        "laba_bersih_percentage": "",
+        "updated_at": "31 Juli 2024",
+        "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
     }
 }

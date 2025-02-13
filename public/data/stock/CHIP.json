@@ -9,7 +9,7 @@
     "final_price": 160.0,
     "line_of_business": "Bergerak dalam Bidang Aktivitas Konsultasi dan Perancangan Internet of Things & Industri Smart Card",
     "address": "Jl, Gatot Subroto KM 5, No 66, Kroncong, Jatiuwung, Tangerang, Banten 15134",
-    "website": "https://www,pelitateknologi,com",
+    "website": "https://www.pelitateknologi.com",
     "number_of_shares_offered": 200000000,
     "%_of_total_shares": 24.81,
     "participant_admin": {
@@ -50,5 +50,22 @@
         "change": 16.0,
         "percentage_change": "10.00%",
         "volume": 51555600.0
+    },
+    "performa": {
+        "1D": "10%",
+        "1W": "44%",
+        "1M": "322%",
+        "6M": "888%",
+        "1Y": "1306%",
+        "updated_at": "31 Juli 2024",
+        "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
+    },
+    "fundamental": {
+        "aset_percentage": "",
+        "liabilitas_percentage": "",
+        "pendapatan_percentage": "",
+        "laba_bersih_percentage": "",
+        "updated_at": "31 Juli 2024",
+        "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
     }
 }

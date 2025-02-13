@@ -9,7 +9,7 @@
     "final_price": 162.0,
     "line_of_business": "Industri Percetakan Digital Untuk Kemasan Fleksibel",
     "address": "JL, Jababeka 2 Blok C/11-D Kawasan Industri Jababeka Cikarang Utara Kabupaten Bekasi, Jawa Barat 17530",
-    "website": "https://www,flexypack,com",
+    "website": "https://www.flexypack.com",
     "number_of_shares_offered": 308000000,
     "%_of_total_shares": 20.03,
     "participant_admin": {
@@ -50,5 +50,22 @@
         "change": -16.0,
         "percentage_change": "-9.88%",
         "volume": 8127200.0
+    },
+    "performa": {
+        "1D": "-10%",
+        "1W": "-37%",
+        "1M": "-33%",
+        "6M": "4%",
+        "1Y": "-75%",
+        "updated_at": "31 Juli 2024",
+        "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
+    },
+    "fundamental": {
+        "aset_percentage": "",
+        "liabilitas_percentage": "",
+        "pendapatan_percentage": "",
+        "laba_bersih_percentage": "",
+        "updated_at": "31 Juli 2024",
+        "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
     }
 }

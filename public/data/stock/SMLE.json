@@ -9,7 +9,7 @@
     "final_price": 175.0,
     "line_of_business": "Perdagangan Bahan Kimia Khusus untuk Bahan Baku Makanan & Minuman, Perawatan Diri dan Kimia Industri",
     "address": "Business Park Kebon Jeruk Blok I 5-6, Jl, Raya Meruya Illir, Kav,88, Meruya Utara, Kembangan, Jakarta Barat 11620",
-    "website": "https://www,ptsml,id",
+    "website": "https://www.ptsml.id",
     "number_of_shares_offered": 465625000,
     "%_of_total_shares": 20.0,
     "participant_admin": {
@@ -55,5 +55,22 @@
         "change": 61.0,
         "percentage_change": "34.86%",
         "volume": 99518200.0
+    },
+    "performa": {
+        "1D": "35%",
+        "1W": "5%",
+        "1M": "-32%",
+        "6M": "-61%",
+        "1Y": "",
+        "updated_at": "31 Juli 2024",
+        "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
+    },
+    "fundamental": {
+        "aset_percentage": "",
+        "liabilitas_percentage": "",
+        "pendapatan_percentage": "",
+        "laba_bersih_percentage": "",
+        "updated_at": "31 Juli 2024",
+        "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
     }
 }

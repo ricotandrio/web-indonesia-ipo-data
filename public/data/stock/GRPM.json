@@ -9,7 +9,7 @@
     "final_price": 120.0,
     "line_of_business": "Bidang Usaha Distribusi Minuman Berkarbonasi",
     "address": "Jl, Tuparev No, 87A, Cirebon - Jawa Barat",
-    "website": "https://grahaprimamentari,co,id/",
+    "website": "https://grahaprimamentari.co.id/",
     "number_of_shares_offered": 309000000,
     "%_of_total_shares": 20.0,
     "participant_admin": {
@@ -50,5 +50,22 @@
         "change": -12.0,
         "percentage_change": "-10.00%",
         "volume": 7573800.0
+    },
+    "performa": {
+        "1D": "-10%",
+        "1W": "-30%",
+        "1M": "-38%",
+        "6M": "-60%",
+        "1Y": "-63%",
+        "updated_at": "31 Juli 2024",
+        "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
+    },
+    "fundamental": {
+        "aset_percentage": "",
+        "liabilitas_percentage": "",
+        "pendapatan_percentage": "",
+        "laba_bersih_percentage": "",
+        "updated_at": "31 Juli 2024",
+        "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
     }
 }

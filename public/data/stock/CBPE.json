@@ -9,7 +9,7 @@
     "final_price": 150.0,
     "line_of_business": "Bergerak di bidang real estat dan property",
     "address": "Komplek Paskal Hyper Square Blok G Lantai 2 No, 206 \u2013 208, Jl, H,O,S, Cokroaminoto No, 25 \u2013 27 (dh, Jl, Pasirkaliki No, 25 \u2013 27), Bandung 40181, Tel,: (022) 8606 1108",
-    "website": "https://www,citrabuanaprasida,co,id",
+    "website": "https://www.citrabuanaprasida.co.id",
     "number_of_shares_offered": 271250000,
     "%_of_total_shares": 20.0,
     "participant_admin": {
@@ -50,5 +50,22 @@
         "change": -1.0,
         "percentage_change": "-0.67%",
         "volume": 172617000.0
+    },
+    "performa": {
+        "1D": "-1%",
+        "1W": "19%",
+        "1M": "-1%",
+        "6M": "-11%",
+        "1Y": "-14%",
+        "updated_at": "31 Juli 2024",
+        "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
+    },
+    "fundamental": {
+        "aset_percentage": "",
+        "liabilitas_percentage": "",
+        "pendapatan_percentage": "",
+        "laba_bersih_percentage": "",
+        "updated_at": "31 Juli 2024",
+        "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
     }
 }

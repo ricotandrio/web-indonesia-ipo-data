@@ -9,7 +9,7 @@
     "final_price": 100.0,
     "line_of_business": "Restoran dan Aktivitas Perusahaan Holding",
     "address": "Jalan Raya Randugowang, Desa Sendangadi, Kecamatan Mlati, Kabupaten Sleman, Yogyakarta 55285",
-    "website": "https://indobogasukses,com/",
+    "website": "https://indobogasukses.com/",
     "number_of_shares_offered": 1607360000,
     "%_of_total_shares": 20.0,
     "participant_admin": {
@@ -55,5 +55,22 @@
         "change": 10.0,
         "percentage_change": "10.00%",
         "volume": 261111700.0
+    },
+    "performa": {
+        "1D": "10%",
+        "1W": "18%",
+        "1M": "21%",
+        "6M": "-8%",
+        "1Y": "152%",
+        "updated_at": "31 Juli 2024",
+        "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
+    },
+    "fundamental": {
+        "aset_percentage": "2%",
+        "liabilitas_percentage": "-2%",
+        "pendapatan_percentage": "-1%",
+        "laba_bersih_percentage": "-12%",
+        "updated_at": "31 Juli 2024",
+        "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
     }
 }

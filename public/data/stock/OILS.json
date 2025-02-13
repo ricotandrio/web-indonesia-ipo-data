@@ -9,7 +9,7 @@
     "final_price": 270.0,
     "line_of_business": "Pengolahan produksi kopra dan penjualan minyak kelapa",
     "address": "Jalan Raya Perning No, 39, Kecamatan Jetis, Kabupaten Mojokerto, Jawa Timur 61352",
-    "website": "https://www,indooilperkasa,com",
+    "website": "https://www.indooilperkasa.com",
     "number_of_shares_offered": 150000000,
     "%_of_total_shares": 33.04,
     "participant_admin": {
@@ -50,5 +50,22 @@
         "change": 66.0,
         "percentage_change": "24.44%",
         "volume": 175431500.0
+    },
+    "performa": {
+        "1D": "24%",
+        "1W": "126%",
+        "1M": "22%",
+        "6M": "-7%",
+        "1Y": "-18%",
+        "updated_at": "31 Juli 2024",
+        "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
+    },
+    "fundamental": {
+        "aset_percentage": "20%",
+        "liabilitas_percentage": "38%",
+        "pendapatan_percentage": "37%",
+        "laba_bersih_percentage": "13%",
+        "updated_at": "31 Juli 2024",
+        "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
     }
 }

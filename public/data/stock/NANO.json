@@ -9,7 +9,7 @@
     "final_price": 100.0,
     "line_of_business": "Penelitian & Pengembangan Ilmu Pengetahuan Alam & Teknologi Rekayasa Lainnya & Aktivitas Konsultasi",
     "address": "Gedung Nanoplex, Jl, Puspiptek Komplek Batan Lama A12, Kota Tangerang Selatan, Provinsi Banten - 15314",
-    "website": "https://nig,co,id",
+    "website": "https://nig.co.id",
     "number_of_shares_offered": 1285000000,
     "%_of_total_shares": 29.99,
     "participant_admin": {
@@ -50,5 +50,22 @@
         "change": 10.0,
         "percentage_change": "10.00%",
         "volume": 750239800.0
+    },
+    "performa": {
+        "1D": "10%",
+        "1W": "60%",
+        "1M": "-11%",
+        "6M": "-49%",
+        "1Y": "-74%",
+        "updated_at": "31 Juli 2024",
+        "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
+    },
+    "fundamental": {
+        "aset_percentage": "11%",
+        "liabilitas_percentage": "166%",
+        "pendapatan_percentage": "88%",
+        "laba_bersih_percentage": "-55%",
+        "updated_at": "31 Juli 2024",
+        "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
     }
 }

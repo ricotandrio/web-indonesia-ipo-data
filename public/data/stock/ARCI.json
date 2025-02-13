@@ -9,7 +9,7 @@
     "final_price": 750.0,
     "line_of_business": "Perusahaan holding di bidang pertambangan mineral (antara lain, emas dan perak)",
     "address": "Menara Rajawali, Lantai 19, Jl, DR Ide Anak Agung Gde Agung Lot #5,1, Kawasan Mega Kuningan, Jakarta Selatan 12950, Indonesia",
-    "website": "https://www,archiindonesia,com",
+    "website": "https://www.archiindonesia.com",
     "number_of_shares_offered": 3725250000,
     "%_of_total_shares": 15.0,
     "participant_admin": {
@@ -60,5 +60,22 @@
         "change": 5.0,
         "percentage_change": "0.67%",
         "volume": 374023600.0
+    },
+    "performa": {
+        "1D": "1%",
+        "1W": "0%",
+        "1M": "-8%",
+        "6M": "-27%",
+        "1Y": "-54%",
+        "updated_at": "31 Juli 2024",
+        "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
+    },
+    "fundamental": {
+        "aset_percentage": "4%",
+        "liabilitas_percentage": "3%",
+        "pendapatan_percentage": "-37%",
+        "laba_bersih_percentage": "-81%",
+        "updated_at": "31 Juli 2024",
+        "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
     }
 }

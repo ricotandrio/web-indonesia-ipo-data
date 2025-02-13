@@ -9,7 +9,7 @@
     "final_price": 100.0,
     "line_of_business": "Jasa Logistik Terintegrasi",
     "address": "Jl, Kopi No, 4 D Lt, 2, Roa Malaka, Tambora Jakarta Barat \u2013 11230 Telepon: 021 \u2013 6912287",
-    "website": "https://www,jasaberdikari,co,id",
+    "website": "https://www.jasaberdikari.co.id",
     "number_of_shares_offered": 700000000,
     "%_of_total_shares": 32.56,
     "participant_admin": {
@@ -50,5 +50,22 @@
         "change": 35.0,
         "percentage_change": "35.00%",
         "volume": 34804000.0
+    },
+    "performa": {
+        "1D": "35%",
+        "1W": "41%",
+        "1M": "144%",
+        "6M": "-36%",
+        "1Y": "-45%",
+        "updated_at": "31 Juli 2024",
+        "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
+    },
+    "fundamental": {
+        "aset_percentage": "",
+        "liabilitas_percentage": "",
+        "pendapatan_percentage": "",
+        "laba_bersih_percentage": "",
+        "updated_at": "31 Juli 2024",
+        "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
     }
 }

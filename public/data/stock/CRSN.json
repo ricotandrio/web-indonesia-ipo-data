@@ -9,7 +9,7 @@
     "final_price": 125.0,
     "line_of_business": "Testing, Inspection, Certification",
     "address": "SOHO CAPITAL, 28th Floor Jl, Letjen S, Parman Kav,28, Grogol Petamburan, Jakarta Barat",
-    "website": "https://www,carsurin,com",
+    "website": "https://www.carsurin.com",
     "number_of_shares_offered": 600000000,
     "%_of_total_shares": 20.75,
     "participant_admin": {
@@ -50,5 +50,22 @@
         "change": 18.0,
         "percentage_change": "14.40%",
         "volume": 577174300.0
+    },
+    "performa": {
+        "1D": "14%",
+        "1W": "-10%",
+        "1M": "-7%",
+        "6M": "-2%",
+        "1Y": "-20%",
+        "updated_at": "31 Juli 2024",
+        "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
+    },
+    "fundamental": {
+        "aset_percentage": "",
+        "liabilitas_percentage": "",
+        "pendapatan_percentage": "",
+        "laba_bersih_percentage": "",
+        "updated_at": "31 Juli 2024",
+        "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
     }
 }

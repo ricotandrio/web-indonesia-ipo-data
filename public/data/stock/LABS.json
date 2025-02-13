@@ -9,7 +9,7 @@
     "final_price": 102.0,
     "line_of_business": "Distributor Alat Kesehatan",
     "address": "Kawasan Industri Pulogadung, Jl, Rawagelam V, Blok L, No Kav 11-13, Kel, Jatinegara Kec, Cakung Jakarta Timur, Jakarta",
-    "website": "https://www,ubcindonesia,com",
+    "website": "https://www.ubcindonesia.com",
     "number_of_shares_offered": 700000000,
     "%_of_total_shares": 17.72,
     "participant_admin": {
@@ -50,5 +50,22 @@
         "change": 35.0,
         "percentage_change": "34.31%",
         "volume": 13204100.0
+    },
+    "performa": {
+        "1D": "34%",
+        "1W": "76%",
+        "1M": "",
+        "6M": "",
+        "1Y": "",
+        "updated_at": "31 Juli 2024",
+        "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
+    },
+    "fundamental": {
+        "aset_percentage": "",
+        "liabilitas_percentage": "",
+        "pendapatan_percentage": "",
+        "laba_bersih_percentage": "",
+        "updated_at": "31 Juli 2024",
+        "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
     }
 }

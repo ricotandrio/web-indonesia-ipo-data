@@ -9,7 +9,7 @@
     "final_price": 220.0,
     "line_of_business": "Industri Minuman Beralkohol Hasil Destilasi, Industri Minuman Beralkohol Hasil Fermentasi Anggur",
     "address": "Desa Kapitu, Kelurahan Kapitu, Kecamatan Amurang Barat, Kabupaten Minahasa Selatan, Provinsi Sulawesi Utara",
-    "website": "http://www,jobubu,com/",
+    "website": "http://www.jobubu.com/",
     "number_of_shares_offered": 800000000,
     "%_of_total_shares": 20.0,
     "participant_admin": {
@@ -50,5 +50,22 @@
         "change": 38.0,
         "percentage_change": "17.27%",
         "volume": 484691000.0
+    },
+    "performa": {
+        "1D": "17%",
+        "1W": "25%",
+        "1M": "66%",
+        "6M": "54%",
+        "1Y": "30%",
+        "updated_at": "31 Juli 2024",
+        "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
+    },
+    "fundamental": {
+        "aset_percentage": "",
+        "liabilitas_percentage": "",
+        "pendapatan_percentage": "",
+        "laba_bersih_percentage": "",
+        "updated_at": "31 Juli 2024",
+        "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
     }
 }

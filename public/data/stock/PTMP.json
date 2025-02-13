@@ -9,7 +9,7 @@
     "final_price": 120.0,
     "line_of_business": "distributor resmi & penyewaan barang-barang industri pengemasan termasuk suku cadang dan service,,,",
     "address": "Jl Pangeran Jayakarta Komplek 135 Blok B-20 Mangga Dua Selatan, Sawah Besar, Jakarta Pusat",
-    "website": "https://www,mitrapack,co,id",
+    "website": "https://www.mitrapack.co.id",
     "number_of_shares_offered": 800000000,
     "%_of_total_shares": 25.24,
     "participant_admin": {
@@ -50,5 +50,22 @@
         "change": 23.0,
         "percentage_change": "19.17%",
         "volume": 579126600.0
+    },
+    "performa": {
+        "1D": "19%",
+        "1W": "13%",
+        "1M": "77%",
+        "6M": "14%",
+        "1Y": "145%",
+        "updated_at": "31 Juli 2024",
+        "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
+    },
+    "fundamental": {
+        "aset_percentage": "",
+        "liabilitas_percentage": "",
+        "pendapatan_percentage": "",
+        "laba_bersih_percentage": "",
+        "updated_at": "31 Juli 2024",
+        "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
     }
 }

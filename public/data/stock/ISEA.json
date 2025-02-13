@@ -9,7 +9,7 @@
     "final_price": 250.0,
     "line_of_business": "Industri Pembekuan Biota Air Lainnya, Industri Makanan dan Masakan Olahan, Industri Berbasis Daging",
     "address": "Jl, Ir, Sutami KM 13, Desa Sukanegara, Kecamatan Tanjung Bintang, Kabupaten Lampung Selatan, Provinsi Lampung, Indonesia \u2013 35361,",
-    "website": "https://www,indoamericanseafoods,com/",
+    "website": "https://www.indoamericanseafoods.com/",
     "number_of_shares_offered": 290000000,
     "%_of_total_shares": 20.86,
     "participant_admin": {
@@ -50,5 +50,22 @@
         "change": 62.0,
         "percentage_change": "24.80%",
         "volume": 340905900.0
+    },
+    "performa": {
+        "1D": "25%",
+        "1W": "41%",
+        "1M": "",
+        "6M": "",
+        "1Y": "",
+        "updated_at": "31 Juli 2024",
+        "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
+    },
+    "fundamental": {
+        "aset_percentage": "",
+        "liabilitas_percentage": "",
+        "pendapatan_percentage": "",
+        "laba_bersih_percentage": "",
+        "updated_at": "31 Juli 2024",
+        "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
     }
 }

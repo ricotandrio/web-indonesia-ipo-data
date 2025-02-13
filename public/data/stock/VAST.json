@@ -9,7 +9,7 @@
     "final_price": 108.0,
     "line_of_business": "Real Estate yang Dimiliki Sendiri atau Disewa",
     "address": "Jl, Tembesu No, 8A, Kel, Campang Raya, Sukabumi, Bandar Lampung, Lampung 35122",
-    "website": "https://www,vastland,co,id",
+    "website": "https://www.vastland.co.id",
     "number_of_shares_offered": 650000000,
     "%_of_total_shares": 21.27,
     "participant_admin": {
@@ -50,5 +50,22 @@
         "change": -7.0,
         "percentage_change": "-6.48%",
         "volume": 689999800.0
+    },
+    "performa": {
+        "1D": "-6%",
+        "1W": "0%",
+        "1M": "-8%",
+        "6M": "-36%",
+        "1Y": "-41%",
+        "updated_at": "31 Juli 2024",
+        "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
+    },
+    "fundamental": {
+        "aset_percentage": "",
+        "liabilitas_percentage": "",
+        "pendapatan_percentage": "",
+        "laba_bersih_percentage": "",
+        "updated_at": "31 Juli 2024",
+        "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
     }
 }

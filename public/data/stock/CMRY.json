@@ -9,7 +9,7 @@
     "final_price": 3080.0,
     "line_of_business": "Bergerak di bidang usaha Produk Susu Premium dan Konsumen Premium",
     "address": "Rukan Taman Meruya Jl, Komp, Rukan Taman Meruya No,N/27-28 Jakarta Barat 11620 Indonesia",
-    "website": "https://www,cimory,com",
+    "website": "https://www.cimory.com",
     "number_of_shares_offered": 1190203000,
     "%_of_total_shares": 15.0,
     "participant_admin": {
@@ -55,5 +55,22 @@
         "change": 330.0,
         "percentage_change": "10.71%",
         "volume": 134285400.0
+    },
+    "performa": {
+        "1D": "11%",
+        "1W": "12%",
+        "1M": "8%",
+        "6M": "27%",
+        "1Y": "44%",
+        "updated_at": "31 Juli 2024",
+        "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
+    },
+    "fundamental": {
+        "aset_percentage": "11%",
+        "liabilitas_percentage": "6%",
+        "pendapatan_percentage": "56%",
+        "laba_bersih_percentage": "34%",
+        "updated_at": "31 Juli 2024",
+        "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
     }
 }

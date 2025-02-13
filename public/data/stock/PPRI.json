@@ -9,7 +9,7 @@
     "final_price": 140.0,
     "line_of_business": "Bergerak Dalam Bidang Perdagangan Besar Barang Dari Kertas Dan Karton",
     "address": "Ruko Cibubur Times Square Blok C 1 N0, 23, Jalan Alternatif Cibubur RT,001/RW,010, Kelurahan Jatikarya, Kecamatan Jatisampurna, Kota Bekasi, Jawa Barat 17435",
-    "website": "https://paperocks,co,id/",
+    "website": "https://paperocks.co.id/",
     "number_of_shares_offered": 275000000,
     "%_of_total_shares": 25.58,
     "participant_admin": {
@@ -50,5 +50,22 @@
         "change": -21.0,
         "percentage_change": "-15.00%",
         "volume": 112846600.0
+    },
+    "performa": {
+        "1D": "-15%",
+        "1W": "-45%",
+        "1M": "-41%",
+        "6M": "-43%",
+        "1Y": "",
+        "updated_at": "31 Juli 2024",
+        "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
+    },
+    "fundamental": {
+        "aset_percentage": "",
+        "liabilitas_percentage": "",
+        "pendapatan_percentage": "",
+        "laba_bersih_percentage": "",
+        "updated_at": "31 Juli 2024",
+        "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
     }
 }

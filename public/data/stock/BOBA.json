@@ -9,7 +9,7 @@
     "final_price": 280.0,
     "line_of_business": "Produksi tapioca pearl, topping jelly, popping boba, premium sauce, syrup dan premix powder",
     "address": "Berlian 88 Biz Estate Blok C No,1 Jl, Diklat Pemda, Kelapa Dua Tangerang \u2013 Banten 15810",
-    "website": "https://bobaking,co,id/",
+    "website": "https://bobaking.co.id/",
     "number_of_shares_offered": 140000000,
     "%_of_total_shares": 12.11,
     "participant_admin": {
@@ -50,5 +50,22 @@
         "change": 70.0,
         "percentage_change": "25.00%",
         "volume": 65012200.0
+    },
+    "performa": {
+        "1D": "25%",
+        "1W": "10%",
+        "1M": "-11%",
+        "6M": "-30%",
+        "1Y": "-31%",
+        "updated_at": "31 Juli 2024",
+        "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
+    },
+    "fundamental": {
+        "aset_percentage": "11%",
+        "liabilitas_percentage": "191%",
+        "pendapatan_percentage": "64%",
+        "laba_bersih_percentage": "-39%",
+        "updated_at": "31 Juli 2024",
+        "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
     }
 }

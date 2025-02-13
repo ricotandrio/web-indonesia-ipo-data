@@ -9,7 +9,7 @@
     "final_price": 120.0,
     "line_of_business": "Perdagangan Besar untuk Bahan Advertising dan Printing seperti Banner, Display, Tinta dan PVC Board",
     "address": "Jl, Greges Jaya II Blok B19 Kec, Asemrowo, Kel, Tambak Sarioso Kota Surabaya, Jawa Timur 60184",
-    "website": "https://satuvisiputra,com/id/",
+    "website": "https://satuvisiputra.com/id/",
     "number_of_shares_offered": 615000000,
     "%_of_total_shares": 20.0,
     "participant_admin": {
@@ -50,5 +50,22 @@
         "change": 33.0,
         "percentage_change": "27.50%",
         "volume": 947965200.0
+    },
+    "performa": {
+        "1D": "28%",
+        "1W": "2%",
+        "1M": "42%",
+        "6M": "",
+        "1Y": "",
+        "updated_at": "31 Juli 2024",
+        "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
+    },
+    "fundamental": {
+        "aset_percentage": "",
+        "liabilitas_percentage": "",
+        "pendapatan_percentage": "",
+        "laba_bersih_percentage": "",
+        "updated_at": "31 Juli 2024",
+        "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
     }
 }

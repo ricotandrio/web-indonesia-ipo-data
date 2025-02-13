@@ -9,7 +9,7 @@
     "final_price": 100.0,
     "line_of_business": "Bergerak di bidang Budidaya Tambak Udang",
     "address": "Ruko Shibuya Unit SHC 012 \u2013 PIK 2 Jl, Marina Indah Raya No,1 Kel, Lemo, Kec, Teluknaga Tangerang \u2013 Banten 15510",
-    "website": "https://abn,farm/",
+    "website": "https://abn.farm/",
     "number_of_shares_offered": 500000000,
     "%_of_total_shares": 28.57,
     "participant_admin": {
@@ -55,5 +55,22 @@
         "change": 10.0,
         "percentage_change": "10.00%",
         "volume": 39068300.0
+    },
+    "performa": {
+        "1D": "10%",
+        "1W": "-5%",
+        "1M": "20%",
+        "6M": "-36%",
+        "1Y": "",
+        "updated_at": "31 Juli 2024",
+        "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
+    },
+    "fundamental": {
+        "aset_percentage": "",
+        "liabilitas_percentage": "",
+        "pendapatan_percentage": "",
+        "laba_bersih_percentage": "",
+        "updated_at": "31 Juli 2024",
+        "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
     }
 }

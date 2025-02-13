@@ -9,7 +9,7 @@
     "final_price": 138.0,
     "line_of_business": "Aktivitas perusahaan holding serta produksi dan distribusi alat tulis kantor melalui entitas anak",
     "address": "Jl, Raya Boulevard Barat Blok LC VI No 23, Kelapa Gading Barat, Jakarta Utara, Indonesia 14240",
-    "website": "https://www,permaplasindo,co,id/",
+    "website": "https://www.permaplasindo.co.id/",
     "number_of_shares_offered": 435000000,
     "%_of_total_shares": 20.0,
     "participant_admin": {
@@ -55,5 +55,22 @@
         "change": 29.0,
         "percentage_change": "21.01%",
         "volume": 836817600.0
+    },
+    "performa": {
+        "1D": "21%",
+        "1W": "1%",
+        "1M": "3%",
+        "6M": "-4%",
+        "1Y": "-5%",
+        "updated_at": "31 Juli 2024",
+        "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
+    },
+    "fundamental": {
+        "aset_percentage": "33%",
+        "liabilitas_percentage": "53%",
+        "pendapatan_percentage": "18%",
+        "laba_bersih_percentage": "104%",
+        "updated_at": "31 Juli 2024",
+        "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
     }
 }

@@ -9,7 +9,7 @@
     "final_price": 256.0,
     "line_of_business": "Balai lelang melalui Entitas Anak dan perdagangan eceran mobil",
     "address": "Gedung Graha Kirana Lt,6 Jl, Yos Sudarso No, 88 Sunter, Jakarta Utara 14350",
-    "website": "https://www,autopedia,id",
+    "website": "https://www.autopedia.id",
     "number_of_shares_offered": 2549271000,
     "%_of_total_shares": 20.0,
     "participant_admin": {
@@ -55,5 +55,22 @@
         "change": 64.0,
         "percentage_change": "25.00%",
         "volume": 922992200.0
+    },
+    "performa": {
+        "1D": "25%",
+        "1W": "13%",
+        "1M": "2%",
+        "6M": "-30%",
+        "1Y": "-64%",
+        "updated_at": "31 Juli 2024",
+        "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
+    },
+    "fundamental": {
+        "aset_percentage": "7%",
+        "liabilitas_percentage": "68%",
+        "pendapatan_percentage": "42%",
+        "laba_bersih_percentage": "714%",
+        "updated_at": "31 Juli 2024",
+        "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
     }
 }

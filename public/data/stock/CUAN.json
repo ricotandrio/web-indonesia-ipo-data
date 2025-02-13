@@ -9,7 +9,7 @@
     "final_price": 220.0,
     "line_of_business": "Pertambangan Batubara",
     "address": "Gedung Wisma Barito Pacific, lantai 3 B Jl, Let, Jend, S, Parman Kav, 62-63, Jakarta,",
-    "website": "https://petrindo,co,id",
+    "website": "https://petrindo.co.id",
     "number_of_shares_offered": 1690000000,
     "%_of_total_shares": 15.03,
     "participant_admin": {
@@ -55,5 +55,22 @@
         "change": 54.0,
         "percentage_change": "24.55%",
         "volume": 106356200.0
+    },
+    "performa": {
+        "1D": "25%",
+        "1W": "200%",
+        "1M": "309%",
+        "6M": "991%",
+        "1Y": "3014%",
+        "updated_at": "31 Juli 2024",
+        "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
+    },
+    "fundamental": {
+        "aset_percentage": "",
+        "liabilitas_percentage": "",
+        "pendapatan_percentage": "",
+        "laba_bersih_percentage": "",
+        "updated_at": "31 Juli 2024",
+        "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
     }
 }

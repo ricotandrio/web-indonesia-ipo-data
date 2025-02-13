@@ -9,7 +9,7 @@
     "final_price": 105.0,
     "line_of_business": "Perseroan bergerak di bidang Manufaktur Komponen Suku Cadang Otomotif, Elektronik dan Sanitasi",
     "address": "Jl, Prabu Siliwangi KM 0,5 Keroncong, Kec, Jatiuwung, Kota Tangerang Banten 15134",
-    "website": "https://www,ciptaperdanalancar,com",
+    "website": "https://www.ciptaperdanalancar.com",
     "number_of_shares_offered": 680000000,
     "%_of_total_shares": 25.0,
     "participant_admin": {
@@ -60,5 +60,22 @@
         "change": 26.0,
         "percentage_change": "24.76%",
         "volume": 431682700.0
+    },
+    "performa": {
+        "1D": "25%",
+        "1W": "23%",
+        "1M": "",
+        "6M": "",
+        "1Y": "",
+        "updated_at": "31 Juli 2024",
+        "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
+    },
+    "fundamental": {
+        "aset_percentage": "",
+        "liabilitas_percentage": "",
+        "pendapatan_percentage": "",
+        "laba_bersih_percentage": "",
+        "updated_at": "31 Juli 2024",
+        "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
     }
 }

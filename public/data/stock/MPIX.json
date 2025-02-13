@@ -9,7 +9,7 @@
     "final_price": 268.0,
     "line_of_business": "Penyedia Platform Digital untuk UMKM, dan E-Commerce,",
     "address": "Ruko Khayangan Residence Blok RA-11, Lantai 2, Jalan Halim Perdana Kusuma, Bangkalan 69119, Jawa Timur",
-    "website": "https://www,mpstore,co,id",
+    "website": "https://www.mpstore.co.id",
     "number_of_shares_offered": 312500000,
     "%_of_total_shares": 20.0,
     "participant_admin": {
@@ -55,5 +55,22 @@
         "change": 66.0,
         "percentage_change": "24.63%",
         "volume": 65972900.0
+    },
+    "performa": {
+        "1D": "25%",
+        "1W": "-50%",
+        "1M": "-35%",
+        "6M": "",
+        "1Y": "",
+        "updated_at": "31 Juli 2024",
+        "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
+    },
+    "fundamental": {
+        "aset_percentage": "",
+        "liabilitas_percentage": "",
+        "pendapatan_percentage": "",
+        "laba_bersih_percentage": "",
+        "updated_at": "31 Juli 2024",
+        "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
     }
 }

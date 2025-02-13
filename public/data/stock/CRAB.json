@@ -9,7 +9,7 @@
     "final_price": 150.0,
     "line_of_business": "Industri Pembekuan, Pengolahan, Pengawetan, Perdagangan Besar Makanan &Minuman serta Hasil Perikanan",
     "address": "",
-    "website": "https://www,tobasurimi,com/",
+    "website": "https://www.tobasurimi.com/",
     "number_of_shares_offered": 390000000,
     "%_of_total_shares": 20.0,
     "participant_admin": {
@@ -50,5 +50,22 @@
         "change": 52.0,
         "percentage_change": "34.67%",
         "volume": 43573900.0
+    },
+    "performa": {
+        "1D": "35%",
+        "1W": "56%",
+        "1M": "59%",
+        "6M": "41%",
+        "1Y": "59%",
+        "updated_at": "31 Juli 2024",
+        "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
+    },
+    "fundamental": {
+        "aset_percentage": "9%",
+        "liabilitas_percentage": "11%",
+        "pendapatan_percentage": "5%",
+        "laba_bersih_percentage": "69%",
+        "updated_at": "31 Juli 2024",
+        "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
     }
 }

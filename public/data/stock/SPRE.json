@@ -9,7 +9,7 @@
     "final_price": 125.0,
     "line_of_business": "industri dan perdagangan barang jadi keperluan rumah tangga",
     "address": "Jl, Bandes, Keluarahan Aie Pacah, Kecamatan Koto Tangah, Kota Padang, Sumatera Barat 25176",
-    "website": "https://sorayaberjaya,id/",
+    "website": "https://sorayaberjaya.id/",
     "number_of_shares_offered": 240000000,
     "%_of_total_shares": 30.0,
     "participant_admin": {
@@ -50,5 +50,22 @@
         "change": 12.0,
         "percentage_change": "9.60%",
         "volume": 102716300.0
+    },
+    "performa": {
+        "1D": "10%",
+        "1W": "41%",
+        "1M": "",
+        "6M": "",
+        "1Y": "",
+        "updated_at": "31 Juli 2024",
+        "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
+    },
+    "fundamental": {
+        "aset_percentage": "",
+        "liabilitas_percentage": "",
+        "pendapatan_percentage": "",
+        "laba_bersih_percentage": "",
+        "updated_at": "31 Juli 2024",
+        "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
     }
 }

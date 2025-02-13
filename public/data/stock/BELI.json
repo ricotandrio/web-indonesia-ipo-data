@@ -9,7 +9,7 @@
     "final_price": 450.0,
     "line_of_business": "Perdagangan eceran melalui media untuk barang campuran, aktivitas pengembangan aplikasi perdagangan",
     "address": "Jl, Jendral Ahmad Yani No, 34, Kel, Panjunan, Kec, Kota Kudus, Kab, Kudus 59317, Jawa Tengah",
-    "website": "https://www,blibli,com",
+    "website": "https://www.blibli.com",
     "number_of_shares_offered": 17771205900,
     "%_of_total_shares": 15.0,
     "participant_admin": {
@@ -80,5 +80,22 @@
         "change": 0.0,
         "percentage_change": "0.00%",
         "volume": 900784300.0
+    },
+    "performa": {
+        "1D": "0%",
+        "1W": "5%",
+        "1M": "6%",
+        "6M": "1%",
+        "1Y": "4%",
+        "updated_at": "31 Juli 2024",
+        "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
+    },
+    "fundamental": {
+        "aset_percentage": "-9%",
+        "liabilitas_percentage": "39%",
+        "pendapatan_percentage": "-4%",
+        "laba_bersih_percentage": "-34%",
+        "updated_at": "31 Juli 2024",
+        "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
     }
 }

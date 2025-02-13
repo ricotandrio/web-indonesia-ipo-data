@@ -9,7 +9,7 @@
     "final_price": 100.0,
     "line_of_business": "Aktivitas Perusahaan Holding, Angkutan Laut dalam Negeri untuk Barang Khusus",
     "address": "Gedung Mangkuluhur City Tower One Lt, 27 Jl, Jend Gatot Subroto Kav 1, Karet Semanggi Setiabudi, Jakarta Selatan, 12930",
-    "website": "https://humi,co,id/",
+    "website": "https://humi.co.id/",
     "number_of_shares_offered": 2707000000,
     "%_of_total_shares": 15.0,
     "participant_admin": {
@@ -50,5 +50,22 @@
         "change": 2.0,
         "percentage_change": "2.00%",
         "volume": 443952700.0
+    },
+    "performa": {
+        "1D": "2%",
+        "1W": "51%",
+        "1M": "89%",
+        "6M": "-43%",
+        "1Y": "",
+        "updated_at": "31 Juli 2024",
+        "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
+    },
+    "fundamental": {
+        "aset_percentage": "",
+        "liabilitas_percentage": "",
+        "pendapatan_percentage": "",
+        "laba_bersih_percentage": "",
+        "updated_at": "31 Juli 2024",
+        "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
     }
 }

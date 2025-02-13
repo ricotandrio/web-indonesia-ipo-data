@@ -9,7 +9,7 @@
     "final_price": 125.0,
     "line_of_business": "Industri Peralatan Kesehatan dan Turunannya",
     "address": "Jl, Mahar Martanegara No, 106, Kel, Cigugur Tengah Kec, Cimahi Tengah, Kota Cimahi, Provinsi Jawa Barat 40522",
-    "website": "https://www,evoplusmed,com",
+    "website": "https://www.evoplusmed.com",
     "number_of_shares_offered": 312500000,
     "%_of_total_shares": 20.0,
     "participant_admin": {
@@ -50,5 +50,22 @@
         "change": 43.0,
         "percentage_change": "34.40%",
         "volume": 55249600.0
+    },
+    "performa": {
+        "1D": "34%",
+        "1W": "127%",
+        "1M": "114%",
+        "6M": "0%",
+        "1Y": "-38%",
+        "updated_at": "31 Juli 2024",
+        "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
+    },
+    "fundamental": {
+        "aset_percentage": "-5%",
+        "liabilitas_percentage": "-1%",
+        "pendapatan_percentage": "-40%",
+        "laba_bersih_percentage": "-1606%",
+        "updated_at": "31 Juli 2024",
+        "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
     }
 }

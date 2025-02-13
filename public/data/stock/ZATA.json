@@ -9,7 +9,7 @@
     "final_price": 100.0,
     "line_of_business": "Company Overview",
     "address": "Komplek Industri Prapanca No,24, Cigondewah Kaler Kec, Bandung Kulon, Kota Bandung - Jawa Barat 40214",
-    "website": "https://www,elcorps,com/",
+    "website": "https://www.elcorps.com/",
     "number_of_shares_offered": 1700000000,
     "%_of_total_shares": 20.01,
     "participant_admin": {
@@ -50,5 +50,22 @@
         "change": 35.0,
         "percentage_change": "35.00%",
         "volume": 45581500.0
+    },
+    "performa": {
+        "1D": "35%",
+        "1W": "182%",
+        "1M": "31%",
+        "6M": "-50%",
+        "1Y": "-50%",
+        "updated_at": "31 Juli 2024",
+        "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
+    },
+    "fundamental": {
+        "aset_percentage": "-5%",
+        "liabilitas_percentage": "-21%",
+        "pendapatan_percentage": "5%",
+        "laba_bersih_percentage": "73%",
+        "updated_at": "31 Juli 2024",
+        "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
     }
 }

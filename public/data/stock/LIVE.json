@@ -9,7 +9,7 @@
     "final_price": 148.0,
     "line_of_business": "Perdagangan Besar Peralatan dan Perlengkapan Rumah Tangga",
     "address": "Jl, Kebon Jeruk Raya No, 1A-C, Kel, Kebon Jeruk Kec, Kebon Jeruk, Kota Adm, Jakarta Barat Provinsi DKI Jakarta, 11530, Indonesia",
-    "website": "http://www,homeco,co,id",
+    "website": "http://www.homeco.co.id",
     "number_of_shares_offered": 808350000,
     "%_of_total_shares": 17.6,
     "participant_admin": {
@@ -55,5 +55,22 @@
         "change": 26.0,
         "percentage_change": "17.57%",
         "volume": 755036000.0
+    },
+    "performa": {
+        "1D": "18%",
+        "1W": "16%",
+        "1M": "4%",
+        "6M": "",
+        "1Y": "",
+        "updated_at": "31 Juli 2024",
+        "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
+    },
+    "fundamental": {
+        "aset_percentage": "",
+        "liabilitas_percentage": "",
+        "pendapatan_percentage": "",
+        "laba_bersih_percentage": "",
+        "updated_at": "31 Juli 2024",
+        "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
     }
 }

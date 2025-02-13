@@ -9,7 +9,7 @@
     "final_price": 278.0,
     "line_of_business": "Mengelola rumah makan, kemitraan rumah makan, serta perdagangan bahan baku",
     "address": "Jl, Raya Regency Kav, 9 No, 5, Kabupaten Malang, Jawa Timur, 65153,",
-    "website": "https://ptbersamamencapaipuncak,com/",
+    "website": "https://ptbersamamencapaipuncak.com/",
     "number_of_shares_offered": 225000000,
     "%_of_total_shares": 20.0,
     "participant_admin": {
@@ -55,5 +55,22 @@
         "change": -68.0,
         "percentage_change": "-24.46%",
         "volume": 239082700.0
+    },
+    "performa": {
+        "1D": "-24%",
+        "1W": "-56%",
+        "1M": "-65%",
+        "6M": "",
+        "1Y": "",
+        "updated_at": "31 Juli 2024",
+        "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
+    },
+    "fundamental": {
+        "aset_percentage": "",
+        "liabilitas_percentage": "",
+        "pendapatan_percentage": "",
+        "laba_bersih_percentage": "",
+        "updated_at": "31 Juli 2024",
+        "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
     }
 }

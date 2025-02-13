@@ -9,7 +9,7 @@
     "final_price": 100.0,
     "line_of_business": "Bergerak dalam Bidang Jasa Sewa Alat Berat Beserta Operator",
     "address": "Jl, Teh No, 4-6, RT,7/RW,3, Kel, Pinangsia, Kec, Taman Sari, Jakarta Barat, 11110, Indonesia",
-    "website": "https://www,ptwidi,com/",
+    "website": "https://www.ptwidi.com/",
     "number_of_shares_offered": 400000000,
     "%_of_total_shares": 25.0,
     "participant_admin": {
@@ -50,5 +50,22 @@
         "change": 10.0,
         "percentage_change": "10.00%",
         "volume": 125392100.0
+    },
+    "performa": {
+        "1D": "10%",
+        "1W": "8%",
+        "1M": "40%",
+        "6M": "-56%",
+        "1Y": "-92%",
+        "updated_at": "31 Juli 2024",
+        "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
+    },
+    "fundamental": {
+        "aset_percentage": "",
+        "liabilitas_percentage": "",
+        "pendapatan_percentage": "",
+        "laba_bersih_percentage": "",
+        "updated_at": "31 Juli 2024",
+        "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
     }
 }

@@ -9,7 +9,7 @@
     "final_price": 180.0,
     "line_of_business": "Produksi Panel, Perakitan Baterai Listrik dan Energi Terbarukan",
     "address": "Jl, Intan I RT 001/001, Kp, Poncol, Ds, Curug, Kec, Gunung Sindur, Bogor 16340, Jawa Barat",
-    "website": "https://www,semacom-integrated,com",
+    "website": "https://www.semacom-integrated.com",
     "number_of_shares_offered": 347000000,
     "%_of_total_shares": 25.76,
     "participant_admin": {
@@ -50,5 +50,22 @@
         "change": 62.0,
         "percentage_change": "34.44%",
         "volume": 7914300.0
+    },
+    "performa": {
+        "1D": "34%",
+        "1W": "34%",
+        "1M": "53%",
+        "6M": "12%",
+        "1Y": "-18%",
+        "updated_at": "31 Juli 2024",
+        "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
+    },
+    "fundamental": {
+        "aset_percentage": "22%",
+        "liabilitas_percentage": "44%",
+        "pendapatan_percentage": "47%",
+        "laba_bersih_percentage": "24%",
+        "updated_at": "31 Juli 2024",
+        "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
     }
 }

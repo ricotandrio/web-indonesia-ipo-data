@@ -9,7 +9,7 @@
     "final_price": 120.0,
     "line_of_business": "Bergerak dalam bidang perkebunan dan pabrik kelapa sawit",
     "address": "",
-    "website": "https://mktr,co,id/",
+    "website": "https://mktr.co.id/",
     "number_of_shares_offered": 2500000000,
     "%_of_total_shares": 20.83,
     "participant_admin": {
@@ -60,5 +60,22 @@
         "change": 10.0,
         "percentage_change": "8.33%",
         "volume": 1222706900.0
+    },
+    "performa": {
+        "1D": "8%",
+        "1W": "9%",
+        "1M": "4%",
+        "6M": "73%",
+        "1Y": "3%",
+        "updated_at": "31 Juli 2024",
+        "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
+    },
+    "fundamental": {
+        "aset_percentage": "38%",
+        "liabilitas_percentage": "77%",
+        "pendapatan_percentage": "13%",
+        "laba_bersih_percentage": "-17%",
+        "updated_at": "31 Juli 2024",
+        "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
     }
 }

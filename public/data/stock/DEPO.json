@@ -9,7 +9,7 @@
     "final_price": 482.0,
     "line_of_business": "Supermarket dan/atau Retai Bahan Bangunan",
     "address": "Jl, Raya Serpong KM2, Kel, Pakulonan, Kec, Serpong Utara, Tangerang Selatan",
-    "website": "https://depobangunan,co,id/",
+    "website": "https://depobangunan.co.id/",
     "number_of_shares_offered": 1024000000,
     "%_of_total_shares": 15.08,
     "participant_admin": {
@@ -50,5 +50,22 @@
         "change": 118.0,
         "percentage_change": "24.48%",
         "volume": 279806200.0
+    },
+    "performa": {
+        "1D": "24%",
+        "1W": "27%",
+        "1M": "1%",
+        "6M": "3%",
+        "1Y": "-2%",
+        "updated_at": "31 Juli 2024",
+        "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
+    },
+    "fundamental": {
+        "aset_percentage": "5%",
+        "liabilitas_percentage": "6%",
+        "pendapatan_percentage": "10%",
+        "laba_bersih_percentage": "18%",
+        "updated_at": "31 Juli 2024",
+        "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
     }
 }

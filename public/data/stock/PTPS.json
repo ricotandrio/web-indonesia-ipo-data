@@ -9,7 +9,7 @@
     "final_price": 198.0,
     "line_of_business": "Perseroan bergerak dalam bidang Perkebunan Buah Kelapa Sawit",
     "address": "Jl A, Yani No,12 ABC, RT23 RW023 14 Ulu, Seberang Ulu Dua, Palembang",
-    "website": "https://www,pulausubur,com",
+    "website": "https://www.pulausubur.com",
     "number_of_shares_offered": 450000000,
     "%_of_total_shares": 20.76,
     "participant_admin": {
@@ -50,5 +50,22 @@
         "change": -69.0,
         "percentage_change": "-34.85%",
         "volume": 483657000.0
+    },
+    "performa": {
+        "1D": "-35%",
+        "1W": "-47%",
+        "1M": "-30%",
+        "6M": "-10%",
+        "1Y": "",
+        "updated_at": "31 Juli 2024",
+        "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
+    },
+    "fundamental": {
+        "aset_percentage": "",
+        "liabilitas_percentage": "",
+        "pendapatan_percentage": "",
+        "laba_bersih_percentage": "",
+        "updated_at": "31 Juli 2024",
+        "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
     }
 }

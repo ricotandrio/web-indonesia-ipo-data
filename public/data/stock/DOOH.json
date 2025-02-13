@@ -9,7 +9,7 @@
     "final_price": 100.0,
     "line_of_business": "Bergerak dalam bidang Aktivitas Periklanan dan Konsultasi Manajemen lainya",
     "address": "Ruko Fatmawati Mas Blok B5 Kav 205 Jl, RS Fatmawati No 20, Cilandak Barat, Cilandak, Jakarta Selatan, Indonesia \u2013 Kode pos 12430",
-    "website": "https://www,sspace,id",
+    "website": "https://www.sspace.id",
     "number_of_shares_offered": 1547500000,
     "%_of_total_shares": 20.0,
     "participant_admin": {
@@ -55,5 +55,22 @@
         "change": 5.0,
         "percentage_change": "5.00%",
         "volume": 2361018900.0
+    },
+    "performa": {
+        "1D": "5%",
+        "1W": "-1%",
+        "1M": "-48%",
+        "6M": "60%",
+        "1Y": "-45%",
+        "updated_at": "31 Juli 2024",
+        "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
+    },
+    "fundamental": {
+        "aset_percentage": "",
+        "liabilitas_percentage": "",
+        "pendapatan_percentage": "",
+        "laba_bersih_percentage": "",
+        "updated_at": "31 Juli 2024",
+        "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
     }
 }

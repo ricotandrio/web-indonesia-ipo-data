@@ -9,7 +9,7 @@
     "final_price": 75.0,
     "line_of_business": "Bergerak di bidang perdagangan komputer dan perlengkapannya",
     "address": "Komplek Taman Semanan Indah Ruko Plaza Delumina Blok C No, 1 Duri Kosambi \u2013 Cengkareng Jakarta Barat 11750",
-    "website": "https://www,techno9indonesia,com/",
+    "website": "https://www.techno9indonesia.com/",
     "number_of_shares_offered": 432000000,
     "%_of_total_shares": 20.03,
     "participant_admin": {
@@ -55,5 +55,22 @@
         "change": -6.0,
         "percentage_change": "-8.00%",
         "volume": 326737800.0
+    },
+    "performa": {
+        "1D": "-8%",
+        "1W": "-37%",
+        "1M": "-39%",
+        "6M": "-59%",
+        "1Y": "-87%",
+        "updated_at": "31 Juli 2024",
+        "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
+    },
+    "fundamental": {
+        "aset_percentage": "-12%",
+        "liabilitas_percentage": "-40%",
+        "pendapatan_percentage": "-26%",
+        "laba_bersih_percentage": "-324%",
+        "updated_at": "31 Juli 2024",
+        "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
     }
 }

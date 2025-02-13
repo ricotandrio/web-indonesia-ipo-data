@@ -9,7 +9,7 @@
     "final_price": 125.0,
     "line_of_business": "Platform Teknologi untuk Tujuan Komersil",
     "address": "Jalan P, Diponegoro No, 19, Kel, Pasiran, Kec Singkawang Barat, Kota Singkawang, Prov Kalimantan Barat 79123",
-    "website": "https://topindoku,co,id/",
+    "website": "https://topindoku.co.id/",
     "number_of_shares_offered": 875000000,
     "%_of_total_shares": 20.0,
     "participant_admin": {
@@ -55,5 +55,22 @@
         "change": 5.0,
         "percentage_change": "4.00%",
         "volume": 2228650800.0
+    },
+    "performa": {
+        "1D": "4%",
+        "1W": "-23%",
+        "1M": "-19%",
+        "6M": "",
+        "1Y": "",
+        "updated_at": "31 Juli 2024",
+        "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
+    },
+    "fundamental": {
+        "aset_percentage": "",
+        "liabilitas_percentage": "",
+        "pendapatan_percentage": "",
+        "laba_bersih_percentage": "",
+        "updated_at": "31 Juli 2024",
+        "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
     }
 }

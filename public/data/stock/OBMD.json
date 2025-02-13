@@ -9,7 +9,7 @@
     "final_price": 180.0,
     "line_of_business": "Memproduksi bahan aditif untuk mencegah kerugian dalam aktivitas pengeboran dengan teknologi serat",
     "address": "Dipo Business Center 7th floor, Suite 7E Jl, Gatot Subroto Kav, 50-52, Jakarta 10260",
-    "website": "http://www,drilchem,com/",
+    "website": "http://www.drilchem.com/",
     "number_of_shares_offered": 182000000,
     "%_of_total_shares": 24.86,
     "participant_admin": {
@@ -50,5 +50,22 @@
         "change": -12.0,
         "percentage_change": "-6.67%",
         "volume": 103737700.0
+    },
+    "performa": {
+        "1D": "-7%",
+        "1W": "-22%",
+        "1M": "-31%",
+        "6M": "-24%",
+        "1Y": "11%",
+        "updated_at": "31 Juli 2024",
+        "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
+    },
+    "fundamental": {
+        "aset_percentage": "29%",
+        "liabilitas_percentage": "70%",
+        "pendapatan_percentage": "54%",
+        "laba_bersih_percentage": "76%",
+        "updated_at": "31 Juli 2024",
+        "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
     }
 }

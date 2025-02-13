@@ -9,7 +9,7 @@
     "final_price": 90.0,
     "line_of_business": "Property & Real Estate",
     "address": "Sovereign Plaza Lt,5A Kav,36 Jl TB Simatupang Kota Jakarta Selatan - Daerah Khusus Ibukota Jakarta 12430",
-    "website": "http://www,relifeasia,com/",
+    "website": "http://www.relifeasia.com/",
     "number_of_shares_offered": 1200000000,
     "%_of_total_shares": 20.95,
     "participant_admin": {
@@ -50,5 +50,22 @@
         "change": 9.0,
         "percentage_change": "10.00%",
         "volume": 542362100.0
+    },
+    "performa": {
+        "1D": "10%",
+        "1W": "57%",
+        "1M": "53%",
+        "6M": "-71%",
+        "1Y": "-83%",
+        "updated_at": "31 Juli 2024",
+        "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
+    },
+    "fundamental": {
+        "aset_percentage": "",
+        "liabilitas_percentage": "",
+        "pendapatan_percentage": "",
+        "laba_bersih_percentage": "",
+        "updated_at": "31 Juli 2024",
+        "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
     }
 }

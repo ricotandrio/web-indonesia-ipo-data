@@ -9,7 +9,7 @@
     "final_price": 264.0,
     "line_of_business": "Jasa Konstruksi Umum",
     "address": "Gedung Graha Mustika Ratu, Lantai 5 Jalan Jend, Gatot Subroto Kav, 74-75 Jakarta Selatan, 12870",
-    "website": "http://www,konstruksimas,co,id/",
+    "website": "http://www.konstruksimas.co.id/",
     "number_of_shares_offered": 250000000,
     "%_of_total_shares": 19.95,
     "participant_admin": {
@@ -50,5 +50,22 @@
         "change": -26.0,
         "percentage_change": "-9.85%",
         "volume": 62122300.0
+    },
+    "performa": {
+        "1D": "-10%",
+        "1W": "-33%",
+        "1M": "-2%",
+        "6M": "-7%",
+        "1Y": "213%",
+        "updated_at": "31 Juli 2024",
+        "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
+    },
+    "fundamental": {
+        "aset_percentage": "2%",
+        "liabilitas_percentage": "-60%",
+        "pendapatan_percentage": "-9%",
+        "laba_bersih_percentage": "5%",
+        "updated_at": "31 Juli 2024",
+        "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
     }
 }

@@ -9,7 +9,7 @@
     "final_price": 240.0,
     "line_of_business": "Bergerak di Industri Sepeda dan Industri Sepeda Motor Roda Dua dan Tiga,",
     "address": "Jl, Alam Sutera Boulevard No, kav, 12A, Pakulonan, Kec, Serpong utara, Kota Tangerang Selatan, Banten 15325",
-    "website": "https://www,TerangDuniaInternusa,com",
+    "website": "https://www.TerangDuniaInternusa.com",
     "number_of_shares_offered": 1666666700,
     "%_of_total_shares": 25.0,
     "participant_admin": {
@@ -55,5 +55,22 @@
         "change": -8.0,
         "percentage_change": "-3.33%",
         "volume": 808881000.0
+    },
+    "performa": {
+        "1D": "-3%",
+        "1W": "-27%",
+        "1M": "-28%",
+        "6M": "",
+        "1Y": "",
+        "updated_at": "31 Juli 2024",
+        "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
+    },
+    "fundamental": {
+        "aset_percentage": "",
+        "liabilitas_percentage": "",
+        "pendapatan_percentage": "",
+        "laba_bersih_percentage": "",
+        "updated_at": "31 Juli 2024",
+        "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
     }
 }

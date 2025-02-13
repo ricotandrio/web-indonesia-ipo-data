@@ -9,7 +9,7 @@
     "final_price": 150.0,
     "line_of_business": "Bergerak dibidang jasa penyedia akomodasi berupa hotel, jasa penyediaan makan minum berupa restoran",
     "address": "Jl, Surya Raya, Kav, Commercial Area 1 Olympic CBD Sentul, Desa Sentul Kecamatan Babakan Madang, Kabupaten Bogor 16810",
-    "website": "https://kedaton8,com/",
+    "website": "https://kedaton8.com/",
     "number_of_shares_offered": 250000000,
     "%_of_total_shares": 20.0,
     "participant_admin": {
@@ -50,5 +50,22 @@
         "change": 39.0,
         "percentage_change": "26.00%",
         "volume": 541843000.0
+    },
+    "performa": {
+        "1D": "26%",
+        "1W": "7%",
+        "1M": "-8%",
+        "6M": "-10%",
+        "1Y": "-30%",
+        "updated_at": "31 Juli 2024",
+        "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
+    },
+    "fundamental": {
+        "aset_percentage": "-2%",
+        "liabilitas_percentage": "-29%",
+        "pendapatan_percentage": "24%",
+        "laba_bersih_percentage": "33%",
+        "updated_at": "31 Juli 2024",
+        "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
     }
 }

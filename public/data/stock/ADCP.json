@@ -9,7 +9,7 @@
     "final_price": 130.0,
     "line_of_business": "Perhotelan dan Real Estate",
     "address": "South Building PT Adhi Karya (Persero) Tbk, Jl, Raya Pasar Minggu, Km, 18 Jakarta Selatan, DKI Jakarta 12510",
-    "website": "https://www,adcp,co,id",
+    "website": "https://www.adcp.co.id",
     "number_of_shares_offered": 2222222200,
     "%_of_total_shares": 10.0,
     "participant_admin": {
@@ -60,5 +60,22 @@
         "change": -8.0,
         "percentage_change": "-6.15%",
         "volume": 1648612000.0
+    },
+    "performa": {
+        "1D": "-6%",
+        "1W": "-28%",
+        "1M": "-28%",
+        "6M": "-42%",
+        "1Y": "-49%",
+        "updated_at": "31 Juli 2024",
+        "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
+    },
+    "fundamental": {
+        "aset_percentage": "5%",
+        "liabilitas_percentage": "5%",
+        "pendapatan_percentage": "10%",
+        "laba_bersih_percentage": "11%",
+        "updated_at": "31 Juli 2024",
+        "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
     }
 }

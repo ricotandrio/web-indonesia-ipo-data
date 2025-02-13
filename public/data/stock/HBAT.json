@@ -9,7 +9,7 @@
     "final_price": 108.0,
     "line_of_business": "Bergerak dalam Bidang Usaha Real Estate",
     "address": "Perumahan Sawangan Permai Kel, Sawangan, Kec, Tombulu, Kab, Minahasa, Prov, Sulawesi Utara 95663, Indonesia",
-    "website": "https://mmhebat,co,id/",
+    "website": "https://mmhebat.co.id/",
     "number_of_shares_offered": 240740800,
     "%_of_total_shares": 23.13,
     "participant_admin": {
@@ -50,5 +50,22 @@
         "change": -10.0,
         "percentage_change": "-9.26%",
         "volume": 182956900.0
+    },
+    "performa": {
+        "1D": "-9%",
+        "1W": "-38%",
+        "1M": "-49%",
+        "6M": "-64%",
+        "1Y": "",
+        "updated_at": "31 Juli 2024",
+        "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
+    },
+    "fundamental": {
+        "aset_percentage": "",
+        "liabilitas_percentage": "",
+        "pendapatan_percentage": "",
+        "laba_bersih_percentage": "",
+        "updated_at": "31 Juli 2024",
+        "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
     }
 }

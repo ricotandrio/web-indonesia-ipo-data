@@ -9,7 +9,7 @@
     "final_price": 146.0,
     "line_of_business": "Bergerak di bidang angkutan laut dalam negeri barang umum",
     "address": "Rukan Grand Puri Niaga Jl, Puri Kencana Blok K6 No 3-O Kel, Kembangan Selatan, Kec, Kembangan Kota Administrasi Jakarta Barat 11610",
-    "website": "https://www,pelayarankls,co,id",
+    "website": "https://www.pelayarankls.co.id",
     "number_of_shares_offered": 540000000,
     "%_of_total_shares": 24.94,
     "participant_admin": {
@@ -50,5 +50,22 @@
         "change": 51.0,
         "percentage_change": "34.93%",
         "volume": 160125679.0
+    },
+    "performa": {
+        "1D": "35%",
+        "1W": "-9%",
+        "1M": "-29%",
+        "6M": "-39%",
+        "1Y": "-17%",
+        "updated_at": "31 Juli 2024",
+        "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
+    },
+    "fundamental": {
+        "aset_percentage": "",
+        "liabilitas_percentage": "",
+        "pendapatan_percentage": "",
+        "laba_bersih_percentage": "",
+        "updated_at": "31 Juli 2024",
+        "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
     }
 }

@@ -9,7 +9,7 @@
     "final_price": 100.0,
     "line_of_business": "Perdagangan Voucher Digital dan Jasa Teknologi",
     "address": "Jl, Tebet Barat IX Nomor 35 BB, Tebet Barat, Jakarta Selatan, 12810",
-    "website": "https://ultravoucher,co,id/",
+    "website": "https://ultravoucher.co.id/",
     "number_of_shares_offered": 500000000,
     "%_of_total_shares": 25.0,
     "participant_admin": {
@@ -60,5 +60,22 @@
         "change": 10.0,
         "percentage_change": "10.00%",
         "volume": 6751500.0
+    },
+    "performa": {
+        "1D": "10%",
+        "1W": "60%",
+        "1M": "374%",
+        "6M": "228%",
+        "1Y": "43%",
+        "updated_at": "31 Juli 2024",
+        "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
+    },
+    "fundamental": {
+        "aset_percentage": "13%",
+        "liabilitas_percentage": "9%",
+        "pendapatan_percentage": "30%",
+        "laba_bersih_percentage": "113%",
+        "updated_at": "31 Juli 2024",
+        "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
     }
 }

@@ -9,7 +9,7 @@
     "final_price": 105.0,
     "line_of_business": "Bergerak di bidang manufaktur material bahan bangunan dari plastik berbahan dasar PVC dan perdagang",
     "address": "Jl, Sultan Iskandar Muda No,70, Kedaung Baru, Neglasari Tangerang, Banten, 15128",
-    "website": "https://www,multimakmurlemindo,com",
+    "website": "https://www.multimakmurlemindo.com",
     "number_of_shares_offered": 925000000,
     "%_of_total_shares": 27.01,
     "participant_admin": {
@@ -50,5 +50,22 @@
         "change": 36.0,
         "percentage_change": "34.29%",
         "volume": 20506300.0
+    },
+    "performa": {
+        "1D": "34%",
+        "1W": "60%",
+        "1M": "1%",
+        "6M": "-52%",
+        "1Y": "-52%",
+        "updated_at": "31 Juli 2024",
+        "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
+    },
+    "fundamental": {
+        "aset_percentage": "",
+        "liabilitas_percentage": "",
+        "pendapatan_percentage": "",
+        "laba_bersih_percentage": "",
+        "updated_at": "31 Juli 2024",
+        "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
     }
 }

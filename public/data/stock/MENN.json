@@ -9,7 +9,7 @@
     "final_price": 78.0,
     "line_of_business": "Bergerak Dalam Bidang Teknologi Digital Penyedia Solusi Sistem Informasi Berbasis Internet of Things",
     "address": "Mall Ambasador Lt,5 No, 9F Jl, Prof, Dr, Satrio, Karet Kuningan, Setiabudi, Jakarta Selatan, Indonesia - 12940",
-    "website": "https://www,menngroup,id",
+    "website": "https://www.menngroup.id",
     "number_of_shares_offered": 430200000,
     "%_of_total_shares": 30.0,
     "participant_admin": {
@@ -55,5 +55,22 @@
         "change": -7.0,
         "percentage_change": "-8.97%",
         "volume": 93380700.0
+    },
+    "performa": {
+        "1D": "-9%",
+        "1W": "-31%",
+        "1M": "-45%",
+        "6M": "42%",
+        "1Y": "-87%",
+        "updated_at": "31 Juli 2024",
+        "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
+    },
+    "fundamental": {
+        "aset_percentage": "",
+        "liabilitas_percentage": "",
+        "pendapatan_percentage": "",
+        "laba_bersih_percentage": "",
+        "updated_at": "31 Juli 2024",
+        "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
     }
 }

@@ -9,7 +9,7 @@
     "final_price": 188.0,
     "line_of_business": "ISP, jaringan tetap berbasis kabel/tanpa kabel, dan konsultasi IT",
     "address": "Graha Mustika Ratu Jalan Gatot Subroto No,74-75, Jakarta Selatan DKI Jakarta 12870",
-    "website": "https://remala,id",
+    "website": "https://remala.id",
     "number_of_shares_offered": 275000000,
     "%_of_total_shares": 20.0,
     "participant_admin": {
@@ -50,5 +50,22 @@
         "change": 64.0,
         "percentage_change": "34.04%",
         "volume": 58562100.0
+    },
+    "performa": {
+        "1D": "34%",
+        "1W": "132%",
+        "1M": "63%",
+        "6M": "",
+        "1Y": "",
+        "updated_at": "31 Juli 2024",
+        "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
+    },
+    "fundamental": {
+        "aset_percentage": "",
+        "liabilitas_percentage": "",
+        "pendapatan_percentage": "",
+        "laba_bersih_percentage": "",
+        "updated_at": "31 Juli 2024",
+        "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
     }
 }

@@ -9,7 +9,7 @@
     "final_price": "",
     "line_of_business": "Bergerak Dalam Jasa Penunjang Pertanian Lainnya",
     "address": "Sentra Industri Terpadu Blok E2 nomor 18 Jl, Pantai Indah Selatan Jakarta - Indonesia, 14470",
-    "website": "https://www,cahayabumirezeki,com",
+    "website": "https://www.cahayabumirezeki.com",
     "number_of_shares_offered": 300000000,
     "%_of_total_shares": 23.08,
     "participant_admin": {
@@ -50,5 +50,22 @@
         "change": 0.0,
         "percentage_change": "",
         "volume": ""
+    },
+    "performa": {
+        "1D": "",
+        "1W": "",
+        "1M": "",
+        "6M": "",
+        "1Y": "",
+        "updated_at": "31 Juli 2024",
+        "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
+    },
+    "fundamental": {
+        "aset_percentage": "",
+        "liabilitas_percentage": "",
+        "pendapatan_percentage": "",
+        "laba_bersih_percentage": "",
+        "updated_at": "31 Juli 2024",
+        "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
     }
 }

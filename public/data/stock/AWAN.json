@@ -9,7 +9,7 @@
     "final_price": 100.0,
     "line_of_business": "Jasa Konten SMS Premium dan Aktivitas Perusahaan Holding",
     "address": "Jl, Cikini Raya No, 72, Desa/Kelurahan Cikini, Kec, Menteng, Kota Adm, Jakarta Pusat, Provinsi DKI Jakarta, Kode Pos: 10330",
-    "website": "https://ptedm,com/",
+    "website": "https://ptedm.com/",
     "number_of_shares_offered": 750000000,
     "%_of_total_shares": 21.83,
     "participant_admin": {
@@ -55,5 +55,22 @@
         "change": 35.0,
         "percentage_change": "35.00%",
         "volume": 5514600.0
+    },
+    "performa": {
+        "1D": "35%",
+        "1W": "212%",
+        "1M": "152%",
+        "6M": "134%",
+        "1Y": "218%",
+        "updated_at": "31 Juli 2024",
+        "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
+    },
+    "fundamental": {
+        "aset_percentage": "",
+        "liabilitas_percentage": "",
+        "pendapatan_percentage": "",
+        "laba_bersih_percentage": "",
+        "updated_at": "31 Juli 2024",
+        "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
     }
 }

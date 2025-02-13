@@ -9,7 +9,7 @@
     "final_price": 180.0,
     "line_of_business": "Bergerak di Bidang Industri Kimia Anorganik Gas",
     "address": "Jalan Jendral Sudirman No, 5 - 6, Kelurahan Klandasan Ilir, Kecamatan Balikpapan Kota, Kota Balikpapan, Provinsi Kalimantan Timur 76113",
-    "website": "https://www,suryabirumurni,co,id",
+    "website": "https://www.suryabirumurni.co.id",
     "number_of_shares_offered": 278400000,
     "%_of_total_shares": 29.99,
     "participant_admin": {
@@ -50,5 +50,22 @@
         "change": 62.0,
         "percentage_change": "34.44%",
         "volume": 19118900.0
+    },
+    "performa": {
+        "1D": "34%",
+        "1W": "178%",
+        "1M": "143%",
+        "6M": "62%",
+        "1Y": "24%",
+        "updated_at": "31 Juli 2024",
+        "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
+    },
+    "fundamental": {
+        "aset_percentage": "8%",
+        "liabilitas_percentage": "29%",
+        "pendapatan_percentage": "17%",
+        "laba_bersih_percentage": "-40%",
+        "updated_at": "31 Juli 2024",
+        "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
     }
 }

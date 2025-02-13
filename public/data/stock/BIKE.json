@@ -9,7 +9,7 @@
     "final_price": 170.0,
     "line_of_business": "Perdagangan Besar Sepeda",
     "address": "Jl, Alam Sutera Boulevard Kav, 12A, Pakulon, Serpong Utara Tangerang Selatan, Banten 15325",
-    "website": "https://www,sepedabersamaindonesia,co,id",
+    "website": "https://www.sepedabersamaindonesia.co.id",
     "number_of_shares_offered": 323334000,
     "%_of_total_shares": 25.0,
     "participant_admin": {
@@ -60,5 +60,22 @@
         "change": 58.0,
         "percentage_change": "34.12%",
         "volume": 86838500.0
+    },
+    "performa": {
+        "1D": "34%",
+        "1W": "38%",
+        "1M": "1%",
+        "6M": "41%",
+        "1Y": "22%",
+        "updated_at": "31 Juli 2024",
+        "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
+    },
+    "fundamental": {
+        "aset_percentage": "73%",
+        "liabilitas_percentage": "351%",
+        "pendapatan_percentage": "91%",
+        "laba_bersih_percentage": "-9%",
+        "updated_at": "31 Juli 2024",
+        "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
     }
 }

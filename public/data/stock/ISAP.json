@@ -9,7 +9,7 @@
     "final_price": 96.0,
     "line_of_business": "Industri Mesin dan Perkakas Mesin untuk Pengerjaan Logam",
     "address": "Kawasan Industri Delta Silicon III Lippo Cikarang Bekasi Jawa Barat, 17530",
-    "website": "https://www,isra,co,id/en",
+    "website": "https://www.isra.co.id/en",
     "number_of_shares_offered": 1500000000,
     "%_of_total_shares": 37.31,
     "participant_admin": {
@@ -50,5 +50,22 @@
         "change": -9.0,
         "percentage_change": "-9.38%",
         "volume": 505815400.0
+    },
+    "performa": {
+        "1D": "-9%",
+        "1W": "-26%",
+        "1M": "17%",
+        "6M": "-69%",
+        "1Y": "-89%",
+        "updated_at": "31 Juli 2024",
+        "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
+    },
+    "fundamental": {
+        "aset_percentage": "-9%",
+        "liabilitas_percentage": "-70%",
+        "pendapatan_percentage": "267%",
+        "laba_bersih_percentage": "35%",
+        "updated_at": "31 Juli 2024",
+        "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
     }
 }

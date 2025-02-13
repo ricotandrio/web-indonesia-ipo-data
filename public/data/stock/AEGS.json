@@ -9,7 +9,7 @@
     "final_price": 100.0,
     "line_of_business": "Industri Filter Kendaraan Bermotor yaitu Filter Oli dan Filter Bahan Bakar, serta Perdagangan Filter",
     "address": "Jalan Soekarno Hatta No, 134, Losari Kidul, Losari, Kab, Cirebon, Jawa Barat 45192",
-    "website": "https://www,aegisfilter,co,id",
+    "website": "https://www.aegisfilter.co.id",
     "number_of_shares_offered": 400000000,
     "%_of_total_shares": 39.76,
     "participant_admin": {
@@ -50,5 +50,22 @@
         "change": -5.0,
         "percentage_change": "-5.00%",
         "volume": 280433800.0
+    },
+    "performa": {
+        "1D": "-5%",
+        "1W": "-32%",
+        "1M": "-41%",
+        "6M": "-10%",
+        "1Y": "",
+        "updated_at": "31 Juli 2024",
+        "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
+    },
+    "fundamental": {
+        "aset_percentage": "",
+        "liabilitas_percentage": "",
+        "pendapatan_percentage": "",
+        "laba_bersih_percentage": "",
+        "updated_at": "31 Juli 2024",
+        "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
     }
 }

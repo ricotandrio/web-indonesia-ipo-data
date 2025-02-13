@@ -9,7 +9,7 @@
     "final_price": 70.0,
     "line_of_business": "Industri pengisian jasa aerosol kosmetik dan bahan pembersih keperluan rumah tangga",
     "address": "Jl, Kapuk Utara II No,2, RT,1/RW,3, Kapuk Muara, Penjaringan Jakarta Utara, 14460, Indonesia",
-    "website": "https://esteegoldaerosol,com/",
+    "website": "https://esteegoldaerosol.com/",
     "number_of_shares_offered": 500000000,
     "%_of_total_shares": 20.0,
     "participant_admin": {
@@ -50,5 +50,22 @@
         "change": 0.0,
         "percentage_change": "0.00%",
         "volume": 169005200.0
+    },
+    "performa": {
+        "1D": "0%",
+        "1W": "0%",
+        "1M": "0%",
+        "6M": "417%",
+        "1Y": "217%",
+        "updated_at": "31 Juli 2024",
+        "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
+    },
+    "fundamental": {
+        "aset_percentage": "11%",
+        "liabilitas_percentage": "-39%",
+        "pendapatan_percentage": "-22%",
+        "laba_bersih_percentage": "-13%",
+        "updated_at": "31 Juli 2024",
+        "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
     }
 }

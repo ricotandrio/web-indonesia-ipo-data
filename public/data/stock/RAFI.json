@@ -9,7 +9,7 @@
     "final_price": 126.0,
     "line_of_business": "Perseroan bergerak di bidang penjualan bahan baku dan waralaba makanan dan minuman,",
     "address": "Tower A lt,3, Jl, Ampera Raya RW2, Ragunan, Kec, Ps, Minggu, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12540",
-    "website": "https://skbfood,id/",
+    "website": "https://skbfood.id/",
     "number_of_shares_offered": 948090000,
     "%_of_total_shares": 30.31,
     "participant_admin": {
@@ -55,5 +55,22 @@
         "change": 44.0,
         "percentage_change": "34.92%",
         "volume": 102116400.0
+    },
+    "performa": {
+        "1D": "35%",
+        "1W": "39%",
+        "1M": "84%",
+        "6M": "-8%",
+        "1Y": "-49%",
+        "updated_at": "31 Juli 2024",
+        "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
+    },
+    "fundamental": {
+        "aset_percentage": "67%",
+        "liabilitas_percentage": "158%",
+        "pendapatan_percentage": "8%",
+        "laba_bersih_percentage": "1101%",
+        "updated_at": "31 Juli 2024",
+        "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
     }
 }

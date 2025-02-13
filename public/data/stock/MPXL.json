@@ -9,7 +9,7 @@
     "final_price": 108.0,
     "line_of_business": "Bergerak di bidang Pengangkutan dan Perdagangan",
     "address": "Jl, Soekarno Hatta No, 16 A Kampung Baru Raya, Labuhan Ratu, Bandar Lampung Lampung 35148",
-    "website": "https://www,mpxlogistic,com",
+    "website": "https://www.mpxlogistic.com",
     "number_of_shares_offered": 400000000,
     "%_of_total_shares": 20.0,
     "participant_admin": {
@@ -50,5 +50,22 @@
         "change": 37.0,
         "percentage_change": "34.26%",
         "volume": 5516000.0
+    },
+    "performa": {
+        "1D": "34%",
+        "1W": "14%",
+        "1M": "15%",
+        "6M": "59%",
+        "1Y": "36%",
+        "updated_at": "31 Juli 2024",
+        "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
+    },
+    "fundamental": {
+        "aset_percentage": "",
+        "liabilitas_percentage": "",
+        "pendapatan_percentage": "",
+        "laba_bersih_percentage": "",
+        "updated_at": "31 Juli 2024",
+        "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
     }
 }

@@ -9,7 +9,7 @@
     "final_price": 100.0,
     "line_of_business": "Bergerak dalam bidang usaha Industri Makanan Ringan",
     "address": "Kawasan Industri Sentul Jl, Cahaya Raya Kav H5, Desa Leuwinutug, Kec, Citeureup Bogor, Jawa Barat 16180, Indonesia",
-    "website": "https://maxisnacks,com/",
+    "website": "https://maxisnacks.com/",
     "number_of_shares_offered": 1000000000,
     "%_of_total_shares": 10.41,
     "participant_admin": {
@@ -50,5 +50,22 @@
         "change": -15.0,
         "percentage_change": "-15.00%",
         "volume": 243418100.0
+    },
+    "performa": {
+        "1D": "-15%",
+        "1W": "-42%",
+        "1M": "-39%",
+        "6M": "-50%",
+        "1Y": "-51%",
+        "updated_at": "31 Juli 2024",
+        "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
+    },
+    "fundamental": {
+        "aset_percentage": "",
+        "liabilitas_percentage": "",
+        "pendapatan_percentage": "",
+        "laba_bersih_percentage": "",
+        "updated_at": "31 Juli 2024",
+        "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
     }
 }

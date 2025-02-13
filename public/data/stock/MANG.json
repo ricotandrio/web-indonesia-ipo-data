@@ -9,7 +9,7 @@
     "final_price": 100.0,
     "line_of_business": "Jasa Konstruksi Gedung, Pembangunan Infrastruktur Jalan, Produksi Aspal Hot Mix & Beton Ready Mix",
     "address": "Jl, Pondok Pinang Raya No,1, Kebayoran Lama, Jakarta Selatan, DKI Jakarta 12310",
-    "website": "https://www,manggungpolahraya,co,id/",
+    "website": "https://www.manggungpolahraya.co.id/",
     "number_of_shares_offered": 762500000,
     "%_of_total_shares": 20.0,
     "participant_admin": {
@@ -50,5 +50,22 @@
         "change": -10.0,
         "percentage_change": "-10.00%",
         "volume": 45662500.0
+    },
+    "performa": {
+        "1D": "-10%",
+        "1W": "-28%",
+        "1M": "7%",
+        "6M": "30%",
+        "1Y": "",
+        "updated_at": "31 Juli 2024",
+        "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
+    },
+    "fundamental": {
+        "aset_percentage": "",
+        "liabilitas_percentage": "",
+        "pendapatan_percentage": "",
+        "laba_bersih_percentage": "",
+        "updated_at": "31 Juli 2024",
+        "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
     }
 }

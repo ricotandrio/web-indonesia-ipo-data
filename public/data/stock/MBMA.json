@@ -9,7 +9,7 @@
     "final_price": 795.0,
     "line_of_business": "Grup usaha di sektor nikel dan mineral lainnya yang terintegrasi secara vertikal",
     "address": "Treasury Tower Lantai 69, District 8, SCBD Lot 28 Jl Jend, Sudirman Kav, 52-53, Jakarta Selatan 12190, DKI Jakarta",
-    "website": "https://www,merdekabattery,com/",
+    "website": "https://www.merdekabattery.com/",
     "number_of_shares_offered": 11000000000,
     "%_of_total_shares": 10.24,
     "participant_admin": {
@@ -65,5 +65,22 @@
         "change": 90.0,
         "percentage_change": "11.32%",
         "volume": 1303667800.0
+    },
+    "performa": {
+        "1D": "11%",
+        "1W": "1%",
+        "1M": "-1%",
+        "6M": "-10%",
+        "1Y": "-32%",
+        "updated_at": "31 Juli 2024",
+        "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
+    },
+    "fundamental": {
+        "aset_percentage": "",
+        "liabilitas_percentage": "",
+        "pendapatan_percentage": "",
+        "laba_bersih_percentage": "",
+        "updated_at": "31 Juli 2024",
+        "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
     }
 }

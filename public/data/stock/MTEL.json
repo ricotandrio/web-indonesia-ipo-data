@@ -9,7 +9,7 @@
     "final_price": 800.0,
     "line_of_business": "Penyedia Jasa Menara Telekomunikasi",
     "address": "Telkom Landmark Tower Lt, 27 Jl, Gatot Subroto Kavling 52 Jakarta 12710",
-    "website": "https://www,mitratel,co,id/",
+    "website": "https://www.mitratel.co.id/",
     "number_of_shares_offered": 22920512000,
     "%_of_total_shares": 27.63,
     "participant_admin": {
@@ -75,5 +75,22 @@
         "change": -35.0,
         "percentage_change": "-4.38%",
         "volume": 1379410300.0
+    },
+    "performa": {
+        "1D": "-4%",
+        "1W": "-4%",
+        "1M": "-4%",
+        "6M": "-14%",
+        "1Y": "-14%",
+        "updated_at": "31 Juli 2024",
+        "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
+    },
+    "fundamental": {
+        "aset_percentage": "-3%",
+        "liabilitas_percentage": "-8%",
+        "pendapatan_percentage": "13%",
+        "laba_bersih_percentage": "29%",
+        "updated_at": "31 Juli 2024",
+        "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
     }
 }

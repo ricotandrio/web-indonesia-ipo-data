@@ -9,7 +9,7 @@
     "final_price": 272.0,
     "line_of_business": "Jasa Pengangkutan Laut dan Transshipment, serta Intermediate Stockpile melalui Perusahaan Anak",
     "address": "Bakrie Tower Lantai 15, Komplek Rasuna Epicentrum, Jalan H,R, Rasuna Said, Kelurahan Karet Kuningan, Kecamatan Setiabudi, Kota Administrasi Jakarta Selatan, 12940",
-    "website": "https://www,ancaralogistics,co,id",
+    "website": "https://www.ancaralogistics.co.id",
     "number_of_shares_offered": 3165160000,
     "%_of_total_shares": 20.0,
     "participant_admin": {
@@ -55,5 +55,22 @@
         "change": 68.0,
         "percentage_change": "25.00%",
         "volume": 422588100.0
+    },
+    "performa": {
+        "1D": "25%",
+        "1W": "45%",
+        "1M": "80%",
+        "6M": "",
+        "1Y": "",
+        "updated_at": "31 Juli 2024",
+        "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
+    },
+    "fundamental": {
+        "aset_percentage": "",
+        "liabilitas_percentage": "",
+        "pendapatan_percentage": "",
+        "laba_bersih_percentage": "",
+        "updated_at": "31 Juli 2024",
+        "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
     }
 }

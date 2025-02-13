@@ -9,7 +9,7 @@
     "final_price": 170.0,
     "line_of_business": "Bergerak Dalam Bidang Produsen Sarung Tangan Latex",
     "address": "Jalan Utama No 98 Desa Pujimulyo, Kecamatan Sunggal, Kabupaten Deli Serdang, Sumatera Utara 20352",
-    "website": "https://www,malgloves,com",
+    "website": "https://www.malgloves.com",
     "number_of_shares_offered": 1266875000,
     "%_of_total_shares": 20.0,
     "participant_admin": {
@@ -50,5 +50,22 @@
         "change": -8.0,
         "percentage_change": "-4.71%",
         "volume": 196563200.0
+    },
+    "performa": {
+        "1D": "-5%",
+        "1W": "-4%",
+        "1M": "-1%",
+        "6M": "-18%",
+        "1Y": "",
+        "updated_at": "31 Juli 2024",
+        "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
+    },
+    "fundamental": {
+        "aset_percentage": "",
+        "liabilitas_percentage": "",
+        "pendapatan_percentage": "",
+        "laba_bersih_percentage": "",
+        "updated_at": "31 Juli 2024",
+        "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
     }
 }

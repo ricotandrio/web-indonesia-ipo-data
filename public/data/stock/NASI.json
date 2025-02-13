@@ -9,7 +9,7 @@
     "final_price": 155.0,
     "line_of_business": "Bergerak dalam bidang Produsen dan Pemasok Beras",
     "address": "Jalan Mohammad Husni Thamrin Kilometer 2, Duta Indah Iconic Tower G, Lantai 1, Kel, Panunggangan Utara, Kec, Pinang, Kota Tangerang, Prov, Banten, 15143",
-    "website": "https://www,wahanaintimakmur,com",
+    "website": "https://www.wahanaintimakmur.com",
     "number_of_shares_offered": 200000000,
     "%_of_total_shares": 24.77,
     "participant_admin": {
@@ -50,5 +50,22 @@
         "change": 53.0,
         "percentage_change": "34.19%",
         "volume": 105451400.0
+    },
+    "performa": {
+        "1D": "34%",
+        "1W": "39%",
+        "1M": "154%",
+        "6M": "127%",
+        "1Y": "-39%",
+        "updated_at": "31 Juli 2024",
+        "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
+    },
+    "fundamental": {
+        "aset_percentage": "4%",
+        "liabilitas_percentage": "15%",
+        "pendapatan_percentage": "31%",
+        "laba_bersih_percentage": "94%",
+        "updated_at": "31 Juli 2024",
+        "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
     }
 }

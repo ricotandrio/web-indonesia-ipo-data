@@ -9,7 +9,7 @@
     "final_price": 127.0,
     "line_of_business": "bergerak dalam bidang usaha Perdagangan besar",
     "address": "Jalan Raya Perancis, Pergudangan Kosambi Permai, Blok J No, 32, Kabupaten Tangerang, Provinsi Banten",
-    "website": "http://www,nankai,co,id/",
+    "website": "http://www.nankai.co.id/",
     "number_of_shares_offered": 410000000,
     "%_of_total_shares": 20.0,
     "participant_admin": {
@@ -50,5 +50,22 @@
         "change": 44.0,
         "percentage_change": "34.65%",
         "volume": 5151900.0
+    },
+    "performa": {
+        "1D": "35%",
+        "1W": "9%",
+        "1M": "-14%",
+        "6M": "-41%",
+        "1Y": "-54%",
+        "updated_at": "31 Juli 2024",
+        "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
+    },
+    "fundamental": {
+        "aset_percentage": "10%",
+        "liabilitas_percentage": "-30%",
+        "pendapatan_percentage": "45%",
+        "laba_bersih_percentage": "117%",
+        "updated_at": "31 Juli 2024",
+        "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
     }
 }

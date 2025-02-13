@@ -9,7 +9,7 @@
     "final_price": 200.0,
     "line_of_business": "Industri Barang Dari Plastik Untuk Pengemasan",
     "address": "",
-    "website": "https://www,pt-pdp,com",
+    "website": "https://www.pt-pdp.com",
     "number_of_shares_offered": 500000000,
     "%_of_total_shares": 20.0,
     "participant_admin": {
@@ -50,5 +50,22 @@
         "change": 70.0,
         "percentage_change": "35.00%",
         "volume": 2742386.0
+    },
+    "performa": {
+        "1D": "35%",
+        "1W": "16%",
+        "1M": "1%",
+        "6M": "45%",
+        "1Y": "56%",
+        "updated_at": "31 Juli 2024",
+        "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
+    },
+    "fundamental": {
+        "aset_percentage": "3%",
+        "liabilitas_percentage": "-17%",
+        "pendapatan_percentage": "30%",
+        "laba_bersih_percentage": "65%",
+        "updated_at": "31 Juli 2024",
+        "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
     }
 }

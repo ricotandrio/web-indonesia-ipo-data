@@ -9,7 +9,7 @@
     "final_price": 100.0,
     "line_of_business": "Bergerak dalam bidang barang dari karet untuk kesehatan",
     "address": "Jl Raya Serang km, 13,8 Kawasan Industri Tristate, Sukadamai Cikupa Tangerang Indonesia",
-    "website": "http://halonijane,co,id/",
+    "website": "http://halonijane.co.id/",
     "number_of_shares_offered": 1130000000,
     "%_of_total_shares": 20.0,
     "participant_admin": {
@@ -55,5 +55,22 @@
         "change": 17.0,
         "percentage_change": "17.00%",
         "volume": 924347200.0
+    },
+    "performa": {
+        "1D": "17%",
+        "1W": "19%",
+        "1M": "17%",
+        "6M": "-20%",
+        "1Y": "-50%",
+        "updated_at": "31 Juli 2024",
+        "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
+    },
+    "fundamental": {
+        "aset_percentage": "",
+        "liabilitas_percentage": "",
+        "pendapatan_percentage": "",
+        "laba_bersih_percentage": "",
+        "updated_at": "31 Juli 2024",
+        "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
     }
 }

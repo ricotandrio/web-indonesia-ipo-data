@@ -9,7 +9,7 @@
     "final_price": 100.0,
     "line_of_business": "distribusi gas alam dan buatan, transportasi laut dalam negeri dan luar negeri untuk barang khusus",
     "address": "Mangkuluhur City Tower One, lantai 26, Jl, Jend, Gatot Subroto Kav, 1-3 Jakarta 12930, Indonesia",
-    "website": "https://gtsi,co,id/",
+    "website": "https://gtsi.co.id/",
     "number_of_shares_offered": 2400000000,
     "%_of_total_shares": 15.17,
     "participant_admin": {
@@ -50,5 +50,22 @@
         "change": -7.0,
         "percentage_change": "-7.00%",
         "volume": 81597500.0
+    },
+    "performa": {
+        "1D": "-7%",
+        "1W": "-22%",
+        "1M": "-26%",
+        "6M": "-43%",
+        "1Y": "-36%",
+        "updated_at": "31 Juli 2024",
+        "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
+    },
+    "fundamental": {
+        "aset_percentage": "-4%",
+        "liabilitas_percentage": "-17%",
+        "pendapatan_percentage": "34%",
+        "laba_bersih_percentage": "-143%",
+        "updated_at": "31 Juli 2024",
+        "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
     }
 }

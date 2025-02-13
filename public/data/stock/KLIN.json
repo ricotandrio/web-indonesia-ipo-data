@@ -9,7 +9,7 @@
     "final_price": 100.0,
     "line_of_business": "Bergerak di Bidang Produksi dan Perdagangan Produk Alat-Alat Kebersihan yang Ramah Lingkungan",
     "address": "Jl, Raya Driyorejo Km 25, Desa/Kelurahan Driyorejo, Kec, Driyorejo, Kab, Gresik, Jawa Timur 61177, Indonesia",
-    "website": "https://www,klinko,id/",
+    "website": "https://www.klinko.id/",
     "number_of_shares_offered": 230000000,
     "%_of_total_shares": 17.59,
     "participant_admin": {
@@ -50,5 +50,22 @@
         "change": -10.0,
         "percentage_change": "-10.00%",
         "volume": 21058300.0
+    },
+    "performa": {
+        "1D": "-10%",
+        "1W": "-26%",
+        "1M": "-44%",
+        "6M": "-69%",
+        "1Y": "-54%",
+        "updated_at": "31 Juli 2024",
+        "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
+    },
+    "fundamental": {
+        "aset_percentage": "0%",
+        "liabilitas_percentage": "-3%",
+        "pendapatan_percentage": "126%",
+        "laba_bersih_percentage": "-143%",
+        "updated_at": "31 Juli 2024",
+        "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
     }
 }

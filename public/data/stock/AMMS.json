@@ -9,7 +9,7 @@
     "final_price": 100.0,
     "line_of_business": "Menjalankan usaha dalam bidang jasa sarana produksi dan jasa pasca panen budidaya ikan air payau",
     "address": "Generali Tower Grand Rubina Business Park Lt,20 C Jl, H,R, Rasuna Said, Kuningan, Jakarta Selatan 12940",
-    "website": "https://agungmm,com/",
+    "website": "https://agungmm.com/",
     "number_of_shares_offered": 240000000,
     "%_of_total_shares": 20.0,
     "participant_admin": {
@@ -50,5 +50,22 @@
         "change": 5.0,
         "percentage_change": "5.00%",
         "volume": 368990300.0
+    },
+    "performa": {
+        "1D": "5%",
+        "1W": "8%",
+        "1M": "35%",
+        "6M": "-59%",
+        "1Y": "-63%",
+        "updated_at": "31 Juli 2024",
+        "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
+    },
+    "fundamental": {
+        "aset_percentage": "1%",
+        "liabilitas_percentage": "30%",
+        "pendapatan_percentage": "3%",
+        "laba_bersih_percentage": "-86%",
+        "updated_at": "31 Juli 2024",
+        "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
     }
 }

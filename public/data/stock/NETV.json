@@ -9,7 +9,7 @@
     "final_price": 196.0,
     "line_of_business": "Industri Media",
     "address": "Graha Mitra Lt,4 Jl, Jend, Gatot Subroto Kav, 21 RT 003 RW 002, Karet Semanggi, Setiabudi",
-    "website": "https://www,netvisimedia,co,id",
+    "website": "https://www.netvisimedia.co.id",
     "number_of_shares_offered": 765306100,
     "%_of_total_shares": 4.37,
     "participant_admin": {
@@ -50,5 +50,22 @@
         "change": 68.0,
         "percentage_change": "34.69%",
         "volume": 20065700.0
+    },
+    "performa": {
+        "1D": "35%",
+        "1W": "227%",
+        "1M": "160%",
+        "6M": "42%",
+        "1Y": "1%",
+        "updated_at": "31 Juli 2024",
+        "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
+    },
+    "fundamental": {
+        "aset_percentage": "-26%",
+        "liabilitas_percentage": "12%",
+        "pendapatan_percentage": "-46%",
+        "laba_bersih_percentage": "249%",
+        "updated_at": "31 Juli 2024",
+        "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
     }
 }

@@ -9,7 +9,7 @@
     "final_price": 140.0,
     "line_of_business": "Bergerak dalam bidang usaha Perdagangan Teknologi Informasi",
     "address": "The Breeze BSD City L81 - 82 Jln, Grand Boulevard Kabupaten Tangerang Indonesia, 15345",
-    "website": "https://www,wgshub,com/",
+    "website": "https://www.wgshub.com/",
     "number_of_shares_offered": 208500000,
     "%_of_total_shares": 20.0,
     "participant_admin": {
@@ -50,5 +50,22 @@
         "change": 14.0,
         "percentage_change": "10.00%",
         "volume": 142257900.0
+    },
+    "performa": {
+        "1D": "10%",
+        "1W": "59%",
+        "1M": "15%",
+        "6M": "47%",
+        "1Y": "9%",
+        "updated_at": "31 Juli 2024",
+        "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
+    },
+    "fundamental": {
+        "aset_percentage": "5%",
+        "liabilitas_percentage": "-43%",
+        "pendapatan_percentage": "21%",
+        "laba_bersih_percentage": "21%",
+        "updated_at": "31 Juli 2024",
+        "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
     }
 }

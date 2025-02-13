@@ -9,7 +9,7 @@
     "final_price": 110.0,
     "line_of_business": "Bergerak dalam bidang usaha Air Minum Dalam Kemasan",
     "address": "Jl, Waru No, 74 Sambilegi Baru RT,001 RW,003 Maguwoharjo, Depok, Sleman Yogyakarta - Indonesia, 55282",
-    "website": "http://hexsoul,co,id/",
+    "website": "http://hexsoul.co.id/",
     "number_of_shares_offered": 270000000,
     "%_of_total_shares": 24.94,
     "participant_admin": {
@@ -55,5 +55,22 @@
         "change": -11.0,
         "percentage_change": "-10.00%",
         "volume": 6556300.0
+    },
+    "performa": {
+        "1D": "-10%",
+        "1W": "-36%",
+        "1M": "-59%",
+        "6M": "-78%",
+        "1Y": "-80%",
+        "updated_at": "31 Juli 2024",
+        "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
+    },
+    "fundamental": {
+        "aset_percentage": "",
+        "liabilitas_percentage": "",
+        "pendapatan_percentage": "",
+        "laba_bersih_percentage": "",
+        "updated_at": "31 Juli 2024",
+        "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
     }
 }

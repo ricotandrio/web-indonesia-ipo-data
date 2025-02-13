@@ -9,7 +9,7 @@
     "final_price": 900.0,
     "line_of_business": "Bergerak di bidang aktivitas perusahaan holding dan jasa pelayanan kesehatan melalui Perusahaan Anak",
     "address": "Ruko Mega Grosir Cempaka Mas Blok N/21 Sumur Batu, Kemayoran, Jakarta",
-    "website": "https://primayahospital,com/",
+    "website": "https://primayahospital.com/",
     "number_of_shares_offered": 302222300,
     "%_of_total_shares": 2.17,
     "participant_admin": {
@@ -50,5 +50,22 @@
         "change": -10.0,
         "percentage_change": "-1.11%",
         "volume": 63667800.0
+    },
+    "performa": {
+        "1D": "-1%",
+        "1W": "-16%",
+        "1M": "-18%",
+        "6M": "-19%",
+        "1Y": "-23%",
+        "updated_at": "31 Juli 2024",
+        "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
+    },
+    "fundamental": {
+        "aset_percentage": "19%",
+        "liabilitas_percentage": "41%",
+        "pendapatan_percentage": "21%",
+        "laba_bersih_percentage": "305%",
+        "updated_at": "31 Juli 2024",
+        "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
     }
 }
