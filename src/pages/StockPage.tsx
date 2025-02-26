@@ -10,6 +10,8 @@ import { BreadcrumbItem, Breadcrumbs } from '@heroui/breadcrumbs';
 import NavbarComponent from '@src/components/Navbar';
 import { Tab, Tabs } from '@heroui/tabs';
 import { Card, CardBody } from '@heroui/card';
+import { NumberUtil } from '@src/utils/numberUtil';
+import { DateUtil } from '@src/utils/dateUtil';
 
 type Underwriter = {
   code: string;
@@ -151,7 +153,7 @@ const StockPage = () => {
                     <strong>IPO Status:</strong> {stockInformation?.ipo_status}
                   </p>
                   <p>
-                    <strong>Final Price:</strong> Rp {stockInformation?.final_price}
+                    <strong>Final Price:</strong> {NumberUtil.formatToRupiah(stockInformation?.final_price)}
                   </p>
                   <p>
                     <strong>Listing Board:</strong> {stockInformation?.listing_board || "N/A"}
@@ -192,16 +194,16 @@ const StockPage = () => {
               <Card shadow='sm'>
                 <CardBody>
                   <p>
-                    <strong>Opening:</strong> {stockInformation?.book_building_opening}
+                    <strong>Opening:</strong> {DateUtil.formatToLongDate(stockInformation?.book_building_opening)}
                   </p>
                   <p>
-                    <strong>Closing:</strong> {stockInformation?.book_building_closing}
+                    <strong>Closing:</strong> {DateUtil.formatToLongDate(stockInformation?.book_building_closing)}
                   </p>
                   <p>
-                    <strong>Lowest Price:</strong> Rp {stockInformation?.lowest_book_building_price}
+                    <strong>Lowest Price:</strong> {NumberUtil.formatToRupiah(stockInformation?.lowest_book_building_price)}
                   </p>
                   <p>
-                    <strong>Highest Price:</strong> Rp {stockInformation?.highest_book_building_price}
+                    <strong>Highest Price:</strong> {NumberUtil.formatToRupiah(stockInformation?.highest_book_building_price)}
                   </p>
                 </CardBody>
               </Card>
@@ -211,19 +213,19 @@ const StockPage = () => {
               <Card shadow='sm'>
                 <CardBody>
                   <p>
-                    <strong>Opening:</strong> {stockInformation?.opening_of_offering_period}
+                    <strong>Opening:</strong> {DateUtil.formatToLongDate(stockInformation?.opening_of_offering_period)}
                   </p>
                   <p>
-                    <strong>Closing:</strong> {stockInformation?.closing_of_offering_period}
+                    <strong>Closing:</strong> {DateUtil.formatToLongDate(stockInformation?.closing_of_offering_period)}
                   </p>
                   <p>
-                    <strong>Closing Date:</strong> {stockInformation?.closing_date}
+                    <strong>Closing Date:</strong> {DateUtil.formatToLongDate(stockInformation?.closing_date)}
                   </p>
                   <p>
-                    <strong>Distribution Date:</strong> {stockInformation?.distribution_date}
+                    <strong>Distribution Date:</strong> {DateUtil.formatToLongDate(stockInformation?.distribution_date)}
                   </p>
                   <p>
-                    <strong>Listing Date:</strong> {stockInformation?.listing_date}
+                    <strong>Listing Date:</strong> {DateUtil.formatToLongDate(stockInformation?.listing_date)}
                   </p>
                 </CardBody>
               </Card>
@@ -231,7 +233,7 @@ const StockPage = () => {
             <Tab key="underwriters" title="Underwriters">
               <Card shadow='sm'>
                 <CardBody>
-                  <div className='gap-3 flex flex-row'>
+                  <div className='gap-2 sm:gap-3 flex flex-wrap flex-row'>
                     {stockInformation?.underwriters?.map((uw, index) => (
                       <Button key={index} color='primary' variant='flat' onPress={() => navigate(`/uw/${uw?.code}`)}>
                         {uw?.code} - {uw?.name} ({uw?.percentage ? (uw?.percentage * 100) : "NaN"}%)
@@ -244,22 +246,24 @@ const StockPage = () => {
             <Tab key="listing" title="Listing Price">
               <Card shadow='sm'>
                 <CardBody>
+                  <p>Pergerakan harga saham saat hari listing.</p>
+                  <br />
                   <p>
-                    <strong>Open:</strong> Rp {stockInformation?.listing_price?.open}
+                    <strong>Open:</strong> {NumberUtil.formatToRupiah(stockInformation?.listing_price?.open)}
                   </p>
                   <p>
-                    <strong>High:</strong> Rp {stockInformation?.listing_price?.high}
+                    <strong>High:</strong> {NumberUtil.formatToRupiah(stockInformation?.listing_price?.high)}
                   </p>
                   <p>
-                    <strong>Low:</strong> Rp {stockInformation?.listing_price?.low}
+                    <strong>Low:</strong> {NumberUtil.formatToRupiah(stockInformation?.listing_price?.low)}
                   </p>
                   <p>
-                    <strong>Close:</strong> Rp {stockInformation?.listing_price?.close}
+                    <strong>Close:</strong> {NumberUtil.formatToRupiah(stockInformation?.listing_price?.close)}
                   </p>
                   <p>
                     <strong>Change: </strong>
                     <span className={`${stockInformation?.listing_price?.change > 0 ? 'text-green-500' : 'text-red-500'}`}>
-                      {stockInformation?.listing_price?.change} ({stockInformation?.listing_price?.percentage_change})
+                      {NumberUtil.formatToRupiah(stockInformation?.listing_price?.change)} ({stockInformation?.listing_price?.percentage_change})
                     </span>
                   </p>
                   <p>
@@ -271,6 +275,8 @@ const StockPage = () => {
             <Tab key="performance" title="Performance">
               <Card shadow='sm'>
                 <CardBody>
+                  <p>Pergerakan harga saham sejak tercatat.</p>
+                  <br />
                   <p>
                     <strong>1D: </strong>{stockInformation?.performa?.['1D']}
                   </p>
@@ -298,6 +304,8 @@ const StockPage = () => {
             <Tab key="fundamental" title="Fundamental">
               <Card shadow='sm'>
                 <CardBody>
+                  <p>Pertumbuhan kinerja keuangan 1 tahun sejak tercatat.</p>
+                  <br />
                   <p>
                     <strong>Aset: </strong>{stockInformation?.fundamental?.aset_percentage}
                   </p>
@@ -322,10 +330,10 @@ const StockPage = () => {
           </Tabs>
         </div>
 
-        <div className='flex flex-row flex-wrap gap-2'>
+        <div className='flex flex-row flex-wrap gap-3 mt-5'>
 
           <Button
-            className="mt-5 bg-black text-white font-medium"
+            className="sm:mt-5 bg-black text-white font-medium"
             onPress={() => window.open(`https://www.tradingview.com/symbols/IDX-${stockInformation?.ticker_code}`, '_blank')}
             startContent={<img src={TradingViewIcon} className='w-10' />}
           >
@@ -333,7 +341,7 @@ const StockPage = () => {
           </Button>
 
           <Button
-            className="mt-5 text-white font-medium"
+            className="sm:mt-5 text-white font-medium"
             color='success'
             onPress={() => window.open(`https://e-ipo.co.id/id/ipo/index?query=${stockInformation?.ticker_code}`, '_blank')}
             startContent={<img src={RocketIcon} className='w-6' />}
