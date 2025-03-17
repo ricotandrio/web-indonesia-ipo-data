@@ -1,50 +1,38 @@
-# React + TypeScript + Vite
+# Web Indonesia IPO Data
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to the **Web Indonesia IPO Data** repository! Feel free to configure and contribute to this repository by following the guidelines below.
 
-Currently, two official plugins are available:
+## 📂 File Structure & Update Guidelines
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### **`/public/data`**
+This directory contains key data files for the repository. Ensure these are updated correctly when making changes.
 
-## Expanding the ESLint configuration
+- **`information.json`**  
+  - Update this file when making a pull request to ensure the data's timestamp is correct.
 
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
+- **`stocks.json`**  
+  - Update this file when adding a new stock.  
+  - Please **rearrange entries in alphabetical order**.
 
-- Configure the top-level `parserOptions` property like this:
+- **`underwriters.json`**  
+  - Update this file when adding a new underwriter (UW) or new stock.
 
-```js
-export default tseslint.config({
-  languageOptions: {
-    // other options...
-    parserOptions: {
-      project: ['./tsconfig.node.json', './tsconfig.app.json'],
-      tsconfigRootDir: import.meta.dirname,
-    },
-  },
-})
-```
+### **`/public/data/underwriter`**
+- When updating or adding a new stock, **ensure the stock is also added in this directory** under the respective UW code.
+- If there's a new underwriter, use **`template_uw.json`** as a base and place it inside this folder.
 
-- Replace `tseslint.configs.recommended` to `tseslint.configs.recommendedTypeChecked` or `tseslint.configs.strictTypeChecked`
-- Optionally add `...tseslint.configs.stylisticTypeChecked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and update the config:
+### **`/public/data/stock`**
+- If a new stock is added, use **`template_stock.json`** as a template and place the new stock file inside this folder.
 
-```js
-// eslint.config.js
-import react from 'eslint-plugin-react'
+## 🚀 Contribution Guidelines
+1. **Fork** this repository.
+2. **Clone** your fork to your local machine.
+3. Make the necessary changes following the file update guidelines.
+4. Ensure all JSON files remain **properly formatted**.
+5. Submit a **pull request** with a clear description of the changes.
 
-export default tseslint.config({
-  // Set the react version
-  settings: { react: { version: '18.3' } },
-  plugins: {
-    // Add the react plugin
-    react,
-  },
-  rules: {
-    // other rules...
-    // Enable its recommended rules
-    ...react.configs.recommended.rules,
-    ...react.configs['jsx-runtime'].rules,
-  },
-})
-```
+## 📢 Notes
+- Always ensure data consistency and correctness before submitting updates.
+- Follow the alphabetical ordering rule for stocks in `stocks.json`.
+
+Thank you for contributing! 🎉
