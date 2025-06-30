@@ -46,7 +46,7 @@ Before contributing, please review the guidelines below. If you're new to Git or
      gh repo clone ricotandrio/web-indonesia-ipo-data -- --filter=tree:0
      ```
 
-3. Create a new branch from the latest `main`
+3. Create a new branch from the latest `master`
 4. Make your changes following the [Structure]($project-structure) and [Formatting Rules](#formatting-rules)
 
 5. Commit and push to the new branch
