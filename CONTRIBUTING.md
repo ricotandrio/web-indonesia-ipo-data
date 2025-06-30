@@ -128,5 +128,6 @@ npm run <script-name>
 | `check:stock`        | Checks a specific stock file for formatting and consistency. |
 | `check:stocks`       | Validates the global `stocks.json` index file.               |
 | `check:information`  | Validates the `information.json` metadata structure.         |
+| `prettier`           | Run code formatter                                           |
 
 > Tip: Run `check:json` first to catch general formatting errors, then use the more targeted scripts depending on what you’ve modified.
