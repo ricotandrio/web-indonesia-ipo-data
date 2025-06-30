@@ -1,43 +1,54 @@
-# Web Indonesia IPO Data
+<p align="center">
+  <h3 align="center">Web Indonesia IPO Data</h3>
+  <p align="center">
+    Curated dataset of IPOs on the Indonesia Stock Exchange. Track underwriters, offering stats, and listings in a structured and version-controlled format. See the brief and templates before contributing.
+  </p>
+</p>
 
-Welcome to the **Web Indonesia IPO Data** repository! Feel free to configure and contribute to this repository by following the guidelines below.
+<p align="center"
 
-## 📂 File Structure & Update Guidelines
+</p>
 
-### **`/public/data`**
+## Overview
 
-This directory contains key data files for the repository. Ensure these are updated correctly when making changes.
+This repository organizes data on Indonesian IPOs into structured JSON files. It can be consumed by any frontend or backend application for public IPO visualization, analytics, or monitoring tools.
 
-- **`information.json`**
-  - Update this file when making a pull request to ensure the data's timestamp is correct.
+## Usage
 
-- **`stocks.json`**
-  - Update this file when adding a new stock.
-  - Please **rearrange entries in alphabetical order**.
+> [!IMPORTANT]\
+> We ask that all users read our [legal disclaimer](https://github.com/ricotandrio/web-indonesia-ipo-data/DISCLAIMER.md) before using any data from this repository.
 
-- **`underwriters.json`**
-  - Update this file when adding a new underwriter (UW) or new stock.
-
-### **`/public/data/underwriter`**
-
-- When updating or adding a new stock, **ensure the stock is also added in this directory** under the respective UW code.
-- If there's a new underwriter, use **`template_uw.json`** as a base and place it inside this folder.
-
-### **`/public/data/stock`**
-
-- If a new stock is added, use **`template_stock.json`** as a template and place the new stock file inside this folder.
-
-## 🚀 Contribution Guidelines
+## Contribution Guide
 
 1. **Fork** this repository.
-2. **Clone** your fork to your local machine.
-3. Make the necessary changes following the file update guidelines.
-4. Ensure all JSON files remain **properly formatted**.
-5. Submit a **pull request** with a clear description of the changes.
+2. **Clone** to your machine.
+3. Create a new branch.
+4. Follow naming and structure rules.
+5. Validate your changes:
 
-## 📢 Notes
+   * Run JSON linting tools
+   * Ensure alphabetical sorting (especially in `stocks.json`)
+   * Update `information.json` timestamp
+6. Submit a pull request.
 
-- Always ensure data consistency and correctness before submitting updates.
-- Follow the alphabetical ordering rule for stocks in `stocks.json`.
+Please refer to [`brief.md`](./brief.md) for a full explanation of formatting and validation expectations.
 
-Thank you for contributing! 🎉
+---
+
+## Notes
+
+* Submissions with format issues, unsorted lists, or incorrect structure will be rejected.
+* Use `template_stock.json` and `template_uw.json` to avoid schema errors.
+* Pull requests must be clear about the changes introduced.
+
+---
+
+## License
+
+This project is licensed under the MIT License.
+
+---
+
+<p align="center">
+  <i>Thank you for contributing to structured, transparent Indonesian IPO data. ✨</i>
+</p>
