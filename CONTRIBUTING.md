@@ -47,9 +47,11 @@ Before contributing, please review the guidelines below. If you're new to Git or
      ```
 
 3. Create a new branch from the latest `master`
+
 4. Make your changes following the [Structure]($project-structure) and [Formatting Rules](#formatting-rules)
 
 5. Commit and push to the new branch
+
 6. Make a pull request
 
 ### Repository Structure
