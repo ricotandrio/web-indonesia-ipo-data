@@ -4,5 +4,8 @@
     "name": "BUANA CAPITAL SEKURITAS",
     "image": ""
   },
-  "stocks": ["MCOL", "RSGK"]
+  "stocks": [
+    "MCOL", 
+    "RSGK"
+  ]
 }

@@ -4,5 +4,10 @@
     "name": "BINAARTHA SEKURITAS",
     "image": ""
   },
-  "stocks": ["DEWI", "FAMA", "JARR", "LIVE"]
+  "stocks": [
+    "DEWI", 
+    "FAMA", 
+    "JARR", 
+    "LIVE"
+  ]
 }

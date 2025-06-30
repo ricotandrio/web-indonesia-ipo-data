@@ -4,5 +4,7 @@
     "name": "OSO SEKURITAS INDONESIA",
     "image": ""
   },
-  "stocks": ["OBAT"]
+  "stocks": [
+    "OBAT"
+  ]
 }

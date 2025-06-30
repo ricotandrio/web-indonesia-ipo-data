@@ -4,5 +4,13 @@
     "name": "DANATAMA MAKMUR SEKURITAS",
     "image": ""
   },
-  "stocks": ["BSML", "EURO", "HALO", "MKTR", "NTBK", "OLIV", "SAGE"]
+  "stocks": [
+    "BSML", 
+    "EURO", 
+    "HALO", 
+    "MKTR", 
+    "NTBK", 
+    "OLIV", 
+    "SAGE"
+  ]
 }

@@ -4,5 +4,9 @@
     "name": "HENAN PUTIHRAI SEKURITAS",
     "image": ""
   },
-  "stocks": ["CUAN", "DAAZ", "RATU"]
+  "stocks": [
+    "CUAN", 
+    "DAAZ", 
+    "RATU"
+  ]
 }

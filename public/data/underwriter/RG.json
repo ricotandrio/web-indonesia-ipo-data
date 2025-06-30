@@ -4,5 +4,7 @@
     "name": "PROFINDO SEKURITAS INDONESIA",
     "image": ""
   },
-  "stocks": ["PTMR"]
+  "stocks": [
+    "PTMR"
+  ]
 }

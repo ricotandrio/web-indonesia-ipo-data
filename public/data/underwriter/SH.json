@@ -4,5 +4,12 @@
     "name": "ARTHA SEKURITAS INDONESIA",
     "image": ""
   },
-  "stocks": ["ATLA", "BSBK", "SAGE", "STRK", "WIDI", "WINR"]
+  "stocks": [
+    "ATLA", 
+    "BSBK", 
+    "SAGE", 
+    "STRK", 
+    "WIDI", 
+    "WINR"
+  ]
 }

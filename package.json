@@ -8,7 +8,8 @@
     "build": "tsc -b && vite build",
     "lint": "eslint .",
     "preview": "vite preview",
-    "prettier": "prettier --write ."
+    "prettier": "prettier --write .",
+    "check:json": "node scripts/check_json_format.js"
   },
   "dependencies": {
     "@heroui/accordion": "^2.2.8",

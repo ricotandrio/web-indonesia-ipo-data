@@ -4,5 +4,9 @@
     "name": "KOREA INVESTMENT AND SEKURITAS INDONESIA",
     "image": ""
   },
-  "stocks": ["ASHA", "OILS", "UDNG"]
+  "stocks": [
+    "ASHA", 
+    "OILS", 
+    "UDNG"
+  ]
 }

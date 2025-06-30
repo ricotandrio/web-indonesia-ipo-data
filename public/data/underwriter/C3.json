@@ -4,5 +4,7 @@
     "name": "PT CIMB Niaga Sekuritas",
     "image": ""
   },
-  "stocks": ["MDIY"]
+  "stocks": [
+    "MDIY"
+  ]
 }

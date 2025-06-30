@@ -4,5 +4,10 @@
     "name": "DBS VICKERS SEKURITAS INDONESIA",
     "image": ""
   },
-  "stocks": ["AMMN", "BELI", "NCKL", "STAA"]
+  "stocks": [
+    "AMMN", 
+    "BELI", 
+    "NCKL", 
+    "STAA"
+  ]
 }

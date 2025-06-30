@@ -4,5 +4,11 @@
     "name": "RELIANCE SEKURITAS INDONESIA TBK",
     "image": ""
   },
-  "stocks": ["BUAH", "GTSI", "HUMI", "MSJA", "YOII"]
+  "stocks": [
+    "BUAH", 
+    "GTSI", 
+    "HUMI", 
+    "MSJA", 
+    "YOII"
+  ]
 }

@@ -4,5 +4,7 @@
     "name": "PILARMAS INVESTINDO SEKURITAS",
     "image": ""
   },
-  "stocks": ["CGAS"]
+  "stocks": [
+    "CGAS"
+  ]
 }

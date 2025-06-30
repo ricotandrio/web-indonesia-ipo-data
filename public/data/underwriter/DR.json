@@ -4,5 +4,11 @@
     "name": "RHB SEKURITAS INDONESIA",
     "image": ""
   },
-  "stocks": ["BSMT-C1", "CBRE", "HAIS", "KAQI", "MPIX"]
+  "stocks": [
+    "BSMT-C1", 
+    "CBRE", 
+    "HAIS", 
+    "KAQI", 
+    "MPIX"
+  ]
 }

@@ -4,5 +4,9 @@
     "name": "INVESTINDO NUSANTARA SEKURITAS",
     "image": ""
   },
-  "stocks": ["JARR", "MTEL", "RAFI"]
+  "stocks": [
+    "JARR", 
+    "MTEL", 
+    "RAFI"
+  ]
 }

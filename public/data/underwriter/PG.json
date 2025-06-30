@@ -4,5 +4,12 @@
     "name": "PANCA GLOBAL SEKURITAS",
     "image": ""
   },
-  "stocks": ["BSBK", "JARR", "KOCI", "MANG", "STRK", "WINR"]
+  "stocks": [
+    "BSBK", 
+    "JARR", 
+    "KOCI", 
+    "MANG", 
+    "STRK", 
+    "WINR"
+  ]
 }

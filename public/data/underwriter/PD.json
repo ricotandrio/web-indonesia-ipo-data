@@ -4,5 +4,12 @@
     "name": "INDO PREMIER SEKURITAS",
     "image": ""
   },
-  "stocks": ["BELI", "CNMA", "GOTO", "MBMA", "MSTI", "PRAY"]
+  "stocks": [
+    "BELI", 
+    "CNMA", 
+    "GOTO", 
+    "MBMA", 
+    "MSTI", 
+    "PRAY"
+  ]
 }

@@ -4,5 +4,14 @@
     "name": "VICTORIA SEKURITAS INDONESIA",
     "image": ""
   },
-  "stocks": ["BOBA", "KDTN", "NINE", "NPII", "RMKE", "RMKO", "SMGA", "TYRE"]
+  "stocks": [
+    "BOBA", 
+    "KDTN", 
+    "NINE", 
+    "NPII", 
+    "RMKE", 
+    "RMKO", 
+    "SMGA", 
+    "TYRE"
+  ]
 }

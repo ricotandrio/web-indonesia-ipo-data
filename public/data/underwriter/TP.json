@@ -4,5 +4,10 @@
     "name": "OCBC SEKURITAS INDONESIA",
     "image": ""
   },
-  "stocks": ["BREN", "HGII", "IKPM", "NCKL"]
+  "stocks": [
+    "BREN",
+    "HGII",
+    "IKPM",
+    "NCKL"
+  ]
 }

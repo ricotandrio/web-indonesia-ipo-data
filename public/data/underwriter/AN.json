@@ -4,5 +4,9 @@
     "name": "WANTEG SEKURITAS",
     "image": ""
   },
-  "stocks": ["MEDS", "MKTR", "SOUL"]
+  "stocks": [
+    "MEDS", 
+    "MKTR", 
+    "SOUL"
+  ]
 }

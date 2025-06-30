@@ -4,5 +4,13 @@
     "name": "SEMESTA INDOVEST SEKURITAS",
     "image": ""
   },
-  "stocks": ["BDKR", "BINO", "GOLF", "PDPP", "RMKE", "TGUK", "TRGU"]
+  "stocks": [
+    "BDKR", 
+    "BINO", 
+    "GOLF", 
+    "PDPP", 
+    "RMKE", 
+    "TGUK", 
+    "TRGU"
+  ]
 }
