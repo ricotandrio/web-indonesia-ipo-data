@@ -1,7 +1,7 @@
 # Contributing to Web Indonesia IPO Data
 
 > [!IMPORTANT]\
-> We ask that all users read our [legal disclaimer](https://github.com/ricotandrio/web-indonesia-ipo-data/DISCLAIMER.md) before contributing to this repository.
+> We ask that all users read our [legal disclaimer](hhttps://github.com/ricotandrio/web-indonesia-ipo-data/blob/master/DISCLAIMER.md) before contributing to this repository.
 
 ## Contributing Guide
 

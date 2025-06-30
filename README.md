@@ -16,7 +16,7 @@ This repository organizes data on Indonesian IPOs into structured JSON files. It
 ## Usage
 
 > [!IMPORTANT]\
-> We ask that all users read our [legal disclaimer](https://github.com/ricotandrio/web-indonesia-ipo-data/DISCLAIMER.md) before using any data from this repository.
+> We ask that all users read our [legal disclaimer](https://github.com/ricotandrio/web-indonesia-ipo-data/blob/master/DISCLAIMER.md) before using any data from this repository.
 
 ## Contribution Guide
 
