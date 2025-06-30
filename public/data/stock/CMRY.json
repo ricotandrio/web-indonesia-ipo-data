@@ -1,76 +1,76 @@
 {
-    "ipo_status": "Closed",
-    "ticker_code": "CMRY",
-    "image": "",
-    "company_name": "PT Cisarua Mountain Dairy Tbk",
-    "sector": "Consumer Non-Cyclicals",
-    "subsector": "Dairy Products",
-    "listing_board": "Utama",
-    "final_price": 3080.0,
-    "line_of_business": "Bergerak di bidang usaha Produk Susu Premium dan Konsumen Premium",
-    "address": "Rukan Taman Meruya Jl, Komp, Rukan Taman Meruya No,N/27-28 Jakarta Barat 11620 Indonesia",
-    "website": "https://www.cimory.com",
-    "number_of_shares_offered": 1190203000,
-    "%_of_total_shares": 15.0,
-    "participant_admin": {
-        "code": "CC",
-        "name": "MANDIRI SEKURITAS"
+  "ipo_status": "Closed",
+  "ticker_code": "CMRY",
+  "image": "",
+  "company_name": "PT Cisarua Mountain Dairy Tbk",
+  "sector": "Consumer Non-Cyclicals",
+  "subsector": "Dairy Products",
+  "listing_board": "Utama",
+  "final_price": 3080.0,
+  "line_of_business": "Bergerak di bidang usaha Produk Susu Premium dan Konsumen Premium",
+  "address": "Rukan Taman Meruya Jl, Komp, Rukan Taman Meruya No,N/27-28 Jakarta Barat 11620 Indonesia",
+  "website": "https://www.cimory.com",
+  "number_of_shares_offered": 1190203000,
+  "%_of_total_shares": 15.0,
+  "participant_admin": {
+    "code": "CC",
+    "name": "MANDIRI SEKURITAS"
+  },
+  "book_building_opening": "10/11/2021",
+  "book_building_closing": "17/11/2021",
+  "lowest_book_building_price": 2780,
+  "highest_book_building_price": 3160,
+  "opening_of_offering_period": "30/11/2021",
+  "closing_of_offering_period": "02/12/2021",
+  "closing_date": "02/12/2021",
+  "distribution_date": "03/12/2021",
+  "listing_date": "06/12/2021",
+  "ara_arb_percentage": "25%",
+  "underwriters": [
+    {
+      "code": "CC",
+      "name": "MANDIRI SEKURITAS",
+      "percentage": ""
     },
-    "book_building_opening": "10/11/2021",
-    "book_building_closing": "17/11/2021",
-    "lowest_book_building_price": 2780,
-    "highest_book_building_price": 3160,
-    "opening_of_offering_period": "30/11/2021",
-    "closing_of_offering_period": "02/12/2021",
-    "closing_date": "02/12/2021",
-    "distribution_date": "03/12/2021",
-    "listing_date": "06/12/2021",
-    "ara_arb_percentage": "25%",
-    "underwriters": [
-        {
-            "code": "CC",
-            "name": "MANDIRI SEKURITAS",
-            "percentage": ""
-        },
-        {
-            "code": "GR",
-            "name": "PANIN SEKURITAS TBK",
-            "percentage": ""
-        }
-    ],
-    "warrant": {
-        "code": "",
-        "per_share_ratio": 0.0,
-        "exercise_price_(rp)": "",
-        "open": "",
-        "high": "",
-        "low": "",
-        "close": ""
-    },
-    "listing_price": {
-        "open": "",
-        "high": 3500.0,
-        "low": 2870.0,
-        "close": 3410.0,
-        "change": 330.0,
-        "percentage_change": "10.71%",
-        "volume": 134285400.0
-    },
-    "performa": {
-        "1D": "11%",
-        "1W": "12%",
-        "1M": "8%",
-        "6M": "27%",
-        "1Y": "44%",
-        "updated_at": "31 Juli 2024",
-        "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
-    },
-    "fundamental": {
-        "aset_percentage": "11%",
-        "liabilitas_percentage": "6%",
-        "pendapatan_percentage": "56%",
-        "laba_bersih_percentage": "34%",
-        "updated_at": "31 Juli 2024",
-        "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
+    {
+      "code": "GR",
+      "name": "PANIN SEKURITAS TBK",
+      "percentage": ""
     }
+  ],
+  "warrant": {
+    "code": "",
+    "per_share_ratio": 0.0,
+    "exercise_price_(rp)": "",
+    "open": "",
+    "high": "",
+    "low": "",
+    "close": ""
+  },
+  "listing_price": {
+    "open": "",
+    "high": 3500.0,
+    "low": 2870.0,
+    "close": 3410.0,
+    "change": 330.0,
+    "percentage_change": "10.71%",
+    "volume": 134285400.0
+  },
+  "performa": {
+    "1D": "11%",
+    "1W": "12%",
+    "1M": "8%",
+    "6M": "27%",
+    "1Y": "44%",
+    "updated_at": "31 Juli 2024",
+    "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
+  },
+  "fundamental": {
+    "aset_percentage": "11%",
+    "liabilitas_percentage": "6%",
+    "pendapatan_percentage": "56%",
+    "laba_bersih_percentage": "34%",
+    "updated_at": "31 Juli 2024",
+    "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
+  }
 }

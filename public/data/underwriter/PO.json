@@ -1,10 +1,10 @@
 {
-    "underwriter": {
-        "code": "PO",
-        "name": "PILARMAS INVESTINDO SEKURITAS",
-        "image": ""
-    },
-    "stocks": [
-        "CGAS"
-    ]
+  "underwriter": {
+    "code": "PO",
+    "name": "PILARMAS INVESTINDO SEKURITAS",
+    "image": ""
+  },
+  "stocks": [
+    "CGAS"
+  ]
 }

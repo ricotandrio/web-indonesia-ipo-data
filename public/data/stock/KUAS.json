@@ -1,71 +1,71 @@
 {
-    "ipo_status": "Closed",
-    "ticker_code": "KUAS",
-    "image": "",
-    "company_name": "PT ACE OLDFIELDS TBK",
-    "sector": "Industrials",
-    "subsector": "Building Products & Fixtures",
-    "listing_board": "Pengembangan",
-    "final_price": 195.0,
-    "line_of_business": "Perseroan Bergerak Dalam Bidang Usaha Produksi Peralatan Dan Perlengkapan Pengecatan",
-    "address": "Jl, Raya Cileungsi Jonggol KM 22,5 RT,006 RW,002, Cileungsi, Bogor, 16820",
-    "website": "https://www.aceoldfields.com",
-    "number_of_shares_offered": 390000000,
-    "%_of_total_shares": 30.17,
-    "participant_admin": {
-        "code": "XA",
-        "name": "NH KORINDO SEKURITAS INDONESIA"
-    },
-    "book_building_opening": "22/09/2021",
-    "book_building_closing": "27/09/2021",
-    "lowest_book_building_price": 195,
-    "highest_book_building_price": 250,
-    "opening_of_offering_period": "18/10/2021",
-    "closing_of_offering_period": "21/10/2021",
-    "closing_date": "21/10/2021",
-    "distribution_date": "22/10/2021",
-    "listing_date": "25/10/2021",
-    "ara_arb_percentage": "35%",
-    "underwriters": [
-        {
-            "code": "XA",
-            "name": "NH KORINDO SEKURITAS INDONESIA",
-            "percentage": ""
-        }
-    ],
-    "warrant": {
-        "code": "KUAS-W",
-        "per_share_ratio": 0.333333333,
-        "exercise_price_(rp)": 250.0,
-        "open": "-",
-        "high": "-",
-        "low": "-",
-        "close": "-"
-    },
-    "listing_price": {
-        "open": 262.0,
-        "high": 262.0,
-        "low": 262.0,
-        "close": 262.0,
-        "change": 67.0,
-        "percentage_change": "34.36%",
-        "volume": 76419000.0
-    },
-    "performa": {
-        "1D": "34%",
-        "1W": "12%",
-        "1M": "22%",
-        "6M": "-62%",
-        "1Y": "-65%",
-        "updated_at": "31 Juli 2024",
-        "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
-    },
-    "fundamental": {
-        "aset_percentage": "3%",
-        "liabilitas_percentage": "-2%",
-        "pendapatan_percentage": "10%",
-        "laba_bersih_percentage": "27%",
-        "updated_at": "31 Juli 2024",
-        "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
+  "ipo_status": "Closed",
+  "ticker_code": "KUAS",
+  "image": "",
+  "company_name": "PT ACE OLDFIELDS TBK",
+  "sector": "Industrials",
+  "subsector": "Building Products & Fixtures",
+  "listing_board": "Pengembangan",
+  "final_price": 195.0,
+  "line_of_business": "Perseroan Bergerak Dalam Bidang Usaha Produksi Peralatan Dan Perlengkapan Pengecatan",
+  "address": "Jl, Raya Cileungsi Jonggol KM 22,5 RT,006 RW,002, Cileungsi, Bogor, 16820",
+  "website": "https://www.aceoldfields.com",
+  "number_of_shares_offered": 390000000,
+  "%_of_total_shares": 30.17,
+  "participant_admin": {
+    "code": "XA",
+    "name": "NH KORINDO SEKURITAS INDONESIA"
+  },
+  "book_building_opening": "22/09/2021",
+  "book_building_closing": "27/09/2021",
+  "lowest_book_building_price": 195,
+  "highest_book_building_price": 250,
+  "opening_of_offering_period": "18/10/2021",
+  "closing_of_offering_period": "21/10/2021",
+  "closing_date": "21/10/2021",
+  "distribution_date": "22/10/2021",
+  "listing_date": "25/10/2021",
+  "ara_arb_percentage": "35%",
+  "underwriters": [
+    {
+      "code": "XA",
+      "name": "NH KORINDO SEKURITAS INDONESIA",
+      "percentage": ""
     }
+  ],
+  "warrant": {
+    "code": "KUAS-W",
+    "per_share_ratio": 0.333333333,
+    "exercise_price_(rp)": 250.0,
+    "open": "-",
+    "high": "-",
+    "low": "-",
+    "close": "-"
+  },
+  "listing_price": {
+    "open": 262.0,
+    "high": 262.0,
+    "low": 262.0,
+    "close": 262.0,
+    "change": 67.0,
+    "percentage_change": "34.36%",
+    "volume": 76419000.0
+  },
+  "performa": {
+    "1D": "34%",
+    "1W": "12%",
+    "1M": "22%",
+    "6M": "-62%",
+    "1Y": "-65%",
+    "updated_at": "31 Juli 2024",
+    "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
+  },
+  "fundamental": {
+    "aset_percentage": "3%",
+    "liabilitas_percentage": "-2%",
+    "pendapatan_percentage": "10%",
+    "laba_bersih_percentage": "27%",
+    "updated_at": "31 Juli 2024",
+    "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
+  }
 }

@@ -1,81 +1,81 @@
 {
-    "ipo_status": "Closed",
-    "ticker_code": "WINR",
-    "image": "",
-    "company_name": "PT Winner Nusantara Jaya Tbk",
-    "sector": "Properties & Real Estate",
-    "subsector": "Real Estate Development & Management",
-    "listing_board": "Pemantauan Khusus",
-    "final_price": 100.0,
-    "line_of_business": "Bergerak dalam bidang property dan real estate",
-    "address": "",
-    "website": "https://www.winnergroup.id",
-    "number_of_shares_offered": 1500000000,
-    "%_of_total_shares": 28.65,
-    "participant_admin": {
-        "code": "SH",
-        "name": "ARTHA SEKURITAS INDONESIA"
+  "ipo_status": "Closed",
+  "ticker_code": "WINR",
+  "image": "",
+  "company_name": "PT Winner Nusantara Jaya Tbk",
+  "sector": "Properties & Real Estate",
+  "subsector": "Real Estate Development & Management",
+  "listing_board": "Pemantauan Khusus",
+  "final_price": 100.0,
+  "line_of_business": "Bergerak dalam bidang property dan real estate",
+  "address": "",
+  "website": "https://www.winnergroup.id",
+  "number_of_shares_offered": 1500000000,
+  "%_of_total_shares": 28.65,
+  "participant_admin": {
+    "code": "SH",
+    "name": "ARTHA SEKURITAS INDONESIA"
+  },
+  "book_building_opening": "28/03/2022",
+  "book_building_closing": "04/04/2022",
+  "lowest_book_building_price": 100,
+  "highest_book_building_price": 140,
+  "opening_of_offering_period": "19/04/2022",
+  "closing_of_offering_period": "21/04/2022",
+  "closing_date": "21/04/2022",
+  "distribution_date": "22/04/2022",
+  "listing_date": "25/04/2022",
+  "ara_arb_percentage": "35%",
+  "underwriters": [
+    {
+      "code": "SH",
+      "name": "ARTHA SEKURITAS INDONESIA",
+      "percentage": ""
     },
-    "book_building_opening": "28/03/2022",
-    "book_building_closing": "04/04/2022",
-    "lowest_book_building_price": 100,
-    "highest_book_building_price": 140,
-    "opening_of_offering_period": "19/04/2022",
-    "closing_of_offering_period": "21/04/2022",
-    "closing_date": "21/04/2022",
-    "distribution_date": "22/04/2022",
-    "listing_date": "25/04/2022",
-    "ara_arb_percentage": "35%",
-    "underwriters": [
-        {
-            "code": "SH",
-            "name": "ARTHA SEKURITAS INDONESIA",
-            "percentage": ""
-        },
-        {
-            "code": "PG",
-            "name": "PANCA GLOBAL SEKURITAS",
-            "percentage": ""
-        },
-        {
-            "code": "YP",
-            "name": "MIRAE ASSET SEKURITAS INDONESIA",
-            "percentage": ""
-        }
-    ],
-    "warrant": {
-        "code": "WINR-W",
-        "per_share_ratio": 0.866666667,
-        "exercise_price_(rp)": 250.0,
-        "open": "35",
-        "high": "51",
-        "low": "25",
-        "close": "43"
+    {
+      "code": "PG",
+      "name": "PANCA GLOBAL SEKURITAS",
+      "percentage": ""
     },
-    "listing_price": {
-        "open": 130.0,
-        "high": 135.0,
-        "low": 114.0,
-        "close": 135.0,
-        "change": 35.0,
-        "percentage_change": "35.00%",
-        "volume": 1050397000.0
-    },
-    "performa": {
-        "1D": "35%",
-        "1W": "112%",
-        "1M": "76%",
-        "6M": "-50%",
-        "1Y": "-50%",
-        "updated_at": "31 Juli 2024",
-        "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
-    },
-    "fundamental": {
-        "aset_percentage": "8%",
-        "liabilitas_percentage": "5%",
-        "pendapatan_percentage": "1%",
-        "laba_bersih_percentage": "554%",
-        "updated_at": "31 Juli 2024",
-        "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
+    {
+      "code": "YP",
+      "name": "MIRAE ASSET SEKURITAS INDONESIA",
+      "percentage": ""
     }
+  ],
+  "warrant": {
+    "code": "WINR-W",
+    "per_share_ratio": 0.866666667,
+    "exercise_price_(rp)": 250.0,
+    "open": "35",
+    "high": "51",
+    "low": "25",
+    "close": "43"
+  },
+  "listing_price": {
+    "open": 130.0,
+    "high": 135.0,
+    "low": 114.0,
+    "close": 135.0,
+    "change": 35.0,
+    "percentage_change": "35.00%",
+    "volume": 1050397000.0
+  },
+  "performa": {
+    "1D": "35%",
+    "1W": "112%",
+    "1M": "76%",
+    "6M": "-50%",
+    "1Y": "-50%",
+    "updated_at": "31 Juli 2024",
+    "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
+  },
+  "fundamental": {
+    "aset_percentage": "8%",
+    "liabilitas_percentage": "5%",
+    "pendapatan_percentage": "1%",
+    "laba_bersih_percentage": "554%",
+    "updated_at": "31 Juli 2024",
+    "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
+  }
 }

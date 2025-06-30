@@ -1,71 +1,71 @@
 {
-    "ipo_status": "Closed",
-    "ticker_code": "DATA",
-    "image": "",
-    "company_name": "PT Remala Abadi Tbk",
-    "sector": "Technology",
-    "subsector": "IT Services & Consulting",
-    "listing_board": "Pengembangan",
-    "final_price": 188.0,
-    "line_of_business": "ISP, jaringan tetap berbasis kabel/tanpa kabel, dan konsultasi IT",
-    "address": "Graha Mustika Ratu Jalan Gatot Subroto No,74-75, Jakarta Selatan DKI Jakarta 12870",
-    "website": "https://remala.id",
-    "number_of_shares_offered": 275000000,
-    "%_of_total_shares": 20.0,
-    "participant_admin": {
-        "code": "AI",
-        "name": "UOB KAY HIAN SEKURITAS"
-    },
-    "book_building_opening": "05/04/2024",
-    "book_building_closing": "22/04/2024",
-    "lowest_book_building_price": 188,
-    "highest_book_building_price": 208,
-    "opening_of_offering_period": "29/04/2024",
-    "closing_of_offering_period": "03/05/2024",
-    "closing_date": "03/05/2024",
-    "distribution_date": "06/05/2024",
-    "listing_date": "07/05/2024",
-    "ara_arb_percentage": "35%",
-    "underwriters": [
-        {
-            "code": "AI",
-            "name": "UOB KAY HIAN SEKURITAS",
-            "percentage": ""
-        }
-    ],
-    "warrant": {
-        "code": "",
-        "per_share_ratio": 0.0,
-        "exercise_price_(rp)": "",
-        "open": "",
-        "high": "",
-        "low": "",
-        "close": ""
-    },
-    "listing_price": {
-        "open": 252.0,
-        "high": 252.0,
-        "low": 230.0,
-        "close": 252.0,
-        "change": 64.0,
-        "percentage_change": "34.04%",
-        "volume": 58562100.0
-    },
-    "performa": {
-        "1D": "34%",
-        "1W": "132%",
-        "1M": "63%",
-        "6M": "",
-        "1Y": "",
-        "updated_at": "31 Juli 2024",
-        "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
-    },
-    "fundamental": {
-        "aset_percentage": "",
-        "liabilitas_percentage": "",
-        "pendapatan_percentage": "",
-        "laba_bersih_percentage": "",
-        "updated_at": "31 Juli 2024",
-        "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
+  "ipo_status": "Closed",
+  "ticker_code": "DATA",
+  "image": "",
+  "company_name": "PT Remala Abadi Tbk",
+  "sector": "Technology",
+  "subsector": "IT Services & Consulting",
+  "listing_board": "Pengembangan",
+  "final_price": 188.0,
+  "line_of_business": "ISP, jaringan tetap berbasis kabel/tanpa kabel, dan konsultasi IT",
+  "address": "Graha Mustika Ratu Jalan Gatot Subroto No,74-75, Jakarta Selatan DKI Jakarta 12870",
+  "website": "https://remala.id",
+  "number_of_shares_offered": 275000000,
+  "%_of_total_shares": 20.0,
+  "participant_admin": {
+    "code": "AI",
+    "name": "UOB KAY HIAN SEKURITAS"
+  },
+  "book_building_opening": "05/04/2024",
+  "book_building_closing": "22/04/2024",
+  "lowest_book_building_price": 188,
+  "highest_book_building_price": 208,
+  "opening_of_offering_period": "29/04/2024",
+  "closing_of_offering_period": "03/05/2024",
+  "closing_date": "03/05/2024",
+  "distribution_date": "06/05/2024",
+  "listing_date": "07/05/2024",
+  "ara_arb_percentage": "35%",
+  "underwriters": [
+    {
+      "code": "AI",
+      "name": "UOB KAY HIAN SEKURITAS",
+      "percentage": ""
     }
+  ],
+  "warrant": {
+    "code": "",
+    "per_share_ratio": 0.0,
+    "exercise_price_(rp)": "",
+    "open": "",
+    "high": "",
+    "low": "",
+    "close": ""
+  },
+  "listing_price": {
+    "open": 252.0,
+    "high": 252.0,
+    "low": 230.0,
+    "close": 252.0,
+    "change": 64.0,
+    "percentage_change": "34.04%",
+    "volume": 58562100.0
+  },
+  "performa": {
+    "1D": "34%",
+    "1W": "132%",
+    "1M": "63%",
+    "6M": "",
+    "1Y": "",
+    "updated_at": "31 Juli 2024",
+    "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
+  },
+  "fundamental": {
+    "aset_percentage": "",
+    "liabilitas_percentage": "",
+    "pendapatan_percentage": "",
+    "laba_bersih_percentage": "",
+    "updated_at": "31 Juli 2024",
+    "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
+  }
 }

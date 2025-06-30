@@ -1,71 +1,71 @@
 {
-    "ipo_status": "Canceled",
-    "ticker_code": "CABR-C1",
-    "image": "",
-    "company_name": "PT Cahaya Bumi Rezeki Tbk",
-    "sector": "Basic Materials",
-    "subsector": "Diversified Forest",
-    "listing_board": "",
-    "final_price": "",
-    "line_of_business": "Bergerak Dalam Jasa Penunjang Pertanian Lainnya",
-    "address": "Sentra Industri Terpadu Blok E2 nomor 18 Jl, Pantai Indah Selatan Jakarta - Indonesia, 14470",
-    "website": "https://www.cahayabumirezeki.com",
-    "number_of_shares_offered": 300000000,
-    "%_of_total_shares": 23.08,
-    "participant_admin": {
-        "code": "AH",
-        "name": "SHINHAN SEKURITAS INDONESIA"
-    },
-    "book_building_opening": "19/03/2024",
-    "book_building_closing": "21/03/2024",
-    "lowest_book_building_price": 95,
-    "highest_book_building_price": 100,
-    "opening_of_offering_period": "",
-    "closing_of_offering_period": "",
-    "closing_date": "",
-    "distribution_date": "",
-    "listing_date": "",
-    "ara_arb_percentage": "35%",
-    "underwriters": [
-        {
-            "code": "AH",
-            "name": "SHINHAN SEKURITAS INDONESIA",
-            "percentage": ""
-        }
-    ],
-    "warrant": {
-        "code": "",
-        "per_share_ratio": 0.0,
-        "exercise_price_(rp)": "",
-        "open": "",
-        "high": "",
-        "low": "",
-        "close": ""
-    },
-    "listing_price": {
-        "open": "",
-        "high": "",
-        "low": "",
-        "close": "",
-        "change": 0.0,
-        "percentage_change": "",
-        "volume": ""
-    },
-    "performa": {
-        "1D": "",
-        "1W": "",
-        "1M": "",
-        "6M": "",
-        "1Y": "",
-        "updated_at": "31 Juli 2024",
-        "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
-    },
-    "fundamental": {
-        "aset_percentage": "",
-        "liabilitas_percentage": "",
-        "pendapatan_percentage": "",
-        "laba_bersih_percentage": "",
-        "updated_at": "31 Juli 2024",
-        "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
+  "ipo_status": "Canceled",
+  "ticker_code": "CABR-C1",
+  "image": "",
+  "company_name": "PT Cahaya Bumi Rezeki Tbk",
+  "sector": "Basic Materials",
+  "subsector": "Diversified Forest",
+  "listing_board": "",
+  "final_price": "",
+  "line_of_business": "Bergerak Dalam Jasa Penunjang Pertanian Lainnya",
+  "address": "Sentra Industri Terpadu Blok E2 nomor 18 Jl, Pantai Indah Selatan Jakarta - Indonesia, 14470",
+  "website": "https://www.cahayabumirezeki.com",
+  "number_of_shares_offered": 300000000,
+  "%_of_total_shares": 23.08,
+  "participant_admin": {
+    "code": "AH",
+    "name": "SHINHAN SEKURITAS INDONESIA"
+  },
+  "book_building_opening": "19/03/2024",
+  "book_building_closing": "21/03/2024",
+  "lowest_book_building_price": 95,
+  "highest_book_building_price": 100,
+  "opening_of_offering_period": "",
+  "closing_of_offering_period": "",
+  "closing_date": "",
+  "distribution_date": "",
+  "listing_date": "",
+  "ara_arb_percentage": "35%",
+  "underwriters": [
+    {
+      "code": "AH",
+      "name": "SHINHAN SEKURITAS INDONESIA",
+      "percentage": ""
     }
+  ],
+  "warrant": {
+    "code": "",
+    "per_share_ratio": 0.0,
+    "exercise_price_(rp)": "",
+    "open": "",
+    "high": "",
+    "low": "",
+    "close": ""
+  },
+  "listing_price": {
+    "open": "",
+    "high": "",
+    "low": "",
+    "close": "",
+    "change": 0.0,
+    "percentage_change": "",
+    "volume": ""
+  },
+  "performa": {
+    "1D": "",
+    "1W": "",
+    "1M": "",
+    "6M": "",
+    "1Y": "",
+    "updated_at": "31 Juli 2024",
+    "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
+  },
+  "fundamental": {
+    "aset_percentage": "",
+    "liabilitas_percentage": "",
+    "pendapatan_percentage": "",
+    "laba_bersih_percentage": "",
+    "updated_at": "31 Juli 2024",
+    "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
+  }
 }

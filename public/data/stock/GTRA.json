@@ -1,71 +1,71 @@
 {
-    "ipo_status": "Closed",
-    "ticker_code": "GTRA",
-    "image": "",
-    "company_name": "PT Grahaprima Suksesmandiri Tbk",
-    "sector": "Transportation & Logistic",
-    "subsector": "Logistics & Deliveries",
-    "listing_board": "Pengembangan",
-    "final_price": 150.0,
-    "line_of_business": "Bergerak dalam bidang angkutan bermotor untuk barang umum",
-    "address": "Gedung Graha 55 Lt,3, Jalan Tanah Abang II No, 57 Kel, Petojo Selatan, Kec, Gambir, Jakarta Pusat 10160, Indonesia",
-    "website": "https://www.grahatrans.com",
-    "number_of_shares_offered": 378875000,
-    "%_of_total_shares": 20.0,
-    "participant_admin": {
-        "code": "AI",
-        "name": "UOB KAY HIAN SEKURITAS"
-    },
-    "book_building_opening": "27/02/2023",
-    "book_building_closing": "06/03/2023",
-    "lowest_book_building_price": 100,
-    "highest_book_building_price": 150,
-    "opening_of_offering_period": "21/03/2023",
-    "closing_of_offering_period": "28/03/2023",
-    "closing_date": "28/03/2023",
-    "distribution_date": "29/03/2023",
-    "listing_date": "30/03/2023",
-    "ara_arb_percentage": "35%",
-    "underwriters": [
-        {
-            "code": "AI",
-            "name": "UOB KAY HIAN SEKURITAS",
-            "percentage": ""
-        }
-    ],
-    "warrant": {
-        "code": "",
-        "per_share_ratio": 0.0,
-        "exercise_price_(rp)": "",
-        "open": "",
-        "high": "",
-        "low": "",
-        "close": ""
-    },
-    "listing_price": {
-        "open": 202.0,
-        "high": 202.0,
-        "low": 202.0,
-        "close": 202.0,
-        "change": 52.0,
-        "percentage_change": "34.67%",
-        "volume": 11377100.0
-    },
-    "performa": {
-        "1D": "35%",
-        "1W": "85%",
-        "1M": "77%",
-        "6M": "39%",
-        "1Y": "9%",
-        "updated_at": "31 Juli 2024",
-        "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
-    },
-    "fundamental": {
-        "aset_percentage": "",
-        "liabilitas_percentage": "",
-        "pendapatan_percentage": "",
-        "laba_bersih_percentage": "",
-        "updated_at": "31 Juli 2024",
-        "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
+  "ipo_status": "Closed",
+  "ticker_code": "GTRA",
+  "image": "",
+  "company_name": "PT Grahaprima Suksesmandiri Tbk",
+  "sector": "Transportation & Logistic",
+  "subsector": "Logistics & Deliveries",
+  "listing_board": "Pengembangan",
+  "final_price": 150.0,
+  "line_of_business": "Bergerak dalam bidang angkutan bermotor untuk barang umum",
+  "address": "Gedung Graha 55 Lt,3, Jalan Tanah Abang II No, 57 Kel, Petojo Selatan, Kec, Gambir, Jakarta Pusat 10160, Indonesia",
+  "website": "https://www.grahatrans.com",
+  "number_of_shares_offered": 378875000,
+  "%_of_total_shares": 20.0,
+  "participant_admin": {
+    "code": "AI",
+    "name": "UOB KAY HIAN SEKURITAS"
+  },
+  "book_building_opening": "27/02/2023",
+  "book_building_closing": "06/03/2023",
+  "lowest_book_building_price": 100,
+  "highest_book_building_price": 150,
+  "opening_of_offering_period": "21/03/2023",
+  "closing_of_offering_period": "28/03/2023",
+  "closing_date": "28/03/2023",
+  "distribution_date": "29/03/2023",
+  "listing_date": "30/03/2023",
+  "ara_arb_percentage": "35%",
+  "underwriters": [
+    {
+      "code": "AI",
+      "name": "UOB KAY HIAN SEKURITAS",
+      "percentage": ""
     }
+  ],
+  "warrant": {
+    "code": "",
+    "per_share_ratio": 0.0,
+    "exercise_price_(rp)": "",
+    "open": "",
+    "high": "",
+    "low": "",
+    "close": ""
+  },
+  "listing_price": {
+    "open": 202.0,
+    "high": 202.0,
+    "low": 202.0,
+    "close": 202.0,
+    "change": 52.0,
+    "percentage_change": "34.67%",
+    "volume": 11377100.0
+  },
+  "performa": {
+    "1D": "35%",
+    "1W": "85%",
+    "1M": "77%",
+    "6M": "39%",
+    "1Y": "9%",
+    "updated_at": "31 Juli 2024",
+    "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
+  },
+  "fundamental": {
+    "aset_percentage": "",
+    "liabilitas_percentage": "",
+    "pendapatan_percentage": "",
+    "laba_bersih_percentage": "",
+    "updated_at": "31 Juli 2024",
+    "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
+  }
 }

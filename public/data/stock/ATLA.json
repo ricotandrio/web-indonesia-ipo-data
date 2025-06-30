@@ -1,71 +1,71 @@
 {
-    "ipo_status": "Closed",
-    "ticker_code": "ATLA",
-    "image": "",
-    "company_name": "PT Atlantis Subsea Indonesia Tbk",
-    "sector": "Energy",
-    "subsector": "Oil, Gas & Coal Equipment & Services",
-    "listing_board": "Pengembangan",
-    "final_price": 100.0,
-    "line_of_business": "Bergerak dalam Bidang Survei dan Layanan untuk Perusahaan Energi",
-    "address": "",
-    "website": "https://www.atlantissubsea.com",
-    "number_of_shares_offered": 1200000000,
-    "%_of_total_shares": 19.36,
-    "participant_admin": {
-        "code": "SH",
-        "name": "ARTHA SEKURITAS INDONESIA"
-    },
-    "book_building_opening": "19/03/2024",
-    "book_building_closing": "22/03/2024",
-    "lowest_book_building_price": 100,
-    "highest_book_building_price": 120,
-    "opening_of_offering_period": "02/04/2024",
-    "closing_of_offering_period": "04/04/2024",
-    "closing_date": "04/04/2024",
-    "distribution_date": "05/04/2024",
-    "listing_date": "16/04/2024",
-    "ara_arb_percentage": "35%",
-    "underwriters": [
-        {
-            "code": "SH",
-            "name": "ARTHA SEKURITAS INDONESIA",
-            "percentage": ""
-        }
-    ],
-    "warrant": {
-        "code": "ATLA-W",
-        "per_share_ratio": 1.45,
-        "exercise_price_(rp)": 300.0,
-        "open": "20",
-        "high": "60",
-        "low": "17",
-        "close": "48"
-    },
-    "listing_price": {
-        "open": 132.0,
-        "high": 135.0,
-        "low": 132.0,
-        "close": 135.0,
-        "change": 35.0,
-        "percentage_change": "35.00%",
-        "volume": 80462200.0
-    },
-    "performa": {
-        "1D": "35%",
-        "1W": "164%",
-        "1M": "46%",
-        "6M": "",
-        "1Y": "",
-        "updated_at": "31 Juli 2024",
-        "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
-    },
-    "fundamental": {
-        "aset_percentage": "",
-        "liabilitas_percentage": "",
-        "pendapatan_percentage": "",
-        "laba_bersih_percentage": "",
-        "updated_at": "31 Juli 2024",
-        "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
+  "ipo_status": "Closed",
+  "ticker_code": "ATLA",
+  "image": "",
+  "company_name": "PT Atlantis Subsea Indonesia Tbk",
+  "sector": "Energy",
+  "subsector": "Oil, Gas & Coal Equipment & Services",
+  "listing_board": "Pengembangan",
+  "final_price": 100.0,
+  "line_of_business": "Bergerak dalam Bidang Survei dan Layanan untuk Perusahaan Energi",
+  "address": "",
+  "website": "https://www.atlantissubsea.com",
+  "number_of_shares_offered": 1200000000,
+  "%_of_total_shares": 19.36,
+  "participant_admin": {
+    "code": "SH",
+    "name": "ARTHA SEKURITAS INDONESIA"
+  },
+  "book_building_opening": "19/03/2024",
+  "book_building_closing": "22/03/2024",
+  "lowest_book_building_price": 100,
+  "highest_book_building_price": 120,
+  "opening_of_offering_period": "02/04/2024",
+  "closing_of_offering_period": "04/04/2024",
+  "closing_date": "04/04/2024",
+  "distribution_date": "05/04/2024",
+  "listing_date": "16/04/2024",
+  "ara_arb_percentage": "35%",
+  "underwriters": [
+    {
+      "code": "SH",
+      "name": "ARTHA SEKURITAS INDONESIA",
+      "percentage": ""
     }
+  ],
+  "warrant": {
+    "code": "ATLA-W",
+    "per_share_ratio": 1.45,
+    "exercise_price_(rp)": 300.0,
+    "open": "20",
+    "high": "60",
+    "low": "17",
+    "close": "48"
+  },
+  "listing_price": {
+    "open": 132.0,
+    "high": 135.0,
+    "low": 132.0,
+    "close": 135.0,
+    "change": 35.0,
+    "percentage_change": "35.00%",
+    "volume": 80462200.0
+  },
+  "performa": {
+    "1D": "35%",
+    "1W": "164%",
+    "1M": "46%",
+    "6M": "",
+    "1Y": "",
+    "updated_at": "31 Juli 2024",
+    "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
+  },
+  "fundamental": {
+    "aset_percentage": "",
+    "liabilitas_percentage": "",
+    "pendapatan_percentage": "",
+    "laba_bersih_percentage": "",
+    "updated_at": "31 Juli 2024",
+    "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
+  }
 }

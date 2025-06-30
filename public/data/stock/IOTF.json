@@ -1,76 +1,76 @@
 {
-    "ipo_status": "Closed",
-    "ticker_code": "IOTF",
-    "image": "",
-    "company_name": "PT Sumber Sinergi Makmur Tbk",
-    "sector": "Technology",
-    "subsector": "Electronic Equipment & Instruments",
-    "listing_board": "Pengembangan",
-    "final_price": 100.0,
-    "line_of_business": "Distributor dan Instalasi Perangkat Global Positioning System (GPS) untuk Otomotif dan Logistik",
-    "address": "Fox Logger Tower Jl, Cideng Barat nomor 31A, RT, 003/RW, 011, Kelurahan Cideng, Kecamatan Gambir, Jakarta Pusat 10150",
-    "website": "https://www.foxlogger.co.id",
-    "number_of_shares_offered": 1100000000,
-    "%_of_total_shares": 20.83,
-    "participant_admin": {
-        "code": "AH",
-        "name": "SHINHAN SEKURITAS INDONESIA"
+  "ipo_status": "Closed",
+  "ticker_code": "IOTF",
+  "image": "",
+  "company_name": "PT Sumber Sinergi Makmur Tbk",
+  "sector": "Technology",
+  "subsector": "Electronic Equipment & Instruments",
+  "listing_board": "Pengembangan",
+  "final_price": 100.0,
+  "line_of_business": "Distributor dan Instalasi Perangkat Global Positioning System (GPS) untuk Otomotif dan Logistik",
+  "address": "Fox Logger Tower Jl, Cideng Barat nomor 31A, RT, 003/RW, 011, Kelurahan Cideng, Kecamatan Gambir, Jakarta Pusat 10150",
+  "website": "https://www.foxlogger.co.id",
+  "number_of_shares_offered": 1100000000,
+  "%_of_total_shares": 20.83,
+  "participant_admin": {
+    "code": "AH",
+    "name": "SHINHAN SEKURITAS INDONESIA"
+  },
+  "book_building_opening": "14/09/2023",
+  "book_building_closing": "19/09/2023",
+  "lowest_book_building_price": 100,
+  "highest_book_building_price": 120,
+  "opening_of_offering_period": "29/09/2023",
+  "closing_of_offering_period": "04/10/2023",
+  "closing_date": "04/10/2023",
+  "distribution_date": "05/10/2023",
+  "listing_date": "06/10/2023",
+  "ara_arb_percentage": "35%",
+  "underwriters": [
+    {
+      "code": "AH",
+      "name": "SHINHAN SEKURITAS INDONESIA",
+      "percentage": ""
     },
-    "book_building_opening": "14/09/2023",
-    "book_building_closing": "19/09/2023",
-    "lowest_book_building_price": 100,
-    "highest_book_building_price": 120,
-    "opening_of_offering_period": "29/09/2023",
-    "closing_of_offering_period": "04/10/2023",
-    "closing_date": "04/10/2023",
-    "distribution_date": "05/10/2023",
-    "listing_date": "06/10/2023",
-    "ara_arb_percentage": "35%",
-    "underwriters": [
-        {
-            "code": "AH",
-            "name": "SHINHAN SEKURITAS INDONESIA",
-            "percentage": ""
-        },
-        {
-            "code": "CP",
-            "name": "KB VALBURY SEKURITAS",
-            "percentage": ""
-        }
-    ],
-    "warrant": {
-        "code": "IOTF-W",
-        "per_share_ratio": 1.0,
-        "exercise_price_(rp)": 130.0,
-        "open": "-",
-        "high": "-",
-        "low": "-",
-        "close": "-"
-    },
-    "listing_price": {
-        "open": 120.0,
-        "high": 135.0,
-        "low": 120.0,
-        "close": 135.0,
-        "change": 35.0,
-        "percentage_change": "35.00%",
-        "volume": 104582900.0
-    },
-    "performa": {
-        "1D": "35%",
-        "1W": "5%",
-        "1M": "9%",
-        "6M": "37%",
-        "1Y": "",
-        "updated_at": "31 Juli 2024",
-        "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
-    },
-    "fundamental": {
-        "aset_percentage": "",
-        "liabilitas_percentage": "",
-        "pendapatan_percentage": "",
-        "laba_bersih_percentage": "",
-        "updated_at": "31 Juli 2024",
-        "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
+    {
+      "code": "CP",
+      "name": "KB VALBURY SEKURITAS",
+      "percentage": ""
     }
+  ],
+  "warrant": {
+    "code": "IOTF-W",
+    "per_share_ratio": 1.0,
+    "exercise_price_(rp)": 130.0,
+    "open": "-",
+    "high": "-",
+    "low": "-",
+    "close": "-"
+  },
+  "listing_price": {
+    "open": 120.0,
+    "high": 135.0,
+    "low": 120.0,
+    "close": 135.0,
+    "change": 35.0,
+    "percentage_change": "35.00%",
+    "volume": 104582900.0
+  },
+  "performa": {
+    "1D": "35%",
+    "1W": "5%",
+    "1M": "9%",
+    "6M": "37%",
+    "1Y": "",
+    "updated_at": "31 Juli 2024",
+    "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
+  },
+  "fundamental": {
+    "aset_percentage": "",
+    "liabilitas_percentage": "",
+    "pendapatan_percentage": "",
+    "laba_bersih_percentage": "",
+    "updated_at": "31 Juli 2024",
+    "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
+  }
 }

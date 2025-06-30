@@ -9,7 +9,6 @@ import TermsAndConditionsPage from "@src/pages/TermsAndConditions";
 import PrivacyPolicyPage from "@src/pages/PrivacyPolicyPage";
 
 const Router: React.FC = () => {
-
   return (
     <Routes>
       <Route path="/" element={<HomePage />} />
@@ -19,7 +18,10 @@ const Router: React.FC = () => {
       <Route path="/stock/:stockCode" element={<StockPage />} />
 
       <Route path="/disclaimer" element={<DisclaimerPage />} />
-      <Route path="/terms-and-conditions" element={<TermsAndConditionsPage />} />
+      <Route
+        path="/terms-and-conditions"
+        element={<TermsAndConditionsPage />}
+      />
       <Route path="/privacy-policy" element={<PrivacyPolicyPage />} />
     </Routes>
   );

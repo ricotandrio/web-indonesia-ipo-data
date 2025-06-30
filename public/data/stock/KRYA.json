@@ -1,71 +1,71 @@
 {
-    "ipo_status": "Closed",
-    "ticker_code": "KRYA",
-    "image": "",
-    "company_name": "PT Bangun Karya Perkasa Jaya Tbk,",
-    "sector": "Infrastructures",
-    "subsector": "Heavy Constructions & Civil Engineering",
-    "listing_board": "Pengembangan",
-    "final_price": 125.0,
-    "line_of_business": "Bergerak dalam bidang konstruksi umum dan konstruksi baja",
-    "address": "Jl, Pattimura Plaza Segi Delapan C 851-852, Sonokwijenan, Sukomanunggal, Surabaya, Indonesia 60189",
-    "website": "https://www.ptbkpjaya.com/",
-    "number_of_shares_offered": 325000000,
-    "%_of_total_shares": 20.0,
-    "participant_admin": {
-        "code": "IU",
-        "name": "INDO CAPITAL SEKURITAS"
-    },
-    "book_building_opening": "30/06/2022",
-    "book_building_closing": "06/07/2022",
-    "lowest_book_building_price": 120,
-    "highest_book_building_price": 130,
-    "opening_of_offering_period": "19/07/2022",
-    "closing_of_offering_period": "21/07/2022",
-    "closing_date": "21/07/2022",
-    "distribution_date": "22/07/2022",
-    "listing_date": "25/07/2022",
-    "ara_arb_percentage": "35%",
-    "underwriters": [
-        {
-            "code": "IU",
-            "name": "INDO CAPITAL SEKURITAS",
-            "percentage": ""
-        }
-    ],
-    "warrant": {
-        "code": "KRYA-W",
-        "per_share_ratio": 0.5,
-        "exercise_price_(rp)": 156.0,
-        "open": "-",
-        "high": "-",
-        "low": "-",
-        "close": "-"
-    },
-    "listing_price": {
-        "open": "",
-        "high": 168.0,
-        "low": 117.0,
-        "close": 117.0,
-        "change": -8.0,
-        "percentage_change": "-6.40%",
-        "volume": ""
-    },
-    "performa": {
-        "1D": "-6%",
-        "1W": "-18%",
-        "1M": "73%",
-        "6M": "196%",
-        "1Y": "-35%",
-        "updated_at": "31 Juli 2024",
-        "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
-    },
-    "fundamental": {
-        "aset_percentage": "23%",
-        "liabilitas_percentage": "54%",
-        "pendapatan_percentage": "-28%",
-        "laba_bersih_percentage": "-85%",
-        "updated_at": "31 Juli 2024",
-        "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
+  "ipo_status": "Closed",
+  "ticker_code": "KRYA",
+  "image": "",
+  "company_name": "PT Bangun Karya Perkasa Jaya Tbk,",
+  "sector": "Infrastructures",
+  "subsector": "Heavy Constructions & Civil Engineering",
+  "listing_board": "Pengembangan",
+  "final_price": 125.0,
+  "line_of_business": "Bergerak dalam bidang konstruksi umum dan konstruksi baja",
+  "address": "Jl, Pattimura Plaza Segi Delapan C 851-852, Sonokwijenan, Sukomanunggal, Surabaya, Indonesia 60189",
+  "website": "https://www.ptbkpjaya.com/",
+  "number_of_shares_offered": 325000000,
+  "%_of_total_shares": 20.0,
+  "participant_admin": {
+    "code": "IU",
+    "name": "INDO CAPITAL SEKURITAS"
+  },
+  "book_building_opening": "30/06/2022",
+  "book_building_closing": "06/07/2022",
+  "lowest_book_building_price": 120,
+  "highest_book_building_price": 130,
+  "opening_of_offering_period": "19/07/2022",
+  "closing_of_offering_period": "21/07/2022",
+  "closing_date": "21/07/2022",
+  "distribution_date": "22/07/2022",
+  "listing_date": "25/07/2022",
+  "ara_arb_percentage": "35%",
+  "underwriters": [
+    {
+      "code": "IU",
+      "name": "INDO CAPITAL SEKURITAS",
+      "percentage": ""
     }
+  ],
+  "warrant": {
+    "code": "KRYA-W",
+    "per_share_ratio": 0.5,
+    "exercise_price_(rp)": 156.0,
+    "open": "-",
+    "high": "-",
+    "low": "-",
+    "close": "-"
+  },
+  "listing_price": {
+    "open": "",
+    "high": 168.0,
+    "low": 117.0,
+    "close": 117.0,
+    "change": -8.0,
+    "percentage_change": "-6.40%",
+    "volume": ""
+  },
+  "performa": {
+    "1D": "-6%",
+    "1W": "-18%",
+    "1M": "73%",
+    "6M": "196%",
+    "1Y": "-35%",
+    "updated_at": "31 Juli 2024",
+    "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
+  },
+  "fundamental": {
+    "aset_percentage": "23%",
+    "liabilitas_percentage": "54%",
+    "pendapatan_percentage": "-28%",
+    "laba_bersih_percentage": "-85%",
+    "updated_at": "31 Juli 2024",
+    "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
+  }
 }

@@ -1,81 +1,81 @@
 {
-    "ipo_status": "Closed",
-    "ticker_code": "PART",
-    "image": "",
-    "company_name": "PT Cipta Perdana Lancar Tbk",
-    "sector": "Consumer Cyclicals",
-    "subsector": "Auto Parts & Equipment",
-    "listing_board": "Pengembangan",
-    "final_price": 105.0,
-    "line_of_business": "Perseroan bergerak di bidang Manufaktur Komponen Suku Cadang Otomotif, Elektronik dan Sanitasi",
-    "address": "Jl, Prabu Siliwangi KM 0,5 Keroncong, Kec, Jatiuwung, Kota Tangerang Banten 15134",
-    "website": "https://www.ciptaperdanalancar.com",
-    "number_of_shares_offered": 680000000,
-    "%_of_total_shares": 25.0,
-    "participant_admin": {
-        "code": "EP",
-        "name": "MNC SEKURITAS"
+  "ipo_status": "Closed",
+  "ticker_code": "PART",
+  "image": "",
+  "company_name": "PT Cipta Perdana Lancar Tbk",
+  "sector": "Consumer Cyclicals",
+  "subsector": "Auto Parts & Equipment",
+  "listing_board": "Pengembangan",
+  "final_price": 105.0,
+  "line_of_business": "Perseroan bergerak di bidang Manufaktur Komponen Suku Cadang Otomotif, Elektronik dan Sanitasi",
+  "address": "Jl, Prabu Siliwangi KM 0,5 Keroncong, Kec, Jatiuwung, Kota Tangerang Banten 15134",
+  "website": "https://www.ciptaperdanalancar.com",
+  "number_of_shares_offered": 680000000,
+  "%_of_total_shares": 25.0,
+  "participant_admin": {
+    "code": "EP",
+    "name": "MNC SEKURITAS"
+  },
+  "book_building_opening": "14/06/2024",
+  "book_building_closing": "24/06/2024",
+  "lowest_book_building_price": 100,
+  "highest_book_building_price": 105,
+  "opening_of_offering_period": "01/07/2024",
+  "closing_of_offering_period": "03/07/2024",
+  "closing_date": "03/07/2024",
+  "distribution_date": "04/07/2024",
+  "listing_date": "05/07/2024",
+  "ara_arb_percentage": "35%",
+  "underwriters": [
+    {
+      "code": "EP",
+      "name": "MNC SEKURITAS",
+      "percentage": ""
     },
-    "book_building_opening": "14/06/2024",
-    "book_building_closing": "24/06/2024",
-    "lowest_book_building_price": 100,
-    "highest_book_building_price": 105,
-    "opening_of_offering_period": "01/07/2024",
-    "closing_of_offering_period": "03/07/2024",
-    "closing_date": "03/07/2024",
-    "distribution_date": "04/07/2024",
-    "listing_date": "05/07/2024",
-    "ara_arb_percentage": "35%",
-    "underwriters": [
-        {
-            "code": "EP",
-            "name": "MNC SEKURITAS",
-            "percentage": ""
-        },
-        {
-            "code": "AO",
-            "name": "ERDIKHA ELIT SEKURITAS",
-            "percentage": ""
-        },
-        {
-            "code": "CP",
-            "name": "KB VALBURY SEKURITAS",
-            "percentage": ""
-        }
-    ],
-    "warrant": {
-        "code": "PART-W",
-        "per_share_ratio": 1.0,
-        "exercise_price_(rp)": 110.0,
-        "open": "20",
-        "high": "22",
-        "low": "12",
-        "close": "12"
+    {
+      "code": "AO",
+      "name": "ERDIKHA ELIT SEKURITAS",
+      "percentage": ""
     },
-    "listing_price": {
-        "open": 138.0,
-        "high": 141.0,
-        "low": 114.0,
-        "close": 131.0,
-        "change": 26.0,
-        "percentage_change": "24.76%",
-        "volume": 431682700.0
-    },
-    "performa": {
-        "1D": "25%",
-        "1W": "23%",
-        "1M": "",
-        "6M": "",
-        "1Y": "",
-        "updated_at": "31 Juli 2024",
-        "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
-    },
-    "fundamental": {
-        "aset_percentage": "",
-        "liabilitas_percentage": "",
-        "pendapatan_percentage": "",
-        "laba_bersih_percentage": "",
-        "updated_at": "31 Juli 2024",
-        "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
+    {
+      "code": "CP",
+      "name": "KB VALBURY SEKURITAS",
+      "percentage": ""
     }
+  ],
+  "warrant": {
+    "code": "PART-W",
+    "per_share_ratio": 1.0,
+    "exercise_price_(rp)": 110.0,
+    "open": "20",
+    "high": "22",
+    "low": "12",
+    "close": "12"
+  },
+  "listing_price": {
+    "open": 138.0,
+    "high": 141.0,
+    "low": 114.0,
+    "close": 131.0,
+    "change": 26.0,
+    "percentage_change": "24.76%",
+    "volume": 431682700.0
+  },
+  "performa": {
+    "1D": "25%",
+    "1W": "23%",
+    "1M": "",
+    "6M": "",
+    "1Y": "",
+    "updated_at": "31 Juli 2024",
+    "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
+  },
+  "fundamental": {
+    "aset_percentage": "",
+    "liabilitas_percentage": "",
+    "pendapatan_percentage": "",
+    "laba_bersih_percentage": "",
+    "updated_at": "31 Juli 2024",
+    "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
+  }
 }

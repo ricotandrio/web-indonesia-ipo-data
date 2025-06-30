@@ -1,71 +1,71 @@
 {
-    "ipo_status": "Closed",
-    "ticker_code": "SEMA",
-    "image": "",
-    "company_name": "PT SEMACOM INTEGRATED TBK",
-    "sector": "Industrials",
-    "subsector": "Electrical Components & Equipment",
-    "listing_board": "Pengembangan",
-    "final_price": 180.0,
-    "line_of_business": "Produksi Panel, Perakitan Baterai Listrik dan Energi Terbarukan",
-    "address": "Jl, Intan I RT 001/001, Kp, Poncol, Ds, Curug, Kec, Gunung Sindur, Bogor 16340, Jawa Barat",
-    "website": "https://www.semacom-integrated.com",
-    "number_of_shares_offered": 347000000,
-    "%_of_total_shares": 25.76,
-    "participant_admin": {
-        "code": "XA",
-        "name": "NH KORINDO SEKURITAS INDONESIA"
-    },
-    "book_building_opening": "17/12/2021",
-    "book_building_closing": "22/12/2021",
-    "lowest_book_building_price": 180,
-    "highest_book_building_price": 220,
-    "opening_of_offering_period": "04/01/2022",
-    "closing_of_offering_period": "06/01/2022",
-    "closing_date": "06/01/2022",
-    "distribution_date": "07/01/2022",
-    "listing_date": "10/01/2022",
-    "ara_arb_percentage": "35%",
-    "underwriters": [
-        {
-            "code": "XA",
-            "name": "NH KORINDO SEKURITAS INDONESIA",
-            "percentage": ""
-        }
-    ],
-    "warrant": {
-        "code": "SEMA-W",
-        "per_share_ratio": 0.5,
-        "exercise_price_(rp)": 230.0,
-        "open": "-",
-        "high": "-",
-        "low": "-",
-        "close": "-"
-    },
-    "listing_price": {
-        "open": 242.0,
-        "high": 242.0,
-        "low": 242.0,
-        "close": 242.0,
-        "change": 62.0,
-        "percentage_change": "34.44%",
-        "volume": 7914300.0
-    },
-    "performa": {
-        "1D": "34%",
-        "1W": "34%",
-        "1M": "53%",
-        "6M": "12%",
-        "1Y": "-18%",
-        "updated_at": "31 Juli 2024",
-        "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
-    },
-    "fundamental": {
-        "aset_percentage": "22%",
-        "liabilitas_percentage": "44%",
-        "pendapatan_percentage": "47%",
-        "laba_bersih_percentage": "24%",
-        "updated_at": "31 Juli 2024",
-        "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
+  "ipo_status": "Closed",
+  "ticker_code": "SEMA",
+  "image": "",
+  "company_name": "PT SEMACOM INTEGRATED TBK",
+  "sector": "Industrials",
+  "subsector": "Electrical Components & Equipment",
+  "listing_board": "Pengembangan",
+  "final_price": 180.0,
+  "line_of_business": "Produksi Panel, Perakitan Baterai Listrik dan Energi Terbarukan",
+  "address": "Jl, Intan I RT 001/001, Kp, Poncol, Ds, Curug, Kec, Gunung Sindur, Bogor 16340, Jawa Barat",
+  "website": "https://www.semacom-integrated.com",
+  "number_of_shares_offered": 347000000,
+  "%_of_total_shares": 25.76,
+  "participant_admin": {
+    "code": "XA",
+    "name": "NH KORINDO SEKURITAS INDONESIA"
+  },
+  "book_building_opening": "17/12/2021",
+  "book_building_closing": "22/12/2021",
+  "lowest_book_building_price": 180,
+  "highest_book_building_price": 220,
+  "opening_of_offering_period": "04/01/2022",
+  "closing_of_offering_period": "06/01/2022",
+  "closing_date": "06/01/2022",
+  "distribution_date": "07/01/2022",
+  "listing_date": "10/01/2022",
+  "ara_arb_percentage": "35%",
+  "underwriters": [
+    {
+      "code": "XA",
+      "name": "NH KORINDO SEKURITAS INDONESIA",
+      "percentage": ""
     }
+  ],
+  "warrant": {
+    "code": "SEMA-W",
+    "per_share_ratio": 0.5,
+    "exercise_price_(rp)": 230.0,
+    "open": "-",
+    "high": "-",
+    "low": "-",
+    "close": "-"
+  },
+  "listing_price": {
+    "open": 242.0,
+    "high": 242.0,
+    "low": 242.0,
+    "close": 242.0,
+    "change": 62.0,
+    "percentage_change": "34.44%",
+    "volume": 7914300.0
+  },
+  "performa": {
+    "1D": "34%",
+    "1W": "34%",
+    "1M": "53%",
+    "6M": "12%",
+    "1Y": "-18%",
+    "updated_at": "31 Juli 2024",
+    "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
+  },
+  "fundamental": {
+    "aset_percentage": "22%",
+    "liabilitas_percentage": "44%",
+    "pendapatan_percentage": "47%",
+    "laba_bersih_percentage": "24%",
+    "updated_at": "31 Juli 2024",
+    "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
+  }
 }

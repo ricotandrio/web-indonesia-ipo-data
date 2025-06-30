@@ -1,17 +1,17 @@
 {
-    "underwriter": {
-        "code": "MI",
-        "name": "VICTORIA SEKURITAS INDONESIA",
-        "image": ""
-    },
-    "stocks": [
-        "BOBA",
-        "KDTN",
-        "NINE",
-        "NPII",
-        "RMKE",
-        "RMKO",
-        "SMGA",
-        "TYRE"
-    ]
+  "underwriter": {
+    "code": "MI",
+    "name": "VICTORIA SEKURITAS INDONESIA",
+    "image": ""
+  },
+  "stocks": [
+    "BOBA",
+    "KDTN",
+    "NINE",
+    "NPII",
+    "RMKE",
+    "RMKO",
+    "SMGA",
+    "TYRE"
+  ]
 }

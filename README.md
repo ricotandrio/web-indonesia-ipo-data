@@ -1,50 +1,54 @@
-# React + TypeScript + Vite
+<p align="center">
+  <h3 align="center">Web Indonesia IPO Data</h3>
+  <p align="center">
+    Curated dataset of IPOs on the Indonesia Stock Exchange. Track underwriters, offering stats, and listings in a structured and version-controlled format. See the brief and templates before contributing.
+  </p>
+</p>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<p align="center"
 
-Currently, two official plugins are available:
+</p>
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Overview
 
-## Expanding the ESLint configuration
+This repository organizes data on Indonesian IPOs into structured JSON files. It can be consumed by any frontend or backend application for public IPO visualization, analytics, or monitoring tools.
 
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
+## Usage
 
-- Configure the top-level `parserOptions` property like this:
+> [!IMPORTANT]\
+> We ask that all users read our [legal disclaimer](https://github.com/ricotandrio/web-indonesia-ipo-data/DISCLAIMER.md) before using any data from this repository.
 
-```js
-export default tseslint.config({
-  languageOptions: {
-    // other options...
-    parserOptions: {
-      project: ['./tsconfig.node.json', './tsconfig.app.json'],
-      tsconfigRootDir: import.meta.dirname,
-    },
-  },
-})
-```
+## Contribution Guide
 
-- Replace `tseslint.configs.recommended` to `tseslint.configs.recommendedTypeChecked` or `tseslint.configs.strictTypeChecked`
-- Optionally add `...tseslint.configs.stylisticTypeChecked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and update the config:
+1. **Fork** this repository.
+2. **Clone** to your machine.
+3. Create a new branch.
+4. Follow naming and structure rules.
+5. Validate your changes:
 
-```js
-// eslint.config.js
-import react from 'eslint-plugin-react'
+   * Run JSON linting tools
+   * Ensure alphabetical sorting (especially in `stocks.json`)
+   * Update `information.json` timestamp
+6. Submit a pull request.
 
-export default tseslint.config({
-  // Set the react version
-  settings: { react: { version: '18.3' } },
-  plugins: {
-    // Add the react plugin
-    react,
-  },
-  rules: {
-    // other rules...
-    // Enable its recommended rules
-    ...react.configs.recommended.rules,
-    ...react.configs['jsx-runtime'].rules,
-  },
-})
-```
+Please refer to [`brief.md`](./brief.md) for a full explanation of formatting and validation expectations.
+
+---
+
+## Notes
+
+* Submissions with format issues, unsorted lists, or incorrect structure will be rejected.
+* Use `template_stock.json` and `template_uw.json` to avoid schema errors.
+* Pull requests must be clear about the changes introduced.
+
+---
+
+## License
+
+This project is licensed under the MIT License.
+
+---
+
+<p align="center">
+  <i>Thank you for contributing to structured, transparent Indonesian IPO data. ✨</i>
+</p>

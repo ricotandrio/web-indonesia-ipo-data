@@ -1,15 +1,15 @@
 {
-    "underwriter": {
-        "code": "PD",
-        "name": "INDO PREMIER SEKURITAS",
-        "image": ""
-    },
-    "stocks": [
-        "BELI",
-        "CNMA",
-        "GOTO",
-        "MBMA",
-        "MSTI",
-        "PRAY"
-    ]
+  "underwriter": {
+    "code": "PD",
+    "name": "INDO PREMIER SEKURITAS",
+    "image": ""
+  },
+  "stocks": [
+    "BELI",
+    "CNMA",
+    "GOTO",
+    "MBMA",
+    "MSTI",
+    "PRAY"
+  ]
 }

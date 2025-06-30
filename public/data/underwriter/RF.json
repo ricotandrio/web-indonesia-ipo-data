@@ -1,11 +1,11 @@
 {
-    "underwriter": {
-        "code": "RF",
-        "name": "BUANA CAPITAL SEKURITAS",
-        "image": ""
-    },
-    "stocks": [
-        "MCOL",
-        "RSGK"
-    ]
+  "underwriter": {
+    "code": "RF",
+    "name": "BUANA CAPITAL SEKURITAS",
+    "image": ""
+  },
+  "stocks": [
+    "MCOL",
+    "RSGK"
+  ]
 }

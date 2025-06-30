@@ -1,76 +1,76 @@
 {
-    "ipo_status": "Closed",
-    "ticker_code": "CUAN",
-    "image": "",
-    "company_name": "PT Petrindo Jaya Kreasi Tbk",
-    "sector": "Energy",
-    "subsector": "Coal Production",
-    "listing_board": "Utama",
-    "final_price": 220.0,
-    "line_of_business": "Pertambangan Batubara",
-    "address": "Gedung Wisma Barito Pacific, lantai 3 B Jl, Let, Jend, S, Parman Kav, 62-63, Jakarta,",
-    "website": "https://petrindo.co.id",
-    "number_of_shares_offered": 1690000000,
-    "%_of_total_shares": 15.03,
-    "participant_admin": {
-        "code": "HP",
-        "name": "HENAN PUTIHRAI SEKURITAS"
+  "ipo_status": "Closed",
+  "ticker_code": "CUAN",
+  "image": "",
+  "company_name": "PT Petrindo Jaya Kreasi Tbk",
+  "sector": "Energy",
+  "subsector": "Coal Production",
+  "listing_board": "Utama",
+  "final_price": 220.0,
+  "line_of_business": "Pertambangan Batubara",
+  "address": "Gedung Wisma Barito Pacific, lantai 3 B Jl, Let, Jend, S, Parman Kav, 62-63, Jakarta,",
+  "website": "https://petrindo.co.id",
+  "number_of_shares_offered": 1690000000,
+  "%_of_total_shares": 15.03,
+  "participant_admin": {
+    "code": "HP",
+    "name": "HENAN PUTIHRAI SEKURITAS"
+  },
+  "book_building_opening": "17/02/2023",
+  "book_building_closing": "22/02/2023",
+  "lowest_book_building_price": 200,
+  "highest_book_building_price": 220,
+  "opening_of_offering_period": "02/03/2023",
+  "closing_of_offering_period": "06/03/2023",
+  "closing_date": "06/03/2023",
+  "distribution_date": "07/03/2023",
+  "listing_date": "08/03/2023",
+  "ara_arb_percentage": "25%",
+  "underwriters": [
+    {
+      "code": "HP",
+      "name": "HENAN PUTIHRAI SEKURITAS",
+      "percentage": ""
     },
-    "book_building_opening": "17/02/2023",
-    "book_building_closing": "22/02/2023",
-    "lowest_book_building_price": 200,
-    "highest_book_building_price": 220,
-    "opening_of_offering_period": "02/03/2023",
-    "closing_of_offering_period": "06/03/2023",
-    "closing_date": "06/03/2023",
-    "distribution_date": "07/03/2023",
-    "listing_date": "08/03/2023",
-    "ara_arb_percentage": "25%",
-    "underwriters": [
-        {
-            "code": "HP",
-            "name": "HENAN PUTIHRAI SEKURITAS",
-            "percentage": ""
-        },
-        {
-            "code": "OD",
-            "name": "BRI DANAREKSA SEKURITAS",
-            "percentage": ""
-        }
-    ],
-    "warrant": {
-        "code": "",
-        "per_share_ratio": 0.0,
-        "exercise_price_(rp)": "",
-        "open": "",
-        "high": "",
-        "low": "",
-        "close": ""
-    },
-    "listing_price": {
-        "open": 274.0,
-        "high": 274.0,
-        "low": 240.0,
-        "close": 274.0,
-        "change": 54.0,
-        "percentage_change": "24.55%",
-        "volume": 106356200.0
-    },
-    "performa": {
-        "1D": "25%",
-        "1W": "200%",
-        "1M": "309%",
-        "6M": "991%",
-        "1Y": "3014%",
-        "updated_at": "31 Juli 2024",
-        "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
-    },
-    "fundamental": {
-        "aset_percentage": "",
-        "liabilitas_percentage": "",
-        "pendapatan_percentage": "",
-        "laba_bersih_percentage": "",
-        "updated_at": "31 Juli 2024",
-        "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
+    {
+      "code": "OD",
+      "name": "BRI DANAREKSA SEKURITAS",
+      "percentage": ""
     }
+  ],
+  "warrant": {
+    "code": "",
+    "per_share_ratio": 0.0,
+    "exercise_price_(rp)": "",
+    "open": "",
+    "high": "",
+    "low": "",
+    "close": ""
+  },
+  "listing_price": {
+    "open": 274.0,
+    "high": 274.0,
+    "low": 240.0,
+    "close": 274.0,
+    "change": 54.0,
+    "percentage_change": "24.55%",
+    "volume": 106356200.0
+  },
+  "performa": {
+    "1D": "25%",
+    "1W": "200%",
+    "1M": "309%",
+    "6M": "991%",
+    "1Y": "3014%",
+    "updated_at": "31 Juli 2024",
+    "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
+  },
+  "fundamental": {
+    "aset_percentage": "",
+    "liabilitas_percentage": "",
+    "pendapatan_percentage": "",
+    "laba_bersih_percentage": "",
+    "updated_at": "31 Juli 2024",
+    "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
+  }
 }

@@ -1,10 +1,10 @@
 {
-    "underwriter": {
-        "code": "AD",
-        "name": "OSO SEKURITAS INDONESIA",
-        "image": ""
-    },
-    "stocks": [
-        "OBAT"
-    ]
+  "underwriter": {
+    "code": "AD",
+    "name": "OSO SEKURITAS INDONESIA",
+    "image": ""
+  },
+  "stocks": [
+    "OBAT"
+  ]
 }

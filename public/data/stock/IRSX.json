@@ -1,71 +1,71 @@
 {
-    "ipo_status": "Closed",
-    "ticker_code": "IRSX",
-    "image": "",
-    "company_name": "PT Aviana Sinar Abadi Tbk",
-    "sector": "Technology",
-    "subsector": "Software",
-    "listing_board": "Pemantauan Khusus",
-    "final_price": 101.0,
-    "line_of_business": "Bergerak di Bidang Aktivitas Pemrograman Komputer Lainnya",
-    "address": "Jl, Alaydrus No, 66 BC Lantai 3 - RT,10/RW,2, Petojo Utara, Gambir, Kota Jakarta Pusat Daerah Khusus Ibukota Jakarta 10130",
-    "website": "https://aviana.co.id/",
-    "number_of_shares_offered": 1000000000,
-    "%_of_total_shares": 20.0,
-    "participant_admin": {
-        "code": "AH",
-        "name": "SHINHAN SEKURITAS INDONESIA"
-    },
-    "book_building_opening": "11/01/2023",
-    "book_building_closing": "17/01/2023",
-    "lowest_book_building_price": 100,
-    "highest_book_building_price": 101,
-    "opening_of_offering_period": "01/02/2023",
-    "closing_of_offering_period": "03/02/2023",
-    "closing_date": "03/02/2023",
-    "distribution_date": "06/02/2023",
-    "listing_date": "07/02/2023",
-    "ara_arb_percentage": "35%",
-    "underwriters": [
-        {
-            "code": "AH",
-            "name": "SHINHAN SEKURITAS INDONESIA",
-            "percentage": ""
-        }
-    ],
-    "warrant": {
-        "code": "IRSX-W",
-        "per_share_ratio": 1.4,
-        "exercise_price_(rp)": 91.0,
-        "open": "14",
-        "high": "38",
-        "low": "7",
-        "close": "13"
-    },
-    "listing_price": {
-        "open": 131.0,
-        "high": 136.0,
-        "low": 94.0,
-        "close": 103.0,
-        "change": 2.0,
-        "percentage_change": "1.98%",
-        "volume": 687309700.0
-    },
-    "performa": {
-        "1D": "2%",
-        "1W": "-7%",
-        "1M": "-9%",
-        "6M": "4%",
-        "1Y": "-50%",
-        "updated_at": "31 Juli 2024",
-        "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
-    },
-    "fundamental": {
-        "aset_percentage": "",
-        "liabilitas_percentage": "",
-        "pendapatan_percentage": "",
-        "laba_bersih_percentage": "",
-        "updated_at": "31 Juli 2024",
-        "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
+  "ipo_status": "Closed",
+  "ticker_code": "IRSX",
+  "image": "",
+  "company_name": "PT Aviana Sinar Abadi Tbk",
+  "sector": "Technology",
+  "subsector": "Software",
+  "listing_board": "Pemantauan Khusus",
+  "final_price": 101.0,
+  "line_of_business": "Bergerak di Bidang Aktivitas Pemrograman Komputer Lainnya",
+  "address": "Jl, Alaydrus No, 66 BC Lantai 3 - RT,10/RW,2, Petojo Utara, Gambir, Kota Jakarta Pusat Daerah Khusus Ibukota Jakarta 10130",
+  "website": "https://aviana.co.id/",
+  "number_of_shares_offered": 1000000000,
+  "%_of_total_shares": 20.0,
+  "participant_admin": {
+    "code": "AH",
+    "name": "SHINHAN SEKURITAS INDONESIA"
+  },
+  "book_building_opening": "11/01/2023",
+  "book_building_closing": "17/01/2023",
+  "lowest_book_building_price": 100,
+  "highest_book_building_price": 101,
+  "opening_of_offering_period": "01/02/2023",
+  "closing_of_offering_period": "03/02/2023",
+  "closing_date": "03/02/2023",
+  "distribution_date": "06/02/2023",
+  "listing_date": "07/02/2023",
+  "ara_arb_percentage": "35%",
+  "underwriters": [
+    {
+      "code": "AH",
+      "name": "SHINHAN SEKURITAS INDONESIA",
+      "percentage": ""
     }
+  ],
+  "warrant": {
+    "code": "IRSX-W",
+    "per_share_ratio": 1.4,
+    "exercise_price_(rp)": 91.0,
+    "open": "14",
+    "high": "38",
+    "low": "7",
+    "close": "13"
+  },
+  "listing_price": {
+    "open": 131.0,
+    "high": 136.0,
+    "low": 94.0,
+    "close": 103.0,
+    "change": 2.0,
+    "percentage_change": "1.98%",
+    "volume": 687309700.0
+  },
+  "performa": {
+    "1D": "2%",
+    "1W": "-7%",
+    "1M": "-9%",
+    "6M": "4%",
+    "1Y": "-50%",
+    "updated_at": "31 Juli 2024",
+    "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
+  },
+  "fundamental": {
+    "aset_percentage": "",
+    "liabilitas_percentage": "",
+    "pendapatan_percentage": "",
+    "laba_bersih_percentage": "",
+    "updated_at": "31 Juli 2024",
+    "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
+  }
 }

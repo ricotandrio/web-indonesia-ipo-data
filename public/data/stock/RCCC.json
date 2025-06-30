@@ -1,71 +1,71 @@
 {
-    "ipo_status": "Closed",
-    "ticker_code": "RCCC",
-    "image": "",
-    "company_name": "PT Utama Radar Cahaya Tbk",
-    "sector": "Transportation & Logistic",
-    "subsector": "Logistics & Deliveries",
-    "listing_board": "Akselerasi",
-    "final_price": 135.0,
-    "line_of_business": "Bergerak di Bidang Jasa Pengurusan Transportasi (Freight Forwarding)",
-    "address": "Kantor Pusat: Gedung STC Senayan, Lantai 2, Ruang 38, Jl, Asia Afrika Pintu IX, Gelora, Tanah Abang Jakarta Pusat 10270, Indonesia Garasi dan Bengkel: Jl, Curug Dengdeng, Desa Lulut, Kec, Klapanunggal, Cileungsi, Kab, Bogor, Jawa Barat, Indonesia",
-    "website": "https://www.utamaradarcahaya.com",
-    "number_of_shares_offered": 150000000,
-    "%_of_total_shares": 20.0,
-    "participant_admin": {
-        "code": "SA",
-        "name": "ELIT SUKSES SEKURITAS"
-    },
-    "book_building_opening": "08/07/2022",
-    "book_building_closing": "12/07/2022",
-    "lowest_book_building_price": 110,
-    "highest_book_building_price": 150,
-    "opening_of_offering_period": "27/07/2022",
-    "closing_of_offering_period": "29/07/2022",
-    "closing_date": "29/07/2022",
-    "distribution_date": "01/08/2022",
-    "listing_date": "02/08/2022",
-    "ara_arb_percentage": "35%",
-    "underwriters": [
-        {
-            "code": "SA",
-            "name": "ELIT SUKSES SEKURITAS",
-            "percentage": ""
-        }
-    ],
-    "warrant": {
-        "code": "",
-        "per_share_ratio": 0.0,
-        "exercise_price_(rp)": "",
-        "open": "",
-        "high": "",
-        "low": "",
-        "close": ""
-    },
-    "listing_price": {
-        "open": 148.0,
-        "high": 148.0,
-        "low": 122.0,
-        "close": 122.0,
-        "change": -13.0,
-        "percentage_change": "-9.63%",
-        "volume": 215046195.0
-    },
-    "performa": {
-        "1D": "-10%",
-        "1W": "6%",
-        "1M": "-15%",
-        "6M": "-1%",
-        "1Y": "13%",
-        "updated_at": "31 Juli 2024",
-        "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
-    },
-    "fundamental": {
-        "aset_percentage": "41%",
-        "liabilitas_percentage": "94%",
-        "pendapatan_percentage": "24%",
-        "laba_bersih_percentage": "-9%",
-        "updated_at": "31 Juli 2024",
-        "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
+  "ipo_status": "Closed",
+  "ticker_code": "RCCC",
+  "image": "",
+  "company_name": "PT Utama Radar Cahaya Tbk",
+  "sector": "Transportation & Logistic",
+  "subsector": "Logistics & Deliveries",
+  "listing_board": "Akselerasi",
+  "final_price": 135.0,
+  "line_of_business": "Bergerak di Bidang Jasa Pengurusan Transportasi (Freight Forwarding)",
+  "address": "Kantor Pusat: Gedung STC Senayan, Lantai 2, Ruang 38, Jl, Asia Afrika Pintu IX, Gelora, Tanah Abang Jakarta Pusat 10270, Indonesia Garasi dan Bengkel: Jl, Curug Dengdeng, Desa Lulut, Kec, Klapanunggal, Cileungsi, Kab, Bogor, Jawa Barat, Indonesia",
+  "website": "https://www.utamaradarcahaya.com",
+  "number_of_shares_offered": 150000000,
+  "%_of_total_shares": 20.0,
+  "participant_admin": {
+    "code": "SA",
+    "name": "ELIT SUKSES SEKURITAS"
+  },
+  "book_building_opening": "08/07/2022",
+  "book_building_closing": "12/07/2022",
+  "lowest_book_building_price": 110,
+  "highest_book_building_price": 150,
+  "opening_of_offering_period": "27/07/2022",
+  "closing_of_offering_period": "29/07/2022",
+  "closing_date": "29/07/2022",
+  "distribution_date": "01/08/2022",
+  "listing_date": "02/08/2022",
+  "ara_arb_percentage": "35%",
+  "underwriters": [
+    {
+      "code": "SA",
+      "name": "ELIT SUKSES SEKURITAS",
+      "percentage": ""
     }
+  ],
+  "warrant": {
+    "code": "",
+    "per_share_ratio": 0.0,
+    "exercise_price_(rp)": "",
+    "open": "",
+    "high": "",
+    "low": "",
+    "close": ""
+  },
+  "listing_price": {
+    "open": 148.0,
+    "high": 148.0,
+    "low": 122.0,
+    "close": 122.0,
+    "change": -13.0,
+    "percentage_change": "-9.63%",
+    "volume": 215046195.0
+  },
+  "performa": {
+    "1D": "-10%",
+    "1W": "6%",
+    "1M": "-15%",
+    "6M": "-1%",
+    "1Y": "13%",
+    "updated_at": "31 Juli 2024",
+    "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
+  },
+  "fundamental": {
+    "aset_percentage": "41%",
+    "liabilitas_percentage": "94%",
+    "pendapatan_percentage": "24%",
+    "laba_bersih_percentage": "-9%",
+    "updated_at": "31 Juli 2024",
+    "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
+  }
 }

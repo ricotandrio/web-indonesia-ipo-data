@@ -1,71 +1,71 @@
 {
-    "ipo_status": "Closed",
-    "ticker_code": "GULA",
-    "image": "",
-    "company_name": "PT Aman Agrindo Tbk",
-    "sector": "Consumer Non-Cyclicals",
-    "subsector": "Processed Foods",
-    "listing_board": "Pengembangan",
-    "final_price": 250.0,
-    "line_of_business": "Bergerak di bidang perkebunan tebu, perdagangan gula dan industri gula",
-    "address": "Jl,MT, Haryono 864-866 Ruko Bangkong Plaza C-10, Kelurahan Peterongan, Kecamatan Semarang Selatan, Kota Semarang, Provinsi Jawa Tengah, 50242",
-    "website": "https://www.amanagrindo.co.id/",
-    "number_of_shares_offered": 214072500,
-    "%_of_total_shares": 20.0,
-    "participant_admin": {
-        "code": "AI",
-        "name": "UOB KAY HIAN SEKURITAS"
-    },
-    "book_building_opening": "23/06/2022",
-    "book_building_closing": "15/07/2022",
-    "lowest_book_building_price": 250,
-    "highest_book_building_price": 300,
-    "opening_of_offering_period": "28/07/2022",
-    "closing_of_offering_period": "01/08/2022",
-    "closing_date": "01/08/2022",
-    "distribution_date": "02/08/2022",
-    "listing_date": "03/08/2022",
-    "ara_arb_percentage": "25%",
-    "underwriters": [
-        {
-            "code": "AI",
-            "name": "UOB KAY HIAN SEKURITAS",
-            "percentage": ""
-        }
-    ],
-    "warrant": {
-        "code": "",
-        "per_share_ratio": 0.0,
-        "exercise_price_(rp)": "",
-        "open": "",
-        "high": "",
-        "low": "",
-        "close": ""
-    },
-    "listing_price": {
-        "open": 294.0,
-        "high": 312.0,
-        "low": 240.0,
-        "close": 254.0,
-        "change": 4.0,
-        "percentage_change": "1.60%",
-        "volume": 523871000.0
-    },
-    "performa": {
-        "1D": "2%",
-        "1W": "-9%",
-        "1M": "-16%",
-        "6M": "78%",
-        "1Y": "34%",
-        "updated_at": "31 Juli 2024",
-        "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
-    },
-    "fundamental": {
-        "aset_percentage": "13%",
-        "liabilitas_percentage": "45%",
-        "pendapatan_percentage": "100%",
-        "laba_bersih_percentage": "106%",
-        "updated_at": "31 Juli 2024",
-        "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
+  "ipo_status": "Closed",
+  "ticker_code": "GULA",
+  "image": "",
+  "company_name": "PT Aman Agrindo Tbk",
+  "sector": "Consumer Non-Cyclicals",
+  "subsector": "Processed Foods",
+  "listing_board": "Pengembangan",
+  "final_price": 250.0,
+  "line_of_business": "Bergerak di bidang perkebunan tebu, perdagangan gula dan industri gula",
+  "address": "Jl,MT, Haryono 864-866 Ruko Bangkong Plaza C-10, Kelurahan Peterongan, Kecamatan Semarang Selatan, Kota Semarang, Provinsi Jawa Tengah, 50242",
+  "website": "https://www.amanagrindo.co.id/",
+  "number_of_shares_offered": 214072500,
+  "%_of_total_shares": 20.0,
+  "participant_admin": {
+    "code": "AI",
+    "name": "UOB KAY HIAN SEKURITAS"
+  },
+  "book_building_opening": "23/06/2022",
+  "book_building_closing": "15/07/2022",
+  "lowest_book_building_price": 250,
+  "highest_book_building_price": 300,
+  "opening_of_offering_period": "28/07/2022",
+  "closing_of_offering_period": "01/08/2022",
+  "closing_date": "01/08/2022",
+  "distribution_date": "02/08/2022",
+  "listing_date": "03/08/2022",
+  "ara_arb_percentage": "25%",
+  "underwriters": [
+    {
+      "code": "AI",
+      "name": "UOB KAY HIAN SEKURITAS",
+      "percentage": ""
     }
+  ],
+  "warrant": {
+    "code": "",
+    "per_share_ratio": 0.0,
+    "exercise_price_(rp)": "",
+    "open": "",
+    "high": "",
+    "low": "",
+    "close": ""
+  },
+  "listing_price": {
+    "open": 294.0,
+    "high": 312.0,
+    "low": 240.0,
+    "close": 254.0,
+    "change": 4.0,
+    "percentage_change": "1.60%",
+    "volume": 523871000.0
+  },
+  "performa": {
+    "1D": "2%",
+    "1W": "-9%",
+    "1M": "-16%",
+    "6M": "78%",
+    "1Y": "34%",
+    "updated_at": "31 Juli 2024",
+    "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
+  },
+  "fundamental": {
+    "aset_percentage": "13%",
+    "liabilitas_percentage": "45%",
+    "pendapatan_percentage": "100%",
+    "laba_bersih_percentage": "106%",
+    "updated_at": "31 Juli 2024",
+    "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
+  }
 }

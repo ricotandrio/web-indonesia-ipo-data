@@ -1,13 +1,13 @@
 {
-    "underwriter": {
-        "code": "AR",
-        "name": "BINAARTHA SEKURITAS",
-        "image": ""
-    },
-    "stocks": [
-        "DEWI",
-        "FAMA",
-        "JARR",
-        "LIVE"
-    ]
+  "underwriter": {
+    "code": "AR",
+    "name": "BINAARTHA SEKURITAS",
+    "image": ""
+  },
+  "stocks": [
+    "DEWI",
+    "FAMA",
+    "JARR",
+    "LIVE"
+  ]
 }

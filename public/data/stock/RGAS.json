@@ -1,71 +1,71 @@
 {
-    "ipo_status": "Closed",
-    "ticker_code": "RGAS",
-    "image": "",
-    "company_name": "PT Kian Santang Muliatama Tbk",
-    "sector": "Energy",
-    "subsector": "Oil, Gas & Coal Equipment & Services",
-    "listing_board": "Pengembangan",
-    "final_price": 120.0,
-    "line_of_business": "Perdagangan Besar Mesin Peralatan dan Perlengkapan Lainnya, Instalasi Mekanikal, Instalasi Gas",
-    "address": "Jl, Wibawa Mukti II Perum Telkom Satwika Permai Blok A5 No, 8, RT, 009 RW, 009 Kel, Jatiluhur, Kec, Jatiasih, Bekasi, 17425",
-    "website": "https://kianmulia.com/",
-    "number_of_shares_offered": 334200000,
-    "%_of_total_shares": 22.9,
-    "participant_admin": {
-        "code": "AO",
-        "name": "ERDIKHA ELIT SEKURITAS"
-    },
-    "book_building_opening": "16/10/2023",
-    "book_building_closing": "18/10/2023",
-    "lowest_book_building_price": 115,
-    "highest_book_building_price": 122,
-    "opening_of_offering_period": "02/11/2023",
-    "closing_of_offering_period": "06/11/2023",
-    "closing_date": "06/11/2023",
-    "distribution_date": "07/11/2023",
-    "listing_date": "08/11/2023",
-    "ara_arb_percentage": "35%",
-    "underwriters": [
-        {
-            "code": "AO",
-            "name": "ERDIKHA ELIT SEKURITAS",
-            "percentage": ""
-        }
-    ],
-    "warrant": {
-        "code": "RGAS-W",
-        "per_share_ratio": 0.6,
-        "exercise_price_(rp)": 210.0,
-        "open": "-",
-        "high": "-",
-        "low": "-",
-        "close": "-"
-    },
-    "listing_price": {
-        "open": 124.0,
-        "high": 150.0,
-        "low": 120.0,
-        "close": 125.0,
-        "change": 5.0,
-        "percentage_change": "4.17%",
-        "volume": 545672700.0
-    },
-    "performa": {
-        "1D": "4%",
-        "1W": "-8%",
-        "1M": "-13%",
-        "6M": "-21%",
-        "1Y": "",
-        "updated_at": "31 Juli 2024",
-        "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
-    },
-    "fundamental": {
-        "aset_percentage": "",
-        "liabilitas_percentage": "",
-        "pendapatan_percentage": "",
-        "laba_bersih_percentage": "",
-        "updated_at": "31 Juli 2024",
-        "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
+  "ipo_status": "Closed",
+  "ticker_code": "RGAS",
+  "image": "",
+  "company_name": "PT Kian Santang Muliatama Tbk",
+  "sector": "Energy",
+  "subsector": "Oil, Gas & Coal Equipment & Services",
+  "listing_board": "Pengembangan",
+  "final_price": 120.0,
+  "line_of_business": "Perdagangan Besar Mesin Peralatan dan Perlengkapan Lainnya, Instalasi Mekanikal, Instalasi Gas",
+  "address": "Jl, Wibawa Mukti II Perum Telkom Satwika Permai Blok A5 No, 8, RT, 009 RW, 009 Kel, Jatiluhur, Kec, Jatiasih, Bekasi, 17425",
+  "website": "https://kianmulia.com/",
+  "number_of_shares_offered": 334200000,
+  "%_of_total_shares": 22.9,
+  "participant_admin": {
+    "code": "AO",
+    "name": "ERDIKHA ELIT SEKURITAS"
+  },
+  "book_building_opening": "16/10/2023",
+  "book_building_closing": "18/10/2023",
+  "lowest_book_building_price": 115,
+  "highest_book_building_price": 122,
+  "opening_of_offering_period": "02/11/2023",
+  "closing_of_offering_period": "06/11/2023",
+  "closing_date": "06/11/2023",
+  "distribution_date": "07/11/2023",
+  "listing_date": "08/11/2023",
+  "ara_arb_percentage": "35%",
+  "underwriters": [
+    {
+      "code": "AO",
+      "name": "ERDIKHA ELIT SEKURITAS",
+      "percentage": ""
     }
+  ],
+  "warrant": {
+    "code": "RGAS-W",
+    "per_share_ratio": 0.6,
+    "exercise_price_(rp)": 210.0,
+    "open": "-",
+    "high": "-",
+    "low": "-",
+    "close": "-"
+  },
+  "listing_price": {
+    "open": 124.0,
+    "high": 150.0,
+    "low": 120.0,
+    "close": 125.0,
+    "change": 5.0,
+    "percentage_change": "4.17%",
+    "volume": 545672700.0
+  },
+  "performa": {
+    "1D": "4%",
+    "1W": "-8%",
+    "1M": "-13%",
+    "6M": "-21%",
+    "1Y": "",
+    "updated_at": "31 Juli 2024",
+    "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
+  },
+  "fundamental": {
+    "aset_percentage": "",
+    "liabilitas_percentage": "",
+    "pendapatan_percentage": "",
+    "laba_bersih_percentage": "",
+    "updated_at": "31 Juli 2024",
+    "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
+  }
 }

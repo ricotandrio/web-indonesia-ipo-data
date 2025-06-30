@@ -1,10 +1,10 @@
 {
-    "underwriter": {
-        "code": "RG",
-        "name": "PROFINDO SEKURITAS INDONESIA",
-        "image": ""
-    },
-    "stocks": [
-        "PTMR"
-    ]
+  "underwriter": {
+    "code": "RG",
+    "name": "PROFINDO SEKURITAS INDONESIA",
+    "image": ""
+  },
+  "stocks": [
+    "PTMR"
+  ]
 }

@@ -1,71 +1,71 @@
 {
-    "ipo_status": "Closed",
-    "ticker_code": "NASI",
-    "image": "",
-    "company_name": "PT Wahana Inti Makmur Tbk",
-    "sector": "Consumer Non-Cyclicals",
-    "subsector": "Food Retail & Distributors",
-    "listing_board": "Pengembangan",
-    "final_price": 155.0,
-    "line_of_business": "Bergerak dalam bidang Produsen dan Pemasok Beras",
-    "address": "Jalan Mohammad Husni Thamrin Kilometer 2, Duta Indah Iconic Tower G, Lantai 1, Kel, Panunggangan Utara, Kec, Pinang, Kota Tangerang, Prov, Banten, 15143",
-    "website": "https://www.wahanaintimakmur.com",
-    "number_of_shares_offered": 200000000,
-    "%_of_total_shares": 24.77,
-    "participant_admin": {
-        "code": "AI",
-        "name": "UOB KAY HIAN SEKURITAS"
-    },
-    "book_building_opening": "17/11/2021",
-    "book_building_closing": "23/11/2021",
-    "lowest_book_building_price": 140,
-    "highest_book_building_price": 160,
-    "opening_of_offering_period": "07/12/2021",
-    "closing_of_offering_period": "09/12/2021",
-    "closing_date": "09/12/2021",
-    "distribution_date": "10/12/2021",
-    "listing_date": "13/12/2021",
-    "ara_arb_percentage": "35%",
-    "underwriters": [
-        {
-            "code": "AI",
-            "name": "UOB KAY HIAN SEKURITAS",
-            "percentage": ""
-        }
-    ],
-    "warrant": {
-        "code": "",
-        "per_share_ratio": 0.0,
-        "exercise_price_(rp)": "",
-        "open": "",
-        "high": "",
-        "low": "",
-        "close": ""
-    },
-    "listing_price": {
-        "open": 156.0,
-        "high": 208.0,
-        "low": 150.0,
-        "close": 208.0,
-        "change": 53.0,
-        "percentage_change": "34.19%",
-        "volume": 105451400.0
-    },
-    "performa": {
-        "1D": "34%",
-        "1W": "39%",
-        "1M": "154%",
-        "6M": "127%",
-        "1Y": "-39%",
-        "updated_at": "31 Juli 2024",
-        "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
-    },
-    "fundamental": {
-        "aset_percentage": "4%",
-        "liabilitas_percentage": "15%",
-        "pendapatan_percentage": "31%",
-        "laba_bersih_percentage": "94%",
-        "updated_at": "31 Juli 2024",
-        "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
+  "ipo_status": "Closed",
+  "ticker_code": "NASI",
+  "image": "",
+  "company_name": "PT Wahana Inti Makmur Tbk",
+  "sector": "Consumer Non-Cyclicals",
+  "subsector": "Food Retail & Distributors",
+  "listing_board": "Pengembangan",
+  "final_price": 155.0,
+  "line_of_business": "Bergerak dalam bidang Produsen dan Pemasok Beras",
+  "address": "Jalan Mohammad Husni Thamrin Kilometer 2, Duta Indah Iconic Tower G, Lantai 1, Kel, Panunggangan Utara, Kec, Pinang, Kota Tangerang, Prov, Banten, 15143",
+  "website": "https://www.wahanaintimakmur.com",
+  "number_of_shares_offered": 200000000,
+  "%_of_total_shares": 24.77,
+  "participant_admin": {
+    "code": "AI",
+    "name": "UOB KAY HIAN SEKURITAS"
+  },
+  "book_building_opening": "17/11/2021",
+  "book_building_closing": "23/11/2021",
+  "lowest_book_building_price": 140,
+  "highest_book_building_price": 160,
+  "opening_of_offering_period": "07/12/2021",
+  "closing_of_offering_period": "09/12/2021",
+  "closing_date": "09/12/2021",
+  "distribution_date": "10/12/2021",
+  "listing_date": "13/12/2021",
+  "ara_arb_percentage": "35%",
+  "underwriters": [
+    {
+      "code": "AI",
+      "name": "UOB KAY HIAN SEKURITAS",
+      "percentage": ""
     }
+  ],
+  "warrant": {
+    "code": "",
+    "per_share_ratio": 0.0,
+    "exercise_price_(rp)": "",
+    "open": "",
+    "high": "",
+    "low": "",
+    "close": ""
+  },
+  "listing_price": {
+    "open": 156.0,
+    "high": 208.0,
+    "low": 150.0,
+    "close": 208.0,
+    "change": 53.0,
+    "percentage_change": "34.19%",
+    "volume": 105451400.0
+  },
+  "performa": {
+    "1D": "34%",
+    "1W": "39%",
+    "1M": "154%",
+    "6M": "127%",
+    "1Y": "-39%",
+    "updated_at": "31 Juli 2024",
+    "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
+  },
+  "fundamental": {
+    "aset_percentage": "4%",
+    "liabilitas_percentage": "15%",
+    "pendapatan_percentage": "31%",
+    "laba_bersih_percentage": "94%",
+    "updated_at": "31 Juli 2024",
+    "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
+  }
 }

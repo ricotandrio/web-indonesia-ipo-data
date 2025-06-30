@@ -1,71 +1,71 @@
 {
-    "ipo_status": "Closed",
-    "ticker_code": "FWCT",
-    "image": "",
-    "company_name": "PT Wijaya Cahaya Timber Tbk",
-    "sector": "Basic Materials",
-    "subsector": "Timber",
-    "listing_board": "Pengembangan",
-    "final_price": 118.0,
-    "line_of_business": "Industri Kayu Lapis",
-    "address": "Jl, Puri Indah, Ruko Sentra Niaga Puri Indah Blok T1 No,47, Kembangan Selatan, Kembangan, Jakarta Barat, Jakarta 11610",
-    "website": "http://wijayacahayatimber.com/",
-    "number_of_shares_offered": 375000000,
-    "%_of_total_shares": 20.0,
-    "participant_admin": {
-        "code": "YJ",
-        "name": "LOTUS ANDALAN SEKURITAS"
-    },
-    "book_building_opening": "09/01/2023",
-    "book_building_closing": "16/01/2023",
-    "lowest_book_building_price": 108,
-    "highest_book_building_price": 118,
-    "opening_of_offering_period": "26/01/2023",
-    "closing_of_offering_period": "30/01/2023",
-    "closing_date": "30/01/2023",
-    "distribution_date": "31/01/2023",
-    "listing_date": "01/02/2023",
-    "ara_arb_percentage": "35%",
-    "underwriters": [
-        {
-            "code": "YJ",
-            "name": "LOTUS ANDALAN SEKURITAS",
-            "percentage": ""
-        }
-    ],
-    "warrant": {
-        "code": "",
-        "per_share_ratio": 0.0,
-        "exercise_price_(rp)": "",
-        "open": "",
-        "high": "",
-        "low": "",
-        "close": ""
-    },
-    "listing_price": {
-        "open": 150.0,
-        "high": 159.0,
-        "low": 150.0,
-        "close": 159.0,
-        "change": 41.0,
-        "percentage_change": "34.75%",
-        "volume": 12502500.0
-    },
-    "performa": {
-        "1D": "35%",
-        "1W": "2%",
-        "1M": "-7%",
-        "6M": "-56%",
-        "1Y": "-40%",
-        "updated_at": "31 Juli 2024",
-        "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
-    },
-    "fundamental": {
-        "aset_percentage": "",
-        "liabilitas_percentage": "",
-        "pendapatan_percentage": "",
-        "laba_bersih_percentage": "",
-        "updated_at": "31 Juli 2024",
-        "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
+  "ipo_status": "Closed",
+  "ticker_code": "FWCT",
+  "image": "",
+  "company_name": "PT Wijaya Cahaya Timber Tbk",
+  "sector": "Basic Materials",
+  "subsector": "Timber",
+  "listing_board": "Pengembangan",
+  "final_price": 118.0,
+  "line_of_business": "Industri Kayu Lapis",
+  "address": "Jl, Puri Indah, Ruko Sentra Niaga Puri Indah Blok T1 No,47, Kembangan Selatan, Kembangan, Jakarta Barat, Jakarta 11610",
+  "website": "http://wijayacahayatimber.com/",
+  "number_of_shares_offered": 375000000,
+  "%_of_total_shares": 20.0,
+  "participant_admin": {
+    "code": "YJ",
+    "name": "LOTUS ANDALAN SEKURITAS"
+  },
+  "book_building_opening": "09/01/2023",
+  "book_building_closing": "16/01/2023",
+  "lowest_book_building_price": 108,
+  "highest_book_building_price": 118,
+  "opening_of_offering_period": "26/01/2023",
+  "closing_of_offering_period": "30/01/2023",
+  "closing_date": "30/01/2023",
+  "distribution_date": "31/01/2023",
+  "listing_date": "01/02/2023",
+  "ara_arb_percentage": "35%",
+  "underwriters": [
+    {
+      "code": "YJ",
+      "name": "LOTUS ANDALAN SEKURITAS",
+      "percentage": ""
     }
+  ],
+  "warrant": {
+    "code": "",
+    "per_share_ratio": 0.0,
+    "exercise_price_(rp)": "",
+    "open": "",
+    "high": "",
+    "low": "",
+    "close": ""
+  },
+  "listing_price": {
+    "open": 150.0,
+    "high": 159.0,
+    "low": 150.0,
+    "close": 159.0,
+    "change": 41.0,
+    "percentage_change": "34.75%",
+    "volume": 12502500.0
+  },
+  "performa": {
+    "1D": "35%",
+    "1W": "2%",
+    "1M": "-7%",
+    "6M": "-56%",
+    "1Y": "-40%",
+    "updated_at": "31 Juli 2024",
+    "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
+  },
+  "fundamental": {
+    "aset_percentage": "",
+    "liabilitas_percentage": "",
+    "pendapatan_percentage": "",
+    "laba_bersih_percentage": "",
+    "updated_at": "31 Juli 2024",
+    "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
+  }
 }

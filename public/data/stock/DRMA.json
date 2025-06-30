@@ -1,76 +1,76 @@
 {
-    "ipo_status": "Closed",
-    "ticker_code": "DRMA",
-    "image": "",
-    "company_name": "PT Dharma Polimetal Tbk",
-    "sector": "Consumer Cyclicals",
-    "subsector": "Auto Parts & Equipment",
-    "listing_board": "Utama",
-    "final_price": 500.0,
-    "line_of_business": "Manufaktur Komponen Kendaraan Bermotor",
-    "address": "Jl, Angsana Raya Blok A9 No, 8 Delta Silicon I Kawasan Industri Lippo Cikarang Kelurahan Sukaresmi, Kecamatan Cikarang Selatan, Kabupaten Bekasi Jawa Barat - Indonesia",
-    "website": "https://www.dharmagroup.co.id",
-    "number_of_shares_offered": 705882300,
-    "%_of_total_shares": 15.0,
-    "participant_admin": {
-        "code": "AZ",
-        "name": "SUCOR SEKURITAS"
+  "ipo_status": "Closed",
+  "ticker_code": "DRMA",
+  "image": "",
+  "company_name": "PT Dharma Polimetal Tbk",
+  "sector": "Consumer Cyclicals",
+  "subsector": "Auto Parts & Equipment",
+  "listing_board": "Utama",
+  "final_price": 500.0,
+  "line_of_business": "Manufaktur Komponen Kendaraan Bermotor",
+  "address": "Jl, Angsana Raya Blok A9 No, 8 Delta Silicon I Kawasan Industri Lippo Cikarang Kelurahan Sukaresmi, Kecamatan Cikarang Selatan, Kabupaten Bekasi Jawa Barat - Indonesia",
+  "website": "https://www.dharmagroup.co.id",
+  "number_of_shares_offered": 705882300,
+  "%_of_total_shares": 15.0,
+  "participant_admin": {
+    "code": "AZ",
+    "name": "SUCOR SEKURITAS"
+  },
+  "book_building_opening": "19/11/2021",
+  "book_building_closing": "30/11/2021",
+  "lowest_book_building_price": 500,
+  "highest_book_building_price": 620,
+  "opening_of_offering_period": "13/12/2021",
+  "closing_of_offering_period": "16/12/2021",
+  "closing_date": "16/12/2021",
+  "distribution_date": "17/12/2021",
+  "listing_date": "20/12/2021",
+  "ara_arb_percentage": "25%",
+  "underwriters": [
+    {
+      "code": "AZ",
+      "name": "SUCOR SEKURITAS",
+      "percentage": ""
     },
-    "book_building_opening": "19/11/2021",
-    "book_building_closing": "30/11/2021",
-    "lowest_book_building_price": 500,
-    "highest_book_building_price": 620,
-    "opening_of_offering_period": "13/12/2021",
-    "closing_of_offering_period": "16/12/2021",
-    "closing_date": "16/12/2021",
-    "distribution_date": "17/12/2021",
-    "listing_date": "20/12/2021",
-    "ara_arb_percentage": "25%",
-    "underwriters": [
-        {
-            "code": "AZ",
-            "name": "SUCOR SEKURITAS",
-            "percentage": ""
-        },
-        {
-            "code": "EP",
-            "name": "MNC SEKURITAS",
-            "percentage": ""
-        }
-    ],
-    "warrant": {
-        "code": "",
-        "per_share_ratio": 0.0,
-        "exercise_price_(rp)": "",
-        "open": "",
-        "high": "",
-        "low": "",
-        "close": ""
-    },
-    "listing_price": {
-        "open": "",
-        "high": 550.0,
-        "low": 466.0,
-        "close": 496.0,
-        "change": -4.0,
-        "percentage_change": "-0.80%",
-        "volume": 192255900.0
-    },
-    "performa": {
-        "1D": "-1%",
-        "1W": "5%",
-        "1M": "27%",
-        "6M": "21%",
-        "1Y": "20%",
-        "updated_at": "31 Juli 2024",
-        "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
-    },
-    "fundamental": {
-        "aset_percentage": "6%",
-        "liabilitas_percentage": "-12%",
-        "pendapatan_percentage": "34%",
-        "laba_bersih_percentage": "30%",
-        "updated_at": "31 Juli 2024",
-        "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
+    {
+      "code": "EP",
+      "name": "MNC SEKURITAS",
+      "percentage": ""
     }
+  ],
+  "warrant": {
+    "code": "",
+    "per_share_ratio": 0.0,
+    "exercise_price_(rp)": "",
+    "open": "",
+    "high": "",
+    "low": "",
+    "close": ""
+  },
+  "listing_price": {
+    "open": "",
+    "high": 550.0,
+    "low": 466.0,
+    "close": 496.0,
+    "change": -4.0,
+    "percentage_change": "-0.80%",
+    "volume": 192255900.0
+  },
+  "performa": {
+    "1D": "-1%",
+    "1W": "5%",
+    "1M": "27%",
+    "6M": "21%",
+    "1Y": "20%",
+    "updated_at": "31 Juli 2024",
+    "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
+  },
+  "fundamental": {
+    "aset_percentage": "6%",
+    "liabilitas_percentage": "-12%",
+    "pendapatan_percentage": "34%",
+    "laba_bersih_percentage": "30%",
+    "updated_at": "31 Juli 2024",
+    "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
+  }
 }

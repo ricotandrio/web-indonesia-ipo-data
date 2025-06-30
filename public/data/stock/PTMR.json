@@ -1,71 +1,71 @@
 {
-    "ipo_status": "Closed",
-    "ticker_code": "PTMR",
-    "image": "",
-    "company_name": "PT Master Print Tbk",
-    "sector": "Basic Materials",
-    "subsector": "Containers & Packaging",
-    "listing_board": "Pengembangan",
-    "final_price": 128.0,
-    "line_of_business": "Bergerak dalam bidang perdagangan sebagai distributor resmi dan penyewaan barang-barang industri pen",
-    "address": "",
-    "website": "https://www.masterprint.co.id",
-    "number_of_shares_offered": 435000000,
-    "%_of_total_shares": 22.81,
-    "participant_admin": {
-        "code": "RG",
-        "name": "PROFINDO SEKURITAS INDONESIA"
-    },
-    "book_building_opening": "20/09/2024",
-    "book_building_closing": "24/09/2024",
-    "lowest_book_building_price": 125,
-    "highest_book_building_price": 135,
-    "opening_of_offering_period": "02/10/2024",
-    "closing_of_offering_period": "04/10/2024",
-    "closing_date": "04/10/2024",
-    "distribution_date": "07/10/2024",
-    "listing_date": "08/10/2024",
-    "ara_arb_percentage": "35%",
-    "underwriters": [
-        {
-            "code": "RG",
-            "name": "PROFINDO SEKURITAS INDONESIA",
-            "percentage": ""
-        }
-    ],
-    "warrant": {
-        "code": "",
-        "per_share_ratio": 0.0,
-        "exercise_price_(rp)": "",
-        "open": "",
-        "high": "",
-        "low": "",
-        "close": ""
-    },
-    "listing_price": {
-        "open": 172.0,
-        "high": 172.0,
-        "low": 135.0,
-        "close": 137.0,
-        "change": 9.0,
-        "percentage_change": "7.03%",
-        "volume": 570375900.0
-    },
-    "performa": {
-        "1D": "",
-        "1W": "",
-        "1M": "",
-        "6M": "",
-        "1Y": "",
-        "updated_at": "31 Juli 2024",
-        "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
-    },
-    "fundamental": {
-        "aset_percentage": "",
-        "liabilitas_percentage": "",
-        "pendapatan_percentage": "",
-        "laba_bersih_percentage": "",
-        "updated_at": "31 Juli 2024",
-        "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
+  "ipo_status": "Closed",
+  "ticker_code": "PTMR",
+  "image": "",
+  "company_name": "PT Master Print Tbk",
+  "sector": "Basic Materials",
+  "subsector": "Containers & Packaging",
+  "listing_board": "Pengembangan",
+  "final_price": 128.0,
+  "line_of_business": "Bergerak dalam bidang perdagangan sebagai distributor resmi dan penyewaan barang-barang industri pen",
+  "address": "",
+  "website": "https://www.masterprint.co.id",
+  "number_of_shares_offered": 435000000,
+  "%_of_total_shares": 22.81,
+  "participant_admin": {
+    "code": "RG",
+    "name": "PROFINDO SEKURITAS INDONESIA"
+  },
+  "book_building_opening": "20/09/2024",
+  "book_building_closing": "24/09/2024",
+  "lowest_book_building_price": 125,
+  "highest_book_building_price": 135,
+  "opening_of_offering_period": "02/10/2024",
+  "closing_of_offering_period": "04/10/2024",
+  "closing_date": "04/10/2024",
+  "distribution_date": "07/10/2024",
+  "listing_date": "08/10/2024",
+  "ara_arb_percentage": "35%",
+  "underwriters": [
+    {
+      "code": "RG",
+      "name": "PROFINDO SEKURITAS INDONESIA",
+      "percentage": ""
     }
+  ],
+  "warrant": {
+    "code": "",
+    "per_share_ratio": 0.0,
+    "exercise_price_(rp)": "",
+    "open": "",
+    "high": "",
+    "low": "",
+    "close": ""
+  },
+  "listing_price": {
+    "open": 172.0,
+    "high": 172.0,
+    "low": 135.0,
+    "close": 137.0,
+    "change": 9.0,
+    "percentage_change": "7.03%",
+    "volume": 570375900.0
+  },
+  "performa": {
+    "1D": "",
+    "1W": "",
+    "1M": "",
+    "6M": "",
+    "1Y": "",
+    "updated_at": "31 Juli 2024",
+    "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
+  },
+  "fundamental": {
+    "aset_percentage": "",
+    "liabilitas_percentage": "",
+    "pendapatan_percentage": "",
+    "laba_bersih_percentage": "",
+    "updated_at": "31 Juli 2024",
+    "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
+  }
 }

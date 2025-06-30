@@ -1,76 +1,76 @@
 {
-    "ipo_status": "Closed",
-    "ticker_code": "MPIX",
-    "image": "",
-    "company_name": "PT Mitra Pedagang Indonesia Tbk",
-    "sector": "Technology",
-    "subsector": "Online Applications & Services",
-    "listing_board": "Pengembangan",
-    "final_price": 268.0,
-    "line_of_business": "Penyedia Platform Digital untuk UMKM, dan E-Commerce,",
-    "address": "Ruko Khayangan Residence Blok RA-11, Lantai 2, Jalan Halim Perdana Kusuma, Bangkalan 69119, Jawa Timur",
-    "website": "https://www.mpstore.co.id",
-    "number_of_shares_offered": 312500000,
-    "%_of_total_shares": 20.0,
-    "participant_admin": {
-        "code": "DR",
-        "name": "RHB SEKURITAS INDONESIA"
+  "ipo_status": "Closed",
+  "ticker_code": "MPIX",
+  "image": "",
+  "company_name": "PT Mitra Pedagang Indonesia Tbk",
+  "sector": "Technology",
+  "subsector": "Online Applications & Services",
+  "listing_board": "Pengembangan",
+  "final_price": 268.0,
+  "line_of_business": "Penyedia Platform Digital untuk UMKM, dan E-Commerce,",
+  "address": "Ruko Khayangan Residence Blok RA-11, Lantai 2, Jalan Halim Perdana Kusuma, Bangkalan 69119, Jawa Timur",
+  "website": "https://www.mpstore.co.id",
+  "number_of_shares_offered": 312500000,
+  "%_of_total_shares": 20.0,
+  "participant_admin": {
+    "code": "DR",
+    "name": "RHB SEKURITAS INDONESIA"
+  },
+  "book_building_opening": "17/01/2024",
+  "book_building_closing": "24/01/2024",
+  "lowest_book_building_price": 256,
+  "highest_book_building_price": 268,
+  "opening_of_offering_period": "31/01/2024",
+  "closing_of_offering_period": "05/02/2024",
+  "closing_date": "05/02/2024",
+  "distribution_date": "06/02/2024",
+  "listing_date": "07/02/2024",
+  "ara_arb_percentage": "25%",
+  "underwriters": [
+    {
+      "code": "DR",
+      "name": "RHB SEKURITAS INDONESIA",
+      "percentage": ""
     },
-    "book_building_opening": "17/01/2024",
-    "book_building_closing": "24/01/2024",
-    "lowest_book_building_price": 256,
-    "highest_book_building_price": 268,
-    "opening_of_offering_period": "31/01/2024",
-    "closing_of_offering_period": "05/02/2024",
-    "closing_date": "05/02/2024",
-    "distribution_date": "06/02/2024",
-    "listing_date": "07/02/2024",
-    "ara_arb_percentage": "25%",
-    "underwriters": [
-        {
-            "code": "DR",
-            "name": "RHB SEKURITAS INDONESIA",
-            "percentage": ""
-        },
-        {
-            "code": "HD",
-            "name": "KGI SEKURITAS INDONESIA",
-            "percentage": ""
-        }
-    ],
-    "warrant": {
-        "code": "MPIX-W",
-        "per_share_ratio": 0.5,
-        "exercise_price_(rp)": 850.0,
-        "open": "25",
-        "high": "298",
-        "low": "25",
-        "close": "40"
-    },
-    "listing_price": {
-        "open": 278.0,
-        "high": 334.0,
-        "low": 278.0,
-        "close": 334.0,
-        "change": 66.0,
-        "percentage_change": "24.63%",
-        "volume": 65972900.0
-    },
-    "performa": {
-        "1D": "25%",
-        "1W": "-50%",
-        "1M": "-35%",
-        "6M": "",
-        "1Y": "",
-        "updated_at": "31 Juli 2024",
-        "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
-    },
-    "fundamental": {
-        "aset_percentage": "",
-        "liabilitas_percentage": "",
-        "pendapatan_percentage": "",
-        "laba_bersih_percentage": "",
-        "updated_at": "31 Juli 2024",
-        "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
+    {
+      "code": "HD",
+      "name": "KGI SEKURITAS INDONESIA",
+      "percentage": ""
     }
+  ],
+  "warrant": {
+    "code": "MPIX-W",
+    "per_share_ratio": 0.5,
+    "exercise_price_(rp)": 850.0,
+    "open": "25",
+    "high": "298",
+    "low": "25",
+    "close": "40"
+  },
+  "listing_price": {
+    "open": 278.0,
+    "high": 334.0,
+    "low": 278.0,
+    "close": 334.0,
+    "change": 66.0,
+    "percentage_change": "24.63%",
+    "volume": 65972900.0
+  },
+  "performa": {
+    "1D": "25%",
+    "1W": "-50%",
+    "1M": "-35%",
+    "6M": "",
+    "1Y": "",
+    "updated_at": "31 Juli 2024",
+    "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
+  },
+  "fundamental": {
+    "aset_percentage": "",
+    "liabilitas_percentage": "",
+    "pendapatan_percentage": "",
+    "laba_bersih_percentage": "",
+    "updated_at": "31 Juli 2024",
+    "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
+  }
 }

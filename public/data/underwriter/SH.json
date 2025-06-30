@@ -1,15 +1,15 @@
 {
-    "underwriter": {
-        "code": "SH",
-        "name": "ARTHA SEKURITAS INDONESIA",
-        "image": ""
-    },
-    "stocks": [
-        "ATLA",
-        "BSBK",
-        "SAGE",
-        "STRK",
-        "WIDI",
-        "WINR"
-    ]
+  "underwriter": {
+    "code": "SH",
+    "name": "ARTHA SEKURITAS INDONESIA",
+    "image": ""
+  },
+  "stocks": [
+    "ATLA",
+    "BSBK",
+    "SAGE",
+    "STRK",
+    "WIDI",
+    "WINR"
+  ]
 }
