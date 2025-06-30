@@ -1,71 +1,71 @@
 {
-    "ipo_status": "Closed",
-    "ticker_code": "KSIX",
-    "image": "",
-    "company_name": "PT Kentanix Supra International Tbk",
-    "sector": "Properties & Real Estate",
-    "subsector": "Real Estate Development & Management",
-    "listing_board": "",
-    "final_price": 452.0,
-    "line_of_business": "Bergerak dalam bidang pembangunan kawasan perumahan (real estate)",
-    "address": "Plaza Property, Komplek Pertokoan Pulomas Blok VIII No. 1 Jl. Perintis Kemerdekaan, Desa/Kelurahan Pulo Gadung, Kec. Pulogadung, Kota Adm. Jakarta Timur, Provinsi DKI Jakarta, Kode Pos: 13260",
-    "website": "https://www.kentanix.com",
-    "number_of_shares_offered": 320674800,
-    "%_of_total_shares": 15.0,
-    "participant_admin": {
-        "code": "AI",
-        "name": "UOB KAY HIAN SEKURITAS"
-    },
-    "book_building_opening": "13/12/2024",
-    "book_building_closing": "20/12/2024",
-    "lowest_book_building_price": 312,
-    "highest_book_building_price": 468,
-    "opening_of_offering_period": "02/01/2025",
-    "closing_of_offering_period": "06/01/2025",
-    "closing_date": "06/01/2025",
-    "distribution_date": "07/01/2025",
-    "listing_date": "08/01/2025",
-    "ara_arb_percentage": "25%",
-    "underwriters": [
-        {
-            "code": "AI",
-            "name": "UOB KAY HIAN SEKURITAS",
-            "percentage": 1.0
-        }
-    ],
-    "warrant": {
-        "code": "",
-        "per_share_ratio": "",
-        "exercise_price_(rp)": "",
-        "open": "",
-        "high": "",
-        "low": "",
-        "close": ""
-    },
-    "listing_price": {
-        "open": 545.0,
-        "high": 565.0,
-        "low": 492.0,
-        "close": 565.0,
-        "change": 113.0,
-        "percentage_change": "25.00%",
-        "volume": 85871200.0
-    },
-    "performa": {
-        "1D": "",
-        "1W": "",
-        "1M": "",
-        "6M": "",
-        "1Y": "",
-        "updated_at": "31 Juli 2024",
-        "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
-    },
-    "fundamental": {
-        "aset_percentage": "",
-        "liabilitas_percentage": "",
-        "pendapatan_percentage": "",
-        "laba_bersih_percentage": "",
-        "updated_at": "31 Juli 2024",
-        "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
+  "ipo_status": "Closed",
+  "ticker_code": "KSIX",
+  "image": "",
+  "company_name": "PT Kentanix Supra International Tbk",
+  "sector": "Properties & Real Estate",
+  "subsector": "Real Estate Development & Management",
+  "listing_board": "",
+  "final_price": 452.0,
+  "line_of_business": "Bergerak dalam bidang pembangunan kawasan perumahan (real estate)",
+  "address": "Plaza Property, Komplek Pertokoan Pulomas Blok VIII No. 1 Jl. Perintis Kemerdekaan, Desa/Kelurahan Pulo Gadung, Kec. Pulogadung, Kota Adm. Jakarta Timur, Provinsi DKI Jakarta, Kode Pos: 13260",
+  "website": "https://www.kentanix.com",
+  "number_of_shares_offered": 320674800,
+  "%_of_total_shares": 15.0,
+  "participant_admin": {
+    "code": "AI",
+    "name": "UOB KAY HIAN SEKURITAS"
+  },
+  "book_building_opening": "13/12/2024",
+  "book_building_closing": "20/12/2024",
+  "lowest_book_building_price": 312,
+  "highest_book_building_price": 468,
+  "opening_of_offering_period": "02/01/2025",
+  "closing_of_offering_period": "06/01/2025",
+  "closing_date": "06/01/2025",
+  "distribution_date": "07/01/2025",
+  "listing_date": "08/01/2025",
+  "ara_arb_percentage": "25%",
+  "underwriters": [
+    {
+      "code": "AI",
+      "name": "UOB KAY HIAN SEKURITAS",
+      "percentage": 1.0
     }
+  ],
+  "warrant": {
+    "code": "",
+    "per_share_ratio": "",
+    "exercise_price_(rp)": "",
+    "open": "",
+    "high": "",
+    "low": "",
+    "close": ""
+  },
+  "listing_price": {
+    "open": 545.0,
+    "high": 565.0,
+    "low": 492.0,
+    "close": 565.0,
+    "change": 113.0,
+    "percentage_change": "25.00%",
+    "volume": 85871200.0
+  },
+  "performa": {
+    "1D": "",
+    "1W": "",
+    "1M": "",
+    "6M": "",
+    "1Y": "",
+    "updated_at": "31 Juli 2024",
+    "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
+  },
+  "fundamental": {
+    "aset_percentage": "",
+    "liabilitas_percentage": "",
+    "pendapatan_percentage": "",
+    "laba_bersih_percentage": "",
+    "updated_at": "31 Juli 2024",
+    "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
+  }
 }

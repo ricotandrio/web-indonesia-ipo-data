@@ -1,71 +1,71 @@
 {
-    "ipo_status": "Closed",
-    "ticker_code": "ADMR",
-    "image": "",
-    "company_name": "PT Adaro Minerals Indonesia Tbk",
-    "sector": "Energy",
-    "subsector": "Coal Production",
-    "listing_board": "Utama",
-    "final_price": 100.0,
-    "line_of_business": "Pertambangan batu bara metalurgi melalui Perusahaan Anak, jasa pertambangan dan konsultasi manajemen",
-    "address": "Cyber 2 Tower Lantai 34, Jl, H,R, Rasuna Said Blok X-5 No,13, Jakarta 12950 - Indonesia",
-    "website": "https://www.adarominerals.id",
-    "number_of_shares_offered": 6048580000,
-    "%_of_total_shares": 15.0,
-    "participant_admin": {
-        "code": "KI",
-        "name": "CIPTADANA SEKURITAS ASIA"
-    },
-    "book_building_opening": "09/12/2021",
-    "book_building_closing": "16/12/2021",
-    "lowest_book_building_price": 100,
-    "highest_book_building_price": 125,
-    "opening_of_offering_period": "27/12/2021",
-    "closing_of_offering_period": "29/12/2021",
-    "closing_date": "29/12/2021",
-    "distribution_date": "30/12/2021",
-    "listing_date": "03/01/2022",
-    "ara_arb_percentage": "35%",
-    "underwriters": [
-        {
-            "code": "KI",
-            "name": "CIPTADANA SEKURITAS ASIA",
-            "percentage": ""
-        }
-    ],
-    "warrant": {
-        "code": "",
-        "per_share_ratio": 0.0,
-        "exercise_price_(rp)": "",
-        "open": "",
-        "high": "",
-        "low": "",
-        "close": ""
-    },
-    "listing_price": {
-        "open": 135.0,
-        "high": 135.0,
-        "low": 135.0,
-        "close": 135.0,
-        "change": 35.0,
-        "percentage_change": "35.00%",
-        "volume": 34289600.0
-    },
-    "performa": {
-        "1D": "35%",
-        "1W": "280%",
-        "1M": "1085%",
-        "6M": "1525%",
-        "1Y": "1580%",
-        "updated_at": "31 Juli 2024",
-        "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
-    },
-    "fundamental": {
-        "aset_percentage": "32%",
-        "liabilitas_percentage": "-8%",
-        "pendapatan_percentage": "20%",
-        "laba_bersih_percentage": "31%",
-        "updated_at": "31 Juli 2024",
-        "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
+  "ipo_status": "Closed",
+  "ticker_code": "ADMR",
+  "image": "",
+  "company_name": "PT Adaro Minerals Indonesia Tbk",
+  "sector": "Energy",
+  "subsector": "Coal Production",
+  "listing_board": "Utama",
+  "final_price": 100.0,
+  "line_of_business": "Pertambangan batu bara metalurgi melalui Perusahaan Anak, jasa pertambangan dan konsultasi manajemen",
+  "address": "Cyber 2 Tower Lantai 34, Jl, H,R, Rasuna Said Blok X-5 No,13, Jakarta 12950 - Indonesia",
+  "website": "https://www.adarominerals.id",
+  "number_of_shares_offered": 6048580000,
+  "%_of_total_shares": 15.0,
+  "participant_admin": {
+    "code": "KI",
+    "name": "CIPTADANA SEKURITAS ASIA"
+  },
+  "book_building_opening": "09/12/2021",
+  "book_building_closing": "16/12/2021",
+  "lowest_book_building_price": 100,
+  "highest_book_building_price": 125,
+  "opening_of_offering_period": "27/12/2021",
+  "closing_of_offering_period": "29/12/2021",
+  "closing_date": "29/12/2021",
+  "distribution_date": "30/12/2021",
+  "listing_date": "03/01/2022",
+  "ara_arb_percentage": "35%",
+  "underwriters": [
+    {
+      "code": "KI",
+      "name": "CIPTADANA SEKURITAS ASIA",
+      "percentage": ""
     }
+  ],
+  "warrant": {
+    "code": "",
+    "per_share_ratio": 0.0,
+    "exercise_price_(rp)": "",
+    "open": "",
+    "high": "",
+    "low": "",
+    "close": ""
+  },
+  "listing_price": {
+    "open": 135.0,
+    "high": 135.0,
+    "low": 135.0,
+    "close": 135.0,
+    "change": 35.0,
+    "percentage_change": "35.00%",
+    "volume": 34289600.0
+  },
+  "performa": {
+    "1D": "35%",
+    "1W": "280%",
+    "1M": "1085%",
+    "6M": "1525%",
+    "1Y": "1580%",
+    "updated_at": "31 Juli 2024",
+    "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
+  },
+  "fundamental": {
+    "aset_percentage": "32%",
+    "liabilitas_percentage": "-8%",
+    "pendapatan_percentage": "20%",
+    "laba_bersih_percentage": "31%",
+    "updated_at": "31 Juli 2024",
+    "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
+  }
 }

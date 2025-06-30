@@ -1,23 +1,23 @@
 {
-    "underwriter": {
-        "code": "LG",
-        "name": "TRIMEGAH SEKURITAS INDONESIA TBK",
-        "image": ""
-    },
-    "stocks": [
-        "AADI",
-        "ASLC",
-        "AVIA",
-        "BIKE",
-        "CBDK",
-        "CYBR",
-        "ELPI",
-        "GOLF",
-        "GOTO",
-        "MAHA",
-        "MBMA",
-        "MINE",
-        "NICE",
-        "VKTR"
-    ]
+  "underwriter": {
+    "code": "LG",
+    "name": "TRIMEGAH SEKURITAS INDONESIA TBK",
+    "image": ""
+  },
+  "stocks": [
+    "AADI",
+    "ASLC",
+    "AVIA",
+    "BIKE",
+    "CBDK",
+    "CYBR",
+    "ELPI",
+    "GOLF",
+    "GOTO",
+    "MAHA",
+    "MBMA",
+    "MINE",
+    "NICE",
+    "VKTR"
+  ]
 }

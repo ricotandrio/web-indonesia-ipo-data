@@ -1,71 +1,71 @@
 {
-    "ipo_status": "Closed",
-    "ticker_code": "COAL",
-    "image": "",
-    "company_name": "PT Black Diamond Resources Tbk",
-    "sector": "Energy",
-    "subsector": "Coal Production",
-    "listing_board": "Pemantauan Khusus",
-    "final_price": 100.0,
-    "line_of_business": "Pertambangan Batubara Melalui Entitas Anak",
-    "address": "Gedung Centennial Tower Lt 21 Unit H , Jl, Jenderal Gatot Subroto No, 24-25, Jakarta Selatan 12930",
-    "website": "https://blackdiamondtbk.com/",
-    "number_of_shares_offered": 1250000000,
-    "%_of_total_shares": 20.0,
-    "participant_admin": {
-        "code": "SF",
-        "name": "SURYA FAJAR SEKURITAS"
-    },
-    "book_building_opening": "12/08/2022",
-    "book_building_closing": "22/08/2022",
-    "lowest_book_building_price": 100,
-    "highest_book_building_price": 130,
-    "opening_of_offering_period": "01/09/2022",
-    "closing_of_offering_period": "05/09/2022",
-    "closing_date": "05/09/2022",
-    "distribution_date": "06/09/2022",
-    "listing_date": "07/09/2022",
-    "ara_arb_percentage": "35%",
-    "underwriters": [
-        {
-            "code": "SF",
-            "name": "SURYA FAJAR SEKURITAS",
-            "percentage": ""
-        }
-    ],
-    "warrant": {
-        "code": "",
-        "per_share_ratio": 0.0,
-        "exercise_price_(rp)": "",
-        "open": "",
-        "high": "",
-        "low": "",
-        "close": ""
-    },
-    "listing_price": {
-        "open": 135.0,
-        "high": 135.0,
-        "low": 135.0,
-        "close": 135.0,
-        "change": 35.0,
-        "percentage_change": "35.00%",
-        "volume": 10373300.0
-    },
-    "performa": {
-        "1D": "35%",
-        "1W": "280%",
-        "1M": "354%",
-        "6M": "36%",
-        "1Y": "-45%",
-        "updated_at": "31 Juli 2024",
-        "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
-    },
-    "fundamental": {
-        "aset_percentage": "7%",
-        "liabilitas_percentage": "2%",
-        "pendapatan_percentage": "-2%",
-        "laba_bersih_percentage": "-58%",
-        "updated_at": "31 Juli 2024",
-        "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
+  "ipo_status": "Closed",
+  "ticker_code": "COAL",
+  "image": "",
+  "company_name": "PT Black Diamond Resources Tbk",
+  "sector": "Energy",
+  "subsector": "Coal Production",
+  "listing_board": "Pemantauan Khusus",
+  "final_price": 100.0,
+  "line_of_business": "Pertambangan Batubara Melalui Entitas Anak",
+  "address": "Gedung Centennial Tower Lt 21 Unit H , Jl, Jenderal Gatot Subroto No, 24-25, Jakarta Selatan 12930",
+  "website": "https://blackdiamondtbk.com/",
+  "number_of_shares_offered": 1250000000,
+  "%_of_total_shares": 20.0,
+  "participant_admin": {
+    "code": "SF",
+    "name": "SURYA FAJAR SEKURITAS"
+  },
+  "book_building_opening": "12/08/2022",
+  "book_building_closing": "22/08/2022",
+  "lowest_book_building_price": 100,
+  "highest_book_building_price": 130,
+  "opening_of_offering_period": "01/09/2022",
+  "closing_of_offering_period": "05/09/2022",
+  "closing_date": "05/09/2022",
+  "distribution_date": "06/09/2022",
+  "listing_date": "07/09/2022",
+  "ara_arb_percentage": "35%",
+  "underwriters": [
+    {
+      "code": "SF",
+      "name": "SURYA FAJAR SEKURITAS",
+      "percentage": ""
     }
+  ],
+  "warrant": {
+    "code": "",
+    "per_share_ratio": 0.0,
+    "exercise_price_(rp)": "",
+    "open": "",
+    "high": "",
+    "low": "",
+    "close": ""
+  },
+  "listing_price": {
+    "open": 135.0,
+    "high": 135.0,
+    "low": 135.0,
+    "close": 135.0,
+    "change": 35.0,
+    "percentage_change": "35.00%",
+    "volume": 10373300.0
+  },
+  "performa": {
+    "1D": "35%",
+    "1W": "280%",
+    "1M": "354%",
+    "6M": "36%",
+    "1Y": "-45%",
+    "updated_at": "31 Juli 2024",
+    "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
+  },
+  "fundamental": {
+    "aset_percentage": "7%",
+    "liabilitas_percentage": "2%",
+    "pendapatan_percentage": "-2%",
+    "laba_bersih_percentage": "-58%",
+    "updated_at": "31 Juli 2024",
+    "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
+  }
 }

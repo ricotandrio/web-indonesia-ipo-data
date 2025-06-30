@@ -1,71 +1,71 @@
 {
-    "ipo_status": "Closed",
-    "ticker_code": "VERN",
-    "image": "",
-    "company_name": "PT Verona Indah Pictures Tbk",
-    "sector": "Consumer Cyclicals",
-    "subsector": "Entertainment & Movie Production",
-    "listing_board": "Pengembangan",
-    "final_price": 195.0,
-    "line_of_business": "Aktivitas Produksi, Pasca Produksi, serta Distribusi Film, Video, dan Program Televisi oleh Swasta",
-    "address": "Graha Arteri Mas , Jalan Panjang No,68, Kav,38-39, Kel, Kedoya Selatan, Kec, Kebon Jeruk, Jakarta Barat, DKI Jakarta",
-    "website": "https://www.veronapictures.co.id/",
-    "number_of_shares_offered": 1121650000,
-    "%_of_total_shares": 23.54,
-    "participant_admin": {
-        "code": "AI",
-        "name": "UOB KAY HIAN SEKURITAS"
-    },
-    "book_building_opening": "18/09/2024",
-    "book_building_closing": "25/09/2024",
-    "lowest_book_building_price": 190,
-    "highest_book_building_price": 195,
-    "opening_of_offering_period": "02/10/2024",
-    "closing_of_offering_period": "04/10/2024",
-    "closing_date": "04/10/2024",
-    "distribution_date": "07/10/2024",
-    "listing_date": "08/10/2024",
-    "ara_arb_percentage": "35%",
-    "underwriters": [
-        {
-            "code": "AI",
-            "name": "UOB KAY HIAN SEKURITAS",
-            "percentage": ""
-        }
-    ],
-    "warrant": {
-        "code": "VERN-W",
-        "per_share_ratio": 0.5,
-        "exercise_price_(rp)": 216.0,
-        "open": "33",
-        "high": "50",
-        "low": "11",
-        "close": "12"
-    },
-    "listing_price": {
-        "open": 262.0,
-        "high": 262.0,
-        "low": 199.0,
-        "close": 200.0,
-        "change": 5.0,
-        "percentage_change": "2.56%",
-        "volume": 664290100.0
-    },
-    "performa": {
-        "1D": "",
-        "1W": "",
-        "1M": "",
-        "6M": "",
-        "1Y": "",
-        "updated_at": "31 Juli 2024",
-        "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
-    },
-    "fundamental": {
-        "aset_percentage": "",
-        "liabilitas_percentage": "",
-        "pendapatan_percentage": "",
-        "laba_bersih_percentage": "",
-        "updated_at": "31 Juli 2024",
-        "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
+  "ipo_status": "Closed",
+  "ticker_code": "VERN",
+  "image": "",
+  "company_name": "PT Verona Indah Pictures Tbk",
+  "sector": "Consumer Cyclicals",
+  "subsector": "Entertainment & Movie Production",
+  "listing_board": "Pengembangan",
+  "final_price": 195.0,
+  "line_of_business": "Aktivitas Produksi, Pasca Produksi, serta Distribusi Film, Video, dan Program Televisi oleh Swasta",
+  "address": "Graha Arteri Mas , Jalan Panjang No,68, Kav,38-39, Kel, Kedoya Selatan, Kec, Kebon Jeruk, Jakarta Barat, DKI Jakarta",
+  "website": "https://www.veronapictures.co.id/",
+  "number_of_shares_offered": 1121650000,
+  "%_of_total_shares": 23.54,
+  "participant_admin": {
+    "code": "AI",
+    "name": "UOB KAY HIAN SEKURITAS"
+  },
+  "book_building_opening": "18/09/2024",
+  "book_building_closing": "25/09/2024",
+  "lowest_book_building_price": 190,
+  "highest_book_building_price": 195,
+  "opening_of_offering_period": "02/10/2024",
+  "closing_of_offering_period": "04/10/2024",
+  "closing_date": "04/10/2024",
+  "distribution_date": "07/10/2024",
+  "listing_date": "08/10/2024",
+  "ara_arb_percentage": "35%",
+  "underwriters": [
+    {
+      "code": "AI",
+      "name": "UOB KAY HIAN SEKURITAS",
+      "percentage": ""
     }
+  ],
+  "warrant": {
+    "code": "VERN-W",
+    "per_share_ratio": 0.5,
+    "exercise_price_(rp)": 216.0,
+    "open": "33",
+    "high": "50",
+    "low": "11",
+    "close": "12"
+  },
+  "listing_price": {
+    "open": 262.0,
+    "high": 262.0,
+    "low": 199.0,
+    "close": 200.0,
+    "change": 5.0,
+    "percentage_change": "2.56%",
+    "volume": 664290100.0
+  },
+  "performa": {
+    "1D": "",
+    "1W": "",
+    "1M": "",
+    "6M": "",
+    "1Y": "",
+    "updated_at": "31 Juli 2024",
+    "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
+  },
+  "fundamental": {
+    "aset_percentage": "",
+    "liabilitas_percentage": "",
+    "pendapatan_percentage": "",
+    "laba_bersih_percentage": "",
+    "updated_at": "31 Juli 2024",
+    "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
+  }
 }

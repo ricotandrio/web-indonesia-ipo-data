@@ -1,15 +1,8 @@
 {
-    "underwriter": {
-        "code": "PG",
-        "name": "PANCA GLOBAL SEKURITAS",
-        "image": ""
-    },
-    "stocks": [
-        "BSBK",
-        "JARR",
-        "KOCI",
-        "MANG",
-        "STRK",
-        "WINR"
-    ]
+  "underwriter": {
+    "code": "PG",
+    "name": "PANCA GLOBAL SEKURITAS",
+    "image": ""
+  },
+  "stocks": ["BSBK", "JARR", "KOCI", "MANG", "STRK", "WINR"]
 }

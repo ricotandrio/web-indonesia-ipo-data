@@ -1,22 +1,22 @@
 {
-    "underwriter": {
-        "code": "IF",
-        "name": "SAMUEL SEKURITAS INDONESIA",
-        "image": ""
-    },
-    "stocks": [
-        "ALII",
-        "AMMN",
-        "AWAN",
-        "DGWG",
-        "DOSS",
-        "FOLK",
-        "GOLF",
-        "LIVE",
-        "MTEL",
-        "NSSS",
-        "PGEO",
-        "VKTR",
-        "WMPP"
-    ]
+  "underwriter": {
+    "code": "IF",
+    "name": "SAMUEL SEKURITAS INDONESIA",
+    "image": ""
+  },
+  "stocks": [
+    "ALII",
+    "AMMN",
+    "AWAN",
+    "DGWG",
+    "DOSS",
+    "FOLK",
+    "GOLF",
+    "LIVE",
+    "MTEL",
+    "NSSS",
+    "PGEO",
+    "VKTR",
+    "WMPP"
+  ]
 }

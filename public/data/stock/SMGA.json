@@ -1,71 +1,71 @@
 {
-    "ipo_status": "Closed",
-    "ticker_code": "SMGA",
-    "image": "",
-    "company_name": "PT Sumber Mineral Global Abadi Tbk",
-    "sector": "Basic Materials",
-    "subsector": "Diversified Metals & Minerals",
-    "listing_board": "Pengembangan",
-    "final_price": 105.0,
-    "line_of_business": "Bergerak dalam bidang Perdagangan Besar Bijih Nikel dan Batubara",
-    "address": "Graha BIP Lantai 2, Jl, Gatot Subroto Kav, 23, Jakarta Selatan 12930, Indonesia",
-    "website": "https://www.smgagroup.com",
-    "number_of_shares_offered": 1750000000,
-    "%_of_total_shares": 20.0,
-    "participant_admin": {
-        "code": "MI",
-        "name": "VICTORIA SEKURITAS INDONESIA"
-    },
-    "book_building_opening": "08/01/2024",
-    "book_building_closing": "11/01/2024",
-    "lowest_book_building_price": 100,
-    "highest_book_building_price": 105,
-    "opening_of_offering_period": "24/01/2024",
-    "closing_of_offering_period": "26/01/2024",
-    "closing_date": "26/01/2024",
-    "distribution_date": "29/01/2024",
-    "listing_date": "30/01/2024",
-    "ara_arb_percentage": "35%",
-    "underwriters": [
-        {
-            "code": "MI",
-            "name": "VICTORIA SEKURITAS INDONESIA",
-            "percentage": ""
-        }
-    ],
-    "warrant": {
-        "code": "",
-        "per_share_ratio": 0.0,
-        "exercise_price_(rp)": "",
-        "open": "",
-        "high": "",
-        "low": "",
-        "close": ""
-    },
-    "listing_price": {
-        "open": 141.0,
-        "high": 141.0,
-        "low": 112.0,
-        "close": 141.0,
-        "change": 36.0,
-        "percentage_change": "34.29%",
-        "volume": 2140050800.0
-    },
-    "performa": {
-        "1D": "34%",
-        "1W": "10%",
-        "1M": "-3%",
-        "6M": "-12%",
-        "1Y": "",
-        "updated_at": "31 Juli 2024",
-        "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
-    },
-    "fundamental": {
-        "aset_percentage": "",
-        "liabilitas_percentage": "",
-        "pendapatan_percentage": "",
-        "laba_bersih_percentage": "",
-        "updated_at": "31 Juli 2024",
-        "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
+  "ipo_status": "Closed",
+  "ticker_code": "SMGA",
+  "image": "",
+  "company_name": "PT Sumber Mineral Global Abadi Tbk",
+  "sector": "Basic Materials",
+  "subsector": "Diversified Metals & Minerals",
+  "listing_board": "Pengembangan",
+  "final_price": 105.0,
+  "line_of_business": "Bergerak dalam bidang Perdagangan Besar Bijih Nikel dan Batubara",
+  "address": "Graha BIP Lantai 2, Jl, Gatot Subroto Kav, 23, Jakarta Selatan 12930, Indonesia",
+  "website": "https://www.smgagroup.com",
+  "number_of_shares_offered": 1750000000,
+  "%_of_total_shares": 20.0,
+  "participant_admin": {
+    "code": "MI",
+    "name": "VICTORIA SEKURITAS INDONESIA"
+  },
+  "book_building_opening": "08/01/2024",
+  "book_building_closing": "11/01/2024",
+  "lowest_book_building_price": 100,
+  "highest_book_building_price": 105,
+  "opening_of_offering_period": "24/01/2024",
+  "closing_of_offering_period": "26/01/2024",
+  "closing_date": "26/01/2024",
+  "distribution_date": "29/01/2024",
+  "listing_date": "30/01/2024",
+  "ara_arb_percentage": "35%",
+  "underwriters": [
+    {
+      "code": "MI",
+      "name": "VICTORIA SEKURITAS INDONESIA",
+      "percentage": ""
     }
+  ],
+  "warrant": {
+    "code": "",
+    "per_share_ratio": 0.0,
+    "exercise_price_(rp)": "",
+    "open": "",
+    "high": "",
+    "low": "",
+    "close": ""
+  },
+  "listing_price": {
+    "open": 141.0,
+    "high": 141.0,
+    "low": 112.0,
+    "close": 141.0,
+    "change": 36.0,
+    "percentage_change": "34.29%",
+    "volume": 2140050800.0
+  },
+  "performa": {
+    "1D": "34%",
+    "1W": "10%",
+    "1M": "-3%",
+    "6M": "-12%",
+    "1Y": "",
+    "updated_at": "31 Juli 2024",
+    "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
+  },
+  "fundamental": {
+    "aset_percentage": "",
+    "liabilitas_percentage": "",
+    "pendapatan_percentage": "",
+    "laba_bersih_percentage": "",
+    "updated_at": "31 Juli 2024",
+    "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
+  }
 }

@@ -1,76 +1,76 @@
 {
-    "ipo_status": "Closed",
-    "ticker_code": "RAFI",
-    "image": "",
-    "company_name": "PT Sari Kreasi Boga Tbk",
-    "sector": "Consumer Non-Cyclicals",
-    "subsector": "Food Retail & Distributors",
-    "listing_board": "Pemantauan Khusus",
-    "final_price": 126.0,
-    "line_of_business": "Perseroan bergerak di bidang penjualan bahan baku dan waralaba makanan dan minuman,",
-    "address": "Tower A lt,3, Jl, Ampera Raya RW2, Ragunan, Kec, Ps, Minggu, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12540",
-    "website": "https://skbfood.id/",
-    "number_of_shares_offered": 948090000,
-    "%_of_total_shares": 30.31,
-    "participant_admin": {
-        "code": "IN",
-        "name": "INVESTINDO NUSANTARA SEKURITAS"
+  "ipo_status": "Closed",
+  "ticker_code": "RAFI",
+  "image": "",
+  "company_name": "PT Sari Kreasi Boga Tbk",
+  "sector": "Consumer Non-Cyclicals",
+  "subsector": "Food Retail & Distributors",
+  "listing_board": "Pemantauan Khusus",
+  "final_price": 126.0,
+  "line_of_business": "Perseroan bergerak di bidang penjualan bahan baku dan waralaba makanan dan minuman,",
+  "address": "Tower A lt,3, Jl, Ampera Raya RW2, Ragunan, Kec, Ps, Minggu, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12540",
+  "website": "https://skbfood.id/",
+  "number_of_shares_offered": 948090000,
+  "%_of_total_shares": 30.31,
+  "participant_admin": {
+    "code": "IN",
+    "name": "INVESTINDO NUSANTARA SEKURITAS"
+  },
+  "book_building_opening": "18/07/2022",
+  "book_building_closing": "22/07/2022",
+  "lowest_book_building_price": 120,
+  "highest_book_building_price": 130,
+  "opening_of_offering_period": "01/08/2022",
+  "closing_of_offering_period": "03/08/2022",
+  "closing_date": "03/08/2022",
+  "distribution_date": "04/08/2022",
+  "listing_date": "05/08/2022",
+  "ara_arb_percentage": "35%",
+  "underwriters": [
+    {
+      "code": "IN",
+      "name": "INVESTINDO NUSANTARA SEKURITAS",
+      "percentage": ""
     },
-    "book_building_opening": "18/07/2022",
-    "book_building_closing": "22/07/2022",
-    "lowest_book_building_price": 120,
-    "highest_book_building_price": 130,
-    "opening_of_offering_period": "01/08/2022",
-    "closing_of_offering_period": "03/08/2022",
-    "closing_date": "03/08/2022",
-    "distribution_date": "04/08/2022",
-    "listing_date": "05/08/2022",
-    "ara_arb_percentage": "35%",
-    "underwriters": [
-        {
-            "code": "IN",
-            "name": "INVESTINDO NUSANTARA SEKURITAS",
-            "percentage": ""
-        },
-        {
-            "code": "CP",
-            "name": "KB VALBURY SEKURITAS",
-            "percentage": ""
-        }
-    ],
-    "warrant": {
-        "code": "RAFI-W",
-        "per_share_ratio": 0.5,
-        "exercise_price_(rp)": 158.0,
-        "open": "-",
-        "high": "-",
-        "low": "-",
-        "close": "-"
-    },
-    "listing_price": {
-        "open": 136.0,
-        "high": 170.0,
-        "low": 136.0,
-        "close": 170.0,
-        "change": 44.0,
-        "percentage_change": "34.92%",
-        "volume": 102116400.0
-    },
-    "performa": {
-        "1D": "35%",
-        "1W": "39%",
-        "1M": "84%",
-        "6M": "-8%",
-        "1Y": "-49%",
-        "updated_at": "31 Juli 2024",
-        "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
-    },
-    "fundamental": {
-        "aset_percentage": "67%",
-        "liabilitas_percentage": "158%",
-        "pendapatan_percentage": "8%",
-        "laba_bersih_percentage": "1101%",
-        "updated_at": "31 Juli 2024",
-        "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
+    {
+      "code": "CP",
+      "name": "KB VALBURY SEKURITAS",
+      "percentage": ""
     }
+  ],
+  "warrant": {
+    "code": "RAFI-W",
+    "per_share_ratio": 0.5,
+    "exercise_price_(rp)": 158.0,
+    "open": "-",
+    "high": "-",
+    "low": "-",
+    "close": "-"
+  },
+  "listing_price": {
+    "open": 136.0,
+    "high": 170.0,
+    "low": 136.0,
+    "close": 170.0,
+    "change": 44.0,
+    "percentage_change": "34.92%",
+    "volume": 102116400.0
+  },
+  "performa": {
+    "1D": "35%",
+    "1W": "39%",
+    "1M": "84%",
+    "6M": "-8%",
+    "1Y": "-49%",
+    "updated_at": "31 Juli 2024",
+    "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
+  },
+  "fundamental": {
+    "aset_percentage": "67%",
+    "liabilitas_percentage": "158%",
+    "pendapatan_percentage": "8%",
+    "laba_bersih_percentage": "1101%",
+    "updated_at": "31 Juli 2024",
+    "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
+  }
 }

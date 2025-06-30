@@ -1,23 +1,23 @@
 {
-    "underwriter": {
-        "code": "CP",
-        "name": "KB VALBURY SEKURITAS",
-        "image": ""
-    },
-    "stocks": [
-        "BELI",
-        "GOLF",
-        "GOTO",
-        "HALO",
-        "IOTF",
-        "ISEA",
-        "MKTR",
-        "MSIE",
-        "MTEL",
-        "NICE",
-        "PART",
-        "RAFI",
-        "SMIL",
-        "WMPP"
-    ]
+  "underwriter": {
+    "code": "CP",
+    "name": "KB VALBURY SEKURITAS",
+    "image": ""
+  },
+  "stocks": [
+    "BELI",
+    "GOLF",
+    "GOTO",
+    "HALO",
+    "IOTF",
+    "ISEA",
+    "MKTR",
+    "MSIE",
+    "MTEL",
+    "NICE",
+    "PART",
+    "RAFI",
+    "SMIL",
+    "WMPP"
+  ]
 }

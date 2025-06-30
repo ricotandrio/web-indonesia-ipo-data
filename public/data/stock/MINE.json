@@ -13,8 +13,8 @@
   "number_of_shares_offered": 612665300,
   "%_of_total_shares": 15,
   "participant_admin": {
-      "code": "",
-      "name": ""
+    "code": "",
+    "name": ""
   },
   "book_building_opening": "25/02/2025",
   "book_building_closing": "27/02/2025",
@@ -27,45 +27,45 @@
   "listing_date": "",
   "ara_arb_percentage": "35%",
   "underwriters": [
-      {
-          "code": "LG",
-          "name": "TRIMEGAH SEKURITAS INDONESIA TBK",
-          "percentage": ""
-      }
+    {
+      "code": "LG",
+      "name": "TRIMEGAH SEKURITAS INDONESIA TBK",
+      "percentage": ""
+    }
   ],
   "warrant": {
-      "code": "",
-      "per_share_ratio": 0.0,
-      "exercise_price_(rp)": 0.0,
-      "open": "-",
-      "high": "-",
-      "low": "-",
-      "close": "-"
+    "code": "",
+    "per_share_ratio": 0.0,
+    "exercise_price_(rp)": 0.0,
+    "open": "-",
+    "high": "-",
+    "low": "-",
+    "close": "-"
   },
   "listing_price": {
-      "open": "",
-      "high": 0.0,
-      "low": 0.0,
-      "close": 0.0,
-      "change": 0.0,
-      "percentage_change": "0.00%",
-      "volume": 0.0
+    "open": "",
+    "high": 0.0,
+    "low": 0.0,
+    "close": 0.0,
+    "change": 0.0,
+    "percentage_change": "0.00%",
+    "volume": 0.0
   },
   "performa": {
-      "1D": "",
-      "1W": "",
-      "1M": "",
-      "6M": "",
-      "1Y": "",
-      "updated_at": "",
-      "source": ""
+    "1D": "",
+    "1W": "",
+    "1M": "",
+    "6M": "",
+    "1Y": "",
+    "updated_at": "",
+    "source": ""
   },
   "fundamental": {
-      "aset_percentage": "",
-      "liabilitas_percentage": "",
-      "pendapatan_percentage": "",
-      "laba_bersih_percentage": "",
-      "updated_at": "",
-      "source": ""
+    "aset_percentage": "",
+    "liabilitas_percentage": "",
+    "pendapatan_percentage": "",
+    "laba_bersih_percentage": "",
+    "updated_at": "",
+    "source": ""
   }
 }

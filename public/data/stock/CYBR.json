@@ -1,81 +1,81 @@
 {
-    "ipo_status": "Closed",
-    "ticker_code": "CYBR",
-    "image": "",
-    "company_name": "PT ITSEC Asia Tbk",
-    "sector": "Technology",
-    "subsector": "IT Services & Consulting",
-    "listing_board": "Pengembangan",
-    "final_price": 100.0,
-    "line_of_business": "Aktivitas Konsultasi Keamanan Informasi",
-    "address": "Kantor Pusat : Gedung Noble House Lantai 11 Unit 2 & 3 Jl, Dr Ide Anak Agung Gde Agung Kavling E,4,2 No 2, Mega Kuningan Kelurahan Kuningan Timur, Kecamatan Setiabudi Jakarta Selatan, Indonesia 12950",
-    "website": "https://www.itsec.asia",
-    "number_of_shares_offered": 1008734800,
-    "%_of_total_shares": 15.64,
-    "participant_admin": {
-        "code": "YP",
-        "name": "MIRAE ASSET SEKURITAS INDONESIA"
+  "ipo_status": "Closed",
+  "ticker_code": "CYBR",
+  "image": "",
+  "company_name": "PT ITSEC Asia Tbk",
+  "sector": "Technology",
+  "subsector": "IT Services & Consulting",
+  "listing_board": "Pengembangan",
+  "final_price": 100.0,
+  "line_of_business": "Aktivitas Konsultasi Keamanan Informasi",
+  "address": "Kantor Pusat : Gedung Noble House Lantai 11 Unit 2 & 3 Jl, Dr Ide Anak Agung Gde Agung Kavling E,4,2 No 2, Mega Kuningan Kelurahan Kuningan Timur, Kecamatan Setiabudi Jakarta Selatan, Indonesia 12950",
+  "website": "https://www.itsec.asia",
+  "number_of_shares_offered": 1008734800,
+  "%_of_total_shares": 15.64,
+  "participant_admin": {
+    "code": "YP",
+    "name": "MIRAE ASSET SEKURITAS INDONESIA"
+  },
+  "book_building_opening": "18/07/2023",
+  "book_building_closing": "26/07/2023",
+  "lowest_book_building_price": 100,
+  "highest_book_building_price": 110,
+  "opening_of_offering_period": "02/08/2023",
+  "closing_of_offering_period": "04/08/2023",
+  "closing_date": "04/08/2023",
+  "distribution_date": "07/08/2023",
+  "listing_date": "08/08/2023",
+  "ara_arb_percentage": "35%",
+  "underwriters": [
+    {
+      "code": "YP",
+      "name": "MIRAE ASSET SEKURITAS INDONESIA",
+      "percentage": ""
     },
-    "book_building_opening": "18/07/2023",
-    "book_building_closing": "26/07/2023",
-    "lowest_book_building_price": 100,
-    "highest_book_building_price": 110,
-    "opening_of_offering_period": "02/08/2023",
-    "closing_of_offering_period": "04/08/2023",
-    "closing_date": "04/08/2023",
-    "distribution_date": "07/08/2023",
-    "listing_date": "08/08/2023",
-    "ara_arb_percentage": "35%",
-    "underwriters": [
-        {
-            "code": "YP",
-            "name": "MIRAE ASSET SEKURITAS INDONESIA",
-            "percentage": ""
-        },
-        {
-            "code": "AZ",
-            "name": "SUCOR SEKURITAS",
-            "percentage": ""
-        },
-        {
-            "code": "LG",
-            "name": "TRIMEGAH SEKURITAS INDONESIA TBK",
-            "percentage": ""
-        }
-    ],
-    "warrant": {
-        "code": "CYBR-W",
-        "per_share_ratio": 0.5,
-        "exercise_price_(rp)": 400.0,
-        "open": "13",
-        "high": "27",
-        "low": "13",
-        "close": "24"
+    {
+      "code": "AZ",
+      "name": "SUCOR SEKURITAS",
+      "percentage": ""
     },
-    "listing_price": {
-        "open": 130.0,
-        "high": 135.0,
-        "low": 130.0,
-        "close": 135.0,
-        "change": 35.0,
-        "percentage_change": "35.00%",
-        "volume": 59517600.0
-    },
-    "performa": {
-        "1D": "35%",
-        "1W": "132%",
-        "1M": "66%",
-        "6M": "118%",
-        "1Y": "",
-        "updated_at": "31 Juli 2024",
-        "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
-    },
-    "fundamental": {
-        "aset_percentage": "",
-        "liabilitas_percentage": "",
-        "pendapatan_percentage": "",
-        "laba_bersih_percentage": "",
-        "updated_at": "31 Juli 2024",
-        "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
+    {
+      "code": "LG",
+      "name": "TRIMEGAH SEKURITAS INDONESIA TBK",
+      "percentage": ""
     }
+  ],
+  "warrant": {
+    "code": "CYBR-W",
+    "per_share_ratio": 0.5,
+    "exercise_price_(rp)": 400.0,
+    "open": "13",
+    "high": "27",
+    "low": "13",
+    "close": "24"
+  },
+  "listing_price": {
+    "open": 130.0,
+    "high": 135.0,
+    "low": 130.0,
+    "close": 135.0,
+    "change": 35.0,
+    "percentage_change": "35.00%",
+    "volume": 59517600.0
+  },
+  "performa": {
+    "1D": "35%",
+    "1W": "132%",
+    "1M": "66%",
+    "6M": "118%",
+    "1Y": "",
+    "updated_at": "31 Juli 2024",
+    "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
+  },
+  "fundamental": {
+    "aset_percentage": "",
+    "liabilitas_percentage": "",
+    "pendapatan_percentage": "",
+    "laba_bersih_percentage": "",
+    "updated_at": "31 Juli 2024",
+    "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
+  }
 }

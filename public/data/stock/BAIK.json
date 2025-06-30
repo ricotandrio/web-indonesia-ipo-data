@@ -1,76 +1,76 @@
 {
-    "ipo_status": "Closed",
-    "ticker_code": "BAIK",
-    "image": "",
-    "company_name": "PT Bersama Mencapai Puncak Tbk",
-    "sector": "Consumer Cyclicals",
-    "subsector": "Restaurants",
-    "listing_board": "Pengembangan",
-    "final_price": 278.0,
-    "line_of_business": "Mengelola rumah makan, kemitraan rumah makan, serta perdagangan bahan baku",
-    "address": "Jl, Raya Regency Kav, 9 No, 5, Kabupaten Malang, Jawa Timur, 65153,",
-    "website": "https://ptbersamamencapaipuncak.com/",
-    "number_of_shares_offered": 225000000,
-    "%_of_total_shares": 20.0,
-    "participant_admin": {
-        "code": "EP",
-        "name": "MNC SEKURITAS"
+  "ipo_status": "Closed",
+  "ticker_code": "BAIK",
+  "image": "",
+  "company_name": "PT Bersama Mencapai Puncak Tbk",
+  "sector": "Consumer Cyclicals",
+  "subsector": "Restaurants",
+  "listing_board": "Pengembangan",
+  "final_price": 278.0,
+  "line_of_business": "Mengelola rumah makan, kemitraan rumah makan, serta perdagangan bahan baku",
+  "address": "Jl, Raya Regency Kav, 9 No, 5, Kabupaten Malang, Jawa Timur, 65153,",
+  "website": "https://ptbersamamencapaipuncak.com/",
+  "number_of_shares_offered": 225000000,
+  "%_of_total_shares": 20.0,
+  "participant_admin": {
+    "code": "EP",
+    "name": "MNC SEKURITAS"
+  },
+  "book_building_opening": "19/01/2024",
+  "book_building_closing": "24/01/2024",
+  "lowest_book_building_price": 268,
+  "highest_book_building_price": 278,
+  "opening_of_offering_period": "02/02/2024",
+  "closing_of_offering_period": "12/02/2024",
+  "closing_date": "12/02/2024",
+  "distribution_date": "13/02/2024",
+  "listing_date": "15/02/2024",
+  "ara_arb_percentage": "25%",
+  "underwriters": [
+    {
+      "code": "EP",
+      "name": "MNC SEKURITAS",
+      "percentage": ""
     },
-    "book_building_opening": "19/01/2024",
-    "book_building_closing": "24/01/2024",
-    "lowest_book_building_price": 268,
-    "highest_book_building_price": 278,
-    "opening_of_offering_period": "02/02/2024",
-    "closing_of_offering_period": "12/02/2024",
-    "closing_date": "12/02/2024",
-    "distribution_date": "13/02/2024",
-    "listing_date": "15/02/2024",
-    "ara_arb_percentage": "25%",
-    "underwriters": [
-        {
-            "code": "EP",
-            "name": "MNC SEKURITAS",
-            "percentage": ""
-        },
-        {
-            "code": "HD",
-            "name": "KGI SEKURITAS INDONESIA",
-            "percentage": ""
-        }
-    ],
-    "warrant": {
-        "code": "BAIK-W",
-        "per_share_ratio": 1.0,
-        "exercise_price_(rp)": 400.0,
-        "open": "33",
-        "high": "40",
-        "low": "9",
-        "close": "10"
-    },
-    "listing_price": {
-        "open": 346.0,
-        "high": 346.0,
-        "low": 210.0,
-        "close": 210.0,
-        "change": -68.0,
-        "percentage_change": "-24.46%",
-        "volume": 239082700.0
-    },
-    "performa": {
-        "1D": "-24%",
-        "1W": "-56%",
-        "1M": "-65%",
-        "6M": "",
-        "1Y": "",
-        "updated_at": "31 Juli 2024",
-        "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
-    },
-    "fundamental": {
-        "aset_percentage": "",
-        "liabilitas_percentage": "",
-        "pendapatan_percentage": "",
-        "laba_bersih_percentage": "",
-        "updated_at": "31 Juli 2024",
-        "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
+    {
+      "code": "HD",
+      "name": "KGI SEKURITAS INDONESIA",
+      "percentage": ""
     }
+  ],
+  "warrant": {
+    "code": "BAIK-W",
+    "per_share_ratio": 1.0,
+    "exercise_price_(rp)": 400.0,
+    "open": "33",
+    "high": "40",
+    "low": "9",
+    "close": "10"
+  },
+  "listing_price": {
+    "open": 346.0,
+    "high": 346.0,
+    "low": 210.0,
+    "close": 210.0,
+    "change": -68.0,
+    "percentage_change": "-24.46%",
+    "volume": 239082700.0
+  },
+  "performa": {
+    "1D": "-24%",
+    "1W": "-56%",
+    "1M": "-65%",
+    "6M": "",
+    "1Y": "",
+    "updated_at": "31 Juli 2024",
+    "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
+  },
+  "fundamental": {
+    "aset_percentage": "",
+    "liabilitas_percentage": "",
+    "pendapatan_percentage": "",
+    "laba_bersih_percentage": "",
+    "updated_at": "31 Juli 2024",
+    "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
+  }
 }

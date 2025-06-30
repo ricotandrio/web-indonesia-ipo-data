@@ -1,71 +1,71 @@
 {
-    "ipo_status": "Closed",
-    "ticker_code": "KING",
-    "image": "",
-    "company_name": "PT Hoffmen Cleanindo Tbk",
-    "sector": "Industrials",
-    "subsector": "Human Resource & Employment Services",
-    "listing_board": "Akselerasi",
-    "final_price": 130.0,
-    "line_of_business": "Jasa Cleaning Service, Security, Washroom Hygiene, Labour Supply dan Parkir melalui Perusahaan Anak",
-    "address": "Jl, Raya Jembatan Tiga No, 8 Penjaringan Jakarta Utara 14440",
-    "website": "https://www.hoffmen.co.id",
-    "number_of_shares_offered": 520000000,
-    "%_of_total_shares": 20.0,
-    "participant_admin": {
-        "code": "XA",
-        "name": "NH KORINDO SEKURITAS INDONESIA"
-    },
-    "book_building_opening": "25/01/2023",
-    "book_building_closing": "30/01/2023",
-    "lowest_book_building_price": 115,
-    "highest_book_building_price": 130,
-    "opening_of_offering_period": "10/02/2023",
-    "closing_of_offering_period": "14/02/2023",
-    "closing_date": "14/02/2023",
-    "distribution_date": "15/02/2023",
-    "listing_date": "16/02/2023",
-    "ara_arb_percentage": "35%",
-    "underwriters": [
-        {
-            "code": "XA",
-            "name": "NH KORINDO SEKURITAS INDONESIA",
-            "percentage": ""
-        }
-    ],
-    "warrant": {
-        "code": "KING-W",
-        "per_share_ratio": 0.5,
-        "exercise_price_(rp)": 200.0,
-        "open": "18",
-        "high": "30",
-        "low": "11",
-        "close": "13"
-    },
-    "listing_price": {
-        "open": 120.0,
-        "high": 130.0,
-        "low": 117.0,
-        "close": 117.0,
-        "change": -13.0,
-        "percentage_change": "-10.00%",
-        "volume": 4981700.0
-    },
-    "performa": {
-        "1D": "-10%",
-        "1W": "-12%",
-        "1M": "32%",
-        "6M": "4%",
-        "1Y": "35%",
-        "updated_at": "31 Juli 2024",
-        "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
-    },
-    "fundamental": {
-        "aset_percentage": "",
-        "liabilitas_percentage": "",
-        "pendapatan_percentage": "",
-        "laba_bersih_percentage": "",
-        "updated_at": "31 Juli 2024",
-        "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
+  "ipo_status": "Closed",
+  "ticker_code": "KING",
+  "image": "",
+  "company_name": "PT Hoffmen Cleanindo Tbk",
+  "sector": "Industrials",
+  "subsector": "Human Resource & Employment Services",
+  "listing_board": "Akselerasi",
+  "final_price": 130.0,
+  "line_of_business": "Jasa Cleaning Service, Security, Washroom Hygiene, Labour Supply dan Parkir melalui Perusahaan Anak",
+  "address": "Jl, Raya Jembatan Tiga No, 8 Penjaringan Jakarta Utara 14440",
+  "website": "https://www.hoffmen.co.id",
+  "number_of_shares_offered": 520000000,
+  "%_of_total_shares": 20.0,
+  "participant_admin": {
+    "code": "XA",
+    "name": "NH KORINDO SEKURITAS INDONESIA"
+  },
+  "book_building_opening": "25/01/2023",
+  "book_building_closing": "30/01/2023",
+  "lowest_book_building_price": 115,
+  "highest_book_building_price": 130,
+  "opening_of_offering_period": "10/02/2023",
+  "closing_of_offering_period": "14/02/2023",
+  "closing_date": "14/02/2023",
+  "distribution_date": "15/02/2023",
+  "listing_date": "16/02/2023",
+  "ara_arb_percentage": "35%",
+  "underwriters": [
+    {
+      "code": "XA",
+      "name": "NH KORINDO SEKURITAS INDONESIA",
+      "percentage": ""
     }
+  ],
+  "warrant": {
+    "code": "KING-W",
+    "per_share_ratio": 0.5,
+    "exercise_price_(rp)": 200.0,
+    "open": "18",
+    "high": "30",
+    "low": "11",
+    "close": "13"
+  },
+  "listing_price": {
+    "open": 120.0,
+    "high": 130.0,
+    "low": 117.0,
+    "close": 117.0,
+    "change": -13.0,
+    "percentage_change": "-10.00%",
+    "volume": 4981700.0
+  },
+  "performa": {
+    "1D": "-10%",
+    "1W": "-12%",
+    "1M": "32%",
+    "6M": "4%",
+    "1Y": "35%",
+    "updated_at": "31 Juli 2024",
+    "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
+  },
+  "fundamental": {
+    "aset_percentage": "",
+    "liabilitas_percentage": "",
+    "pendapatan_percentage": "",
+    "laba_bersih_percentage": "",
+    "updated_at": "31 Juli 2024",
+    "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
+  }
 }

@@ -1,76 +1,76 @@
 {
-    "ipo_status": "Closed",
-    "ticker_code": "MSIE",
-    "image": "",
-    "company_name": "PT Multisarana Intan Eduka Tbk",
-    "sector": "Properties & Real Estate",
-    "subsector": "Real Estate Development & Management",
-    "listing_board": "Akselerasi",
-    "final_price": 100.0,
-    "line_of_business": "Real estat dan aktivitas penyewaan dan sewa guna usaha tanpa hak opsi",
-    "address": "Jl, Raya Kedung Baruk No, 112 \u2013 114 Penjaringan Sari, Kec, Rungkut, Kota Surabaya, Jawa Timur",
-    "website": "https://msie.co.id",
-    "number_of_shares_offered": 360000000,
-    "%_of_total_shares": 24.66,
-    "participant_admin": {
-        "code": "EP",
-        "name": "MNC SEKURITAS"
+  "ipo_status": "Closed",
+  "ticker_code": "MSIE",
+  "image": "",
+  "company_name": "PT Multisarana Intan Eduka Tbk",
+  "sector": "Properties & Real Estate",
+  "subsector": "Real Estate Development & Management",
+  "listing_board": "Akselerasi",
+  "final_price": 100.0,
+  "line_of_business": "Real estat dan aktivitas penyewaan dan sewa guna usaha tanpa hak opsi",
+  "address": "Jl, Raya Kedung Baruk No, 112 \u2013 114 Penjaringan Sari, Kec, Rungkut, Kota Surabaya, Jawa Timur",
+  "website": "https://msie.co.id",
+  "number_of_shares_offered": 360000000,
+  "%_of_total_shares": 24.66,
+  "participant_admin": {
+    "code": "EP",
+    "name": "MNC SEKURITAS"
+  },
+  "book_building_opening": "17/07/2023",
+  "book_building_closing": "24/07/2023",
+  "lowest_book_building_price": 100,
+  "highest_book_building_price": 110,
+  "opening_of_offering_period": "02/08/2023",
+  "closing_of_offering_period": "08/08/2023",
+  "closing_date": "08/08/2023",
+  "distribution_date": "09/08/2023",
+  "listing_date": "10/08/2023",
+  "ara_arb_percentage": "35%",
+  "underwriters": [
+    {
+      "code": "EP",
+      "name": "MNC SEKURITAS",
+      "percentage": ""
     },
-    "book_building_opening": "17/07/2023",
-    "book_building_closing": "24/07/2023",
-    "lowest_book_building_price": 100,
-    "highest_book_building_price": 110,
-    "opening_of_offering_period": "02/08/2023",
-    "closing_of_offering_period": "08/08/2023",
-    "closing_date": "08/08/2023",
-    "distribution_date": "09/08/2023",
-    "listing_date": "10/08/2023",
-    "ara_arb_percentage": "35%",
-    "underwriters": [
-        {
-            "code": "EP",
-            "name": "MNC SEKURITAS",
-            "percentage": ""
-        },
-        {
-            "code": "CP",
-            "name": "KB VALBURY SEKURITAS",
-            "percentage": ""
-        }
-    ],
-    "warrant": {
-        "code": "MSIE-W",
-        "per_share_ratio": 0.5,
-        "exercise_price_(rp)": 250.0,
-        "open": "-",
-        "high": "-",
-        "low": "-",
-        "close": "-"
-    },
-    "listing_price": {
-        "open": 90.0,
-        "high": 90.0,
-        "low": 90.0,
-        "close": 90.0,
-        "change": -10.0,
-        "percentage_change": "-10.00%",
-        "volume": 9448800.0
-    },
-    "performa": {
-        "1D": "-10%",
-        "1W": "-40%",
-        "1M": "-58%",
-        "6M": "-76%",
-        "1Y": "",
-        "updated_at": "31 Juli 2024",
-        "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
-    },
-    "fundamental": {
-        "aset_percentage": "",
-        "liabilitas_percentage": "",
-        "pendapatan_percentage": "",
-        "laba_bersih_percentage": "",
-        "updated_at": "31 Juli 2024",
-        "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
+    {
+      "code": "CP",
+      "name": "KB VALBURY SEKURITAS",
+      "percentage": ""
     }
+  ],
+  "warrant": {
+    "code": "MSIE-W",
+    "per_share_ratio": 0.5,
+    "exercise_price_(rp)": 250.0,
+    "open": "-",
+    "high": "-",
+    "low": "-",
+    "close": "-"
+  },
+  "listing_price": {
+    "open": 90.0,
+    "high": 90.0,
+    "low": 90.0,
+    "close": 90.0,
+    "change": -10.0,
+    "percentage_change": "-10.00%",
+    "volume": 9448800.0
+  },
+  "performa": {
+    "1D": "-10%",
+    "1W": "-40%",
+    "1M": "-58%",
+    "6M": "-76%",
+    "1Y": "",
+    "updated_at": "31 Juli 2024",
+    "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
+  },
+  "fundamental": {
+    "aset_percentage": "",
+    "liabilitas_percentage": "",
+    "pendapatan_percentage": "",
+    "laba_bersih_percentage": "",
+    "updated_at": "31 Juli 2024",
+    "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
+  }
 }

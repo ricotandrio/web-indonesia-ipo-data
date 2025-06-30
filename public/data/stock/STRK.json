@@ -1,81 +1,81 @@
 {
-    "ipo_status": "Closed",
-    "ticker_code": "STRK",
-    "image": "",
-    "company_name": "PT Lovina Beach Brewery Tbk",
-    "sector": "Consumer Non-Cyclicals",
-    "subsector": "Liquors",
-    "listing_board": "Pengembangan",
-    "final_price": 100.0,
-    "line_of_business": "Bergerak dalam bidang Industri Distribusi Minuman Beralkohol & Pengolahannya melalui Anak perusahaan",
-    "address": "Jl, Tukad Banyu Poh 110 X, Sesetan Denpasar Selatan, 80223",
-    "website": "https://lovinabeachbrewery.com/",
-    "number_of_shares_offered": 1180000000,
-    "%_of_total_shares": 11.01,
-    "participant_admin": {
-        "code": "SH",
-        "name": "ARTHA SEKURITAS INDONESIA"
+  "ipo_status": "Closed",
+  "ticker_code": "STRK",
+  "image": "",
+  "company_name": "PT Lovina Beach Brewery Tbk",
+  "sector": "Consumer Non-Cyclicals",
+  "subsector": "Liquors",
+  "listing_board": "Pengembangan",
+  "final_price": 100.0,
+  "line_of_business": "Bergerak dalam bidang Industri Distribusi Minuman Beralkohol & Pengolahannya melalui Anak perusahaan",
+  "address": "Jl, Tukad Banyu Poh 110 X, Sesetan Denpasar Selatan, 80223",
+  "website": "https://lovinabeachbrewery.com/",
+  "number_of_shares_offered": 1180000000,
+  "%_of_total_shares": 11.01,
+  "participant_admin": {
+    "code": "SH",
+    "name": "ARTHA SEKURITAS INDONESIA"
+  },
+  "book_building_opening": "06/09/2023",
+  "book_building_closing": "20/09/2023",
+  "lowest_book_building_price": 100,
+  "highest_book_building_price": 119,
+  "opening_of_offering_period": "03/10/2023",
+  "closing_of_offering_period": "06/10/2023",
+  "closing_date": "06/10/2023",
+  "distribution_date": "09/10/2023",
+  "listing_date": "10/10/2023",
+  "ara_arb_percentage": "35%",
+  "underwriters": [
+    {
+      "code": "SH",
+      "name": "ARTHA SEKURITAS INDONESIA",
+      "percentage": ""
     },
-    "book_building_opening": "06/09/2023",
-    "book_building_closing": "20/09/2023",
-    "lowest_book_building_price": 100,
-    "highest_book_building_price": 119,
-    "opening_of_offering_period": "03/10/2023",
-    "closing_of_offering_period": "06/10/2023",
-    "closing_date": "06/10/2023",
-    "distribution_date": "09/10/2023",
-    "listing_date": "10/10/2023",
-    "ara_arb_percentage": "35%",
-    "underwriters": [
-        {
-            "code": "SH",
-            "name": "ARTHA SEKURITAS INDONESIA",
-            "percentage": ""
-        },
-        {
-            "code": "HD",
-            "name": "KGI SEKURITAS INDONESIA",
-            "percentage": ""
-        },
-        {
-            "code": "PG",
-            "name": "PANCA GLOBAL SEKURITAS",
-            "percentage": ""
-        }
-    ],
-    "warrant": {
-        "code": "STRK-W",
-        "per_share_ratio": 2.75,
-        "exercise_price_(rp)": 250.0,
-        "open": "-",
-        "high": "-",
-        "low": "-",
-        "close": "-"
+    {
+      "code": "HD",
+      "name": "KGI SEKURITAS INDONESIA",
+      "percentage": ""
     },
-    "listing_price": {
-        "open": 135.0,
-        "high": 135.0,
-        "low": 135.0,
-        "close": 135.0,
-        "change": 35.0,
-        "percentage_change": "35.00%",
-        "volume": 21620800.0
-    },
-    "performa": {
-        "1D": "35%",
-        "1W": "128%",
-        "1M": "210%",
-        "6M": "-50%",
-        "1Y": "",
-        "updated_at": "31 Juli 2024",
-        "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
-    },
-    "fundamental": {
-        "aset_percentage": "",
-        "liabilitas_percentage": "",
-        "pendapatan_percentage": "",
-        "laba_bersih_percentage": "",
-        "updated_at": "31 Juli 2024",
-        "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
+    {
+      "code": "PG",
+      "name": "PANCA GLOBAL SEKURITAS",
+      "percentage": ""
     }
+  ],
+  "warrant": {
+    "code": "STRK-W",
+    "per_share_ratio": 2.75,
+    "exercise_price_(rp)": 250.0,
+    "open": "-",
+    "high": "-",
+    "low": "-",
+    "close": "-"
+  },
+  "listing_price": {
+    "open": 135.0,
+    "high": 135.0,
+    "low": 135.0,
+    "close": 135.0,
+    "change": 35.0,
+    "percentage_change": "35.00%",
+    "volume": 21620800.0
+  },
+  "performa": {
+    "1D": "35%",
+    "1W": "128%",
+    "1M": "210%",
+    "6M": "-50%",
+    "1Y": "",
+    "updated_at": "31 Juli 2024",
+    "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
+  },
+  "fundamental": {
+    "aset_percentage": "",
+    "liabilitas_percentage": "",
+    "pendapatan_percentage": "",
+    "laba_bersih_percentage": "",
+    "updated_at": "31 Juli 2024",
+    "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
+  }
 }

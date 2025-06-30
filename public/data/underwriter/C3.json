@@ -1,10 +1,8 @@
 {
-    "underwriter": {
-        "code": "C3",
-        "name": "PT CIMB Niaga Sekuritas",
-        "image": ""
-    },
-    "stocks": [
-        "MDIY"
-    ]
+  "underwriter": {
+    "code": "C3",
+    "name": "PT CIMB Niaga Sekuritas",
+    "image": ""
+  },
+  "stocks": ["MDIY"]
 }

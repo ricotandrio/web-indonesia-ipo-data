@@ -1,71 +1,71 @@
 {
-    "ipo_status": "Closed",
-    "ticker_code": "WGSH",
-    "image": "",
-    "company_name": "PT Wira Global Solusi Tbk",
-    "sector": "Technology",
-    "subsector": "IT Services & Consulting",
-    "listing_board": "Akselerasi",
-    "final_price": 140.0,
-    "line_of_business": "Bergerak dalam bidang usaha Perdagangan Teknologi Informasi",
-    "address": "The Breeze BSD City L81 - 82 Jln, Grand Boulevard Kabupaten Tangerang Indonesia, 15345",
-    "website": "https://www.wgshub.com/",
-    "number_of_shares_offered": 208500000,
-    "%_of_total_shares": 20.0,
-    "participant_admin": {
-        "code": "AH",
-        "name": "SHINHAN SEKURITAS INDONESIA"
-    },
-    "book_building_opening": "09/11/2021",
-    "book_building_closing": "17/11/2021",
-    "lowest_book_building_price": 125,
-    "highest_book_building_price": 140,
-    "opening_of_offering_period": "30/11/2021",
-    "closing_of_offering_period": "02/12/2021",
-    "closing_date": "02/12/2021",
-    "distribution_date": "03/12/2021",
-    "listing_date": "06/12/2021",
-    "ara_arb_percentage": "35%",
-    "underwriters": [
-        {
-            "code": "AH",
-            "name": "SHINHAN SEKURITAS INDONESIA",
-            "percentage": ""
-        }
-    ],
-    "warrant": {
-        "code": "",
-        "per_share_ratio": 0.0,
-        "exercise_price_(rp)": "",
-        "open": "",
-        "high": "",
-        "low": "",
-        "close": ""
-    },
-    "listing_price": {
-        "open": 154.0,
-        "high": 154.0,
-        "low": 140.0,
-        "close": 154.0,
-        "change": 14.0,
-        "percentage_change": "10.00%",
-        "volume": 142257900.0
-    },
-    "performa": {
-        "1D": "10%",
-        "1W": "59%",
-        "1M": "15%",
-        "6M": "47%",
-        "1Y": "9%",
-        "updated_at": "31 Juli 2024",
-        "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
-    },
-    "fundamental": {
-        "aset_percentage": "5%",
-        "liabilitas_percentage": "-43%",
-        "pendapatan_percentage": "21%",
-        "laba_bersih_percentage": "21%",
-        "updated_at": "31 Juli 2024",
-        "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
+  "ipo_status": "Closed",
+  "ticker_code": "WGSH",
+  "image": "",
+  "company_name": "PT Wira Global Solusi Tbk",
+  "sector": "Technology",
+  "subsector": "IT Services & Consulting",
+  "listing_board": "Akselerasi",
+  "final_price": 140.0,
+  "line_of_business": "Bergerak dalam bidang usaha Perdagangan Teknologi Informasi",
+  "address": "The Breeze BSD City L81 - 82 Jln, Grand Boulevard Kabupaten Tangerang Indonesia, 15345",
+  "website": "https://www.wgshub.com/",
+  "number_of_shares_offered": 208500000,
+  "%_of_total_shares": 20.0,
+  "participant_admin": {
+    "code": "AH",
+    "name": "SHINHAN SEKURITAS INDONESIA"
+  },
+  "book_building_opening": "09/11/2021",
+  "book_building_closing": "17/11/2021",
+  "lowest_book_building_price": 125,
+  "highest_book_building_price": 140,
+  "opening_of_offering_period": "30/11/2021",
+  "closing_of_offering_period": "02/12/2021",
+  "closing_date": "02/12/2021",
+  "distribution_date": "03/12/2021",
+  "listing_date": "06/12/2021",
+  "ara_arb_percentage": "35%",
+  "underwriters": [
+    {
+      "code": "AH",
+      "name": "SHINHAN SEKURITAS INDONESIA",
+      "percentage": ""
     }
+  ],
+  "warrant": {
+    "code": "",
+    "per_share_ratio": 0.0,
+    "exercise_price_(rp)": "",
+    "open": "",
+    "high": "",
+    "low": "",
+    "close": ""
+  },
+  "listing_price": {
+    "open": 154.0,
+    "high": 154.0,
+    "low": 140.0,
+    "close": 154.0,
+    "change": 14.0,
+    "percentage_change": "10.00%",
+    "volume": 142257900.0
+  },
+  "performa": {
+    "1D": "10%",
+    "1W": "59%",
+    "1M": "15%",
+    "6M": "47%",
+    "1Y": "9%",
+    "updated_at": "31 Juli 2024",
+    "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
+  },
+  "fundamental": {
+    "aset_percentage": "5%",
+    "liabilitas_percentage": "-43%",
+    "pendapatan_percentage": "21%",
+    "laba_bersih_percentage": "21%",
+    "updated_at": "31 Juli 2024",
+    "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
+  }
 }

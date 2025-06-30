@@ -1,76 +1,76 @@
 {
-    "ipo_status": "Closed",
-    "ticker_code": "PADA",
-    "image": "",
-    "company_name": "PT Personel Alih Daya Tbk",
-    "sector": "Industrials",
-    "subsector": "Human Resource & Employment Services",
-    "listing_board": "Pemantauan Khusus",
-    "final_price": 100.0,
-    "line_of_business": "Jasa Teknikal dan Pemeliharaan Peralatan Telekomunikasi, Call Center, Perkantoran, Keamanan dan SDM",
-    "address": "Jl, Kebagusan 1 No, 4, Kebagusan, Pasar Minggu, Jakarta Selatan, Kode Pos 12520, Indonesia",
-    "website": "https://www.persada.id",
-    "number_of_shares_offered": 900000000,
-    "%_of_total_shares": 28.57,
-    "participant_admin": {
-        "code": "AI",
-        "name": "UOB KAY HIAN SEKURITAS"
+  "ipo_status": "Closed",
+  "ticker_code": "PADA",
+  "image": "",
+  "company_name": "PT Personel Alih Daya Tbk",
+  "sector": "Industrials",
+  "subsector": "Human Resource & Employment Services",
+  "listing_board": "Pemantauan Khusus",
+  "final_price": 100.0,
+  "line_of_business": "Jasa Teknikal dan Pemeliharaan Peralatan Telekomunikasi, Call Center, Perkantoran, Keamanan dan SDM",
+  "address": "Jl, Kebagusan 1 No, 4, Kebagusan, Pasar Minggu, Jakarta Selatan, Kode Pos 12520, Indonesia",
+  "website": "https://www.persada.id",
+  "number_of_shares_offered": 900000000,
+  "%_of_total_shares": 28.57,
+  "participant_admin": {
+    "code": "AI",
+    "name": "UOB KAY HIAN SEKURITAS"
+  },
+  "book_building_opening": "16/11/2022",
+  "book_building_closing": "22/11/2022",
+  "lowest_book_building_price": 100,
+  "highest_book_building_price": 120,
+  "opening_of_offering_period": "02/12/2022",
+  "closing_of_offering_period": "06/12/2022",
+  "closing_date": "06/12/2022",
+  "distribution_date": "07/12/2022",
+  "listing_date": "08/12/2022",
+  "ara_arb_percentage": "35%",
+  "underwriters": [
+    {
+      "code": "AI",
+      "name": "UOB KAY HIAN SEKURITAS",
+      "percentage": ""
     },
-    "book_building_opening": "16/11/2022",
-    "book_building_closing": "22/11/2022",
-    "lowest_book_building_price": 100,
-    "highest_book_building_price": 120,
-    "opening_of_offering_period": "02/12/2022",
-    "closing_of_offering_period": "06/12/2022",
-    "closing_date": "06/12/2022",
-    "distribution_date": "07/12/2022",
-    "listing_date": "08/12/2022",
-    "ara_arb_percentage": "35%",
-    "underwriters": [
-        {
-            "code": "AI",
-            "name": "UOB KAY HIAN SEKURITAS",
-            "percentage": ""
-        },
-        {
-            "code": "AO",
-            "name": "ERDIKHA ELIT SEKURITAS",
-            "percentage": ""
-        }
-    ],
-    "warrant": {
-        "code": "",
-        "per_share_ratio": 0.0,
-        "exercise_price_(rp)": "",
-        "open": "",
-        "high": "",
-        "low": "",
-        "close": ""
-    },
-    "listing_price": {
-        "open": 135.0,
-        "high": 135.0,
-        "low": 99.0,
-        "close": 110.0,
-        "change": 10.0,
-        "percentage_change": "10.00%",
-        "volume": 1010583500.0
-    },
-    "performa": {
-        "1D": "10%",
-        "1W": "10%",
-        "1M": "144%",
-        "6M": "-19%",
-        "1Y": "-50%",
-        "updated_at": "31 Juli 2024",
-        "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
-    },
-    "fundamental": {
-        "aset_percentage": "-13%",
-        "liabilitas_percentage": "-19%",
-        "pendapatan_percentage": "16%",
-        "laba_bersih_percentage": "-224%",
-        "updated_at": "31 Juli 2024",
-        "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
+    {
+      "code": "AO",
+      "name": "ERDIKHA ELIT SEKURITAS",
+      "percentage": ""
     }
+  ],
+  "warrant": {
+    "code": "",
+    "per_share_ratio": 0.0,
+    "exercise_price_(rp)": "",
+    "open": "",
+    "high": "",
+    "low": "",
+    "close": ""
+  },
+  "listing_price": {
+    "open": 135.0,
+    "high": 135.0,
+    "low": 99.0,
+    "close": 110.0,
+    "change": 10.0,
+    "percentage_change": "10.00%",
+    "volume": 1010583500.0
+  },
+  "performa": {
+    "1D": "10%",
+    "1W": "10%",
+    "1M": "144%",
+    "6M": "-19%",
+    "1Y": "-50%",
+    "updated_at": "31 Juli 2024",
+    "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
+  },
+  "fundamental": {
+    "aset_percentage": "-13%",
+    "liabilitas_percentage": "-19%",
+    "pendapatan_percentage": "16%",
+    "laba_bersih_percentage": "-224%",
+    "updated_at": "31 Juli 2024",
+    "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
+  }
 }

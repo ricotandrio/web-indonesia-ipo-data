@@ -1,76 +1,76 @@
 {
-    "ipo_status": "Closed",
-    "ticker_code": "TOSK",
-    "image": "",
-    "company_name": "PT Topindo Solusi Komunika Tbk",
-    "sector": "Technology",
-    "subsector": "Online Applications & Services",
-    "listing_board": "Pengembangan",
-    "final_price": 125.0,
-    "line_of_business": "Platform Teknologi untuk Tujuan Komersil",
-    "address": "Jalan P, Diponegoro No, 19, Kel, Pasiran, Kec Singkawang Barat, Kota Singkawang, Prov Kalimantan Barat 79123",
-    "website": "https://topindoku.co.id/",
-    "number_of_shares_offered": 875000000,
-    "%_of_total_shares": 20.0,
-    "participant_admin": {
-        "code": "EP",
-        "name": "MNC SEKURITAS"
+  "ipo_status": "Closed",
+  "ticker_code": "TOSK",
+  "image": "",
+  "company_name": "PT Topindo Solusi Komunika Tbk",
+  "sector": "Technology",
+  "subsector": "Online Applications & Services",
+  "listing_board": "Pengembangan",
+  "final_price": 125.0,
+  "line_of_business": "Platform Teknologi untuk Tujuan Komersil",
+  "address": "Jalan P, Diponegoro No, 19, Kel, Pasiran, Kec Singkawang Barat, Kota Singkawang, Prov Kalimantan Barat 79123",
+  "website": "https://topindoku.co.id/",
+  "number_of_shares_offered": 875000000,
+  "%_of_total_shares": 20.0,
+  "participant_admin": {
+    "code": "EP",
+    "name": "MNC SEKURITAS"
+  },
+  "book_building_opening": "15/01/2024",
+  "book_building_closing": "19/01/2024",
+  "lowest_book_building_price": 115,
+  "highest_book_building_price": 125,
+  "opening_of_offering_period": "01/02/2024",
+  "closing_of_offering_period": "05/02/2024",
+  "closing_date": "05/02/2024",
+  "distribution_date": "06/02/2024",
+  "listing_date": "07/02/2024",
+  "ara_arb_percentage": "35%",
+  "underwriters": [
+    {
+      "code": "EP",
+      "name": "MNC SEKURITAS",
+      "percentage": ""
     },
-    "book_building_opening": "15/01/2024",
-    "book_building_closing": "19/01/2024",
-    "lowest_book_building_price": 115,
-    "highest_book_building_price": 125,
-    "opening_of_offering_period": "01/02/2024",
-    "closing_of_offering_period": "05/02/2024",
-    "closing_date": "05/02/2024",
-    "distribution_date": "06/02/2024",
-    "listing_date": "07/02/2024",
-    "ara_arb_percentage": "35%",
-    "underwriters": [
-        {
-            "code": "EP",
-            "name": "MNC SEKURITAS",
-            "percentage": ""
-        },
-        {
-            "code": "AO",
-            "name": "ERDIKHA ELIT SEKURITAS",
-            "percentage": ""
-        }
-    ],
-    "warrant": {
-        "code": "TOSK-W",
-        "per_share_ratio": 0.3,
-        "exercise_price_(rp)": 145.0,
-        "open": "31",
-        "high": "49",
-        "low": "15",
-        "close": "15"
-    },
-    "listing_price": {
-        "open": 135.0,
-        "high": 168.0,
-        "low": 82.0,
-        "close": 130.0,
-        "change": 5.0,
-        "percentage_change": "4.00%",
-        "volume": 2228650800.0
-    },
-    "performa": {
-        "1D": "4%",
-        "1W": "-23%",
-        "1M": "-19%",
-        "6M": "",
-        "1Y": "",
-        "updated_at": "31 Juli 2024",
-        "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
-    },
-    "fundamental": {
-        "aset_percentage": "",
-        "liabilitas_percentage": "",
-        "pendapatan_percentage": "",
-        "laba_bersih_percentage": "",
-        "updated_at": "31 Juli 2024",
-        "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
+    {
+      "code": "AO",
+      "name": "ERDIKHA ELIT SEKURITAS",
+      "percentage": ""
     }
+  ],
+  "warrant": {
+    "code": "TOSK-W",
+    "per_share_ratio": 0.3,
+    "exercise_price_(rp)": 145.0,
+    "open": "31",
+    "high": "49",
+    "low": "15",
+    "close": "15"
+  },
+  "listing_price": {
+    "open": 135.0,
+    "high": 168.0,
+    "low": 82.0,
+    "close": 130.0,
+    "change": 5.0,
+    "percentage_change": "4.00%",
+    "volume": 2228650800.0
+  },
+  "performa": {
+    "1D": "4%",
+    "1W": "-23%",
+    "1M": "-19%",
+    "6M": "",
+    "1Y": "",
+    "updated_at": "31 Juli 2024",
+    "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
+  },
+  "fundamental": {
+    "aset_percentage": "",
+    "liabilitas_percentage": "",
+    "pendapatan_percentage": "",
+    "laba_bersih_percentage": "",
+    "updated_at": "31 Juli 2024",
+    "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
+  }
 }

@@ -1,76 +1,76 @@
 {
-    "ipo_status": "Closed",
-    "ticker_code": "MDIY",
-    "image": "",
-    "company_name": "PT Daya Intiguna Yasa Tbk",
-    "sector": "Consumer Non-Cyclicals",
-    "subsector": "Household Products",
-    "listing_board": "",
-    "final_price": 1650.0,
-    "line_of_business": "Perdagangan eceran alat-alat rumah tangga, dan lainnya",
-    "address": "Gedung AIA, Lantai 30, Jl. Jenderal Sudirman Kav. 48A , Jakarta Selatan, 12930",
-    "website": "http://corporate-id.mrdiy.com",
-    "number_of_shares_offered": 2519039400,
-    "%_of_total_shares": 10.0,
-    "participant_admin": {
-        "code": "CC",
-        "name": "MANDIRI SEKURITAS"
+  "ipo_status": "Closed",
+  "ticker_code": "MDIY",
+  "image": "",
+  "company_name": "PT Daya Intiguna Yasa Tbk",
+  "sector": "Consumer Non-Cyclicals",
+  "subsector": "Household Products",
+  "listing_board": "",
+  "final_price": 1650.0,
+  "line_of_business": "Perdagangan eceran alat-alat rumah tangga, dan lainnya",
+  "address": "Gedung AIA, Lantai 30, Jl. Jenderal Sudirman Kav. 48A , Jakarta Selatan, 12930",
+  "website": "http://corporate-id.mrdiy.com",
+  "number_of_shares_offered": 2519039400,
+  "%_of_total_shares": 10.0,
+  "participant_admin": {
+    "code": "CC",
+    "name": "MANDIRI SEKURITAS"
+  },
+  "book_building_opening": "25/11/2024",
+  "book_building_closing": "03/12/2024",
+  "lowest_book_building_price": 1650,
+  "highest_book_building_price": 1870,
+  "opening_of_offering_period": "13/12/2024",
+  "closing_of_offering_period": "17/12/2024",
+  "closing_date": "17/12/2024",
+  "distribution_date": "18/12/2024",
+  "listing_date": "19/12/2024",
+  "ara_arb_percentage": "25%",
+  "underwriters": [
+    {
+      "code": "CC",
+      "name": "MANDIRI SEKURITAS",
+      "percentage": ""
     },
-    "book_building_opening": "25/11/2024",
-    "book_building_closing": "03/12/2024",
-    "lowest_book_building_price": 1650,
-    "highest_book_building_price": 1870,
-    "opening_of_offering_period": "13/12/2024",
-    "closing_of_offering_period": "17/12/2024",
-    "closing_date": "17/12/2024",
-    "distribution_date": "18/12/2024",
-    "listing_date": "19/12/2024",
-    "ara_arb_percentage": "25%",
-    "underwriters": [
-        {
-            "code": "CC",
-            "name": "MANDIRI SEKURITAS",
-            "percentage": ""
-        },
-        {
-            "code": "C3",
-            "name": "PT CIMB Niaga Sekuritas",
-            "percentage": ""
-        }
-    ],
-    "warrant": {
-        "code": "",
-        "per_share_ratio": "",
-        "exercise_price_(rp)": "",
-        "open": "",
-        "high": "",
-        "low": "",
-        "close": ""
-    },
-    "listing_price": {
-        "open": 1550.0,
-        "high": 1900.0,
-        "low": 1240.0,
-        "close": 1690.0,
-        "change": 40.0,
-        "percentage_change": "2.42%",
-        "volume": 428916600.0
-    },
-    "performa": {
-        "1D": "",
-        "1W": "",
-        "1M": "",
-        "6M": "",
-        "1Y": "",
-        "updated_at": "31 Juli 2024",
-        "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
-    },
-    "fundamental": {
-        "aset_percentage": "",
-        "liabilitas_percentage": "",
-        "pendapatan_percentage": "",
-        "laba_bersih_percentage": "",
-        "updated_at": "31 Juli 2024",
-        "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
+    {
+      "code": "C3",
+      "name": "PT CIMB Niaga Sekuritas",
+      "percentage": ""
     }
+  ],
+  "warrant": {
+    "code": "",
+    "per_share_ratio": "",
+    "exercise_price_(rp)": "",
+    "open": "",
+    "high": "",
+    "low": "",
+    "close": ""
+  },
+  "listing_price": {
+    "open": 1550.0,
+    "high": 1900.0,
+    "low": 1240.0,
+    "close": 1690.0,
+    "change": 40.0,
+    "percentage_change": "2.42%",
+    "volume": 428916600.0
+  },
+  "performa": {
+    "1D": "",
+    "1W": "",
+    "1M": "",
+    "6M": "",
+    "1Y": "",
+    "updated_at": "31 Juli 2024",
+    "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
+  },
+  "fundamental": {
+    "aset_percentage": "",
+    "liabilitas_percentage": "",
+    "pendapatan_percentage": "",
+    "laba_bersih_percentage": "",
+    "updated_at": "31 Juli 2024",
+    "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
+  }
 }

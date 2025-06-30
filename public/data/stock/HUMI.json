@@ -1,71 +1,71 @@
 {
-    "ipo_status": "Closed",
-    "ticker_code": "HUMI",
-    "image": "",
-    "company_name": "PT Humpuss Maritim Internasional Tbk",
-    "sector": "Energy",
-    "subsector": "Oil & Gas Storage & Distribution",
-    "listing_board": "Utama",
-    "final_price": 100.0,
-    "line_of_business": "Aktivitas Perusahaan Holding, Angkutan Laut dalam Negeri untuk Barang Khusus",
-    "address": "Gedung Mangkuluhur City Tower One Lt, 27 Jl, Jend Gatot Subroto Kav 1, Karet Semanggi Setiabudi, Jakarta Selatan, 12930",
-    "website": "https://humi.co.id/",
-    "number_of_shares_offered": 2707000000,
-    "%_of_total_shares": 15.0,
-    "participant_admin": {
-        "code": "LS",
-        "name": "RELIANCE SEKURITAS INDONESIA TBK,"
-    },
-    "book_building_opening": "18/07/2023",
-    "book_building_closing": "24/07/2023",
-    "lowest_book_building_price": 100,
-    "highest_book_building_price": 150,
-    "opening_of_offering_period": "02/08/2023",
-    "closing_of_offering_period": "07/08/2023",
-    "closing_date": "07/08/2023",
-    "distribution_date": "08/08/2023",
-    "listing_date": "09/08/2023",
-    "ara_arb_percentage": "35%",
-    "underwriters": [
-        {
-            "code": "LS",
-            "name": "RELIANCE SEKURITAS INDONESIA TBK",
-            "percentage": ""
-        }
-    ],
-    "warrant": {
-        "code": "HUMI-W",
-        "per_share_ratio": 0.5,
-        "exercise_price_(rp)": 200.0,
-        "open": "23",
-        "high": "23",
-        "low": "7",
-        "close": "7"
-    },
-    "listing_price": {
-        "open": 120.0,
-        "high": 120.0,
-        "low": 92.0,
-        "close": 102.0,
-        "change": 2.0,
-        "percentage_change": "2.00%",
-        "volume": 443952700.0
-    },
-    "performa": {
-        "1D": "2%",
-        "1W": "51%",
-        "1M": "89%",
-        "6M": "-43%",
-        "1Y": "",
-        "updated_at": "31 Juli 2024",
-        "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
-    },
-    "fundamental": {
-        "aset_percentage": "",
-        "liabilitas_percentage": "",
-        "pendapatan_percentage": "",
-        "laba_bersih_percentage": "",
-        "updated_at": "31 Juli 2024",
-        "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
+  "ipo_status": "Closed",
+  "ticker_code": "HUMI",
+  "image": "",
+  "company_name": "PT Humpuss Maritim Internasional Tbk",
+  "sector": "Energy",
+  "subsector": "Oil & Gas Storage & Distribution",
+  "listing_board": "Utama",
+  "final_price": 100.0,
+  "line_of_business": "Aktivitas Perusahaan Holding, Angkutan Laut dalam Negeri untuk Barang Khusus",
+  "address": "Gedung Mangkuluhur City Tower One Lt, 27 Jl, Jend Gatot Subroto Kav 1, Karet Semanggi Setiabudi, Jakarta Selatan, 12930",
+  "website": "https://humi.co.id/",
+  "number_of_shares_offered": 2707000000,
+  "%_of_total_shares": 15.0,
+  "participant_admin": {
+    "code": "LS",
+    "name": "RELIANCE SEKURITAS INDONESIA TBK,"
+  },
+  "book_building_opening": "18/07/2023",
+  "book_building_closing": "24/07/2023",
+  "lowest_book_building_price": 100,
+  "highest_book_building_price": 150,
+  "opening_of_offering_period": "02/08/2023",
+  "closing_of_offering_period": "07/08/2023",
+  "closing_date": "07/08/2023",
+  "distribution_date": "08/08/2023",
+  "listing_date": "09/08/2023",
+  "ara_arb_percentage": "35%",
+  "underwriters": [
+    {
+      "code": "LS",
+      "name": "RELIANCE SEKURITAS INDONESIA TBK",
+      "percentage": ""
     }
+  ],
+  "warrant": {
+    "code": "HUMI-W",
+    "per_share_ratio": 0.5,
+    "exercise_price_(rp)": 200.0,
+    "open": "23",
+    "high": "23",
+    "low": "7",
+    "close": "7"
+  },
+  "listing_price": {
+    "open": 120.0,
+    "high": 120.0,
+    "low": 92.0,
+    "close": 102.0,
+    "change": 2.0,
+    "percentage_change": "2.00%",
+    "volume": 443952700.0
+  },
+  "performa": {
+    "1D": "2%",
+    "1W": "51%",
+    "1M": "89%",
+    "6M": "-43%",
+    "1Y": "",
+    "updated_at": "31 Juli 2024",
+    "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
+  },
+  "fundamental": {
+    "aset_percentage": "",
+    "liabilitas_percentage": "",
+    "pendapatan_percentage": "",
+    "laba_bersih_percentage": "",
+    "updated_at": "31 Juli 2024",
+    "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
+  }
 }

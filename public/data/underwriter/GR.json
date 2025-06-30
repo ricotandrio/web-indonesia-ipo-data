@@ -1,18 +1,18 @@
 {
-    "underwriter": {
-        "code": "GR",
-        "name": "PANIN SEKURITAS TBK",
-        "image": ""
-    },
-    "stocks": [
-        "ADCP",
-        "AREA",
-        "CBPE",
-        "CMRY",
-        "GOTO",
-        "GUNA",
-        "KLAS",
-        "MPXL",
-        "MTEL"
-    ]
+  "underwriter": {
+    "code": "GR",
+    "name": "PANIN SEKURITAS TBK",
+    "image": ""
+  },
+  "stocks": [
+    "ADCP",
+    "AREA",
+    "CBPE",
+    "CMRY",
+    "GOTO",
+    "GUNA",
+    "KLAS",
+    "MPXL",
+    "MTEL"
+  ]
 }

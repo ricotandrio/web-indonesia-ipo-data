@@ -1,71 +1,71 @@
 {
-    "ipo_status": "Closed",
-    "ticker_code": "OBMD",
-    "image": "",
-    "company_name": "PT OBM Drilchem Tbk",
-    "sector": "Basic Materials",
-    "subsector": "Specialty Chemicals",
-    "listing_board": "Pengembangan",
-    "final_price": 180.0,
-    "line_of_business": "Memproduksi bahan aditif untuk mencegah kerugian dalam aktivitas pengeboran dengan teknologi serat",
-    "address": "Dipo Business Center 7th floor, Suite 7E Jl, Gatot Subroto Kav, 50-52, Jakarta 10260",
-    "website": "http://www.drilchem.com/",
-    "number_of_shares_offered": 182000000,
-    "%_of_total_shares": 24.86,
-    "participant_admin": {
-        "code": "HD",
-        "name": "KGI SEKURITAS INDONESIA"
-    },
-    "book_building_opening": "18/11/2021",
-    "book_building_closing": "22/11/2021",
-    "lowest_book_building_price": 150,
-    "highest_book_building_price": 180,
-    "opening_of_offering_period": "02/12/2021",
-    "closing_of_offering_period": "06/12/2021",
-    "closing_date": "06/12/2021",
-    "distribution_date": "07/12/2021",
-    "listing_date": "08/12/2021",
-    "ara_arb_percentage": "35%",
-    "underwriters": [
-        {
-            "code": "HD",
-            "name": "KGI SEKURITAS INDONESIA",
-            "percentage": ""
-        }
-    ],
-    "warrant": {
-        "code": "OBMD-W",
-        "per_share_ratio": 0.5,
-        "exercise_price_(rp)": 180.0,
-        "open": "-",
-        "high": "-",
-        "low": "-",
-        "close": "-"
-    },
-    "listing_price": {
-        "open": 189.0,
-        "high": 200.0,
-        "low": 168.0,
-        "close": 168.0,
-        "change": -12.0,
-        "percentage_change": "-6.67%",
-        "volume": 103737700.0
-    },
-    "performa": {
-        "1D": "-7%",
-        "1W": "-22%",
-        "1M": "-31%",
-        "6M": "-24%",
-        "1Y": "11%",
-        "updated_at": "31 Juli 2024",
-        "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
-    },
-    "fundamental": {
-        "aset_percentage": "29%",
-        "liabilitas_percentage": "70%",
-        "pendapatan_percentage": "54%",
-        "laba_bersih_percentage": "76%",
-        "updated_at": "31 Juli 2024",
-        "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
+  "ipo_status": "Closed",
+  "ticker_code": "OBMD",
+  "image": "",
+  "company_name": "PT OBM Drilchem Tbk",
+  "sector": "Basic Materials",
+  "subsector": "Specialty Chemicals",
+  "listing_board": "Pengembangan",
+  "final_price": 180.0,
+  "line_of_business": "Memproduksi bahan aditif untuk mencegah kerugian dalam aktivitas pengeboran dengan teknologi serat",
+  "address": "Dipo Business Center 7th floor, Suite 7E Jl, Gatot Subroto Kav, 50-52, Jakarta 10260",
+  "website": "http://www.drilchem.com/",
+  "number_of_shares_offered": 182000000,
+  "%_of_total_shares": 24.86,
+  "participant_admin": {
+    "code": "HD",
+    "name": "KGI SEKURITAS INDONESIA"
+  },
+  "book_building_opening": "18/11/2021",
+  "book_building_closing": "22/11/2021",
+  "lowest_book_building_price": 150,
+  "highest_book_building_price": 180,
+  "opening_of_offering_period": "02/12/2021",
+  "closing_of_offering_period": "06/12/2021",
+  "closing_date": "06/12/2021",
+  "distribution_date": "07/12/2021",
+  "listing_date": "08/12/2021",
+  "ara_arb_percentage": "35%",
+  "underwriters": [
+    {
+      "code": "HD",
+      "name": "KGI SEKURITAS INDONESIA",
+      "percentage": ""
     }
+  ],
+  "warrant": {
+    "code": "OBMD-W",
+    "per_share_ratio": 0.5,
+    "exercise_price_(rp)": 180.0,
+    "open": "-",
+    "high": "-",
+    "low": "-",
+    "close": "-"
+  },
+  "listing_price": {
+    "open": 189.0,
+    "high": 200.0,
+    "low": 168.0,
+    "close": 168.0,
+    "change": -12.0,
+    "percentage_change": "-6.67%",
+    "volume": 103737700.0
+  },
+  "performa": {
+    "1D": "-7%",
+    "1W": "-22%",
+    "1M": "-31%",
+    "6M": "-24%",
+    "1Y": "11%",
+    "updated_at": "31 Juli 2024",
+    "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
+  },
+  "fundamental": {
+    "aset_percentage": "29%",
+    "liabilitas_percentage": "70%",
+    "pendapatan_percentage": "54%",
+    "laba_bersih_percentage": "76%",
+    "updated_at": "31 Juli 2024",
+    "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
+  }
 }

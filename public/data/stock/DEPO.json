@@ -1,71 +1,71 @@
 {
-    "ipo_status": "Closed",
-    "ticker_code": "DEPO",
-    "image": "",
-    "company_name": "PT Caturkarda Depo Bangunan Tbk",
-    "sector": "Consumer Cyclicals",
-    "subsector": "Home Improvement Retail",
-    "listing_board": "Pengembangan",
-    "final_price": 482.0,
-    "line_of_business": "Supermarket dan/atau Retai Bahan Bangunan",
-    "address": "Jl, Raya Serpong KM2, Kel, Pakulonan, Kec, Serpong Utara, Tangerang Selatan",
-    "website": "https://depobangunan.co.id/",
-    "number_of_shares_offered": 1024000000,
-    "%_of_total_shares": 15.08,
-    "participant_admin": {
-        "code": "YP",
-        "name": "MIRAE ASSET SEKURITAS INDONESIA"
-    },
-    "book_building_opening": "01/11/2021",
-    "book_building_closing": "08/11/2021",
-    "lowest_book_building_price": 426,
-    "highest_book_building_price": 525,
-    "opening_of_offering_period": "18/11/2021",
-    "closing_of_offering_period": "23/11/2021",
-    "closing_date": "23/11/2021",
-    "distribution_date": "24/11/2021",
-    "listing_date": "25/11/2021",
-    "ara_arb_percentage": "25%",
-    "underwriters": [
-        {
-            "code": "YP",
-            "name": "MIRAE ASSET SEKURITAS INDONESIA",
-            "percentage": ""
-        }
-    ],
-    "warrant": {
-        "code": "",
-        "per_share_ratio": 0.0,
-        "exercise_price_(rp)": "",
-        "open": "",
-        "high": "",
-        "low": "",
-        "close": ""
-    },
-    "listing_price": {
-        "open": "",
-        "high": 600.0,
-        "low": 470.0,
-        "close": 600.0,
-        "change": 118.0,
-        "percentage_change": "24.48%",
-        "volume": 279806200.0
-    },
-    "performa": {
-        "1D": "24%",
-        "1W": "27%",
-        "1M": "1%",
-        "6M": "3%",
-        "1Y": "-2%",
-        "updated_at": "31 Juli 2024",
-        "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
-    },
-    "fundamental": {
-        "aset_percentage": "5%",
-        "liabilitas_percentage": "6%",
-        "pendapatan_percentage": "10%",
-        "laba_bersih_percentage": "18%",
-        "updated_at": "31 Juli 2024",
-        "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
+  "ipo_status": "Closed",
+  "ticker_code": "DEPO",
+  "image": "",
+  "company_name": "PT Caturkarda Depo Bangunan Tbk",
+  "sector": "Consumer Cyclicals",
+  "subsector": "Home Improvement Retail",
+  "listing_board": "Pengembangan",
+  "final_price": 482.0,
+  "line_of_business": "Supermarket dan/atau Retai Bahan Bangunan",
+  "address": "Jl, Raya Serpong KM2, Kel, Pakulonan, Kec, Serpong Utara, Tangerang Selatan",
+  "website": "https://depobangunan.co.id/",
+  "number_of_shares_offered": 1024000000,
+  "%_of_total_shares": 15.08,
+  "participant_admin": {
+    "code": "YP",
+    "name": "MIRAE ASSET SEKURITAS INDONESIA"
+  },
+  "book_building_opening": "01/11/2021",
+  "book_building_closing": "08/11/2021",
+  "lowest_book_building_price": 426,
+  "highest_book_building_price": 525,
+  "opening_of_offering_period": "18/11/2021",
+  "closing_of_offering_period": "23/11/2021",
+  "closing_date": "23/11/2021",
+  "distribution_date": "24/11/2021",
+  "listing_date": "25/11/2021",
+  "ara_arb_percentage": "25%",
+  "underwriters": [
+    {
+      "code": "YP",
+      "name": "MIRAE ASSET SEKURITAS INDONESIA",
+      "percentage": ""
     }
+  ],
+  "warrant": {
+    "code": "",
+    "per_share_ratio": 0.0,
+    "exercise_price_(rp)": "",
+    "open": "",
+    "high": "",
+    "low": "",
+    "close": ""
+  },
+  "listing_price": {
+    "open": "",
+    "high": 600.0,
+    "low": 470.0,
+    "close": 600.0,
+    "change": 118.0,
+    "percentage_change": "24.48%",
+    "volume": 279806200.0
+  },
+  "performa": {
+    "1D": "24%",
+    "1W": "27%",
+    "1M": "1%",
+    "6M": "3%",
+    "1Y": "-2%",
+    "updated_at": "31 Juli 2024",
+    "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
+  },
+  "fundamental": {
+    "aset_percentage": "5%",
+    "liabilitas_percentage": "6%",
+    "pendapatan_percentage": "10%",
+    "laba_bersih_percentage": "18%",
+    "updated_at": "31 Juli 2024",
+    "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
+  }
 }

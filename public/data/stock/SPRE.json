@@ -1,71 +1,71 @@
 {
-    "ipo_status": "Closed",
-    "ticker_code": "SPRE",
-    "image": "",
-    "company_name": "PT Soraya Berjaya Indonesia Tbk",
-    "sector": "Consumer Cyclicals",
-    "subsector": "Apparel & Textile Retail",
-    "listing_board": "Akselerasi",
-    "final_price": 125.0,
-    "line_of_business": "industri dan perdagangan barang jadi keperluan rumah tangga",
-    "address": "Jl, Bandes, Keluarahan Aie Pacah, Kecamatan Koto Tangah, Kota Padang, Sumatera Barat 25176",
-    "website": "https://sorayaberjaya.id/",
-    "number_of_shares_offered": 240000000,
-    "%_of_total_shares": 30.0,
-    "participant_admin": {
-        "code": "EP",
-        "name": "MNC SEKURITAS"
-    },
-    "book_building_opening": "10/06/2024",
-    "book_building_closing": "12/06/2024",
-    "lowest_book_building_price": 120,
-    "highest_book_building_price": 130,
-    "opening_of_offering_period": "27/06/2024",
-    "closing_of_offering_period": "01/07/2024",
-    "closing_date": "01/07/2024",
-    "distribution_date": "02/07/2024",
-    "listing_date": "03/07/2024",
-    "ara_arb_percentage": "35%",
-    "underwriters": [
-        {
-            "code": "EP",
-            "name": "MNC SEKURITAS",
-            "percentage": ""
-        }
-    ],
-    "warrant": {
-        "code": "",
-        "per_share_ratio": 0.0,
-        "exercise_price_(rp)": "",
-        "open": "",
-        "high": "",
-        "low": "",
-        "close": ""
-    },
-    "listing_price": {
-        "open": 128.0,
-        "high": 137.0,
-        "low": 127.0,
-        "close": 137.0,
-        "change": 12.0,
-        "percentage_change": "9.60%",
-        "volume": 102716300.0
-    },
-    "performa": {
-        "1D": "10%",
-        "1W": "41%",
-        "1M": "",
-        "6M": "",
-        "1Y": "",
-        "updated_at": "31 Juli 2024",
-        "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
-    },
-    "fundamental": {
-        "aset_percentage": "",
-        "liabilitas_percentage": "",
-        "pendapatan_percentage": "",
-        "laba_bersih_percentage": "",
-        "updated_at": "31 Juli 2024",
-        "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
+  "ipo_status": "Closed",
+  "ticker_code": "SPRE",
+  "image": "",
+  "company_name": "PT Soraya Berjaya Indonesia Tbk",
+  "sector": "Consumer Cyclicals",
+  "subsector": "Apparel & Textile Retail",
+  "listing_board": "Akselerasi",
+  "final_price": 125.0,
+  "line_of_business": "industri dan perdagangan barang jadi keperluan rumah tangga",
+  "address": "Jl, Bandes, Keluarahan Aie Pacah, Kecamatan Koto Tangah, Kota Padang, Sumatera Barat 25176",
+  "website": "https://sorayaberjaya.id/",
+  "number_of_shares_offered": 240000000,
+  "%_of_total_shares": 30.0,
+  "participant_admin": {
+    "code": "EP",
+    "name": "MNC SEKURITAS"
+  },
+  "book_building_opening": "10/06/2024",
+  "book_building_closing": "12/06/2024",
+  "lowest_book_building_price": 120,
+  "highest_book_building_price": 130,
+  "opening_of_offering_period": "27/06/2024",
+  "closing_of_offering_period": "01/07/2024",
+  "closing_date": "01/07/2024",
+  "distribution_date": "02/07/2024",
+  "listing_date": "03/07/2024",
+  "ara_arb_percentage": "35%",
+  "underwriters": [
+    {
+      "code": "EP",
+      "name": "MNC SEKURITAS",
+      "percentage": ""
     }
+  ],
+  "warrant": {
+    "code": "",
+    "per_share_ratio": 0.0,
+    "exercise_price_(rp)": "",
+    "open": "",
+    "high": "",
+    "low": "",
+    "close": ""
+  },
+  "listing_price": {
+    "open": 128.0,
+    "high": 137.0,
+    "low": 127.0,
+    "close": 137.0,
+    "change": 12.0,
+    "percentage_change": "9.60%",
+    "volume": 102716300.0
+  },
+  "performa": {
+    "1D": "10%",
+    "1W": "41%",
+    "1M": "",
+    "6M": "",
+    "1Y": "",
+    "updated_at": "31 Juli 2024",
+    "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
+  },
+  "fundamental": {
+    "aset_percentage": "",
+    "liabilitas_percentage": "",
+    "pendapatan_percentage": "",
+    "laba_bersih_percentage": "",
+    "updated_at": "31 Juli 2024",
+    "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
+  }
 }

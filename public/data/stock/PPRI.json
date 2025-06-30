@@ -1,71 +1,71 @@
 {
-    "ipo_status": "Closed",
-    "ticker_code": "PPRI",
-    "image": "",
-    "company_name": "PT Paperocks Indonesia Tbk,",
-    "sector": "Basic Materials",
-    "subsector": "Containers & Packaging",
-    "listing_board": "Pengembangan",
-    "final_price": 140.0,
-    "line_of_business": "Bergerak Dalam Bidang Perdagangan Besar Barang Dari Kertas Dan Karton",
-    "address": "Ruko Cibubur Times Square Blok C 1 N0, 23, Jalan Alternatif Cibubur RT,001/RW,010, Kelurahan Jatikarya, Kecamatan Jatisampurna, Kota Bekasi, Jawa Barat 17435",
-    "website": "https://paperocks.co.id/",
-    "number_of_shares_offered": 275000000,
-    "%_of_total_shares": 25.58,
-    "participant_admin": {
-        "code": "IU",
-        "name": "INDO CAPITAL SEKURITAS"
-    },
-    "book_building_opening": "20/07/2023",
-    "book_building_closing": "24/07/2023",
-    "lowest_book_building_price": 130,
-    "highest_book_building_price": 150,
-    "opening_of_offering_period": "02/08/2023",
-    "closing_of_offering_period": "04/08/2023",
-    "closing_date": "04/08/2023",
-    "distribution_date": "07/08/2023",
-    "listing_date": "08/08/2023",
-    "ara_arb_percentage": "35%",
-    "underwriters": [
-        {
-            "code": "IU",
-            "name": "INDO CAPITAL SEKURITAS",
-            "percentage": ""
-        }
-    ],
-    "warrant": {
-        "code": "PPRI-W",
-        "per_share_ratio": 0.6,
-        "exercise_price_(rp)": 200.0,
-        "open": "-",
-        "high": "-",
-        "low": "-",
-        "close": "-"
-    },
-    "listing_price": {
-        "open": 187.0,
-        "high": 187.0,
-        "low": 119.0,
-        "close": 119.0,
-        "change": -21.0,
-        "percentage_change": "-15.00%",
-        "volume": 112846600.0
-    },
-    "performa": {
-        "1D": "-15%",
-        "1W": "-45%",
-        "1M": "-41%",
-        "6M": "-43%",
-        "1Y": "",
-        "updated_at": "31 Juli 2024",
-        "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
-    },
-    "fundamental": {
-        "aset_percentage": "",
-        "liabilitas_percentage": "",
-        "pendapatan_percentage": "",
-        "laba_bersih_percentage": "",
-        "updated_at": "31 Juli 2024",
-        "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
+  "ipo_status": "Closed",
+  "ticker_code": "PPRI",
+  "image": "",
+  "company_name": "PT Paperocks Indonesia Tbk,",
+  "sector": "Basic Materials",
+  "subsector": "Containers & Packaging",
+  "listing_board": "Pengembangan",
+  "final_price": 140.0,
+  "line_of_business": "Bergerak Dalam Bidang Perdagangan Besar Barang Dari Kertas Dan Karton",
+  "address": "Ruko Cibubur Times Square Blok C 1 N0, 23, Jalan Alternatif Cibubur RT,001/RW,010, Kelurahan Jatikarya, Kecamatan Jatisampurna, Kota Bekasi, Jawa Barat 17435",
+  "website": "https://paperocks.co.id/",
+  "number_of_shares_offered": 275000000,
+  "%_of_total_shares": 25.58,
+  "participant_admin": {
+    "code": "IU",
+    "name": "INDO CAPITAL SEKURITAS"
+  },
+  "book_building_opening": "20/07/2023",
+  "book_building_closing": "24/07/2023",
+  "lowest_book_building_price": 130,
+  "highest_book_building_price": 150,
+  "opening_of_offering_period": "02/08/2023",
+  "closing_of_offering_period": "04/08/2023",
+  "closing_date": "04/08/2023",
+  "distribution_date": "07/08/2023",
+  "listing_date": "08/08/2023",
+  "ara_arb_percentage": "35%",
+  "underwriters": [
+    {
+      "code": "IU",
+      "name": "INDO CAPITAL SEKURITAS",
+      "percentage": ""
     }
+  ],
+  "warrant": {
+    "code": "PPRI-W",
+    "per_share_ratio": 0.6,
+    "exercise_price_(rp)": 200.0,
+    "open": "-",
+    "high": "-",
+    "low": "-",
+    "close": "-"
+  },
+  "listing_price": {
+    "open": 187.0,
+    "high": 187.0,
+    "low": 119.0,
+    "close": 119.0,
+    "change": -21.0,
+    "percentage_change": "-15.00%",
+    "volume": 112846600.0
+  },
+  "performa": {
+    "1D": "-15%",
+    "1W": "-45%",
+    "1M": "-41%",
+    "6M": "-43%",
+    "1Y": "",
+    "updated_at": "31 Juli 2024",
+    "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
+  },
+  "fundamental": {
+    "aset_percentage": "",
+    "liabilitas_percentage": "",
+    "pendapatan_percentage": "",
+    "laba_bersih_percentage": "",
+    "updated_at": "31 Juli 2024",
+    "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
+  }
 }

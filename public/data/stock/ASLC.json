@@ -1,76 +1,76 @@
 {
-    "ipo_status": "Closed",
-    "ticker_code": "ASLC",
-    "image": "",
-    "company_name": "PT Autopedia Sukses Lestari Tbk",
-    "sector": "Consumer Cyclicals",
-    "subsector": "Automotive Retail",
-    "listing_board": "Pengembangan",
-    "final_price": 256.0,
-    "line_of_business": "Balai lelang melalui Entitas Anak dan perdagangan eceran mobil",
-    "address": "Gedung Graha Kirana Lt,6 Jl, Yos Sudarso No, 88 Sunter, Jakarta Utara 14350",
-    "website": "https://www.autopedia.id",
-    "number_of_shares_offered": 2549271000,
-    "%_of_total_shares": 20.0,
-    "participant_admin": {
-        "code": "LG",
-        "name": "TRIMEGAH SEKURITAS INDONESIA TBK,"
+  "ipo_status": "Closed",
+  "ticker_code": "ASLC",
+  "image": "",
+  "company_name": "PT Autopedia Sukses Lestari Tbk",
+  "sector": "Consumer Cyclicals",
+  "subsector": "Automotive Retail",
+  "listing_board": "Pengembangan",
+  "final_price": 256.0,
+  "line_of_business": "Balai lelang melalui Entitas Anak dan perdagangan eceran mobil",
+  "address": "Gedung Graha Kirana Lt,6 Jl, Yos Sudarso No, 88 Sunter, Jakarta Utara 14350",
+  "website": "https://www.autopedia.id",
+  "number_of_shares_offered": 2549271000,
+  "%_of_total_shares": 20.0,
+  "participant_admin": {
+    "code": "LG",
+    "name": "TRIMEGAH SEKURITAS INDONESIA TBK,"
+  },
+  "book_building_opening": "29/12/2021",
+  "book_building_closing": "05/01/2022",
+  "lowest_book_building_price": 200,
+  "highest_book_building_price": 276,
+  "opening_of_offering_period": "19/01/2022",
+  "closing_of_offering_period": "21/01/2022",
+  "closing_date": "21/01/2022",
+  "distribution_date": "24/01/2022",
+  "listing_date": "25/01/2022",
+  "ara_arb_percentage": "25%",
+  "underwriters": [
+    {
+      "code": "LG",
+      "name": "TRIMEGAH SEKURITAS INDONESIA TBK",
+      "percentage": ""
     },
-    "book_building_opening": "29/12/2021",
-    "book_building_closing": "05/01/2022",
-    "lowest_book_building_price": 200,
-    "highest_book_building_price": 276,
-    "opening_of_offering_period": "19/01/2022",
-    "closing_of_offering_period": "21/01/2022",
-    "closing_date": "21/01/2022",
-    "distribution_date": "24/01/2022",
-    "listing_date": "25/01/2022",
-    "ara_arb_percentage": "25%",
-    "underwriters": [
-        {
-            "code": "LG",
-            "name": "TRIMEGAH SEKURITAS INDONESIA TBK",
-            "percentage": ""
-        },
-        {
-            "code": "KI",
-            "name": "CIPTADANA SEKURITAS ASIA",
-            "percentage": ""
-        }
-    ],
-    "warrant": {
-        "code": "",
-        "per_share_ratio": 0.0,
-        "exercise_price_(rp)": "",
-        "open": "",
-        "high": "",
-        "low": "",
-        "close": ""
-    },
-    "listing_price": {
-        "open": 320.0,
-        "high": 320.0,
-        "low": 290.0,
-        "close": 320.0,
-        "change": 64.0,
-        "percentage_change": "25.00%",
-        "volume": 922992200.0
-    },
-    "performa": {
-        "1D": "25%",
-        "1W": "13%",
-        "1M": "2%",
-        "6M": "-30%",
-        "1Y": "-64%",
-        "updated_at": "31 Juli 2024",
-        "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
-    },
-    "fundamental": {
-        "aset_percentage": "7%",
-        "liabilitas_percentage": "68%",
-        "pendapatan_percentage": "42%",
-        "laba_bersih_percentage": "714%",
-        "updated_at": "31 Juli 2024",
-        "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
+    {
+      "code": "KI",
+      "name": "CIPTADANA SEKURITAS ASIA",
+      "percentage": ""
     }
+  ],
+  "warrant": {
+    "code": "",
+    "per_share_ratio": 0.0,
+    "exercise_price_(rp)": "",
+    "open": "",
+    "high": "",
+    "low": "",
+    "close": ""
+  },
+  "listing_price": {
+    "open": 320.0,
+    "high": 320.0,
+    "low": 290.0,
+    "close": 320.0,
+    "change": 64.0,
+    "percentage_change": "25.00%",
+    "volume": 922992200.0
+  },
+  "performa": {
+    "1D": "25%",
+    "1W": "13%",
+    "1M": "2%",
+    "6M": "-30%",
+    "1Y": "-64%",
+    "updated_at": "31 Juli 2024",
+    "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
+  },
+  "fundamental": {
+    "aset_percentage": "7%",
+    "liabilitas_percentage": "68%",
+    "pendapatan_percentage": "42%",
+    "laba_bersih_percentage": "714%",
+    "updated_at": "31 Juli 2024",
+    "source": "https://www.idx.co.id/id/perusahaan-tercatat/kinerja-saham-tercatat-baru/"
+  }
 }
