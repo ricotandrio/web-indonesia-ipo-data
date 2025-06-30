@@ -17,6 +17,8 @@ Web Indonesia IPO Data asks that all users read this disclaimer in full before u
 
 Web Indonesia IPO Data is an open-source project provided “as-is,” without warranties or guarantees of any kind. The developers are not liable for any damage, loss, or issues arising from the use of this repository or its contents. Use of this data and code is at your own risk. You are encouraged to review the code, data, and documentation thoroughly before relying on it for any purpose.
 
+This project is licensed under the MIT License, which can be reviewed at [license](https://github.com/ricotandrio/web-indonesia-ipo-data/blob/master/LICENSE.md).
+
 ### Accuracy of Information
 
 This project provides data on Initial Public Offerings (IPOs) in Indonesia, aggregated from various public sources. While we make efforts to ensure the information is accurate and current, there is no guarantee of completeness or correctness. Data may be outdated or contain errors. If you identify inaccuracies, please help improve the dataset by submitting a pull request via GitHub.

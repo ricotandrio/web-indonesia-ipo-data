@@ -18,37 +18,9 @@ This repository organizes data on Indonesian IPOs into structured JSON files. It
 > [!IMPORTANT]\
 > We ask that all users read our [legal disclaimer](https://github.com/ricotandrio/web-indonesia-ipo-data/blob/master/DISCLAIMER.md) before using any data from this repository.
 
-## Contribution Guide
+### General Usage
 
-1. **Fork** this repository.
-2. **Clone** to your machine.
-3. Create a new branch.
-4. Follow naming and structure rules.
-5. Validate your changes:
+## Contribute
 
-   * Run JSON linting tools
-   * Ensure alphabetical sorting (especially in `stocks.json`)
-   * Update `information.json` timestamp
-6. Submit a pull request.
+Information describing how to contribute can be found in the file [CONTRIBUTING.md](https://github.com/ricotandrio/web-indonesia-ipo-data/blob/master/CONTRIBUTING.md)
 
-Please refer to [`brief.md`](./brief.md) for a full explanation of formatting and validation expectations.
-
----
-
-## Notes
-
-* Submissions with format issues, unsorted lists, or incorrect structure will be rejected.
-* Use `template_stock.json` and `template_uw.json` to avoid schema errors.
-* Pull requests must be clear about the changes introduced.
-
----
-
-## License
-
-This project is licensed under the MIT License.
-
----
-
-<p align="center">
-  <i>Thank you for contributing to structured, transparent Indonesian IPO data. ✨</i>
-</p>
