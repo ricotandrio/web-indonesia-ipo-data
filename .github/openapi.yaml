@@ -1,0 +1,96 @@
+openapi: 3.0.3
+info:
+  title: Web Indonesia IPO Data API
+  description: >
+    Public read-only access to IPO data in Indonesia.
+    All responses are served as JSON files from the `/data/` directory.
+  version: 1.0.0
+
+servers:
+  - url: https://web-idn-ipo-data.netlify.app/data
+
+paths:
+  /information.json:
+    get:
+      summary: Get latest metadata information
+      description: Returns metadata such as the latest update timestamp.
+      responses:
+        '200':
+          description: Metadata JSON
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  last_updated:
+                    type: string
+                    format: date-time
+                    description: ISO timestamp of last data update
+
+  /stocks.json:
+    get:
+      summary: Get list of available stocks
+      description: Returns an alphabetically sorted list of stock tickers.
+      responses:
+        '200':
+          description: Array of stock tickers
+          content:
+            application/json:
+              schema:
+                type: array
+                items:
+                  type: string
+
+  /underwriters.json:
+    get:
+      summary: Get list of underwriters
+      description: Returns an alphabetically sorted list of underwriter codes.
+      responses:
+        '200':
+          description: Array of underwriter codes
+          content:
+            application/json:
+              schema:
+                type: array
+                items:
+                  type: string
+
+  /stock/{ticker}.json:
+    get:
+      summary: Get stock details
+      description: Returns detailed IPO-related data for a given stock.
+      parameters:
+        - in: path
+          name: ticker
+          required: true
+          schema:
+            type: string
+          example: BBCA
+      responses:
+        '200':
+          description: Stock data object
+          content:
+            application/json:
+              schema:
+                type: object
+                additionalProperties: true
+
+  /underwriter/{code}.json:
+    get:
+      summary: Get underwriter details
+      description: Returns information about a specific underwriter by code.
+      parameters:
+        - in: path
+          name: code
+          required: true
+          schema:
+            type: string
+          example: MRG
+      responses:
+        '200':
+          description: Underwriter data object
+          content:
+            application/json:
+              schema:
+                type: object
+                additionalProperties: true

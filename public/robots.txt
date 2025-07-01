@@ -1,0 +1,4 @@
+# robots.txt for web-indonesia-ipo-data
+
+User-agent: *
+Disallow: /public/data/
