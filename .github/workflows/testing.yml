@@ -1,0 +1,49 @@
+name: Check if PR is Mergeable
+
+on:
+  pull_request:
+    types: [opened, synchronize, reopened]
+    branches: [main]
+
+jobs:
+  check-pr:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check PR mergeability via GitHub API
+        id: merge_check
+        uses: octokit/request-action@v2.x
+        with:
+          route: GET /repos/${{ github.repository }}/pulls/${{ github.event.pull_request.number }}
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Fail if not mergeable
+        run: |
+          echo "${{ steps.merge_check.outputs.data }}" | jq '.mergeable'
+          if [[ $(echo '${{ steps.merge_check.outputs.data }}' | jq -r '.mergeable') != "true" ]]; then
+            echo "❌ Pull request is not mergeable (conflicts or checks failing)."
+            exit 1
+          fi
+
+  test:
+    needs: check-pr
+    runs-on: ubuntu-latest
+
+    strategy:
+      matrix:
+        node-version: [18.x, 20.x, 22.x]
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Setup Node.js ${{ matrix.node-version }}
+        uses: actions/setup-node@v4
+        with:
+          node-version: ${{ matrix.node-version }}
+          cache: 'npm'
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Run JSON check
+        run: npm run check:json
