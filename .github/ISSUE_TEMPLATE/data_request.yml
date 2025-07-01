@@ -1,0 +1,33 @@
+name: Data Request / Suggestion
+description: Propose new stock or underwriter data, or suggest an improvement
+title: "[DATA] "
+labels: [enhancement]
+body:
+  - type: input
+    attributes:
+      label: Stock or Underwriter Name
+      description: The name of the stock or underwriter you'd like to add or improve
+    validations:
+      required: true
+
+  - type: input
+    attributes:
+      label: Code or Ticker
+      description: The official code (e.g. `BBCA` or `XYZU`) if applicable
+    validations:
+      required: true
+
+  - type: textarea
+    attributes:
+      label: Source(s)
+      description: Provide credible sources or references for the data
+      placeholder: |
+        - https://e-ipo.co.id
+        - https://www.idx.co.id
+    validations:
+      required: true
+
+  - type: textarea
+    attributes:
+      label: Additional Notes
+      description: Any extra context, such as offering period, performance, or underwriter details
