@@ -75,23 +75,7 @@ The data can be accessed through the `/public/data` directory. This directory co
 - **`stock/`**
   A directory containing individual JSON files for each stock. Each file uses the stock ticker code as the filename and includes comprehensive IPO-related information such as offering periods, pricing, performance, and fundamental data.
 
-### Project Structure
-
-Here is an overview of the key project files under the `/src` directory:
-
-```
-src/
-├── assets/
-│   ├── global.css
-│   └── icons/
-├── components/
-├── pages/
-├── router/
-├── utils/
-└── main.tsx
-```
-
-#### Frontend Overview
+### Frontend Overview
 
 This project is a **React-based web application** built with modern frontend technologies. The frontend serves as the user interface for browsing and viewing Indonesian IPO data.
 
