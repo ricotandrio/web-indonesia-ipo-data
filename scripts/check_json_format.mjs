@@ -17,7 +17,7 @@ function isUnderwriterJSONValid() {
       try {
         const raw = fs.readFileSync(filePath, "utf-8");
         const parsed = JSON.parse(raw);
-        
+
         if (Array.isArray(parsed.stocks)) {
           parsed.stocks.sort((a, b) => a.localeCompare(b));
         }
@@ -101,14 +101,14 @@ function isUnderwritersJSONValid() {
 
     if (Array.isArray(parsed)) {
       const originalOrder = JSON.stringify(parsed);
-      
+
       parsed.sort((a, b) =>
-        a.underwriter_code.localeCompare(b.underwriter_code)
+        a.underwriter_code.localeCompare(b.underwriter_code),
       );
 
       const sortedOrder = JSON.stringify(parsed);
       if (originalOrder !== sortedOrder) {
-        console.log(sortedOrder)
+        console.log(sortedOrder);
         console.error(`❌ Order mismatch: ${filePath}`);
         sortedMismatch = true;
         hasError = true;
@@ -119,16 +119,14 @@ function isUnderwritersJSONValid() {
     const normalizedRaw = JSON.stringify(JSON.parse(raw), null, 2);
 
     if (normalizedRaw !== formatted && !sortedMismatch) {
-      console.log(formatted)
+      console.log(formatted);
       console.error(`❌ Format mismatch: ${filePath}`);
       hasError = true;
     }
-
   } catch (err) {
     console.error(`❌ Invalid JSON: ${filePath}`, err.message);
     hasError = true;
   }
-
 
   if (hasError) {
     console.error("\n❌ Some JSON files are improperly formatted.");
@@ -152,14 +150,12 @@ function isStocksJSONValid() {
 
     if (Array.isArray(parsed)) {
       const originalOrder = JSON.stringify(parsed);
-      
-      parsed.sort((a, b) =>
-        a.localeCompare(b)
-      );
+
+      parsed.sort((a, b) => a.localeCompare(b));
 
       const sortedOrder = JSON.stringify(parsed);
       if (originalOrder !== sortedOrder) {
-        console.log(sortedOrder)
+        console.log(sortedOrder);
         console.error(`❌ Order mismatch: ${filePath}`);
         sortedMismatch = true;
         hasError = true;
@@ -170,11 +166,10 @@ function isStocksJSONValid() {
     const normalizedRaw = JSON.stringify(JSON.parse(raw), null, 2);
 
     if (normalizedRaw !== formatted && !sortedMismatch) {
-      console.log(formatted)
+      console.log(formatted);
       console.error(`❌ Format mismatch: ${filePath}`);
       hasError = true;
     }
-
   } catch (err) {
     console.error(`❌ Invalid JSON: stocks.json`, err.message);
     hasError = true;
@@ -278,7 +273,7 @@ function main() {
   console.log("\n✅ All checks passed successfully.");
 }
 
-main()
+main();
 
 export {
   isUnderwriterJSONValid,
@@ -286,5 +281,5 @@ export {
   isUnderwritersJSONValid,
   isStocksJSONValid,
   isInformationJSONValid,
-  isTemplateJSONValid
-}
+  isTemplateJSONValid,
+};
