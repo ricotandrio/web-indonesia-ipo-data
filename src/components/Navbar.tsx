@@ -21,6 +21,7 @@ import {
 
 import ChveronIcon from "@src/assets/icons/chevron.svg";
 import { useNavigate } from "react-router-dom";
+import SearchInput from "@src/components/SearchInput";
 
 const NavbarComponent = () => {
   const [isMenuOpen, setIsMenuOpen] = useState(false);
@@ -84,6 +85,12 @@ const NavbarComponent = () => {
               </DropdownItem>
             </DropdownMenu>
           </Dropdown>
+        </NavbarContent>
+
+        <NavbarContent justify="end">
+          <NavbarItem className="hidden sm:flex">
+            <SearchInput />
+          </NavbarItem>
         </NavbarContent>
 
         <NavbarContent className="sm:hidden" justify="start">
