@@ -23,7 +23,7 @@ const SearchPage = () => {
   const navigate = useNavigate();
   const [searchResults, setSearchResults] = useState<SearchResult[]>([]);
   const [isLoading, setIsLoading] = useState(false);
-  
+
   const query = searchParams.get("q") || "";
 
   useEffect(() => {
@@ -40,24 +40,26 @@ const SearchPage = () => {
     const results: SearchResult[] = [];
 
     // Search in stocks (ticker codes)
-    stocks.forEach(ticker => {
+    stocks.forEach((ticker) => {
       if (ticker.toLowerCase().includes(lowerSearchTerm)) {
         results.push({
           type: "stock",
           code: ticker,
-          ticker: ticker
+          ticker: ticker,
         });
       }
     });
 
     // Search in underwriters (codes and names)
-    underwriters.forEach(uw => {
-      if (uw.underwriter_code.toLowerCase().includes(lowerSearchTerm) ||
-          uw.underwriter_name.toLowerCase().includes(lowerSearchTerm)) {
+    underwriters.forEach((uw) => {
+      if (
+        uw.underwriter_code.toLowerCase().includes(lowerSearchTerm) ||
+        uw.underwriter_name.toLowerCase().includes(lowerSearchTerm)
+      ) {
         results.push({
           type: "underwriter",
           code: uw.underwriter_code,
-          name: uw.underwriter_name
+          name: uw.underwriter_name,
         });
       }
     });
@@ -86,7 +88,7 @@ const SearchPage = () => {
 
       <div className="m-14">
         <h1 className="mb-5 text-2xl font-bold">Search IPO Data</h1>
-        
+
         <div className="mb-8">
           <SearchInput />
         </div>
@@ -96,26 +98,27 @@ const SearchPage = () => {
             <h2 className="text-lg font-semibold mb-4">
               Search results for "{query}" ({searchResults.length} results)
             </h2>
-            
+
             {isLoading ? (
               <p>Searching...</p>
             ) : searchResults.length === 0 ? (
               <Card>
                 <CardBody>
                   <p className="text-gray-600">
-                    No results found for "{query}". Try searching with different keywords.
+                    No results found for "{query}". Try searching with different
+                    keywords.
                   </p>
                 </CardBody>
               </Card>
             ) : (
               <div className="space-y-4">
                 {/* Stock Results */}
-                {searchResults.filter(r => r.type === "stock").length > 0 && (
+                {searchResults.filter((r) => r.type === "stock").length > 0 && (
                   <div>
                     <h3 className="text-md font-medium mb-2">Stocks</h3>
                     <div className="flex flex-wrap gap-2">
                       {searchResults
-                        .filter(r => r.type === "stock")
+                        .filter((r) => r.type === "stock")
                         .map((result, index) => (
                           <Button
                             key={index}
@@ -131,12 +134,13 @@ const SearchPage = () => {
                 )}
 
                 {/* Underwriter Results */}
-                {searchResults.filter(r => r.type === "underwriter").length > 0 && (
+                {searchResults.filter((r) => r.type === "underwriter").length >
+                  0 && (
                   <div>
                     <h3 className="text-md font-medium mb-2">Underwriters</h3>
                     <div className="flex flex-wrap gap-2">
                       {searchResults
-                        .filter(r => r.type === "underwriter")
+                        .filter((r) => r.type === "underwriter")
                         .map((result, index) => (
                           <Tooltip
                             key={index}
@@ -147,7 +151,9 @@ const SearchPage = () => {
                             <Button
                               color="primary"
                               variant="flat"
-                              onPress={() => handleUnderwriterClick(result.code)}
+                              onPress={() =>
+                                handleUnderwriterClick(result.code)
+                              }
                             >
                               {result.code}
                             </Button>
@@ -165,7 +171,8 @@ const SearchPage = () => {
           <Card>
             <CardBody>
               <p className="text-gray-600">
-                Enter a search term to find stocks by ticker code or underwriters by code/name.
+                Enter a search term to find stocks by ticker code or
+                underwriters by code/name.
               </p>
             </CardBody>
           </Card>

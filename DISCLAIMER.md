@@ -6,12 +6,12 @@ Web Indonesia IPO Data asks that all users read this disclaimer in full before u
 
 ## Table of Contents
 
-* [Licenses, Copyrights & Trademarks](#licenses-copyrights--trademarks)
-* [Accuracy of Information](#accuracy-of-information)
-* [External Links](#external-links)
-* [No Financial Advice](#no-financial-advice)
-* [User Consent](#user-consent)
-* [Changes to This Disclaimer](#changes-to-this-disclaimer)
+- [Licenses, Copyrights & Trademarks](#licenses-copyrights--trademarks)
+- [Accuracy of Information](#accuracy-of-information)
+- [External Links](#external-links)
+- [No Financial Advice](#no-financial-advice)
+- [User Consent](#user-consent)
+- [Changes to This Disclaimer](#changes-to-this-disclaimer)
 
 ### Licenses, Copyrights & Trademarks
 

@@ -15,7 +15,7 @@ paths:
       summary: Get latest metadata information
       description: Returns metadata such as the latest update timestamp.
       responses:
-        '200':
+        "200":
           description: Metadata JSON
           content:
             application/json:
@@ -32,7 +32,7 @@ paths:
       summary: Get list of available stocks
       description: Returns an alphabetically sorted list of stock tickers.
       responses:
-        '200':
+        "200":
           description: Array of stock tickers
           content:
             application/json:
@@ -46,7 +46,7 @@ paths:
       summary: Get list of underwriters
       description: Returns an alphabetically sorted list of underwriter codes.
       responses:
-        '200':
+        "200":
           description: Array of underwriter codes
           content:
             application/json:
@@ -67,7 +67,7 @@ paths:
             type: string
           example: BBCA
       responses:
-        '200':
+        "200":
           description: Stock data object
           content:
             application/json:
@@ -87,7 +87,7 @@ paths:
             type: string
           example: MRG
       responses:
-        '200':
+        "200":
           description: Underwriter data object
           content:
             application/json:

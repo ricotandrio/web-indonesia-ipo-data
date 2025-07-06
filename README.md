@@ -30,21 +30,20 @@ https://web-idn-ipo-data.netlify.app/data/
 
 ## Available Endpoints
 
-| URL                                                | Description                                             |
-| -------------------------------------------------- | ------------------------------------------------------- |
-| `{BASE_URL}/information.json`                      | Metadata about the dataset, including last update time. |
-| `{BASE_URL}/stocks.json`                           | Alphabetically sorted list of all stocks.               |
-| `{BASE_URL}/underwriters.json`                     | Alphabetically sorted list of all underwriters.         |
-| `{BASE_URL}/stock/{ticker}.json`                   | Detailed IPO data for a specific stock.                 |
-| `{BASE_URL}/underwriter/{code}.json`               | Information about a specific underwriter.               |
+| URL                                  | Description                                             |
+| ------------------------------------ | ------------------------------------------------------- |
+| `{BASE_URL}/information.json`        | Metadata about the dataset, including last update time. |
+| `{BASE_URL}/stocks.json`             | Alphabetically sorted list of all stocks.               |
+| `{BASE_URL}/underwriters.json`       | Alphabetically sorted list of all underwriters.         |
+| `{BASE_URL}/stock/{ticker}.json`     | Detailed IPO data for a specific stock.                 |
+| `{BASE_URL}/underwriter/{code}.json` | Information about a specific underwriter.               |
 
 ## 🔎 Notes
 
-* All responses are served as raw JSON.
-* Use the actual `ticker` or `code` (case-sensitive) when accessing `/stock/{ticker}.json` or `/underwriter/{code}.json`.
-* Refer to `information.json` for the most recent update timestamp.
+- All responses are served as raw JSON.
+- Use the actual `ticker` or `code` (case-sensitive) when accessing `/stock/{ticker}.json` or `/underwriter/{code}.json`.
+- Refer to `information.json` for the most recent update timestamp.
 
 ## Contribute
 
 Information describing how to contribute can be found in the file [CONTRIBUTING.md](https://github.com/ricotandrio/web-indonesia-ipo-data/blob/master/CONTRIBUTING.md)
-
