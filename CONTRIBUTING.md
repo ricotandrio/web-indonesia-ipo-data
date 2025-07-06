@@ -13,12 +13,9 @@ Before contributing, please review the guidelines below. If you're new to Git or
 
 - [Contribution Steps](#contribution-steps)
 
-- [Repository Structure](#repository-structure)
-  - [Data Directory Overview](#data-directory-overview)
+- [Data Directory Overview](#data-directory-overview)
 
-  - [Project Structure](#project-structure)
-
-  - [Frontend Overview](#frontend-overview)
+- [Frontend Overview](#frontend-overview)
 
 - [Formatting Rules](#formatting-rules)
 
@@ -270,7 +267,7 @@ Please adhere to the following formatting standards:
 
 Here’s a clear and well-structured section you can add to your `README.md` or `CONTRIBUTING.md` under a heading like **Data Validation Scripts**:
 
-## Data Validation Scripts
+### Data Validation Scripts
 
 Before committing changes, use the following scripts to validate data consistency and formatting. These scripts help ensure that all entries conform to project standards and prevent malformed or misordered data from being merged.
 
@@ -280,7 +277,7 @@ You can run any of these with:
 npm run <script-name>
 ```
 
-### Available Scripts
+**Available Scripts**
 
 | Script               | Description                                                  |
 | -------------------- | ------------------------------------------------------------ |
