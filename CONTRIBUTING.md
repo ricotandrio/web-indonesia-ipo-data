@@ -54,8 +54,6 @@ Before contributing, please review the guidelines below. If you're new to Git or
 
 6. Make a pull request
 
-### Repository Structure
-
 ### Data Directory Overview
 
 The data can be accessed through the `/public/data` directory. This directory contains the core structured datasets used in the project. All files and folders within must be consistently maintained and properly formatted.
