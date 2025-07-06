@@ -2,7 +2,7 @@
 
 Web Indonesia IPO Data asks that all users read this disclaimer in full before using or contributing to the repository.
 
-**Effective Date:** 10 February 2025
+**Effective Date:** 6 July 2025
 
 ## Table of Contents
 
@@ -21,9 +21,13 @@ This project is licensed under the MIT License, which can be reviewed at [licens
 
 ### Accuracy of Information
 
-This project provides data on Initial Public Offerings (IPOs) in Indonesia, aggregated from various public sources. While we make efforts to ensure the information is accurate and current, there is no guarantee of completeness or correctness. Data may be outdated or contain errors. If you identify inaccuracies, please help improve the dataset by submitting a pull request via GitHub.
+This project provides data on Initial Public Offerings (IPOs) in Indonesia, manually aggregated from publicly accessible sources. While we strive to ensure the accuracy and timeliness of the information, we make no guarantees regarding its completeness, accuracy, or reliability.
 
-All content is provided in good faith and is intended for general informational purposes only. No representation or warranty is made regarding its reliability, accuracy, or completeness.
+The dataset may contain outdated, incomplete, or incorrect information. Contributions to improve the quality and accuracy are welcome. Please submit a pull request or new issues via GitHub if you identify any issues.
+
+The data is offered in good faith and is intended for general informational and educational purposes only. It should not be relied upon for investment, legal, or financial decisions.
+
+Use of this data is at your own risk.
 
 ### External Links
 
