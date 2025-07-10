@@ -148,6 +148,19 @@ src/
    npm run prettier  # Code formatting
    ```
 
+6. **Compile redocly for API documentation**
+  Install redoc-cli
+
+    ```bash
+    npm install -g redoc-cli
+    ```
+
+   Bundle into a standalone HTML file:
+
+    ```bash
+    npx @redocly/cli build-docs ./.github/openapi.yaml
+    ```
+
 **Naming Conventions:**
 
 - **Components:** PascalCase (e.g., `NavbarComponent`, `SearchInput`)

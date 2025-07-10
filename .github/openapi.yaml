@@ -2,7 +2,7 @@ openapi: 3.0.3
 info:
   title: Web Indonesia IPO Data API
   description: >
-    Public read-only access to IPO data in Indonesia.
+    Public read-only access to IPO data in Indonesia.  
     All responses are served as JSON files from the `/data/` directory.
   version: 1.0.0
 
@@ -26,6 +26,7 @@ paths:
                     type: string
                     format: date-time
                     description: ISO timestamp of last data update
+              example: {}
 
   /stocks.json:
     get:
@@ -40,20 +41,30 @@ paths:
                 type: array
                 items:
                   type: string
+              example:
+                - AADI
+                - ACRO
+                - ADCP
 
   /underwriters.json:
     get:
       summary: Get list of underwriters
-      description: Returns an alphabetically sorted list of underwriter codes.
+      description: Returns an alphabetically sorted list of underwriter codes and names.
       responses:
         "200":
-          description: Array of underwriter codes
+          description: Array of underwriter objects
           content:
             application/json:
               schema:
                 type: array
                 items:
-                  type: string
+                  type: object
+                  properties:
+                    underwriter_code:
+                      type: string
+                    underwriter_name:
+                      type: string
+              example: []
 
   /stock/{ticker}.json:
     get:
@@ -73,7 +84,138 @@ paths:
             application/json:
               schema:
                 type: object
-                additionalProperties: true
+                properties:
+                  ipo_status:
+                    type: string
+                  ticker_code:
+                    type: string
+                  image:
+                    type: string
+                  company_name:
+                    type: string
+                  sector:
+                    type: string
+                  subsector:
+                    type: string
+                  listing_board:
+                    type: string
+                  final_price:
+                    type: number
+                  line_of_business:
+                    type: string
+                  address:
+                    type: string
+                  website:
+                    type: string
+                  number_of_shares_offered:
+                    type: integer
+                  "%_of_total_shares":
+                    type: number
+                  participant_admin:
+                    type: object
+                    properties:
+                      code:
+                        type: string
+                      name:
+                        type: string
+                  book_building_opening:
+                    type: string
+                  book_building_closing:
+                    type: string
+                  lowest_book_building_price:
+                    type: number
+                  highest_book_building_price:
+                    type: number
+                  opening_of_offering_period:
+                    type: string
+                  closing_of_offering_period:
+                    type: string
+                  closing_date:
+                    type: string
+                  distribution_date:
+                    type: string
+                  listing_date:
+                    type: string
+                  ara_arb_percentage:
+                    type: string
+                  underwriters:
+                    type: array
+                    items:
+                      type: object
+                      properties:
+                        code:
+                          type: string
+                        name:
+                          type: string
+                        percentage:
+                          type: string
+                  warrant:
+                    type: object
+                    properties:
+                      code:
+                        type: string
+                      per_share_ratio:
+                        type: number
+                      exercise_price_(rp):
+                        type: string
+                      open:
+                        type: string
+                      high:
+                        type: string
+                      low:
+                        type: string
+                      close:
+                        type: string
+                  listing_price:
+                    type: object
+                    properties:
+                      open:
+                        type: number
+                      high:
+                        type: number
+                      low:
+                        type: number
+                      close:
+                        type: number
+                      change:
+                        type: number
+                      percentage_change:
+                        type: string
+                      volume:
+                        type: number
+                  performa:
+                    type: object
+                    properties:
+                      1D:
+                        type: string
+                      1W:
+                        type: string
+                      1M:
+                        type: string
+                      6M:
+                        type: string
+                      1Y:
+                        type: string
+                      updated_at:
+                        type: string
+                      source:
+                        type: string
+                  fundamental:
+                    type: object
+                    properties:
+                      aset_percentage:
+                        type: string
+                      liabilitas_percentage:
+                        type: string
+                      pendapatan_percentage:
+                        type: string
+                      laba_bersih_percentage:
+                        type: string
+                      updated_at:
+                        type: string
+                      source:
+                        type: string
+              example: {}
 
   /underwriter/{code}.json:
     get:
@@ -93,4 +235,18 @@ paths:
             application/json:
               schema:
                 type: object
-                additionalProperties: true
+                properties:
+                  underwriter:
+                    type: object
+                    properties:
+                      code:
+                        type: string
+                      name:
+                        type: string
+                      image:
+                        type: string
+                  stocks:
+                    type: array
+                    items:
+                      type: string
+              example: {}
