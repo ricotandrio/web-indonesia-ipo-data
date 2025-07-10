@@ -38,6 +38,12 @@ https://web-idn-ipo-data.netlify.app/data/
 | `{BASE_URL}/stock/{ticker}.json`     | Detailed IPO data for a specific stock.                 |
 | `{BASE_URL}/underwriter/{code}.json` | Information about a specific underwriter.               |
 
+## API Documentation
+
+You can access the API documentation at the following URL:
+
+🔗 [https://ricotandrio.github.io/web-indonesia-ipo-data/](https://ricotandrio.github.io/web-indonesia-ipo-data/)
+
 ## Dashboard Access
 
 You can access the live dashboard at the following URL:
