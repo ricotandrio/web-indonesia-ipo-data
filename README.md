@@ -38,7 +38,13 @@ https://web-idn-ipo-data.netlify.app/data/
 | `{BASE_URL}/stock/{ticker}.json`     | Detailed IPO data for a specific stock.                 |
 | `{BASE_URL}/underwriter/{code}.json` | Information about a specific underwriter.               |
 
-## 🔎 Notes
+## Dashboard Access
+
+You can access the live dashboard at the following URL:
+
+🔗 [https://web-idn-ipo-data.netlify.app/](https://web-idn-ipo-data.netlify.app/)
+
+## Notes
 
 - All responses are served as raw JSON.
 - Use the actual `ticker` or `code` (case-sensitive) when accessing `/stock/{ticker}.json` or `/underwriter/{code}.json`.
