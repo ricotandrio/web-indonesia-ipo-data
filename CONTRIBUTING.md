@@ -158,7 +158,7 @@ src/
    Bundle into a standalone HTML file:
 
     ```bash
-    npx @redocly/cli build-docs ./.github/openapi.yaml
+    npx @redocly/cli build-docs .github/openapi.yaml -o docs/index.html
     ```
 
 **Naming Conventions:**

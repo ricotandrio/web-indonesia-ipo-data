@@ -26,7 +26,6 @@ paths:
                     type: string
                     format: date-time
                     description: ISO timestamp of last data update
-              example: {}
 
   /stocks.json:
     get:
@@ -41,10 +40,6 @@ paths:
                 type: array
                 items:
                   type: string
-              example:
-                - AADI
-                - ACRO
-                - ADCP
 
   /underwriters.json:
     get:
@@ -59,12 +54,19 @@ paths:
                 type: array
                 items:
                   type: object
+                  additionalProperties: false
                   properties:
                     underwriter_code:
                       type: string
+                      description: The underwriter's code
                     underwriter_name:
                       type: string
-              example: []
+                      description: The underwriter's full name
+              example:
+                - underwriter_code: "AD"
+                  underwriter_name: "OSO SEKURITAS INDONESIA"
+                - underwriter_code: "CC"
+                  underwriter_name: "CITIGROUP SEKURITAS INDONESIA"
 
   /stock/{ticker}.json:
     get:
@@ -84,6 +86,7 @@ paths:
             application/json:
               schema:
                 type: object
+                additionalProperties: false
                 properties:
                   ipo_status:
                     type: string
@@ -215,7 +218,6 @@ paths:
                         type: string
                       source:
                         type: string
-              example: {}
 
   /underwriter/{code}.json:
     get:
@@ -235,6 +237,7 @@ paths:
             application/json:
               schema:
                 type: object
+                additionalProperties: false
                 properties:
                   underwriter:
                     type: object
@@ -249,4 +252,3 @@ paths:
                     type: array
                     items:
                       type: string
-              example: {}
