@@ -1,17 +1,22 @@
 export class NumberUtil {
-  static formatToRupiah(amount: number): string {
-    if (isNaN(amount)) {
+  static formatToRupiah(amount: number | string): string {
+    const parsed = Number(amount);
+
+    if (isNaN(parsed)) {
       return "Rp. 0";
     }
 
-    return `Rp. ${amount.toFixed(0)}`;
+    return `Rp. ${parsed.toFixed(0)}`;
   }
 
-  static toDotNumber(amount: number): string {
-    if (isNaN(amount)) {
+  static toDotNumber(amount: number | string): string {
+    const parsed = Number(amount);
+
+    if (isNaN(parsed)) {
       return "0";
     }
 
-    return amount.toLocaleString("id-ID");
+    return parsed.toLocaleString("id-ID");
   }
+
 }

@@ -21,11 +21,17 @@ import {
 
 import ChveronIcon from "@src/assets/icons/chevron.svg";
 import { useNavigate } from "react-router-dom";
-import SearchInput from "@src/components/SearchInput";
 
 const NavbarComponent = () => {
   const [isMenuOpen, setIsMenuOpen] = useState(false);
   const navigate = useNavigate();
+
+  const disclaimer: string =
+    "https://github.com/ricotandrio/web-indonesia-ipo-data/blob/master/DISCLAIMER.md";
+  const termsAndConditions: string =
+    "https://github.com/ricotandrio/web-indonesia-ipo-data/blob/master/TERMS_AND_CONDITIONS.md";
+  const privacyPolicy: string =
+    "https://github.com/ricotandrio/web-indonesia-ipo-data/blob/master/PRIVACY_POLICY.md";
 
   return (
     <>
@@ -67,30 +73,24 @@ const NavbarComponent = () => {
             >
               <DropdownItem
                 key="disclaimer"
-                onPress={() => navigate("/disclaimer")}
+                onPress={() => window.open(disclaimer, "_blank")}
               >
                 Disclaimer
               </DropdownItem>
               <DropdownItem
                 key="terms-and-conditions"
-                onPress={() => navigate("/terms-and-conditions")}
+                onPress={() => window.open(termsAndConditions, "_blank")}
               >
                 Terms and Conditions
               </DropdownItem>
               <DropdownItem
                 key="privacy-policy"
-                onPress={() => navigate("/privacy-policy")}
+                onPress={() => window.open(privacyPolicy, "_blank")}
               >
                 Privacy Policy
               </DropdownItem>
             </DropdownMenu>
           </Dropdown>
-        </NavbarContent>
-
-        <NavbarContent justify="end">
-          <NavbarItem className="hidden sm:flex">
-            <SearchInput />
-          </NavbarItem>
         </NavbarContent>
 
         <NavbarContent className="sm:hidden" justify="start">
@@ -109,7 +109,7 @@ const NavbarComponent = () => {
           <NavbarMenuItem className="px-8 flex flex-col gap-3">
             <Link
               className="w-full"
-              onPress={() => navigate("/disclaimer")}
+              onPress={() => window.open(disclaimer, "_blank")}
               size="lg"
               color="foreground"
             >
@@ -117,7 +117,7 @@ const NavbarComponent = () => {
             </Link>
             <Link
               className="w-full"
-              onPress={() => navigate("/terms-and-conditions")}
+              onPress={() => window.open(termsAndConditions, "_blank")}
               size="lg"
               color="foreground"
             >
@@ -125,7 +125,7 @@ const NavbarComponent = () => {
             </Link>
             <Link
               className="w-full"
-              onPress={() => navigate("/privacy-policy")}
+              onPress={() => window.open(privacyPolicy, "_blank")}
               size="lg"
               color="foreground"
             >

@@ -90,7 +90,7 @@ const SearchPage = () => {
         <h1 className="mb-5 text-2xl font-bold">Search IPO Data</h1>
 
         <div className="mb-8">
-          <SearchInput />
+          <SearchInput value={query} />
         </div>
 
         {query && (

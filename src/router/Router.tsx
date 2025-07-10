@@ -5,9 +5,7 @@ import HomePage from "@src/pages/HomePage";
 import UnderwriterPage from "@src/pages/UnderwriterPage";
 import StockPage from "@src/pages/StockPage";
 import SearchPage from "@src/pages/SearchPage";
-import DisclaimerPage from "@src/pages/DisclaimerPage";
-import TermsAndConditionsPage from "@src/pages/TermsAndConditions";
-import PrivacyPolicyPage from "@src/pages/PrivacyPolicyPage";
+import Error500 from "@src/pages/Error500";
 
 const Router: React.FC = () => {
   return (
@@ -20,12 +18,7 @@ const Router: React.FC = () => {
 
       <Route path="/stock/:stockCode" element={<StockPage />} />
 
-      <Route path="/disclaimer" element={<DisclaimerPage />} />
-      <Route
-        path="/terms-and-conditions"
-        element={<TermsAndConditionsPage />}
-      />
-      <Route path="/privacy-policy" element={<PrivacyPolicyPage />} />
+      <Route path="/error/500" element={<Error500 />} />
     </Routes>
   );
 };
