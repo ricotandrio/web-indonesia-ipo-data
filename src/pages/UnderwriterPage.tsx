@@ -52,7 +52,7 @@ const UnderwriterPage = () => {
           const data = await fetch(`/data/stock/${stockName}.json`);
 
           const jsonData = await data.json();
-          
+
           setData(jsonData);
         } catch (e) {
           navigate("/error/500");
@@ -72,7 +72,9 @@ const UnderwriterPage = () => {
             {stockName}
           </Button>
         </td>
-        <td className="px-4 py-2">{DateUtil.formatToLongDate(data?.listing_date) || "N/A"}</td>
+        <td className="px-4 py-2">
+          {DateUtil.formatToLongDate(data?.listing_date) || "N/A"}
+        </td>
         <td className="px-4 py-2">Rp. {data?.listing_price?.open || "N/A"}</td>
         <td className="px-4 py-2">Rp. {data?.listing_price?.high || "N/A"}</td>
         <td className="px-4 py-2">Rp. {data?.listing_price?.low || "N/A"}</td>
@@ -81,10 +83,8 @@ const UnderwriterPage = () => {
           <span
             className={`${data?.listing_price?.change > 0 ? "text-green-500" : "text-red-500"}`}
           >
-            {NumberUtil.formatToRupiah(
-              data?.listing_price?.change,
-            )}{" "}
-            ({data?.listing_price?.percentage_change})
+            {NumberUtil.formatToRupiah(data?.listing_price?.change)} (
+            {data?.listing_price?.percentage_change})
           </span>
         </td>
         <td className="px-4 py-2">{data?.listing_price?.volume || "N/A"}</td>
@@ -129,7 +129,6 @@ const UnderwriterPage = () => {
             </tbody>
           </table>
         </div>
-
       </div>
     </>
   );

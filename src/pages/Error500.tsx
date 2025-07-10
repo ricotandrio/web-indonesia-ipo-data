@@ -16,7 +16,8 @@ const Error500 = () => {
         <h1 className="text-6xl font-bold text-red-600 mb-4">500</h1>
         <h2 className="text-2xl font-semibold mb-2">Internal Server Error</h2>
         <p className="mb-6 text-gray-600 max-w-md">
-          Something went wrong on our end. Please try again later or go back to the homepage.
+          Something went wrong on our end. Please try again later or go back to
+          the homepage.
         </p>
         <Button color="primary" onPress={handleBack}>
           Back to Home

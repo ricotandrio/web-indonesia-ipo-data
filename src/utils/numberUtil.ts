@@ -18,5 +18,4 @@ export class NumberUtil {
 
     return parsed.toLocaleString("id-ID");
   }
-
 }
