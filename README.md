@@ -20,7 +20,7 @@ This repository organizes data on Indonesian IPOs into structured JSON files. It
 
 ## General Usage
 
-The core dataset for this project is publicly accessible in raw JSON format. For a detailed specification, see [Redocly Docs]().
+The core dataset for this project is publicly accessible in raw JSON format. For a detailed specification, see [Redocly Docs](https://ricotandrio.github.io/web-indonesia-ipo-data/).
 
 ### Base URL
 
@@ -37,12 +37,6 @@ https://web-idn-ipo-data.netlify.app/data/
 | `{BASE_URL}/underwriters.json`       | Alphabetically sorted list of all underwriters.         |
 | `{BASE_URL}/stock/{ticker}.json`     | Detailed IPO data for a specific stock.                 |
 | `{BASE_URL}/underwriter/{code}.json` | Information about a specific underwriter.               |
-
-## API Documentation
-
-You can access the API documentation at the following URL:
-
-🔗 [https://ricotandrio.github.io/web-indonesia-ipo-data/](https://ricotandrio.github.io/web-indonesia-ipo-data/)
 
 ## Dashboard Access
 
