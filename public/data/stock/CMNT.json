@@ -6,12 +6,12 @@
   "sector": "Basic Materials",
   "subsector": "Construction Materials",
   "listing_board": "Utama",
-  "final_price": 680.0,
+  "final_price": "680.0",
   "line_of_business": "Industri Semen",
   "address": "Jl, Raya Pluit Selatan Blok S No, 8 I-J RT022/RW008, Penjaringan Jakarta Utara 14440, Indonesia",
   "website": "https://www.semenmerahputih.com",
   "number_of_shares_offered": 1718800000,
-  "%_of_total_shares": 10.04,
+  "%_of_total_shares": "10.04",
   "participant_admin": {
     "code": "KI",
     "name": "CIPTADANA SEKURITAS ASIA"
@@ -40,7 +40,7 @@
   ],
   "warrant": {
     "code": "",
-    "per_share_ratio": 0.0,
+    "per_share_ratio": "0.0",
     "exercise_price_(rp)": "",
     "open": "",
     "high": "",
@@ -48,13 +48,13 @@
     "close": ""
   },
   "listing_price": {
-    "open": 700.0,
-    "high": 850.0,
-    "low": 700.0,
-    "close": 850.0,
-    "change": 170.0,
+    "open": "700.0",
+    "high": "850.0",
+    "low": "700.0",
+    "close": "850.0",
+    "change": "170.0",
     "percentage_change": "25.00%",
-    "volume": 84199200.0
+    "volume": "84199200.0"
   },
   "performa": {
     "1D": "25%",

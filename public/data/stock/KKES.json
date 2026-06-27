@@ -6,12 +6,12 @@
   "sector": "Basic Materials",
   "subsector": "Basic Chemicals",
   "listing_board": "Pemantauan Khusus",
-  "final_price": 105.0,
+  "final_price": "105.0",
   "line_of_business": "Perdagangan Besar Bahan dan Barang Kimia",
   "address": "Green Ville Maisonette Blok FA / 12A, Jakarta Barat, DKI Jakarta, 11510 - Indonesia",
   "website": "https://kks-chemicals.com",
   "number_of_shares_offered": 300000000,
-  "%_of_total_shares": 20.0,
+  "%_of_total_shares": "20.0",
   "participant_admin": {
     "code": "YP",
     "name": "MIRAE ASSET SEKURITAS INDONESIA"
@@ -35,7 +35,7 @@
   ],
   "warrant": {
     "code": "",
-    "per_share_ratio": 0.0,
+    "per_share_ratio": "0.0",
     "exercise_price_(rp)": "",
     "open": "",
     "high": "",
@@ -44,12 +44,12 @@
   },
   "listing_price": {
     "open": "",
-    "high": 138.0,
-    "low": 104.0,
-    "close": 127.0,
-    "change": 22.0,
+    "high": "138.0",
+    "low": "104.0",
+    "close": "127.0",
+    "change": "22.0",
     "percentage_change": "20.95%",
-    "volume": 1016123800.0
+    "volume": "1016123800.0"
   },
   "performa": {
     "1D": "21%",

@@ -1,0 +1,71 @@
+{
+  "ipo_status": "Closed",
+  "ticker_code": "PJHB",
+  "image": "",
+  "company_name": "PT Pelayaran Jaya Hidup Baru Tbk",
+  "sector": "Transportation & Logistic",
+  "subsector": "Logistics & Deliveries",
+  "listing_board": "Development",
+  "final_price": "330.0",
+  "line_of_business": "Angkutan Laut Perairan Pelabuhan Dalam Negeri untuk Barang berupa Alat Berat dan Kontainer",
+  "address": "Jl. Panglima Batur No. 36, Pelabuhan, Kec. Samarinda Kota, Kota Samarinda, Prov. Kalimantan Timur, Kode Pos: 75112",
+  "website": "https://www.pelayaranjayahidupbaru.com",
+  "number_of_shares_offered": 480000000,
+  "%_of_total_shares": 25,
+  "participant_admin": {
+    "code": "PO",
+    "name": "PILARMAS INVESTINDO SEKURITAS"
+  },
+  "book_building_opening": "22/10/2025",
+  "book_building_closing": "27/10/2025",
+  "lowest_book_building_price": 310,
+  "highest_book_building_price": 330,
+  "opening_of_offering_period": "31/10/2025",
+  "closing_of_offering_period": "04/11/2025",
+  "closing_date": "04/11/2025",
+  "distribution_date": "05/11/2025",
+  "listing_date": "06/11/2025",
+  "ara_arb_percentage": "35%",
+  "underwriters": [
+    {
+      "code": "PO",
+      "name": "PILARMAS INVESTINDO SEKURITAS",
+      "percentage": "100%"
+    }
+  ],
+  "warrant": {
+    "code": "PJHB-W",
+    "per_share_ratio": "0.5",
+    "exercise_price_(rp)": "0.0",
+    "open": "-",
+    "high": "-",
+    "low": "-",
+    "close": "-"
+  },
+  "listing_price": {
+    "open": "164.0",
+    "high": "1085.0",
+    "low": "134.0",
+    "close": "160.0",
+    "change": "-4.0",
+    "percentage_change": "-2.44%",
+    "volume": "571700.0"
+  },
+  "performa": {
+    "1D": "-2.44%",
+    "1W": "-9.60%",
+    "1M": "-25.93%",
+    "6M": "-65.52%",
+    "1Y": "-51.52%",
+    "updated_at": "26/06/2026",
+    "source": "IDX"
+  },
+  "fundamental": {
+    "aset_percentage": "-",
+    "liabilitas_percentage": "-",
+    "pendapatan_percentage": "-",
+    "laba_bersih_percentage": "-",
+    "updated_at": "31/12/2024",
+    "source": "Prospectus"
+  }
+}

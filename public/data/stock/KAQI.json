@@ -2,16 +2,16 @@
   "ipo_status": "Closed",
   "ticker_code": "KAQI",
   "image": "",
-  "company_name": "",
-  "sector": "",
-  "subsector": "",
-  "listing_board": "",
-  "final_price": 0.0,
-  "line_of_business": "",
-  "address": "",
-  "website": "",
+  "company_name": "PT Jantra Grupo Indonesia Tbk",
+  "sector": "Consumer Cyclicals",
+  "subsector": "Auto Parts & Equipment",
+  "listing_board": "Development",
+  "final_price": "118.0",
+  "line_of_business": "Perawatan, perbaikan, dan perdagangan suku cadang dan aksesori kaki-kaki kendaraan",
+  "address": "Jalan Raya Cirendeu No. 9, Pisangan, Kecamatan Ciputat Timur, Kota Tangerang Selatan, Banten 15419",
+  "website": "http://www.jantragrupoindonesia.com",
   "number_of_shares_offered": 450000000,
-  "%_of_total_shares": 21.68,
+  "%_of_total_shares": "21.68",
   "participant_admin": {
     "code": "DR",
     "name": "RHB SEKURITAS INDONESIA"
@@ -20,52 +20,52 @@
   "book_building_closing": "26/02/2025",
   "lowest_book_building_price": 100,
   "highest_book_building_price": 120,
-  "opening_of_offering_period": "",
-  "closing_of_offering_period": "",
-  "closing_date": "",
-  "distribution_date": "",
-  "listing_date": "",
+  "opening_of_offering_period": "04/03/2025",
+  "closing_of_offering_period": "06/03/2025",
+  "closing_date": "06/03/2025",
+  "distribution_date": "07/03/2025",
+  "listing_date": "10/03/2025",
   "ara_arb_percentage": "35%",
   "underwriters": [
     {
       "code": "DR",
       "name": "RHB SEKURITAS INDONESIA",
-      "percentage": ""
+      "percentage": "100%"
     }
   ],
   "warrant": {
-    "code": "",
-    "per_share_ratio": 0.0,
-    "exercise_price_(rp)": 0.0,
+    "code": "-",
+    "per_share_ratio": "0.0",
+    "exercise_price_(rp)": "0.0",
     "open": "-",
     "high": "-",
     "low": "-",
     "close": "-"
   },
   "listing_price": {
-    "open": "",
-    "high": 0.0,
-    "low": 0.0,
-    "close": 0.0,
-    "change": 0.0,
-    "percentage_change": "0.00%",
-    "volume": 0.0
+    "open": 145,
+    "high": "159.0",
+    "low": "118.0",
+    "close": "159.0",
+    "change": "41.0",
+    "percentage_change": "34.75%",
+    "volume": "2450000.0"
   },
   "performa": {
-    "1D": "",
-    "1W": "",
-    "1M": "",
-    "6M": "",
-    "1Y": "",
-    "updated_at": "",
-    "source": ""
+    "1D": "34.75%",
+    "1W": "-",
+    "1M": "-",
+    "6M": "-",
+    "1Y": "-",
+    "updated_at": "10/03/2025",
+    "source": "IDX"
   },
   "fundamental": {
-    "aset_percentage": "",
-    "liabilitas_percentage": "",
-    "pendapatan_percentage": "",
-    "laba_bersih_percentage": "",
-    "updated_at": "",
-    "source": ""
+    "aset_percentage": "-",
+    "liabilitas_percentage": "-",
+    "pendapatan_percentage": "-",
+    "laba_bersih_percentage": "-",
+    "updated_at": "31/08/2024",
+    "source": "Prospectus"
   }
 }

@@ -6,12 +6,12 @@
   "sector": "Consumer Cyclicals",
   "subsector": "Auto Parts & Equipment",
   "listing_board": "Utama",
-  "final_price": 500.0,
+  "final_price": "500.0",
   "line_of_business": "Manufaktur Komponen Kendaraan Bermotor",
   "address": "Jl, Angsana Raya Blok A9 No, 8 Delta Silicon I Kawasan Industri Lippo Cikarang Kelurahan Sukaresmi, Kecamatan Cikarang Selatan, Kabupaten Bekasi Jawa Barat - Indonesia",
   "website": "https://www.dharmagroup.co.id",
   "number_of_shares_offered": 705882300,
-  "%_of_total_shares": 15.0,
+  "%_of_total_shares": "15.0",
   "participant_admin": {
     "code": "AZ",
     "name": "SUCOR SEKURITAS"
@@ -40,7 +40,7 @@
   ],
   "warrant": {
     "code": "",
-    "per_share_ratio": 0.0,
+    "per_share_ratio": "0.0",
     "exercise_price_(rp)": "",
     "open": "",
     "high": "",
@@ -49,12 +49,12 @@
   },
   "listing_price": {
     "open": "",
-    "high": 550.0,
-    "low": 466.0,
-    "close": 496.0,
-    "change": -4.0,
+    "high": "550.0",
+    "low": "466.0",
+    "close": "496.0",
+    "change": "-4.0",
     "percentage_change": "-0.80%",
-    "volume": 192255900.0
+    "volume": "192255900.0"
   },
   "performa": {
     "1D": "-1%",

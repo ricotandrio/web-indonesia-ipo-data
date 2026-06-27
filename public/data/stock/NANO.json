@@ -6,12 +6,12 @@
   "sector": "Industrials",
   "subsector": "Business Support Services",
   "listing_board": "Akselerasi",
-  "final_price": 100.0,
+  "final_price": "100.0",
   "line_of_business": "Penelitian & Pengembangan Ilmu Pengetahuan Alam & Teknologi Rekayasa Lainnya & Aktivitas Konsultasi",
   "address": "Gedung Nanoplex, Jl, Puspiptek Komplek Batan Lama A12, Kota Tangerang Selatan, Provinsi Banten - 15314",
   "website": "https://nig.co.id",
   "number_of_shares_offered": 1285000000,
-  "%_of_total_shares": 29.99,
+  "%_of_total_shares": "29.99",
   "participant_admin": {
     "code": "AI",
     "name": "UOB KAY HIAN SEKURITAS"
@@ -35,21 +35,21 @@
   ],
   "warrant": {
     "code": "NANO-W",
-    "per_share_ratio": 0.8,
-    "exercise_price_(rp)": 125.0,
-    "open": "51",
-    "high": "60",
-    "low": "15",
-    "close": "50"
+    "per_share_ratio": "0.8",
+    "exercise_price_(rp)": "125.0",
+    "open": 51,
+    "high": 60,
+    "low": 15,
+    "close": 50
   },
   "listing_price": {
-    "open": 110.0,
-    "high": 110.0,
-    "low": 90.0,
-    "close": 110.0,
-    "change": 10.0,
+    "open": "110.0",
+    "high": "110.0",
+    "low": "90.0",
+    "close": "110.0",
+    "change": "10.0",
     "percentage_change": "10.00%",
-    "volume": 750239800.0
+    "volume": "750239800.0"
   },
   "performa": {
     "1D": "10%",

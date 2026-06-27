@@ -6,12 +6,12 @@
   "sector": "Properties & Real Estate",
   "subsector": "Real Estate Development & Management",
   "listing_board": "Pengembangan",
-  "final_price": 120.0,
+  "final_price": "120.0",
   "line_of_business": "Konstruksi dan Real Estat",
   "address": "Jl, Raya Sukolilo, Tebul, Kwanyar, Bangkalan - 69163",
   "website": "https://www.kokohcity.com",
   "number_of_shares_offered": 450000000,
-  "%_of_total_shares": 10.19,
+  "%_of_total_shares": "10.19",
   "participant_admin": {
     "code": "PG",
     "name": "PANCA GLOBAL SEKURITAS"
@@ -35,21 +35,21 @@
   ],
   "warrant": {
     "code": "KOCI-W",
-    "per_share_ratio": 1.0,
-    "exercise_price_(rp)": 135.0,
-    "open": "15",
-    "high": "23",
-    "low": "9",
-    "close": "10"
+    "per_share_ratio": "1.0",
+    "exercise_price_(rp)": "135.0",
+    "open": 15,
+    "high": 23,
+    "low": 9,
+    "close": 10
   },
   "listing_price": {
     "open": "",
-    "high": 142.0,
-    "low": 84.0,
-    "close": 84.0,
-    "change": -36.0,
+    "high": "142.0",
+    "low": "84.0",
+    "close": "84.0",
+    "change": "-36.0",
     "percentage_change": "-30.00%",
-    "volume": 554147700.0
+    "volume": "554147700.0"
   },
   "performa": {
     "1D": "-30%",

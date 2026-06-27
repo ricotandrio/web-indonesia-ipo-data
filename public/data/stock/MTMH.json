@@ -6,12 +6,12 @@
   "sector": "Healthcare",
   "subsector": "Healthcare Providers",
   "listing_board": "Utama",
-  "final_price": 1280.0,
+  "final_price": "1280.0",
   "line_of_business": "Bergerak di bidang aktivitas rumah sakit swasta",
   "address": "Jl, Jawa No, 2, LK II, Gg, Buntu, Medan Timur, Kota Medan, Sumatera Utara - 20231",
   "website": "https://www.rsmurniteguh.com",
   "number_of_shares_offered": 254022800,
-  "%_of_total_shares": 12.28,
+  "%_of_total_shares": "12.28",
   "participant_admin": {
     "code": "KI",
     "name": "CIPTADANA SEKURITAS ASIA"
@@ -40,7 +40,7 @@
   ],
   "warrant": {
     "code": "",
-    "per_share_ratio": 0.0,
+    "per_share_ratio": "0.0",
     "exercise_price_(rp)": "",
     "open": "",
     "high": "",
@@ -48,13 +48,13 @@
     "close": ""
   },
   "listing_price": {
-    "open": 1600.0,
-    "high": 1600.0,
-    "low": 1600.0,
-    "close": 1600.0,
-    "change": 320.0,
+    "open": "1600.0",
+    "high": "1600.0",
+    "low": "1600.0",
+    "close": "1600.0",
+    "change": "320.0",
     "percentage_change": "25.00%",
-    "volume": 7236800.0
+    "volume": "7236800.0"
   },
   "performa": {
     "1D": "25%",

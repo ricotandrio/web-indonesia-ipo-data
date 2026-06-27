@@ -6,12 +6,12 @@
   "sector": "Infrastructures",
   "subsector": "Wireless Telecommunication Services",
   "listing_board": "Utama",
-  "final_price": 800.0,
+  "final_price": "800.0",
   "line_of_business": "Penyedia Jasa Menara Telekomunikasi",
   "address": "Telkom Landmark Tower Lt, 27 Jl, Gatot Subroto Kavling 52 Jakarta 12710",
   "website": "https://www.mitratel.co.id/",
   "number_of_shares_offered": 22920512000,
-  "%_of_total_shares": 27.63,
+  "%_of_total_shares": "27.63",
   "participant_admin": {
     "code": "CC",
     "name": "MANDIRI SEKURITAS"
@@ -60,7 +60,7 @@
   ],
   "warrant": {
     "code": "",
-    "per_share_ratio": 0.0,
+    "per_share_ratio": "0.0",
     "exercise_price_(rp)": "",
     "open": "",
     "high": "",
@@ -69,12 +69,12 @@
   },
   "listing_price": {
     "open": "",
-    "high": 890.0,
-    "low": 765.0,
-    "close": 765.0,
-    "change": -35.0,
+    "high": "890.0",
+    "low": "765.0",
+    "close": "765.0",
+    "change": "-35.0",
     "percentage_change": "-4.38%",
-    "volume": 1379410300.0
+    "volume": "1379410300.0"
   },
   "performa": {
     "1D": "-4%",

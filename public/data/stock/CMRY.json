@@ -6,12 +6,12 @@
   "sector": "Consumer Non-Cyclicals",
   "subsector": "Dairy Products",
   "listing_board": "Utama",
-  "final_price": 3080.0,
+  "final_price": "3080.0",
   "line_of_business": "Bergerak di bidang usaha Produk Susu Premium dan Konsumen Premium",
   "address": "Rukan Taman Meruya Jl, Komp, Rukan Taman Meruya No,N/27-28 Jakarta Barat 11620 Indonesia",
   "website": "https://www.cimory.com",
   "number_of_shares_offered": 1190203000,
-  "%_of_total_shares": 15.0,
+  "%_of_total_shares": "15.0",
   "participant_admin": {
     "code": "CC",
     "name": "MANDIRI SEKURITAS"
@@ -40,7 +40,7 @@
   ],
   "warrant": {
     "code": "",
-    "per_share_ratio": 0.0,
+    "per_share_ratio": "0.0",
     "exercise_price_(rp)": "",
     "open": "",
     "high": "",
@@ -49,12 +49,12 @@
   },
   "listing_price": {
     "open": "",
-    "high": 3500.0,
-    "low": 2870.0,
-    "close": 3410.0,
-    "change": 330.0,
+    "high": "3500.0",
+    "low": "2870.0",
+    "close": "3410.0",
+    "change": "330.0",
     "percentage_change": "10.71%",
-    "volume": 134285400.0
+    "volume": "134285400.0"
   },
   "performa": {
     "1D": "11%",

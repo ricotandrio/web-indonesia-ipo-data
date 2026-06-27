@@ -1,0 +1,81 @@
+{
+  "ipo_status": "Closed",
+  "ticker_code": "YUPI",
+  "image": "",
+  "company_name": "PT Yupi Indo Jelly Gum Tbk",
+  "sector": "Consumer Non-Cyclicals",
+  "subsector": "Processed Foods",
+  "listing_board": "Main",
+  "final_price": "2390.0",
+  "line_of_business": "Industri Kembang Gula",
+  "address": "Jl. Pancasila IV, Desa Cicadas, Kecamatan Gunung Putri, Kabupaten Bogor, 16964, Jawa Barat, Indonesia.",
+  "website": "https://www.yupi.co.id",
+  "number_of_shares_offered": 854448900,
+  "%_of_total_shares": 10,
+  "participant_admin": {
+    "code": "CC",
+    "name": "MANDIRI SEKURITAS"
+  },
+  "book_building_opening": "06/03/2025",
+  "book_building_closing": "10/03/2025",
+  "lowest_book_building_price": 2100,
+  "highest_book_building_price": 2500,
+  "opening_of_offering_period": "19/03/2025",
+  "closing_of_offering_period": "21/03/2025",
+  "closing_date": "21/03/2025",
+  "distribution_date": "24/03/2025",
+  "listing_date": "25/03/2025",
+  "ara_arb_percentage": "25%",
+  "underwriters": [
+    {
+      "code": "CC",
+      "name": "MANDIRI SEKURITAS",
+      "percentage": "-"
+    },
+    {
+      "code": "C3",
+      "name": "PT CIMB NIAGA SEKURITAS",
+      "percentage": "-"
+    },
+    {
+      "code": "TP",
+      "name": "OCBC SEKURITAS INDONESIA",
+      "percentage": "-"
+    }
+  ],
+  "warrant": {
+    "code": "-",
+    "per_share_ratio": "0.0",
+    "exercise_price_(rp)": "0.0",
+    "open": "-",
+    "high": "-",
+    "low": "-",
+    "close": "-"
+  },
+  "listing_price": {
+    "open": 2400,
+    "high": "2400.0",
+    "low": "2390.0",
+    "close": "2400.0",
+    "change": "10.0",
+    "percentage_change": "0.42%",
+    "volume": "923051000.0"
+  },
+  "performa": {
+    "1D": "0.42%",
+    "1W": "-",
+    "1M": "-",
+    "6M": "-",
+    "1Y": "-",
+    "updated_at": "25/03/2025",
+    "source": "IDX"
+  },
+  "fundamental": {
+    "aset_percentage": "-",
+    "liabilitas_percentage": "-",
+    "pendapatan_percentage": "-",
+    "laba_bersih_percentage": "-",
+    "updated_at": "30/09/2024",
+    "source": "Prospectus"
+  }
+}

@@ -6,12 +6,12 @@
   "sector": "Energy",
   "subsector": "Oil & Gas Production & Refinery",
   "listing_board": "",
-  "final_price": 1150.0,
+  "final_price": "1150.0",
   "line_of_business": "Aktivitas Perusahaan Holding",
   "address": "Office Park Thamrin Residence A01-05 Jl. Thamrin Boulevard, Kebon Melati, Kec. Tanah Abang Jakarta Pusat, DKI Jakarta Indonesia - 10230",
   "website": "https://rec.co.id",
   "number_of_shares_offered": 543010800,
-  "%_of_total_shares": 20.0,
+  "%_of_total_shares": "20.0",
   "participant_admin": {
     "code": "HP",
     "name": "HENAN PUTIHRAI SEKURITAS"
@@ -48,13 +48,13 @@
     "close": ""
   },
   "listing_price": {
-    "open": 1435.0,
-    "high": 1435.0,
-    "low": 1435.0,
-    "close": 1435.0,
-    "change": 285.0,
+    "open": "1435.0",
+    "high": "1435.0",
+    "low": "1435.0",
+    "close": "1435.0",
+    "change": "285.0",
     "percentage_change": "24.78%",
-    "volume": 632900.0
+    "volume": "632900.0"
   },
   "performa": {
     "1D": "",

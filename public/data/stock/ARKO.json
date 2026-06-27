@@ -6,12 +6,12 @@
   "sector": "Infrastructures",
   "subsector": "Electric Utilities",
   "listing_board": "Pengembangan",
-  "final_price": 300.0,
+  "final_price": "300.0",
   "line_of_business": "Pembangkitan tenaga listrik melalui sumber energi baru dan terbarukan yang berasal dari aliran air",
   "address": "Office 8 Building, Lantai 21 Unit C & D, Jl, Jend, Sudirman Kav, 52-53, Lot 28 SCBD Jakarta 12190, Indonesia",
   "website": "http://www.arkora-hydro.com/",
   "number_of_shares_offered": 579900000,
-  "%_of_total_shares": 20.0,
+  "%_of_total_shares": "20.0",
   "participant_admin": {
     "code": "YP",
     "name": "MIRAE ASSET SEKURITAS INDONESIA"
@@ -40,7 +40,7 @@
   ],
   "warrant": {
     "code": "",
-    "per_share_ratio": 0.0,
+    "per_share_ratio": "0.0",
     "exercise_price_(rp)": "",
     "open": "",
     "high": "",
@@ -48,13 +48,13 @@
     "close": ""
   },
   "listing_price": {
-    "open": 300.0,
-    "high": 338.0,
-    "low": 280.0,
-    "close": 280.0,
-    "change": -20.0,
+    "open": "300.0",
+    "high": "338.0",
+    "low": "280.0",
+    "close": "280.0",
+    "change": "-20.0",
     "percentage_change": "-6.67%",
-    "volume": 166031300.0
+    "volume": "166031300.0"
   },
   "performa": {
     "1D": "-7%",

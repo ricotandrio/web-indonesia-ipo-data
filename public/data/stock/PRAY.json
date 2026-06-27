@@ -6,12 +6,12 @@
   "sector": "Healthcare",
   "subsector": "Healthcare Providers",
   "listing_board": "Pengembangan",
-  "final_price": 900.0,
+  "final_price": "900.0",
   "line_of_business": "Bergerak di bidang aktivitas perusahaan holding dan jasa pelayanan kesehatan melalui Perusahaan Anak",
   "address": "Ruko Mega Grosir Cempaka Mas Blok N/21 Sumur Batu, Kemayoran, Jakarta",
   "website": "https://primayahospital.com/",
   "number_of_shares_offered": 302222300,
-  "%_of_total_shares": 2.17,
+  "%_of_total_shares": "2.17",
   "participant_admin": {
     "code": "PD",
     "name": "INDO PREMIER SEKURITAS"
@@ -35,7 +35,7 @@
   ],
   "warrant": {
     "code": "",
-    "per_share_ratio": 0.0,
+    "per_share_ratio": "0.0",
     "exercise_price_(rp)": "",
     "open": "",
     "high": "",
@@ -43,13 +43,13 @@
     "close": ""
   },
   "listing_price": {
-    "open": 1080.0,
-    "high": 1125.0,
-    "low": 840.0,
-    "close": 890.0,
-    "change": -10.0,
+    "open": "1080.0",
+    "high": "1125.0",
+    "low": "840.0",
+    "close": "890.0",
+    "change": "-10.0",
     "percentage_change": "-1.11%",
-    "volume": 63667800.0
+    "volume": "63667800.0"
   },
   "performa": {
     "1D": "-1%",

@@ -6,12 +6,12 @@
   "sector": "Technology",
   "subsector": "Electronic Equipment & Instruments",
   "listing_board": "Akselerasi",
-  "final_price": 78.0,
+  "final_price": "78.0",
   "line_of_business": "Bergerak Dalam Bidang Teknologi Digital Penyedia Solusi Sistem Informasi Berbasis Internet of Things",
   "address": "Mall Ambasador Lt,5 No, 9F Jl, Prof, Dr, Satrio, Karet Kuningan, Setiabudi, Jakarta Selatan, Indonesia - 12940",
   "website": "https://www.menngroup.id",
   "number_of_shares_offered": 430200000,
-  "%_of_total_shares": 30.0,
+  "%_of_total_shares": "30.0",
   "participant_admin": {
     "code": "IU",
     "name": "INDO CAPITAL SEKURITAS"
@@ -40,21 +40,21 @@
   ],
   "warrant": {
     "code": "MENN-W",
-    "per_share_ratio": 0.666666667,
-    "exercise_price_(rp)": 98.0,
+    "per_share_ratio": "0.666666667",
+    "exercise_price_(rp)": "98.0",
     "open": "-",
     "high": "-",
     "low": "-",
     "close": "-"
   },
   "listing_price": {
-    "open": 77.0,
-    "high": 85.0,
-    "low": 71.0,
-    "close": 71.0,
-    "change": -7.0,
+    "open": "77.0",
+    "high": "85.0",
+    "low": "71.0",
+    "close": "71.0",
+    "change": "-7.0",
     "percentage_change": "-8.97%",
-    "volume": 93380700.0
+    "volume": "93380700.0"
   },
   "performa": {
     "1D": "-9%",

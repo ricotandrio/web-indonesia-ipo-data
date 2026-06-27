@@ -6,8 +6,11 @@
   },
   "stocks": [
     "BREN",
+    "CDIA",
     "HGII",
     "IKPM",
-    "NCKL"
+    "NCKL",
+    "WBSA",
+    "YUPI"
   ]
 }

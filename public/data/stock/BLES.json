@@ -6,12 +6,12 @@
   "sector": "Basic Materials",
   "subsector": "Construction Materials",
   "listing_board": "Utama",
-  "final_price": 183.0,
+  "final_price": "183.0",
   "line_of_business": "Industri Bata Ringan dan Semen Mortar",
   "address": "",
   "website": "https://superiorprimasukses.com",
   "number_of_shares_offered": 1313824000,
-  "%_of_total_shares": 15.0,
+  "%_of_total_shares": "15.0",
   "participant_admin": {
     "code": "YJ",
     "name": "LOTUS ANDALAN SEKURITAS"
@@ -35,7 +35,7 @@
   ],
   "warrant": {
     "code": "",
-    "per_share_ratio": 0.0,
+    "per_share_ratio": "0.0",
     "exercise_price_(rp)": "",
     "open": "",
     "high": "",
@@ -43,13 +43,13 @@
     "close": ""
   },
   "listing_price": {
-    "open": 246.0,
-    "high": 246.0,
-    "low": 224.0,
-    "close": 246.0,
-    "change": 63.0,
+    "open": "246.0",
+    "high": "246.0",
+    "low": "224.0",
+    "close": "246.0",
+    "change": "63.0",
     "percentage_change": "34.43%",
-    "volume": 103621400.0
+    "volume": "103621400.0"
   },
   "performa": {
     "1D": "34%",

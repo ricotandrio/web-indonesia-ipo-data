@@ -6,12 +6,12 @@
   "sector": "Basic Materials",
   "subsector": "Diversified Metals & Minerals",
   "listing_board": "Utama",
-  "final_price": 795.0,
+  "final_price": "795.0",
   "line_of_business": "Grup usaha di sektor nikel dan mineral lainnya yang terintegrasi secara vertikal",
   "address": "Treasury Tower Lantai 69, District 8, SCBD Lot 28 Jl Jend, Sudirman Kav, 52-53, Jakarta Selatan 12190, DKI Jakarta",
   "website": "https://www.merdekabattery.com/",
   "number_of_shares_offered": 11000000000,
-  "%_of_total_shares": 10.24,
+  "%_of_total_shares": "10.24",
   "participant_admin": {
     "code": "PD",
     "name": "INDO PREMIER SEKURITAS"
@@ -50,7 +50,7 @@
   ],
   "warrant": {
     "code": "",
-    "per_share_ratio": 0.0,
+    "per_share_ratio": "0.0",
     "exercise_price_(rp)": "",
     "open": "",
     "high": "",
@@ -58,13 +58,13 @@
     "close": ""
   },
   "listing_price": {
-    "open": 805.0,
-    "high": 955.0,
-    "low": 805.0,
-    "close": 885.0,
-    "change": 90.0,
+    "open": "805.0",
+    "high": "955.0",
+    "low": "805.0",
+    "close": "885.0",
+    "change": "90.0",
     "percentage_change": "11.32%",
-    "volume": 1303667800.0
+    "volume": "1303667800.0"
   },
   "performa": {
     "1D": "11%",

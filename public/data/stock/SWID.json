@@ -6,12 +6,12 @@
   "sector": "Properties & Real Estate",
   "subsector": "Real Estate Development & Management",
   "listing_board": "Pengembangan",
-  "final_price": 200.0,
+  "final_price": "200.0",
   "line_of_business": "Bergerak dalam bidang usaha Properti & Real Estate",
   "address": "Jalan Palagan Tentara Pelajar KM, 7 Sariharjo, Ngaglik, Kab, Sleman, Daerah Istimewa Yogyakarta Indonesia - 55581",
   "website": "https://saraswantiproperty.com/",
   "number_of_shares_offered": 340000000,
-  "%_of_total_shares": 6.31,
+  "%_of_total_shares": "6.31",
   "participant_admin": {
     "code": "AH",
     "name": "SHINHAN SEKURITAS INDONESIA"
@@ -35,8 +35,8 @@
   ],
   "warrant": {
     "code": "SWID-W",
-    "per_share_ratio": 1.0,
-    "exercise_price_(rp)": 250.0,
+    "per_share_ratio": "1.0",
+    "exercise_price_(rp)": "250.0",
     "open": "-",
     "high": "-",
     "low": "-",
@@ -44,12 +44,12 @@
   },
   "listing_price": {
     "open": "",
-    "high": 270.0,
-    "low": 204.0,
-    "close": 216.0,
-    "change": 16.0,
+    "high": "270.0",
+    "low": "204.0",
+    "close": "216.0",
+    "change": "16.0",
     "percentage_change": "8.00%",
-    "volume": 419136400.0
+    "volume": "419136400.0"
   },
   "performa": {
     "1D": "8%",

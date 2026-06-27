@@ -1,5 +1,9 @@
 [
   {
+    "underwriter_code": "-",
+    "underwriter_name": "-"
+  },
+  {
     "underwriter_code": "AD",
     "underwriter_name": "OSO SEKURITAS INDONESIA"
   },
@@ -28,6 +32,10 @@
     "underwriter_name": "SUCOR SEKURITAS"
   },
   {
+    "underwriter_code": "BCA",
+    "underwriter_name": "PT BCA SEKURITAS"
+  },
+  {
     "underwriter_code": "BQ",
     "underwriter_name": "KOREA INVESTMENT AND SEKURITAS INDONESIA"
   },
@@ -42,6 +50,10 @@
   {
     "underwriter_code": "CP",
     "underwriter_name": "KB VALBURY SEKURITAS"
+  },
+  {
+    "underwriter_code": "DH",
+    "underwriter_name": "PT SINARMAS SEKURITAS"
   },
   {
     "underwriter_code": "DP",
@@ -93,7 +105,7 @@
   },
   {
     "underwriter_code": "LS",
-    "underwriter_name": "RELIANCE SEKURITAS INDONESIA TBK."
+    "underwriter_name": "RELIANCE SEKURITAS INDONESIA TBK"
   },
   {
     "underwriter_code": "LS",

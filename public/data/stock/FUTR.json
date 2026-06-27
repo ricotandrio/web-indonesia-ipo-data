@@ -6,12 +6,12 @@
   "sector": "Consumer Cyclicals",
   "subsector": "Advertising",
   "listing_board": "Pemantauan Khusus",
-  "final_price": 100.0,
+  "final_price": "100.0",
   "line_of_business": "Bergerak dalam bidang periklanan, aktivitas desain khusus film, video, program TV, animasi dan komik",
   "address": "Fatmawati Mas Blok III No, 307-309 Jl, RS Fatmawati No 20 Jakarta Selatan, Indonesia",
   "website": "https://futurphuture.io/",
   "number_of_shares_offered": 1278000000,
-  "%_of_total_shares": 20.0,
+  "%_of_total_shares": "20.0",
   "participant_admin": {
     "code": "IU",
     "name": "INDO CAPITAL SEKURITAS"
@@ -40,21 +40,21 @@
   ],
   "warrant": {
     "code": "FUTR-W",
-    "per_share_ratio": 0.8,
-    "exercise_price_(rp)": 135.0,
-    "open": "13",
-    "high": "15",
-    "low": "8",
-    "close": "9"
+    "per_share_ratio": "0.8",
+    "exercise_price_(rp)": "135.0",
+    "open": 13,
+    "high": 15,
+    "low": 8,
+    "close": 9
   },
   "listing_price": {
-    "open": 93.0,
-    "high": 108.0,
-    "low": 93.0,
-    "close": 100.0,
-    "change": 0.0,
+    "open": "93.0",
+    "high": "108.0",
+    "low": "93.0",
+    "close": "100.0",
+    "change": "0.0",
     "percentage_change": "0.00%",
-    "volume": 667191300.0
+    "volume": "667191300.0"
   },
   "performa": {
     "1D": "0%",

@@ -6,12 +6,12 @@
   "sector": "Consumer Non-Cyclicals",
   "subsector": "Processed Foods",
   "listing_board": "",
-  "final_price": 210.0,
+  "final_price": "210.0",
   "line_of_business": "Produksi tepung roti (breadcrumbs)",
   "address": "Kampung Pulo Kendal RT002/RW003, Kel. Setia Asih, Kec. Tarumajaya, Kab. Bekasi, Provinsi Jawa Barat 17215 Telepon: 021-29084611",
   "website": "https://www.rajaroticemerlang.com",
   "number_of_shares_offered": 291500000,
-  "%_of_total_shares": 30.01,
+  "%_of_total_shares": "30.01",
   "participant_admin": {
     "code": "XA",
     "name": "NH KORINDO SEKURITAS INDONESIA"
@@ -30,7 +30,7 @@
     {
       "code": "XA",
       "name": "NH KORINDO SEKURITAS INDONESIA",
-      "percentage": 1.0
+      "percentage": "1.0"
     }
   ],
   "warrant": {
@@ -43,13 +43,13 @@
     "close": ""
   },
   "listing_price": {
-    "open": 262.0,
-    "high": 262.0,
-    "low": 238.0,
-    "close": 262.0,
-    "change": 52.0,
+    "open": "262.0",
+    "high": "262.0",
+    "low": "238.0",
+    "close": "262.0",
+    "change": "52.0",
     "percentage_change": "24.76%",
-    "volume": 431569700.0
+    "volume": "431569700.0"
   },
   "performa": {
     "1D": "",

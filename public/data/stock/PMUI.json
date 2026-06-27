@@ -1,0 +1,71 @@
+{
+  "ipo_status": "Closed",
+  "ticker_code": "PMUI",
+  "image": "",
+  "company_name": "PT Prima Multi Usaha Indonesia Tbk",
+  "sector": "Consumer Cyclicals",
+  "subsector": "Consumer Distributors",
+  "listing_board": "Development",
+  "final_price": "180.0",
+  "line_of_business": "Perdagangan Besar Telekomunikasi dan Aktivitas Konsultasi Manajemen",
+  "address": "Gedung Grha Prima Indonesia, Jl. Tuparev No. 87 A, Kabupaten Cirebon, Jawa Barat 45113",
+  "website": "https://www.pmui.co.id",
+  "number_of_shares_offered": 1160000000,
+  "%_of_total_shares": 20,
+  "participant_admin": {
+    "code": "BQ",
+    "name": "KOREA INVESTMENT AND SEKURITAS INDONESIA"
+  },
+  "book_building_opening": "24/06/2025",
+  "book_building_closing": "26/06/2025",
+  "lowest_book_building_price": 160,
+  "highest_book_building_price": 180,
+  "opening_of_offering_period": "02/07/2025",
+  "closing_of_offering_period": "08/07/2025",
+  "closing_date": "08/07/2025",
+  "distribution_date": "09/07/2025",
+  "listing_date": "10/07/2025",
+  "ara_arb_percentage": "35%",
+  "underwriters": [
+    {
+      "code": "BQ",
+      "name": "KOREA INVESTMENT AND SEKURITAS INDONESIA",
+      "percentage": "100%"
+    }
+  ],
+  "warrant": {
+    "code": "-",
+    "per_share_ratio": "0.0",
+    "exercise_price_(rp)": "0.0",
+    "open": "-",
+    "high": "-",
+    "low": "-",
+    "close": "-"
+  },
+  "listing_price": {
+    "open": 242,
+    "high": "242.0",
+    "low": "180.0",
+    "close": "242.0",
+    "change": "62.0",
+    "percentage_change": "-34.44%",
+    "volume": "12500000.0"
+  },
+  "performa": {
+    "1D": "-34.44%",
+    "1W": "-",
+    "1M": "-",
+    "6M": "-",
+    "1Y": "-",
+    "updated_at": "26/06/2026",
+    "source": "IDX"
+  },
+  "fundamental": {
+    "aset_percentage": "-",
+    "liabilitas_percentage": "-",
+    "pendapatan_percentage": "-",
+    "laba_bersih_percentage": "-",
+    "updated_at": "31/12/2024",
+    "source": "Prospectus"
+  }
+}

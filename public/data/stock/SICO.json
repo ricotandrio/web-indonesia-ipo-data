@@ -6,12 +6,12 @@
   "sector": "Energy",
   "subsector": "Oil, Gas & Coal Equipment & Services",
   "listing_board": "Pengembangan",
-  "final_price": 230.0,
+  "final_price": "230.0",
   "line_of_business": "Jasa Penyewaan Alat-Alat Untuk Monetisasi Minyak dan Gas Suar Bakar dengan Menggunakan Teknologi",
   "address": "GKM Green Tower 10th Floor Jl, TB Simatupang Kav 89 G Jakarta Selatan, 12520",
   "website": "https://sinerco.co.id",
   "number_of_shares_offered": 270000000,
-  "%_of_total_shares": 29.67,
+  "%_of_total_shares": "29.67",
   "participant_admin": {
     "code": "XA",
     "name": "NH KORINDO SEKURITAS INDONESIA"
@@ -35,21 +35,21 @@
   ],
   "warrant": {
     "code": "SICO-W",
-    "per_share_ratio": 0.1,
-    "exercise_price_(rp)": 350.0,
-    "open": "100",
-    "high": "284",
-    "low": "100",
-    "close": "111"
+    "per_share_ratio": "0.1",
+    "exercise_price_(rp)": "350.0",
+    "open": 100,
+    "high": 284,
+    "low": 100,
+    "close": 111
   },
   "listing_price": {
-    "open": 286.0,
-    "high": 286.0,
-    "low": 244.0,
-    "close": 254.0,
-    "change": 24.0,
+    "open": "286.0",
+    "high": "286.0",
+    "low": "244.0",
+    "close": "254.0",
+    "change": "24.0",
     "percentage_change": "10.43%",
-    "volume": 496776500.0
+    "volume": "496776500.0"
   },
   "performa": {
     "1D": "10%",

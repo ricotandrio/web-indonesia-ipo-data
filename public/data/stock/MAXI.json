@@ -6,12 +6,12 @@
   "sector": "Consumer Non-Cyclicals",
   "subsector": "Food Retail & Distributors",
   "listing_board": "Pengembangan",
-  "final_price": 100.0,
+  "final_price": "100.0",
   "line_of_business": "Bergerak dalam bidang usaha Industri Makanan Ringan",
   "address": "Kawasan Industri Sentul Jl, Cahaya Raya Kav H5, Desa Leuwinutug, Kec, Citeureup Bogor, Jawa Barat 16180, Indonesia",
   "website": "https://maxisnacks.com/",
   "number_of_shares_offered": 1000000000,
-  "%_of_total_shares": 10.41,
+  "%_of_total_shares": "10.41",
   "participant_admin": {
     "code": "AH",
     "name": "SHINHAN SEKURITAS INDONESIA"
@@ -35,21 +35,21 @@
   ],
   "warrant": {
     "code": "MAXI-W",
-    "per_share_ratio": 1.0,
-    "exercise_price_(rp)": 100.0,
-    "open": "10",
-    "high": "13",
-    "low": "2",
-    "close": "2"
+    "per_share_ratio": "1.0",
+    "exercise_price_(rp)": "100.0",
+    "open": 10,
+    "high": 13,
+    "low": 2,
+    "close": 2
   },
   "listing_price": {
-    "open": 91.0,
-    "high": 95.0,
-    "low": 85.0,
-    "close": 85.0,
-    "change": -15.0,
+    "open": "91.0",
+    "high": "95.0",
+    "low": "85.0",
+    "close": "85.0",
+    "change": "-15.0",
     "percentage_change": "-15.00%",
-    "volume": 243418100.0
+    "volume": "243418100.0"
   },
   "performa": {
     "1D": "-15%",

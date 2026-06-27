@@ -6,12 +6,12 @@
   "sector": "Energy",
   "subsector": "Coal Production",
   "listing_board": "Utama",
-  "final_price": 1420.0,
+  "final_price": "1420.0",
   "line_of_business": "Pertambangan Batubara dan Jasa Pertambangan Melalui Entitas Anak",
   "address": "Gedung Office 8, Lantai 28 SCBD Lot, 28, Jl, Jend, Sudirman Kav, 52 - 53, Kebayoran Baru, Jakarta 12190",
   "website": "https://www.mandiricoal.co.id",
   "number_of_shares_offered": 355560000,
-  "%_of_total_shares": 10.0,
+  "%_of_total_shares": "10.0",
   "participant_admin": {
     "code": "RF",
     "name": "BUANA CAPITAL SEKURITAS"
@@ -35,7 +35,7 @@
   ],
   "warrant": {
     "code": "",
-    "per_share_ratio": 0.0,
+    "per_share_ratio": "0.0",
     "exercise_price_(rp)": "",
     "open": "",
     "high": "",
@@ -44,12 +44,12 @@
   },
   "listing_price": {
     "open": "",
-    "high": 1690.0,
-    "low": 1325.0,
-    "close": 1565.0,
-    "change": 145.0,
+    "high": "1690.0",
+    "low": "1325.0",
+    "close": "1565.0",
+    "change": "145.0",
     "percentage_change": "10.21%",
-    "volume": 66018000.0
+    "volume": "66018000.0"
   },
   "performa": {
     "1D": "10%",

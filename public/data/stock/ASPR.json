@@ -1,0 +1,76 @@
+{
+  "ipo_status": "Closed",
+  "ticker_code": "ASPR",
+  "image": "",
+  "company_name": "PT Asia Pramulia Tbk",
+  "sector": "Basic Materials",
+  "subsector": "Containers & Packaging",
+  "listing_board": "Development",
+  "final_price": "124.0",
+  "line_of_business": "Industri Barang dari Plastik untuk Pengemasan (Rigid Packaging)",
+  "address": "Jl. Raya Kedung Asem No.9, Kedung Baruk, Kec. Rungkut, Surabaya, Jawa Timur 60298",
+  "website": "http://www.asiapramulia.com",
+  "number_of_shares_offered": 812000000,
+  "%_of_total_shares": "29.94",
+  "participant_admin": {
+    "code": "XA",
+    "name": "NH KORINDO SEKURITAS INDONESIA"
+  },
+  "book_building_opening": "23/06/2025",
+  "book_building_closing": "25/06/2025",
+  "lowest_book_building_price": 118,
+  "highest_book_building_price": 124,
+  "opening_of_offering_period": "02/07/2025",
+  "closing_of_offering_period": "04/07/2025",
+  "closing_date": "04/07/2025",
+  "distribution_date": "07/07/2025",
+  "listing_date": "08/07/2025",
+  "ara_arb_percentage": "35%",
+  "underwriters": [
+    {
+      "code": "XA",
+      "name": "NH KORINDO SEKURITAS INDONESIA",
+      "percentage": "-"
+    },
+    {
+      "code": "PG",
+      "name": "PANCA GLOBAL SEKURITAS",
+      "percentage": "-"
+    }
+  ],
+  "warrant": {
+    "code": "-",
+    "per_share_ratio": "0.0",
+    "exercise_price_(rp)": "0.0",
+    "open": "-",
+    "high": "-",
+    "low": "-",
+    "close": "-"
+  },
+  "listing_price": {
+    "open": 167,
+    "high": "620.0",
+    "low": "85.0",
+    "close": "167.0",
+    "change": "43.0",
+    "percentage_change": "34.68%",
+    "volume": "0.0"
+  },
+  "performa": {
+    "1D": "34.68%",
+    "1W": "-24.75%",
+    "1M": "-39.43%",
+    "6M": "46.08%",
+    "1Y": "50.51%",
+    "updated_at": "26/06/2026",
+    "source": "TradingView"
+  },
+  "fundamental": {
+    "aset_percentage": "19.8%",
+    "liabilitas_percentage": "25.0%",
+    "pendapatan_percentage": "-9.8%",
+    "laba_bersih_percentage": "-31.0%",
+    "updated_at": "31/12/2024",
+    "source": "Prospectus"
+  }
+}

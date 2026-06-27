@@ -2,70 +2,70 @@
   "ipo_status": "Closed",
   "ticker_code": "MINE",
   "image": "",
-  "company_name": "",
-  "sector": "",
-  "subsector": "",
-  "listing_board": "",
-  "final_price": 0.0,
-  "line_of_business": "",
-  "address": "",
-  "website": "",
+  "company_name": "PT Sinar Terang Mandiri Tbk",
+  "sector": "Basic Materials",
+  "subsector": "Diversified Metals & Minerals",
+  "listing_board": "Development",
+  "final_price": "216.0",
+  "line_of_business": "Aktivitas Penunjang Pertambangan dan Penggalian Lainnya",
+  "address": "Treasury Tower, Lantai 5 Unit G, District 8 SCBD Lot 28 Jl. Jend. Sudirman Kav. 52-53, Kecamatan Kebayoran Baru Jakarta Selatan 12190",
+  "website": "https://www.sinarterangmandiri.com",
   "number_of_shares_offered": 612665300,
   "%_of_total_shares": 15,
   "participant_admin": {
-    "code": "",
-    "name": ""
+    "code": "LG",
+    "name": "TRIMEGAH SEKURITAS INDONESIA TBK"
   },
   "book_building_opening": "25/02/2025",
   "book_building_closing": "27/02/2025",
   "lowest_book_building_price": 200,
   "highest_book_building_price": 216,
-  "opening_of_offering_period": "",
-  "closing_of_offering_period": "",
-  "closing_date": "",
-  "distribution_date": "",
-  "listing_date": "",
+  "opening_of_offering_period": "04/03/2025",
+  "closing_of_offering_period": "06/03/2025",
+  "closing_date": "06/03/2025",
+  "distribution_date": "07/03/2025",
+  "listing_date": "10/03/2025",
   "ara_arb_percentage": "35%",
   "underwriters": [
     {
       "code": "LG",
       "name": "TRIMEGAH SEKURITAS INDONESIA TBK",
-      "percentage": ""
+      "percentage": "100%"
     }
   ],
   "warrant": {
-    "code": "",
-    "per_share_ratio": 0.0,
-    "exercise_price_(rp)": 0.0,
+    "code": "-",
+    "per_share_ratio": "0.0",
+    "exercise_price_(rp)": "0.0",
     "open": "-",
     "high": "-",
     "low": "-",
     "close": "-"
   },
   "listing_price": {
-    "open": "",
-    "high": 0.0,
-    "low": 0.0,
-    "close": 0.0,
-    "change": 0.0,
-    "percentage_change": "0.00%",
-    "volume": 0.0
+    "open": 270,
+    "high": "270.0",
+    "low": "216.0",
+    "close": "270.0",
+    "change": "54.0",
+    "percentage_change": "25.00%",
+    "volume": "781200.0"
   },
   "performa": {
-    "1D": "",
-    "1W": "",
-    "1M": "",
-    "6M": "",
-    "1Y": "",
-    "updated_at": "",
-    "source": ""
+    "1D": "25.00%",
+    "1W": "-",
+    "1M": "-",
+    "6M": "-",
+    "1Y": "-",
+    "updated_at": "10/03/2025",
+    "source": "IDX"
   },
   "fundamental": {
-    "aset_percentage": "",
-    "liabilitas_percentage": "",
-    "pendapatan_percentage": "",
-    "laba_bersih_percentage": "",
-    "updated_at": "",
-    "source": ""
+    "aset_percentage": "-",
+    "liabilitas_percentage": "-",
+    "pendapatan_percentage": "40.8%",
+    "laba_bersih_percentage": "278.3%",
+    "updated_at": "31/08/2024",
+    "source": "Prospectus"
   }
 }

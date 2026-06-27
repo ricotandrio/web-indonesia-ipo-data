@@ -1,0 +1,76 @@
+{
+  "ipo_status": "Closed",
+  "ticker_code": "FORE",
+  "image": "",
+  "company_name": "PT Fore Kopi Indonesia Tbk",
+  "sector": "Consumer Cyclicals",
+  "subsector": "Hotels & Entertainment Services",
+  "listing_board": "Development",
+  "final_price": "188.0",
+  "line_of_business": "Penyediaan Minuman, Kedai Kopi (Fore Coffee), dan Toko Donat (Fore Donut)",
+  "address": "Gedung Graha Handaya, Unit C, Lantai 1, Jl. Raya Pejuangan No. 12A, Kebon Jeruk, Jakarta Barat 11530",
+  "website": "https://fore.coffee",
+  "number_of_shares_offered": 1880000000,
+  "%_of_total_shares": "21.08",
+  "participant_admin": {
+    "code": "CC",
+    "name": "MANDIRI SEKURITAS"
+  },
+  "book_building_opening": "20/03/2025",
+  "book_building_closing": "26/03/2025",
+  "lowest_book_building_price": 170,
+  "highest_book_building_price": 210,
+  "opening_of_offering_period": "04/04/2025",
+  "closing_of_offering_period": "09/04/2025",
+  "closing_date": "09/04/2025",
+  "distribution_date": "11/04/2025",
+  "listing_date": "14/04/2025",
+  "ara_arb_percentage": "35%",
+  "underwriters": [
+    {
+      "code": "CC",
+      "name": "MANDIRI SEKURITAS",
+      "percentage": "-"
+    },
+    {
+      "code": "HP",
+      "name": "HENAN PUTIHRAI SEKURITAS",
+      "percentage": "-"
+    }
+  ],
+  "warrant": {
+    "code": "-",
+    "per_share_ratio": "0.0",
+    "exercise_price_(rp)": "0.0",
+    "open": "-",
+    "high": "-",
+    "low": "-",
+    "close": "-"
+  },
+  "listing_price": {
+    "open": 252,
+    "high": "252.0",
+    "low": "188.0",
+    "close": "252.0",
+    "change": "64.0",
+    "percentage_change": "34.04%",
+    "volume": "29680000.0"
+  },
+  "performa": {
+    "1D": "34.04%",
+    "1W": "-",
+    "1M": "-",
+    "6M": "-",
+    "1Y": "54.60%",
+    "updated_at": "14/04/2025",
+    "source": "IDX"
+  },
+  "fundamental": {
+    "aset_percentage": "-",
+    "liabilitas_percentage": "-",
+    "pendapatan_percentage": "135.0%",
+    "laba_bersih_percentage": "55.0%",
+    "updated_at": "31/12/2025",
+    "source": "Financial Report"
+  }
+}

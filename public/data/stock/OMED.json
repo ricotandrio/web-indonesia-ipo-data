@@ -6,12 +6,12 @@
   "sector": "Healthcare",
   "subsector": "Healthcare Supplies & Distributions",
   "listing_board": "Utama",
-  "final_price": 204.0,
+  "final_price": "204.0",
   "line_of_business": "Bergerak di bidang usaha manufaktur alat kesehatan dan perbekalan kesehatan rumah tangga lainnya",
   "address": "Sebelah Selatan Jalan By Pass RT 05 / RW 01 Kelurahan Sidomojo, Kecamatan Krian, Sidoarjo 61262, Jawa Timur",
   "website": "https://www.onemed.co.id",
   "number_of_shares_offered": 4058850000,
-  "%_of_total_shares": 15.0,
+  "%_of_total_shares": "15.0",
   "participant_admin": {
     "code": "KI",
     "name": "CIPTADANA SEKURITAS ASIA"
@@ -35,7 +35,7 @@
   ],
   "warrant": {
     "code": "",
-    "per_share_ratio": 0.0,
+    "per_share_ratio": "0.0",
     "exercise_price_(rp)": "",
     "open": "",
     "high": "",
@@ -43,13 +43,13 @@
     "close": ""
   },
   "listing_price": {
-    "open": 254.0,
-    "high": 254.0,
-    "low": 210.0,
-    "close": 252.0,
-    "change": 48.0,
+    "open": "254.0",
+    "high": "254.0",
+    "low": "210.0",
+    "close": "252.0",
+    "change": "48.0",
     "percentage_change": "23.53%",
-    "volume": 1191179900.0
+    "volume": "1191179900.0"
   },
   "performa": {
     "1D": "24%",

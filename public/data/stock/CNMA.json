@@ -6,12 +6,12 @@
   "sector": "Consumer Cyclicals",
   "subsector": "Recreational & Sports Facilities",
   "listing_board": "Utama",
-  "final_price": 270.0,
+  "final_price": "270.0",
   "line_of_business": "Bioskop dan Restoran",
   "address": "Jl, KH Wahid Hasyim No,96-A Jakarta Pusat 10340",
   "website": "https://www.cinema21.co.id",
   "number_of_shares_offered": 8335000000,
-  "%_of_total_shares": 10.0,
+  "%_of_total_shares": "10.0",
   "participant_admin": {
     "code": "CC",
     "name": "MANDIRI SEKURITAS"
@@ -40,7 +40,7 @@
   ],
   "warrant": {
     "code": "",
-    "per_share_ratio": 0.0,
+    "per_share_ratio": "0.0",
     "exercise_price_(rp)": "",
     "open": "",
     "high": "",
@@ -49,12 +49,12 @@
   },
   "listing_price": {
     "open": "",
-    "high": 318.0,
-    "low": 270.0,
-    "close": 316.0,
-    "change": 46.0,
+    "high": "318.0",
+    "low": "270.0",
+    "close": "316.0",
+    "change": "46.0",
     "percentage_change": "17.04%",
-    "volume": 2002459400.0
+    "volume": "2002459400.0"
   },
   "performa": {
     "1D": "17%",

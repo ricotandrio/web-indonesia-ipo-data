@@ -6,12 +6,12 @@
   "sector": "Consumer Cyclicals",
   "subsector": "Sport Equipment & Hobbies Goods",
   "listing_board": "Pengembangan",
-  "final_price": 240.0,
+  "final_price": "240.0",
   "line_of_business": "Bergerak di Industri Sepeda dan Industri Sepeda Motor Roda Dua dan Tiga,",
   "address": "Jl, Alam Sutera Boulevard No, kav, 12A, Pakulonan, Kec, Serpong utara, Kota Tangerang Selatan, Banten 15325",
   "website": "https://www.TerangDuniaInternusa.com",
   "number_of_shares_offered": 1666666700,
-  "%_of_total_shares": 25.0,
+  "%_of_total_shares": "25.0",
   "participant_admin": {
     "code": "YP",
     "name": "MIRAE ASSET SEKURITAS INDONESIA"
@@ -40,7 +40,7 @@
   ],
   "warrant": {
     "code": "",
-    "per_share_ratio": 0.0,
+    "per_share_ratio": "0.0",
     "exercise_price_(rp)": "",
     "open": "",
     "high": "",
@@ -48,13 +48,13 @@
     "close": ""
   },
   "listing_price": {
-    "open": 280.0,
-    "high": 280.0,
-    "low": 232.0,
-    "close": 232.0,
-    "change": -8.0,
+    "open": "280.0",
+    "high": "280.0",
+    "low": "232.0",
+    "close": "232.0",
+    "change": "-8.0",
     "percentage_change": "-3.33%",
-    "volume": 808881000.0
+    "volume": "808881000.0"
   },
   "performa": {
     "1D": "-3%",

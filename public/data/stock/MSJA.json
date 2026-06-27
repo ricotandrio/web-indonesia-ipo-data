@@ -6,12 +6,12 @@
   "sector": "Consumer Non-Cyclicals",
   "subsector": "Personal Care Products",
   "listing_board": "Utama",
-  "final_price": 300.0,
+  "final_price": "300.0",
   "line_of_business": "Industri Nonwoven",
   "address": "Desa Jabaran, Kecamatan Balongbendo, Krian, Sidoarjo, Jawa Timur, Indonesia 61263",
   "website": "https://www.spunindo.com",
   "number_of_shares_offered": 882352900,
-  "%_of_total_shares": 15.0,
+  "%_of_total_shares": "15.0",
   "participant_admin": {
     "code": "OD",
     "name": "BRI DANAREKSA SEKURITAS"
@@ -40,7 +40,7 @@
   ],
   "warrant": {
     "code": "",
-    "per_share_ratio": 0.0,
+    "per_share_ratio": "0.0",
     "exercise_price_(rp)": "",
     "open": "",
     "high": "",
@@ -49,12 +49,12 @@
   },
   "listing_price": {
     "open": "",
-    "high": 372.0,
-    "low": 282.0,
-    "close": 346.0,
-    "change": 46.0,
+    "high": "372.0",
+    "low": "282.0",
+    "close": "346.0",
+    "change": "46.0",
     "percentage_change": "15.33%",
-    "volume": 658989300.0
+    "volume": "658989300.0"
   },
   "performa": {
     "1D": "15%",

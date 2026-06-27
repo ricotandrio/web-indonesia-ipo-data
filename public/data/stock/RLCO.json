@@ -1,0 +1,71 @@
+{
+  "ipo_status": "Closed",
+  "ticker_code": "RLCO",
+  "image": "",
+  "company_name": "PT Abadi Lestari Indonesia Tbk",
+  "sector": "Consumer Non-Cyclicals",
+  "subsector": "Processed Foods",
+  "listing_board": "Development",
+  "final_price": "168.0",
+  "line_of_business": "Pengolahan dan Pencucian Sarang Burung Walet serta Perdagangan Produk Kesehatan melalui Entitas Anak (Portofolio Realfood)",
+  "address": "Jl. Raya Bojonegoro – Babat, Desa Balenrejo, Kecamatan Balen, Kabupaten Bojonegoro, Jawa Timur 62182",
+  "website": "https://realco-ali.com",
+  "number_of_shares_offered": 625000000,
+  "%_of_total_shares": 20,
+  "participant_admin": {
+    "code": "IF",
+    "name": "SAMUEL SEKURITAS INDONESIA"
+  },
+  "book_building_opening": "24/11/2025",
+  "book_building_closing": "26/11/2025",
+  "lowest_book_building_price": 150,
+  "highest_book_building_price": 168,
+  "opening_of_offering_period": "02/12/2025",
+  "closing_of_offering_period": "04/12/2025",
+  "closing_date": "04/12/2025",
+  "distribution_date": "05/12/2025",
+  "listing_date": "08/12/2025",
+  "ara_arb_percentage": "35%",
+  "underwriters": [
+    {
+      "code": "IF",
+      "name": "SAMUEL SEKURITAS INDONESIA",
+      "percentage": "100%"
+    }
+  ],
+  "warrant": {
+    "code": "-",
+    "per_share_ratio": "0.0",
+    "exercise_price_(rp)": "0.0",
+    "open": "-",
+    "high": "-",
+    "low": "-",
+    "close": "-"
+  },
+  "listing_price": {
+    "open": "226.0",
+    "high": "8700.0",
+    "low": "168.0",
+    "close": "3760.0",
+    "change": "3592.0",
+    "percentage_change": "2138.10%",
+    "volume": "0.0"
+  },
+  "performa": {
+    "1D": "34.52%",
+    "1W": "-15.20%",
+    "1M": "-40.31%",
+    "6M": "2138.10%",
+    "1Y": "2138.10%",
+    "updated_at": "26/06/2026",
+    "source": "Sectors.app"
+  },
+  "fundamental": {
+    "aset_percentage": "-",
+    "liabilitas_percentage": "-",
+    "pendapatan_percentage": "-",
+    "laba_bersih_percentage": "-",
+    "updated_at": "30/06/2025",
+    "source": "Prospectus"
+  }
+}

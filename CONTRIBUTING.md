@@ -300,6 +300,9 @@ npm run <script-name>
 | `check:stock`        | Checks a specific stock file for formatting and consistency. |
 | `check:stocks`       | Validates the global `stocks.json` index file.               |
 | `check:information`  | Validates the `information.json` metadata structure.         |
+| `sync:data`          | Rebuilds derived data from `public/data/stock/*.json`.       |
+| `convert:csv-to-json`| Converts CSV files to JSON format for stock and underwriter. |
+| `sync`               | Runs both `convert:csv-to-json` and `sync:data` in sequence. |
 | `prettier`           | Run code formatter                                           |
 
 > Tip: Run `check:json` first to catch general formatting errors, then use the more targeted scripts depending on what you’ve modified.
