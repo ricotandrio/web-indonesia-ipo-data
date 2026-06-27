@@ -8,6 +8,7 @@ import {
   checkUnderwritersJSONValid,
 } from "./check.js";
 import { syncData } from "./sync.js";
+import { convertCSVtoJSON } from "./convert.js";
 
 const command = process.argv[2];
 
@@ -20,6 +21,7 @@ const commands = {
   "check:information": checkInformationJSONValid,
   "check:template": checkTemplateJSONValid,
   "sync:data": syncData,
+  "convert:csv-to-json": convertCSVtoJSON,
 };
 
 if (!command) {

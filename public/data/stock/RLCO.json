@@ -6,7 +6,7 @@
   "sector": "Consumer Non-Cyclicals",
   "subsector": "Processed Foods",
   "listing_board": "Development",
-  "final_price": 168.0,
+  "final_price": "168.0",
   "line_of_business": "Pengolahan dan Pencucian Sarang Burung Walet serta Perdagangan Produk Kesehatan melalui Entitas Anak (Portofolio Realfood)",
   "address": "Jl. Raya Bojonegoro – Babat, Desa Balenrejo, Kecamatan Balen, Kabupaten Bojonegoro, Jawa Timur 62182",
   "website": "https://realco-ali.com",
@@ -35,8 +35,8 @@
   ],
   "warrant": {
     "code": "-",
-    "per_share_ratio": 0.0,
-    "exercise_price_(rp)": 0.0,
+    "per_share_ratio": "0.0",
+    "exercise_price_(rp)": "0.0",
     "open": "-",
     "high": "-",
     "low": "-",
@@ -44,12 +44,12 @@
   },
   "listing_price": {
     "open": "226.0",
-    "high": 8700.0,
-    "low": 168.0,
-    "close": 3760.0,
-    "change": 3592.0,
+    "high": "8700.0",
+    "low": "168.0",
+    "close": "3760.0",
+    "change": "3592.0",
     "percentage_change": "2138.10%",
-    "volume": 0.0
+    "volume": "0.0"
   },
   "performa": {
     "1D": "34.52%",

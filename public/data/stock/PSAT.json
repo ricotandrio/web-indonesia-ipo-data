@@ -6,7 +6,7 @@
   "sector": "Transportation & Logistic",
   "subsector": "Passenger Marine Transportation",
   "listing_board": "Main",
-  "final_price": 900.0,
+  "final_price": "900.0",
   "line_of_business": "Bidang Angkutan Laut Dalam Negeri untuk Barang Umum dan Barang Khusus dan Perusahaan Holding",
   "address": "Gedung Kirana Three Lantai 11 (Bella Terra), Jl. Boulevard Raya Kav. 1, Kelurahan Kelapa Gading, Kota Jakarta Utara, Provinsi DKI Jakarta 14240",
   "website": "https://www.pancaran-samudera.co.id",
@@ -40,21 +40,21 @@
   ],
   "warrant": {
     "code": "-",
-    "per_share_ratio": 0.0,
-    "exercise_price_(rp)": 0.0,
+    "per_share_ratio": "0.0",
+    "exercise_price_(rp)": "0.0",
     "open": "-",
     "high": "-",
     "low": "-",
     "close": "-"
   },
   "listing_price": {
-    "open": "1125",
-    "high": 3410.0,
-    "low": 640.0,
-    "close": 860.0,
-    "change": -40.0,
+    "open": 1125,
+    "high": "3410.0",
+    "low": "640.0",
+    "close": "860.0",
+    "change": "-40.0",
     "percentage_change": "-4.44%",
-    "volume": 0.0
+    "volume": "0.0"
   },
   "performa": {
     "1D": "25.00%",

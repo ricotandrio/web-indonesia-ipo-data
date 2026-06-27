@@ -6,12 +6,12 @@
   "sector": "Industrials",
   "subsector": "Business Support Services",
   "listing_board": "Pengembangan",
-  "final_price": 125.0,
+  "final_price": "125.0",
   "line_of_business": "Testing, Inspection, Certification",
   "address": "SOHO CAPITAL, 28th Floor Jl, Letjen S, Parman Kav,28, Grogol Petamburan, Jakarta Barat",
   "website": "https://www.carsurin.com",
   "number_of_shares_offered": 600000000,
-  "%_of_total_shares": 20.75,
+  "%_of_total_shares": "20.75",
   "participant_admin": {
     "code": "XA",
     "name": "NH KORINDO SEKURITAS INDONESIA"
@@ -35,7 +35,7 @@
   ],
   "warrant": {
     "code": "",
-    "per_share_ratio": 0.0,
+    "per_share_ratio": "0.0",
     "exercise_price_(rp)": "",
     "open": "",
     "high": "",
@@ -44,12 +44,12 @@
   },
   "listing_price": {
     "open": "",
-    "high": 168.0,
-    "low": 132.0,
-    "close": 143.0,
-    "change": 18.0,
+    "high": "168.0",
+    "low": "132.0",
+    "close": "143.0",
+    "change": "18.0",
     "percentage_change": "14.40%",
-    "volume": 577174300.0
+    "volume": "577174300.0"
   },
   "performa": {
     "1D": "14%",

@@ -6,12 +6,12 @@
   "sector": "Consumer Non-Cyclicals",
   "subsector": "Plantations & Crops",
   "listing_board": "Utama",
-  "final_price": 600.0,
+  "final_price": "600.0",
   "line_of_business": "Perkebunan kelapa sawit & industri olah kelapa sawit baik secara langsung dan/atau Perusahaan Anak",
   "address": "",
   "website": "http://sta.co.id",
   "number_of_shares_offered": 877072000,
-  "%_of_total_shares": 8.06,
+  "%_of_total_shares": "8.06",
   "participant_admin": {
     "code": "DP",
     "name": "DBS VICKERS SEKURITAS INDONESIA"
@@ -35,7 +35,7 @@
   ],
   "warrant": {
     "code": "",
-    "per_share_ratio": 0.0,
+    "per_share_ratio": "0.0",
     "exercise_price_(rp)": "",
     "open": "",
     "high": "",
@@ -43,13 +43,13 @@
     "close": ""
   },
   "listing_price": {
-    "open": 600.0,
-    "high": 750.0,
-    "low": 600.0,
-    "close": 750.0,
-    "change": 150.0,
+    "open": "600.0",
+    "high": "750.0",
+    "low": "600.0",
+    "close": "750.0",
+    "change": "150.0",
     "percentage_change": "25.00%",
-    "volume": 118709200.0
+    "volume": "118709200.0"
   },
   "performa": {
     "1D": "25%",

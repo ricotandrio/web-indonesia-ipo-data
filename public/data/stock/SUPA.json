@@ -6,7 +6,7 @@
   "sector": "Financials",
   "subsector": "Banks",
   "listing_board": "Development",
-  "final_price": 635.0,
+  "final_price": "635.0",
   "line_of_business": "Penyediaan layanan perbankan digital (Digital Banking Services)",
   "address": "Gedung Millennium Centennial Center Lantai 23-25, Jl. Jenderal Sudirman Kav. 25, Karet Kuningan, Setiabudi, Jakarta Selatan 12920",
   "website": "https://www.superbank.id",
@@ -40,8 +40,8 @@
   ],
   "warrant": {
     "code": "-",
-    "per_share_ratio": 0.0,
-    "exercise_price_(rp)": 0.0,
+    "per_share_ratio": "0.0",
+    "exercise_price_(rp)": "0.0",
     "open": "-",
     "high": "-",
     "low": "-",
@@ -49,12 +49,12 @@
   },
   "listing_price": {
     "open": "635.0",
-    "high": 680.0,
-    "low": 520.0,
-    "close": 525.0,
-    "change": -110.0,
+    "high": "680.0",
+    "low": "520.0",
+    "close": "525.0",
+    "change": "-110.0",
     "percentage_change": "-17.32%",
-    "volume": 0.0
+    "volume": "0.0"
   },
   "performa": {
     "1D": "-4.00%",

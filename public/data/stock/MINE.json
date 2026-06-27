@@ -6,7 +6,7 @@
   "sector": "Basic Materials",
   "subsector": "Diversified Metals & Minerals",
   "listing_board": "Development",
-  "final_price": 216.0,
+  "final_price": "216.0",
   "line_of_business": "Aktivitas Penunjang Pertambangan dan Penggalian Lainnya",
   "address": "Treasury Tower, Lantai 5 Unit G, District 8 SCBD Lot 28 Jl. Jend. Sudirman Kav. 52-53, Kecamatan Kebayoran Baru Jakarta Selatan 12190",
   "website": "https://www.sinarterangmandiri.com",
@@ -35,21 +35,21 @@
   ],
   "warrant": {
     "code": "-",
-    "per_share_ratio": 0.0,
-    "exercise_price_(rp)": 0.0,
+    "per_share_ratio": "0.0",
+    "exercise_price_(rp)": "0.0",
     "open": "-",
     "high": "-",
     "low": "-",
     "close": "-"
   },
   "listing_price": {
-    "open": "270",
-    "high": 270.0,
-    "low": 216.0,
-    "close": 270.0,
-    "change": 54.0,
+    "open": 270,
+    "high": "270.0",
+    "low": "216.0",
+    "close": "270.0",
+    "change": "54.0",
     "percentage_change": "25.00%",
-    "volume": 781200.0
+    "volume": "781200.0"
   },
   "performa": {
     "1D": "25.00%",

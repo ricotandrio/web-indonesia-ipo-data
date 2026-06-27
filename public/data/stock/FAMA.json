@@ -11,7 +11,7 @@
   "address": "Jl, Asia Afrika No,115 Bandung - Jawa Barat, 40112",
   "website": "http://www.bankfama.co.id",
   "number_of_shares_offered": 1312105000,
-  "%_of_total_shares": 24.0,
+  "%_of_total_shares": "24.0",
   "participant_admin": {
     "code": "AR",
     "name": "BINAARTHA SEKURITAS"
@@ -35,7 +35,7 @@
   ],
   "warrant": {
     "code": "",
-    "per_share_ratio": 0.0,
+    "per_share_ratio": "0.0",
     "exercise_price_(rp)": "",
     "open": "",
     "high": "",

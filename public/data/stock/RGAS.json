@@ -6,12 +6,12 @@
   "sector": "Energy",
   "subsector": "Oil, Gas & Coal Equipment & Services",
   "listing_board": "Pengembangan",
-  "final_price": 120.0,
+  "final_price": "120.0",
   "line_of_business": "Perdagangan Besar Mesin Peralatan dan Perlengkapan Lainnya, Instalasi Mekanikal, Instalasi Gas",
   "address": "Jl, Wibawa Mukti II Perum Telkom Satwika Permai Blok A5 No, 8, RT, 009 RW, 009 Kel, Jatiluhur, Kec, Jatiasih, Bekasi, 17425",
   "website": "https://kianmulia.com/",
   "number_of_shares_offered": 334200000,
-  "%_of_total_shares": 22.9,
+  "%_of_total_shares": "22.9",
   "participant_admin": {
     "code": "AO",
     "name": "ERDIKHA ELIT SEKURITAS"
@@ -35,21 +35,21 @@
   ],
   "warrant": {
     "code": "RGAS-W",
-    "per_share_ratio": 0.6,
-    "exercise_price_(rp)": 210.0,
+    "per_share_ratio": "0.6",
+    "exercise_price_(rp)": "210.0",
     "open": "-",
     "high": "-",
     "low": "-",
     "close": "-"
   },
   "listing_price": {
-    "open": 124.0,
-    "high": 150.0,
-    "low": 120.0,
-    "close": 125.0,
-    "change": 5.0,
+    "open": "124.0",
+    "high": "150.0",
+    "low": "120.0",
+    "close": "125.0",
+    "change": "5.0",
     "percentage_change": "4.17%",
-    "volume": 545672700.0
+    "volume": "545672700.0"
   },
   "performa": {
     "1D": "4%",

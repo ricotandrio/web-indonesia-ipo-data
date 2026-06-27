@@ -6,12 +6,12 @@
   "sector": "Consumer Cyclicals",
   "subsector": "Entertainment & Movie Production",
   "listing_board": "Utama",
-  "final_price": 234.0,
+  "final_price": "234.0",
   "line_of_business": "Bidang perfilman, khususnya produksi film, pascaproduksi film dan distribusi film",
-  "address": "Multivision Tower, Lt, 21 \u2013 23 Jl, Kuningan Mulia Lot 9B, Kuningan Jakarta Selatan 12980, Indonesia",
+  "address": "Multivision Tower, Lt, 21 – 23 Jl, Kuningan Mulia Lot 9B, Kuningan Jakarta Selatan 12980, Indonesia",
   "website": "https://www.mvpworld.com",
   "number_of_shares_offered": 929200000,
-  "%_of_total_shares": 15.0,
+  "%_of_total_shares": "15.0",
   "participant_admin": {
     "code": "AI",
     "name": "UOB KAY HIAN SEKURITAS"
@@ -40,7 +40,7 @@
   ],
   "warrant": {
     "code": "",
-    "per_share_ratio": 0.0,
+    "per_share_ratio": "0.0",
     "exercise_price_(rp)": "",
     "open": "",
     "high": "",
@@ -48,13 +48,13 @@
     "close": ""
   },
   "listing_price": {
-    "open": 292.0,
-    "high": 292.0,
-    "low": 292.0,
-    "close": 292.0,
-    "change": 58.0,
+    "open": "292.0",
+    "high": "292.0",
+    "low": "292.0",
+    "close": "292.0",
+    "change": "58.0",
     "percentage_change": "24.79%",
-    "volume": 4227100.0
+    "volume": "4227100.0"
   },
   "performa": {
     "1D": "25%",

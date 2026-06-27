@@ -15,7 +15,8 @@
     "check:underwriters": "node ./scripts/data/index.js check:underwriters",
     "check:stock": "node ./scripts/data/index.js check:stock",
     "check:stocks": "node ./scripts/data/index.js check:stocks",
-    "check:information": "node ./scripts/data/index.js check:information"
+    "check:information": "node ./scripts/data/index.js check:information",
+    "convert:csv-to-json": "node ./scripts/data/index.js convert:csv-to-json"
   },
   "dependencies": {
     "@heroui/accordion": "^2.2.8",

@@ -6,12 +6,12 @@
   "sector": "Financials",
   "subsector": "General Insurance",
   "listing_board": "",
-  "final_price": 100.0,
+  "final_price": "100.0",
   "line_of_business": "Asuransi umum",
   "address": "Gedung Tamansari Parama Lt. 9 Jl. Wahid Hasyim Kav. 84?88 Jakarta 10340",
   "website": "https://adbinsure.com/",
   "number_of_shares_offered": 412087500,
-  "%_of_total_shares": 12.03,
+  "%_of_total_shares": "12.03",
   "participant_admin": {
     "code": "LS",
     "name": "RELIANCE SEKURITAS INDONESIA TBK"
@@ -30,7 +30,7 @@
     {
       "code": "LS",
       "name": "RELIANCE SEKURITAS INDONESIA TBK",
-      "percentage": 1.0
+      "percentage": "1.0"
     }
   ],
   "warrant": {
@@ -43,13 +43,13 @@
     "close": ""
   },
   "listing_price": {
-    "open": 120.0,
-    "high": 135.0,
-    "low": 112.0,
-    "close": 135.0,
-    "change": 35.0,
+    "open": "120.0",
+    "high": "135.0",
+    "low": "112.0",
+    "close": "135.0",
+    "change": "35.0",
     "percentage_change": "35.00%",
-    "volume": 530888200.0
+    "volume": "530888200.0"
   },
   "performa": {
     "1D": "",

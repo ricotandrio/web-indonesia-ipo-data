@@ -6,7 +6,7 @@
   "sector": "Consumer Cyclicals",
   "subsector": "Consumer Distributors",
   "listing_board": "Development",
-  "final_price": 180.0,
+  "final_price": "180.0",
   "line_of_business": "Perdagangan Besar Telekomunikasi dan Aktivitas Konsultasi Manajemen",
   "address": "Gedung Grha Prima Indonesia, Jl. Tuparev No. 87 A, Kabupaten Cirebon, Jawa Barat 45113",
   "website": "https://www.pmui.co.id",
@@ -35,21 +35,21 @@
   ],
   "warrant": {
     "code": "-",
-    "per_share_ratio": 0.0,
-    "exercise_price_(rp)": 0.0,
+    "per_share_ratio": "0.0",
+    "exercise_price_(rp)": "0.0",
     "open": "-",
     "high": "-",
     "low": "-",
     "close": "-"
   },
   "listing_price": {
-    "open": "242",
-    "high": 242.0,
-    "low": 180.0,
-    "close": 242.0,
-    "change": 62.0,
+    "open": 242,
+    "high": "242.0",
+    "low": "180.0",
+    "close": "242.0",
+    "change": "62.0",
     "percentage_change": "-34.44%",
-    "volume": 12500000.0
+    "volume": "12500000.0"
   },
   "performa": {
     "1D": "-34.44%",

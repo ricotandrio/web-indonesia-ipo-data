@@ -6,12 +6,12 @@
   "sector": "Industrials",
   "subsector": "Environmental & Facilities Services",
   "listing_board": "Pengembangan",
-  "final_price": 145.0,
+  "final_price": "145.0",
   "line_of_business": "Jasa Pengelolaan dan Penyewaan alat-alat Higienitas dan Sanitasi Ruangan beserta produk pendukungnya",
   "address": "",
   "website": "https://www.ecocare.id/",
   "number_of_shares_offered": 525000000,
-  "%_of_total_shares": 20.79,
+  "%_of_total_shares": "20.79",
   "participant_admin": {
     "code": "HD",
     "name": "KGI SEKURITAS INDONESIA"
@@ -35,7 +35,7 @@
   ],
   "warrant": {
     "code": "",
-    "per_share_ratio": 0.0,
+    "per_share_ratio": "0.0",
     "exercise_price_(rp)": "",
     "open": "",
     "high": "",
@@ -44,12 +44,12 @@
   },
   "listing_price": {
     "open": "",
-    "high": 195.0,
-    "low": 160.0,
-    "close": 165.0,
-    "change": 20.0,
+    "high": "195.0",
+    "low": "160.0",
+    "close": "165.0",
+    "change": "20.0",
     "percentage_change": "13.79%",
-    "volume": 517636800.0
+    "volume": "517636800.0"
   },
   "performa": {
     "1D": "14%",

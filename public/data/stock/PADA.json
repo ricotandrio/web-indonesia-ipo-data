@@ -6,12 +6,12 @@
   "sector": "Industrials",
   "subsector": "Human Resource & Employment Services",
   "listing_board": "Pemantauan Khusus",
-  "final_price": 100.0,
+  "final_price": "100.0",
   "line_of_business": "Jasa Teknikal dan Pemeliharaan Peralatan Telekomunikasi, Call Center, Perkantoran, Keamanan dan SDM",
   "address": "Jl, Kebagusan 1 No, 4, Kebagusan, Pasar Minggu, Jakarta Selatan, Kode Pos 12520, Indonesia",
   "website": "https://www.persada.id",
   "number_of_shares_offered": 900000000,
-  "%_of_total_shares": 28.57,
+  "%_of_total_shares": "28.57",
   "participant_admin": {
     "code": "AI",
     "name": "UOB KAY HIAN SEKURITAS"
@@ -40,7 +40,7 @@
   ],
   "warrant": {
     "code": "",
-    "per_share_ratio": 0.0,
+    "per_share_ratio": "0.0",
     "exercise_price_(rp)": "",
     "open": "",
     "high": "",
@@ -48,13 +48,13 @@
     "close": ""
   },
   "listing_price": {
-    "open": 135.0,
-    "high": 135.0,
-    "low": 99.0,
-    "close": 110.0,
-    "change": 10.0,
+    "open": "135.0",
+    "high": "135.0",
+    "low": "99.0",
+    "close": "110.0",
+    "change": "10.0",
     "percentage_change": "10.00%",
-    "volume": 1010583500.0
+    "volume": "1010583500.0"
   },
   "performa": {
     "1D": "10%",

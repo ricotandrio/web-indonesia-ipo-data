@@ -6,12 +6,12 @@
   "sector": "Consumer Cyclicals",
   "subsector": "Hotels & Entertainment Services",
   "listing_board": "Development",
-  "final_price": 188.0,
+  "final_price": "188.0",
   "line_of_business": "Penyediaan Minuman, Kedai Kopi (Fore Coffee), dan Toko Donat (Fore Donut)",
   "address": "Gedung Graha Handaya, Unit C, Lantai 1, Jl. Raya Pejuangan No. 12A, Kebon Jeruk, Jakarta Barat 11530",
   "website": "https://fore.coffee",
   "number_of_shares_offered": 1880000000,
-  "%_of_total_shares": 21.08,
+  "%_of_total_shares": "21.08",
   "participant_admin": {
     "code": "CC",
     "name": "MANDIRI SEKURITAS"
@@ -40,21 +40,21 @@
   ],
   "warrant": {
     "code": "-",
-    "per_share_ratio": 0.0,
-    "exercise_price_(rp)": 0.0,
+    "per_share_ratio": "0.0",
+    "exercise_price_(rp)": "0.0",
     "open": "-",
     "high": "-",
     "low": "-",
     "close": "-"
   },
   "listing_price": {
-    "open": "252",
-    "high": 252.0,
-    "low": 188.0,
-    "close": 252.0,
-    "change": 64.0,
+    "open": 252,
+    "high": "252.0",
+    "low": "188.0",
+    "close": "252.0",
+    "change": "64.0",
     "percentage_change": "34.04%",
-    "volume": 29680000.0
+    "volume": "29680000.0"
   },
   "performa": {
     "1D": "34.04%",

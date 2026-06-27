@@ -6,12 +6,12 @@
   "sector": "Basic Materials",
   "subsector": "Agricultural Chemicals",
   "listing_board": "",
-  "final_price": 230.0,
+  "final_price": "230.0",
   "line_of_business": "Perdagangan Besar Pupuk dan Produk Agrokimia",
   "address": "Gedung DGW Group Jl. Agung Karya VI, Kav. A, No.7, Kelurahan Papanggo, Kecamatan Tanjung Priok, Kota Administrasi Jakarta Utara 14340, Provinsi DKI Jakarta",
   "website": "https://www.dgw.co.id/",
   "number_of_shares_offered": 882353000,
-  "%_of_total_shares": 15.0,
+  "%_of_total_shares": "15.0",
   "participant_admin": {
     "code": "OD",
     "name": "BRI DANAREKSA SEKURITAS"
@@ -53,13 +53,13 @@
     "close": ""
   },
   "listing_price": {
-    "open": 250.0,
-    "high": 286.0,
-    "low": 250.0,
-    "close": 286.0,
-    "change": 56.0,
+    "open": "250.0",
+    "high": "286.0",
+    "low": "250.0",
+    "close": "286.0",
+    "change": "56.0",
     "percentage_change": "24.35%",
-    "volume": 259560500.0
+    "volume": "259560500.0"
   },
   "performa": {
     "1D": "",

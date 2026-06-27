@@ -6,12 +6,12 @@
   "sector": "Healthcare",
   "subsector": "Healthcare Providers",
   "listing_board": "Utama",
-  "final_price": 1720.0,
+  "final_price": "1720.0",
   "line_of_business": "Bergerak di bidang Aktivitas Rumah Sakit Swasta",
   "address": "RS Grha Kedoya Jalan Panjang Arteri No, 26, Kedoya Utara, Kebon Jeruk, Jakarta 11520",
   "website": "https://www.grhahospitals.com",
   "number_of_shares_offered": 185940000,
-  "%_of_total_shares": 20.0,
+  "%_of_total_shares": "20.0",
   "participant_admin": {
     "code": "RF",
     "name": "BUANA CAPITAL SEKURITAS"
@@ -35,7 +35,7 @@
   ],
   "warrant": {
     "code": "",
-    "per_share_ratio": 0.0,
+    "per_share_ratio": "0.0",
     "exercise_price_(rp)": "",
     "open": "",
     "high": "",
@@ -44,12 +44,12 @@
   },
   "listing_price": {
     "open": "",
-    "high": 2150.0,
-    "low": 1820.0,
-    "close": 2150.0,
-    "change": 430.0,
+    "high": "2150.0",
+    "low": "1820.0",
+    "close": "2150.0",
+    "change": "430.0",
     "percentage_change": "25.00%",
-    "volume": 2737600.0
+    "volume": "2737600.0"
   },
   "performa": {
     "1D": "25%",

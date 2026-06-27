@@ -6,7 +6,7 @@
   "sector": "Transportation & Logistic",
   "subsector": "Logistics & Deliveries",
   "listing_board": "Development",
-  "final_price": 330.0,
+  "final_price": "330.0",
   "line_of_business": "Angkutan Laut Perairan Pelabuhan Dalam Negeri untuk Barang berupa Alat Berat dan Kontainer",
   "address": "Jl. Panglima Batur No. 36, Pelabuhan, Kec. Samarinda Kota, Kota Samarinda, Prov. Kalimantan Timur, Kode Pos: 75112",
   "website": "https://www.pelayaranjayahidupbaru.com",
@@ -35,8 +35,8 @@
   ],
   "warrant": {
     "code": "PJHB-W",
-    "per_share_ratio": 0.5,
-    "exercise_price_(rp)": 0.0,
+    "per_share_ratio": "0.5",
+    "exercise_price_(rp)": "0.0",
     "open": "-",
     "high": "-",
     "low": "-",
@@ -44,12 +44,12 @@
   },
   "listing_price": {
     "open": "164.0",
-    "high": 1085.0,
-    "low": 134.0,
-    "close": 160.0,
-    "change": -4.0,
+    "high": "1085.0",
+    "low": "134.0",
+    "close": "160.0",
+    "change": "-4.0",
     "percentage_change": "-2.44%",
-    "volume": 571700.0
+    "volume": "571700.0"
   },
   "performa": {
     "1D": "-2.44%",

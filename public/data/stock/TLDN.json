@@ -6,12 +6,12 @@
   "sector": "Consumer Non-Cyclicals",
   "subsector": "Plantations & Crops",
   "listing_board": "Pengembangan",
-  "final_price": 580.0,
+  "final_price": "580.0",
   "line_of_business": "Aktvitas perusahaan holding dan industri pengolahan kelapa sawit melalui Perusahaan Anak",
   "address": "Beltway Office Park Gedung B Lantai 7, Jl, TB Simatupang No,41, Kota Jakarta Selatan, 12540",
   "website": "https://www.teladanprima.com",
   "number_of_shares_offered": 517861200,
-  "%_of_total_shares": 4.0,
+  "%_of_total_shares": "4.0",
   "participant_admin": {
     "code": "NI",
     "name": "BNI SEKURITAS"
@@ -35,7 +35,7 @@
   ],
   "warrant": {
     "code": "",
-    "per_share_ratio": 0.0,
+    "per_share_ratio": "0.0",
     "exercise_price_(rp)": "",
     "open": "",
     "high": "",
@@ -44,12 +44,12 @@
   },
   "listing_price": {
     "open": "",
-    "high": 700.0,
-    "low": 580.0,
-    "close": 615.0,
-    "change": 35.0,
+    "high": "700.0",
+    "low": "580.0",
+    "close": "615.0",
+    "change": "35.0",
     "percentage_change": "6.03%",
-    "volume": 173313600.0
+    "volume": "173313600.0"
   },
   "performa": {
     "1D": "6%",

@@ -6,12 +6,12 @@
   "sector": "Properties & Real Estate",
   "subsector": "Real Estate Development & Management",
   "listing_board": "Akselerasi",
-  "final_price": 90.0,
+  "final_price": "90.0",
   "line_of_business": "Property & Real Estate",
   "address": "Sovereign Plaza Lt,5A Kav,36 Jl TB Simatupang Kota Jakarta Selatan - Daerah Khusus Ibukota Jakarta 12430",
   "website": "http://www.relifeasia.com/",
   "number_of_shares_offered": 1200000000,
-  "%_of_total_shares": 20.95,
+  "%_of_total_shares": "20.95",
   "participant_admin": {
     "code": "AI",
     "name": "UOB KAY HIAN SEKURITAS"
@@ -35,21 +35,21 @@
   ],
   "warrant": {
     "code": "RELF-W",
-    "per_share_ratio": 1.0,
-    "exercise_price_(rp)": 125.0,
+    "per_share_ratio": "1.0",
+    "exercise_price_(rp)": "125.0",
     "open": "-",
     "high": "-",
     "low": "-",
     "close": "-"
   },
   "listing_price": {
-    "open": 81.0,
-    "high": 99.0,
-    "low": 81.0,
-    "close": 99.0,
-    "change": 9.0,
+    "open": "81.0",
+    "high": "99.0",
+    "low": "81.0",
+    "close": "99.0",
+    "change": "9.0",
     "percentage_change": "10.00%",
-    "volume": 542362100.0
+    "volume": "542362100.0"
   },
   "performa": {
     "1D": "10%",

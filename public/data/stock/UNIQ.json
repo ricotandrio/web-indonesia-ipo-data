@@ -6,12 +6,12 @@
   "sector": "Energy",
   "subsector": "Oil, Gas & Coal Equipment & Services",
   "listing_board": "Utama",
-  "final_price": 118.0,
+  "final_price": "118.0",
   "line_of_business": "Jasa Pertambangan dan Jasa Sewa Menyewa Peralatan Pertambangan",
   "address": "JL, Betet No, 28 RT 22/ RW 9, 9 Ilir, Ilir Timur II, Palembang, Sumatera Selatan, 30113",
   "website": "https://www.ulimanitra.co.id",
   "number_of_shares_offered": 300000000,
-  "%_of_total_shares": 9.56,
+  "%_of_total_shares": "9.56",
   "participant_admin": {
     "code": "SF",
     "name": "SURYA FAJAR SEKURITAS"
@@ -35,7 +35,7 @@
   ],
   "warrant": {
     "code": "",
-    "per_share_ratio": 0.0,
+    "per_share_ratio": "0.0",
     "exercise_price_(rp)": "",
     "open": "",
     "high": "",
@@ -43,13 +43,13 @@
     "close": ""
   },
   "listing_price": {
-    "open": 159.0,
-    "high": 159.0,
-    "low": 159.0,
-    "close": 159.0,
-    "change": 41.0,
+    "open": "159.0",
+    "high": "159.0",
+    "low": "159.0",
+    "close": "159.0",
+    "change": "41.0",
     "percentage_change": "34.75%",
-    "volume": 250613700.0
+    "volume": "250613700.0"
   },
   "performa": {
     "1D": "35%",

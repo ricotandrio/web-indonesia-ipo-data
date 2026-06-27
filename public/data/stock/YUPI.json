@@ -6,7 +6,7 @@
   "sector": "Consumer Non-Cyclicals",
   "subsector": "Processed Foods",
   "listing_board": "Main",
-  "final_price": 2390.0,
+  "final_price": "2390.0",
   "line_of_business": "Industri Kembang Gula",
   "address": "Jl. Pancasila IV, Desa Cicadas, Kecamatan Gunung Putri, Kabupaten Bogor, 16964, Jawa Barat, Indonesia.",
   "website": "https://www.yupi.co.id",
@@ -45,21 +45,21 @@
   ],
   "warrant": {
     "code": "-",
-    "per_share_ratio": 0.0,
-    "exercise_price_(rp)": 0.0,
+    "per_share_ratio": "0.0",
+    "exercise_price_(rp)": "0.0",
     "open": "-",
     "high": "-",
     "low": "-",
     "close": "-"
   },
   "listing_price": {
-    "open": "2400",
-    "high": 2400.0,
-    "low": 2390.0,
-    "close": 2400.0,
-    "change": 10.0,
+    "open": 2400,
+    "high": "2400.0",
+    "low": "2390.0",
+    "close": "2400.0",
+    "change": "10.0",
     "percentage_change": "0.42%",
-    "volume": 923051000.0
+    "volume": "923051000.0"
   },
   "performa": {
     "1D": "0.42%",

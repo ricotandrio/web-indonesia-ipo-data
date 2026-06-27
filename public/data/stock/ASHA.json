@@ -6,12 +6,12 @@
   "sector": "Consumer Non-Cyclicals",
   "subsector": "Food Retail & Distributors",
   "listing_board": "Pemantauan Khusus",
-  "final_price": 100.0,
+  "final_price": "100.0",
   "line_of_business": "Bergerak Dalam Bidang Perdagangan Besar Hasil Perikanan dan Aktivitas Cold Storage",
   "address": "Jl, Muara Baru Ujung K No, 7D RT 021 RW 17 Penjaringan Jakarta Utara, Indonesia",
   "website": "https://www.csfi.co.id/",
   "number_of_shares_offered": 1250000000,
-  "%_of_total_shares": 25.0,
+  "%_of_total_shares": "25.0",
   "participant_admin": {
     "code": "HD",
     "name": "KGI SEKURITAS INDONESIA"
@@ -40,7 +40,7 @@
   ],
   "warrant": {
     "code": "",
-    "per_share_ratio": 0.0,
+    "per_share_ratio": "0.0",
     "exercise_price_(rp)": "",
     "open": "",
     "high": "",
@@ -48,13 +48,13 @@
     "close": ""
   },
   "listing_price": {
-    "open": 135.0,
-    "high": 135.0,
-    "low": 99.0,
-    "close": 135.0,
-    "change": 35.0,
+    "open": "135.0",
+    "high": "135.0",
+    "low": "99.0",
+    "close": "135.0",
+    "change": "35.0",
     "percentage_change": "35.00%",
-    "volume": 573529400.0
+    "volume": "573529400.0"
   },
   "performa": {
     "1D": "35%",

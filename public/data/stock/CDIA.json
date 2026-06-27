@@ -6,7 +6,7 @@
   "sector": "Infrastructures",
   "subsector": "Electric Utilities",
   "listing_board": "Development",
-  "final_price": 190.0,
+  "final_price": "190.0",
   "line_of_business": "Aktivitas Perusahaan Holding dan Penyedia Solusi Infrastruktur Terintegrasi (Energi, Air, Kepelabuhanan, dan Logistik)",
   "address": "Wisma Barito Pacific Tower A, Lt. 5, Jl. Let. Jend. S. Parman Kav. 62-63, Kel. Slipi, Kec. Palmerah, Jakarta Barat 11410",
   "website": "https://chandradaya-investasi.com",
@@ -60,21 +60,21 @@
   ],
   "warrant": {
     "code": "-",
-    "per_share_ratio": 0.0,
-    "exercise_price_(rp)": 0.0,
+    "per_share_ratio": "0.0",
+    "exercise_price_(rp)": "0.0",
     "open": "-",
     "high": "-",
     "low": "-",
     "close": "-"
   },
   "listing_price": {
-    "open": "256",
-    "high": 2450.0,
-    "low": 190.0,
-    "close": 635.0,
-    "change": 445.0,
+    "open": 256,
+    "high": "2450.0",
+    "low": "190.0",
+    "close": "635.0",
+    "change": "445.0",
     "percentage_change": "234.21%",
-    "volume": 3737400.0
+    "volume": "3737400.0"
   },
   "performa": {
     "1D": "34.74%",

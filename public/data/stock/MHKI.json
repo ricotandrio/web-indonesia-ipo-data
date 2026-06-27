@@ -6,12 +6,12 @@
   "sector": "Industrials",
   "subsector": "Environmental & Facilities Services",
   "listing_board": "Pengembangan",
-  "final_price": 160.0,
+  "final_price": "160.0",
   "line_of_business": "Pengelolaan (treatment) Limbah Bahan Berbahaya dan Beracun (B3) dan Non B3 serta Perdagangan Besar",
   "address": "Jl, Raya Narogong Km 12, Pangkalan II No, 23, Cikiwul Kec, Bantar Gebang, Kota Bekasi, Jawa Barat 17152 Telepon: +62 21 8250196 Fax: +62 21 82601939",
   "website": "https://www.multihanna.co.id/",
   "number_of_shares_offered": 750000000,
-  "%_of_total_shares": 20.0,
+  "%_of_total_shares": "20.0",
   "participant_admin": {
     "code": "XA",
     "name": "NH KORINDO SEKURITAS INDONESIA"
@@ -35,7 +35,7 @@
   ],
   "warrant": {
     "code": "",
-    "per_share_ratio": 0.0,
+    "per_share_ratio": "0.0",
     "exercise_price_(rp)": "",
     "open": "",
     "high": "",
@@ -44,12 +44,12 @@
   },
   "listing_price": {
     "open": "",
-    "high": 216.0,
-    "low": 136.0,
-    "close": 216.0,
-    "change": 56.0,
+    "high": "216.0",
+    "low": "136.0",
+    "close": "216.0",
+    "change": "56.0",
     "percentage_change": "35.00%",
-    "volume": 269193800.0
+    "volume": "269193800.0"
   },
   "performa": {
     "1D": "35%",

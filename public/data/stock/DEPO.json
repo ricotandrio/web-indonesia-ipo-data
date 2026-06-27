@@ -6,12 +6,12 @@
   "sector": "Consumer Cyclicals",
   "subsector": "Home Improvement Retail",
   "listing_board": "Pengembangan",
-  "final_price": 482.0,
+  "final_price": "482.0",
   "line_of_business": "Supermarket dan/atau Retai Bahan Bangunan",
   "address": "Jl, Raya Serpong KM2, Kel, Pakulonan, Kec, Serpong Utara, Tangerang Selatan",
   "website": "https://depobangunan.co.id/",
   "number_of_shares_offered": 1024000000,
-  "%_of_total_shares": 15.08,
+  "%_of_total_shares": "15.08",
   "participant_admin": {
     "code": "YP",
     "name": "MIRAE ASSET SEKURITAS INDONESIA"
@@ -35,7 +35,7 @@
   ],
   "warrant": {
     "code": "",
-    "per_share_ratio": 0.0,
+    "per_share_ratio": "0.0",
     "exercise_price_(rp)": "",
     "open": "",
     "high": "",
@@ -44,12 +44,12 @@
   },
   "listing_price": {
     "open": "",
-    "high": 600.0,
-    "low": 470.0,
-    "close": 600.0,
-    "change": 118.0,
+    "high": "600.0",
+    "low": "470.0",
+    "close": "600.0",
+    "change": "118.0",
     "percentage_change": "24.48%",
-    "volume": 279806200.0
+    "volume": "279806200.0"
   },
   "performa": {
     "1D": "24%",

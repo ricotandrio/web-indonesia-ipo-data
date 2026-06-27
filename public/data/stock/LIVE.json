@@ -6,12 +6,12 @@
   "sector": "Consumer Cyclicals",
   "subsector": "Household Appliances",
   "listing_board": "Pengembangan",
-  "final_price": 148.0,
+  "final_price": "148.0",
   "line_of_business": "Perdagangan Besar Peralatan dan Perlengkapan Rumah Tangga",
   "address": "Jl, Kebon Jeruk Raya No, 1A-C, Kel, Kebon Jeruk Kec, Kebon Jeruk, Kota Adm, Jakarta Barat Provinsi DKI Jakarta, 11530, Indonesia",
   "website": "http://www.homeco.co.id",
   "number_of_shares_offered": 808350000,
-  "%_of_total_shares": 17.6,
+  "%_of_total_shares": "17.6",
   "participant_admin": {
     "code": "IF",
     "name": "SAMUEL SEKURITAS INDONESIA"
@@ -40,7 +40,7 @@
   ],
   "warrant": {
     "code": "",
-    "per_share_ratio": 0.0,
+    "per_share_ratio": "0.0",
     "exercise_price_(rp)": "",
     "open": "",
     "high": "",
@@ -48,13 +48,13 @@
     "close": ""
   },
   "listing_price": {
-    "open": 158.0,
-    "high": 199.0,
-    "low": 150.0,
-    "close": 174.0,
-    "change": 26.0,
+    "open": "158.0",
+    "high": "199.0",
+    "low": "150.0",
+    "close": "174.0",
+    "change": "26.0",
     "percentage_change": "17.57%",
-    "volume": 755036000.0
+    "volume": "755036000.0"
   },
   "performa": {
     "1D": "18%",

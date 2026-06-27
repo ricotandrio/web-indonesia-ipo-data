@@ -6,12 +6,12 @@
   "sector": "Consumer Non-Cyclicals",
   "subsector": "Household Products",
   "listing_board": "",
-  "final_price": 1650.0,
+  "final_price": "1650.0",
   "line_of_business": "Perdagangan eceran alat-alat rumah tangga, dan lainnya",
   "address": "Gedung AIA, Lantai 30, Jl. Jenderal Sudirman Kav. 48A , Jakarta Selatan, 12930",
   "website": "http://corporate-id.mrdiy.com",
   "number_of_shares_offered": 2519039400,
-  "%_of_total_shares": 10.0,
+  "%_of_total_shares": "10.0",
   "participant_admin": {
     "code": "CC",
     "name": "MANDIRI SEKURITAS"
@@ -48,13 +48,13 @@
     "close": ""
   },
   "listing_price": {
-    "open": 1550.0,
-    "high": 1900.0,
-    "low": 1240.0,
-    "close": 1690.0,
-    "change": 40.0,
+    "open": "1550.0",
+    "high": "1900.0",
+    "low": "1240.0",
+    "close": "1690.0",
+    "change": "40.0",
     "percentage_change": "2.42%",
-    "volume": 428916600.0
+    "volume": "428916600.0"
   },
   "performa": {
     "1D": "",

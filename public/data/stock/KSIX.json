@@ -6,12 +6,12 @@
   "sector": "Properties & Real Estate",
   "subsector": "Real Estate Development & Management",
   "listing_board": "",
-  "final_price": 452.0,
+  "final_price": "452.0",
   "line_of_business": "Bergerak dalam bidang pembangunan kawasan perumahan (real estate)",
   "address": "Plaza Property, Komplek Pertokoan Pulomas Blok VIII No. 1 Jl. Perintis Kemerdekaan, Desa/Kelurahan Pulo Gadung, Kec. Pulogadung, Kota Adm. Jakarta Timur, Provinsi DKI Jakarta, Kode Pos: 13260",
   "website": "https://www.kentanix.com",
   "number_of_shares_offered": 320674800,
-  "%_of_total_shares": 15.0,
+  "%_of_total_shares": "15.0",
   "participant_admin": {
     "code": "AI",
     "name": "UOB KAY HIAN SEKURITAS"
@@ -30,7 +30,7 @@
     {
       "code": "AI",
       "name": "UOB KAY HIAN SEKURITAS",
-      "percentage": 1.0
+      "percentage": "1.0"
     }
   ],
   "warrant": {
@@ -43,13 +43,13 @@
     "close": ""
   },
   "listing_price": {
-    "open": 545.0,
-    "high": 565.0,
-    "low": 492.0,
-    "close": 565.0,
-    "change": 113.0,
+    "open": "545.0",
+    "high": "565.0",
+    "low": "492.0",
+    "close": "565.0",
+    "change": "113.0",
     "percentage_change": "25.00%",
-    "volume": 85871200.0
+    "volume": "85871200.0"
   },
   "performa": {
     "1D": "",

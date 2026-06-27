@@ -6,12 +6,12 @@
   "sector": "Consumer Cyclicals",
   "subsector": "Textiles",
   "listing_board": "Pengembangan",
-  "final_price": 108.0,
+  "final_price": "108.0",
   "line_of_business": "Bergerak dalam industri dan perdagangan Hook dan Loop",
   "address": "Jl, Raya Serang KM 17,2 Desa Bojong Kecamatan Cikupa, Kabupaten Tangerang Banten, 15710",
   "website": "https://www.samcro.co.id",
   "number_of_shares_offered": 693828000,
-  "%_of_total_shares": 20.0,
+  "%_of_total_shares": "20.0",
   "participant_admin": {
     "code": "AI",
     "name": "UOB KAY HIAN SEKURITAS"
@@ -35,21 +35,21 @@
   ],
   "warrant": {
     "code": "ACRO-W",
-    "per_share_ratio": 0.333333333,
-    "exercise_price_(rp)": 186.0,
-    "open": "30",
-    "high": "83",
-    "low": "30",
-    "close": "40"
+    "per_share_ratio": "0.333333333",
+    "exercise_price_(rp)": "186.0",
+    "open": 30,
+    "high": 83,
+    "low": 30,
+    "close": 40
   },
   "listing_price": {
-    "open": 145.0,
-    "high": 145.0,
-    "low": 118.0,
-    "close": 145.0,
-    "change": 37.0,
+    "open": "145.0",
+    "high": "145.0",
+    "low": "118.0",
+    "close": "145.0",
+    "change": "37.0",
     "percentage_change": "34.26%",
-    "volume": 469814000.0
+    "volume": "469814000.0"
   },
   "performa": {
     "1D": "34%",

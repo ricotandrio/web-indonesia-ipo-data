@@ -6,12 +6,12 @@
   "sector": "Transportation & Logistic",
   "subsector": "Logistics & Deliveries",
   "listing_board": "Main",
-  "final_price": 250.0,
+  "final_price": "250.0",
   "line_of_business": "Jasa Logistik Terintegrasi (B-LOG)",
   "address": "Alfa Tower, Lantai 28, Jl. Jalur Sutera Barat Kav. 7-9, Alam Sutera, Tangerang, Banten, Indonesia",
   "website": "https://b-log.co.id",
   "number_of_shares_offered": 563247900,
-  "%_of_total_shares": 16.67,
+  "%_of_total_shares": "16.67",
   "participant_admin": {
     "code": "SQ",
     "name": "PT BCA SEKURITAS"
@@ -35,21 +35,21 @@
   ],
   "warrant": {
     "code": "-",
-    "per_share_ratio": 0.0,
-    "exercise_price_(rp)": 0.0,
+    "per_share_ratio": "0.0",
+    "exercise_price_(rp)": "0.0",
     "open": "-",
     "high": "-",
     "low": "-",
     "close": "-"
   },
   "listing_price": {
-    "open": "312",
-    "high": 930.0,
-    "low": 250.0,
-    "close": 328.0,
-    "change": 78.0,
+    "open": 312,
+    "high": "930.0",
+    "low": "250.0",
+    "close": "328.0",
+    "change": "78.0",
     "percentage_change": "31.20%",
-    "volume": 0.0
+    "volume": "0.0"
   },
   "performa": {
     "1D": "24.80%",
