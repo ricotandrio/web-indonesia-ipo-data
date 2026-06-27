@@ -1,3 +1,11 @@
 {
-  "updated_at": "27 June 2026"
+  "updated_at": "27 June 2026",
+  "count": {
+    "stocks": 245,
+    "underwriters": 45
+  },
+  "new": {
+    "stocks": [],
+    "underwriters": []
+  }
 }

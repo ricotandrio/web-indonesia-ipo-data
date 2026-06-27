@@ -124,6 +124,10 @@ function syncData() {
   writeJson(informationPath, {
     ...existingInformation,
     updated_at: formatToday(),
+    count: {
+      stocks: sortedStocks.length,
+      underwriters: sortedUnderwriters.length,
+    },
   });
 
   console.log(
