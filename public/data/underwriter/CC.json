@@ -12,10 +12,14 @@
     "CMNT",
     "CMRY",
     "CNMA",
+    "FORE",
     "GOTO",
     "MDIY",
+    "MDLA",
     "MTEL",
     "NCKL",
-    "PGEO"
+    "PGEO",
+    "SUPA",
+    "YUPI"
   ]
 }

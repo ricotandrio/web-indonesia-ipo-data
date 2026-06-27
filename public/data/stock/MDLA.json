@@ -1,0 +1,71 @@
+{
+  "ipo_status": "Closed",
+  "ticker_code": "MDLA",
+  "image": "",
+  "company_name": "PT Medela Potentia Tbk",
+  "sector": "Healthcare",
+  "subsector": "Pharmaceuticals & Healthcare Research",
+  "listing_board": "Main",
+  "final_price": 188.0,
+  "line_of_business": "Distribusi dan pemasaran produk farmasi, produk kesehatan, dan alat kesehatan",
+  "address": "Gedung Titan Center Lantai 3, Jl. Boulevard Bintaro Block B7/B1 No. 05, Bintaro Jaya Sektor 7, Tangerang Selatan 15224, Banten",
+  "website": "https://www.medela-potentia.com",
+  "number_of_shares_offered": 3500000000,
+  "%_of_total_shares": 25,
+  "participant_admin": {
+    "code": "CC",
+    "name": "MANDIRI SEKURITAS"
+  },
+  "book_building_opening": "11/03/2025",
+  "book_building_closing": "17/03/2025",
+  "lowest_book_building_price": 180,
+  "highest_book_building_price": 230,
+  "opening_of_offering_period": "27/03/2025",
+  "closing_of_offering_period": "11/04/2025",
+  "closing_date": "11/04/2025",
+  "distribution_date": "14/04/2025",
+  "listing_date": "15/04/2025",
+  "ara_arb_percentage": "25%",
+  "underwriters": [
+    {
+      "code": "CC",
+      "name": "MANDIRI SEKURITAS",
+      "percentage": "-"
+    }
+  ],
+  "warrant": {
+    "code": "-",
+    "per_share_ratio": 0.0,
+    "exercise_price_(rp)": 0.0,
+    "open": "-",
+    "high": "-",
+    "low": "-",
+    "close": "-"
+  },
+  "listing_price": {
+    "open": "210",
+    "high": 234.0,
+    "low": 185.0,
+    "close": 204.0,
+    "change": 16.0,
+    "percentage_change": "8.51%",
+    "volume": 3517600.0
+  },
+  "performa": {
+    "1D": "8.51%",
+    "1W": "-",
+    "1M": "-",
+    "6M": "-",
+    "1Y": "-",
+    "updated_at": "15/04/2025",
+    "source": "IDX"
+  },
+  "fundamental": {
+    "aset_percentage": "-",
+    "liabilitas_percentage": "-",
+    "pendapatan_percentage": "-",
+    "laba_bersih_percentage": "-",
+    "updated_at": "30/09/2024",
+    "source": "Prospectus"
+  }
+}

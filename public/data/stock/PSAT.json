@@ -1,0 +1,76 @@
+{
+  "ipo_status": "Closed",
+  "ticker_code": "PSAT",
+  "image": "",
+  "company_name": "PT Pancaran Samudera Transport Tbk",
+  "sector": "Transportation & Logistic",
+  "subsector": "Passenger Marine Transportation",
+  "listing_board": "Main",
+  "final_price": 900.0,
+  "line_of_business": "Bidang Angkutan Laut Dalam Negeri untuk Barang Umum dan Barang Khusus dan Perusahaan Holding",
+  "address": "Gedung Kirana Three Lantai 11 (Bella Terra), Jl. Boulevard Raya Kav. 1, Kelurahan Kelapa Gading, Kota Jakarta Utara, Provinsi DKI Jakarta 14240",
+  "website": "https://www.pancaran-samudera.co.id",
+  "number_of_shares_offered": 222353000,
+  "%_of_total_shares": 15,
+  "participant_admin": {
+    "code": "LG",
+    "name": "TRIMEGAH SEKURITAS INDONESIA TBK"
+  },
+  "book_building_opening": "23/06/2025",
+  "book_building_closing": "25/06/2025",
+  "lowest_book_building_price": 850,
+  "highest_book_building_price": 900,
+  "opening_of_offering_period": "02/07/2025",
+  "closing_of_offering_period": "04/07/2025",
+  "closing_date": "04/07/2025",
+  "distribution_date": "07/07/2025",
+  "listing_date": "08/07/2025",
+  "ara_arb_percentage": "25%",
+  "underwriters": [
+    {
+      "code": "LG",
+      "name": "TRIMEGAH SEKURITAS INDONESIA TBK",
+      "percentage": "-"
+    },
+    {
+      "code": "SQ",
+      "name": "PT BCA SEKURITAS",
+      "percentage": "-"
+    }
+  ],
+  "warrant": {
+    "code": "-",
+    "per_share_ratio": 0.0,
+    "exercise_price_(rp)": 0.0,
+    "open": "-",
+    "high": "-",
+    "low": "-",
+    "close": "-"
+  },
+  "listing_price": {
+    "open": "1125",
+    "high": 3410.0,
+    "low": 640.0,
+    "close": 860.0,
+    "change": -40.0,
+    "percentage_change": "-4.44%",
+    "volume": 0.0
+  },
+  "performa": {
+    "1D": "25.00%",
+    "1W": "193.30%",
+    "1M": "73.30%",
+    "6M": "54.40%",
+    "1Y": "-4.44%",
+    "updated_at": "26/06/2026",
+    "source": "Sectors.app"
+  },
+  "fundamental": {
+    "aset_percentage": "-",
+    "liabilitas_percentage": "-",
+    "pendapatan_percentage": "9.9%",
+    "laba_bersih_percentage": "-",
+    "updated_at": "31/12/2025",
+    "source": "Financial Report"
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "ipo_status": "Closed",
+  "ticker_code": "SUPA",
+  "image": "",
+  "company_name": "PT Super Bank Indonesia Tbk",
+  "sector": "Financials",
+  "subsector": "Banks",
+  "listing_board": "Development",
+  "final_price": 635.0,
+  "line_of_business": "Penyediaan layanan perbankan digital (Digital Banking Services)",
+  "address": "Gedung Millennium Centennial Center Lantai 23-25, Jl. Jenderal Sudirman Kav. 25, Karet Kuningan, Setiabudi, Jakarta Selatan 12920",
+  "website": "https://www.superbank.id",
+  "number_of_shares_offered": 4406612300,
+  "%_of_total_shares": 13,
+  "participant_admin": {
+    "code": "-",
+    "name": "-"
+  },
+  "book_building_opening": "25/11/2025",
+  "book_building_closing": "01/12/2025",
+  "lowest_book_building_price": 525,
+  "highest_book_building_price": 695,
+  "opening_of_offering_period": "10/12/2025",
+  "closing_of_offering_period": "15/12/2025",
+  "closing_date": "15/12/2025",
+  "distribution_date": "16/12/2025",
+  "listing_date": "17/12/2025",
+  "ara_arb_percentage": "25%",
+  "underwriters": [
+    {
+      "code": "CC",
+      "name": "MANDIRI SEKURITAS",
+      "percentage": "-"
+    },
+    {
+      "code": "BQ",
+      "name": "KOREA INVESTMENT AND SEKURITAS INDONESIA",
+      "percentage": "-"
+    }
+  ],
+  "warrant": {
+    "code": "-",
+    "per_share_ratio": 0.0,
+    "exercise_price_(rp)": 0.0,
+    "open": "-",
+    "high": "-",
+    "low": "-",
+    "close": "-"
+  },
+  "listing_price": {
+    "open": "635.0",
+    "high": 680.0,
+    "low": 520.0,
+    "close": 525.0,
+    "change": -110.0,
+    "percentage_change": "-17.32%",
+    "volume": 0.0
+  },
+  "performa": {
+    "1D": "-4.00%",
+    "1W": "-12.61%",
+    "1M": "-39.53%",
+    "6M": "-41.90%",
+    "1Y": "-17.32%",
+    "updated_at": "26/06/2026",
+    "source": "TradingView"
+  },
+  "fundamental": {
+    "aset_percentage": "39.05%",
+    "liabilitas_percentage": "163.72%",
+    "pendapatan_percentage": "130.18%",
+    "laba_bersih_percentage": "148.15%",
+    "updated_at": "30/06/2025",
+    "source": "Prospectus"
+  }
+}

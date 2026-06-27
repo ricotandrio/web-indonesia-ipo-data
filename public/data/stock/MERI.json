@@ -1,0 +1,71 @@
+{
+  "ipo_status": "Closed",
+  "ticker_code": "MERI",
+  "image": "",
+  "company_name": "PT Merry Riana Edukasi Tbk",
+  "sector": "Consumer Cyclicals",
+  "subsector": "Education Services",
+  "listing_board": "Development",
+  "final_price": 128.0,
+  "line_of_business": "Pendidikan sebagai Lembaga Kursus dan Pelatihan serta Pusat Pengembangan Diri Anak dan Remaja",
+  "address": "Gedung Bursa Efek Indonesia, Tower 1, Lantai 6, Jalan Jendral Sudirman Kav 52-53, Jakarta Selatan 12190",
+  "website": "https://www.merryriana.com",
+  "number_of_shares_offered": 235132500,
+  "%_of_total_shares": 22.72,
+  "participant_admin": {
+    "code": "BCA",
+    "name": "PT BCA SEKURITAS"
+  },
+  "book_building_opening": "24/06/2025",
+  "book_building_closing": "26/06/2025",
+  "lowest_book_building_price": 110,
+  "highest_book_building_price": 150,
+  "opening_of_offering_period": "02/07/2025",
+  "closing_of_offering_period": "08/07/2025",
+  "closing_date": "08/07/2025",
+  "distribution_date": "09/07/2025",
+  "listing_date": "10/07/2025",
+  "ara_arb_percentage": "35%",
+  "underwriters": [
+    {
+      "code": "SQ",
+      "name": "PT BCA SEKURITAS",
+      "percentage": "100%"
+    }
+  ],
+  "warrant": {
+    "code": "-",
+    "per_share_ratio": 0.0,
+    "exercise_price_(rp)": 0.0,
+    "open": "-",
+    "high": "-",
+    "low": "-",
+    "close": "-"
+  },
+  "listing_price": {
+    "open": 172.0,
+    "high": 700.0,
+    "low": 87.0,
+    "close": 115.0,
+    "change": -13.0,
+    "percentage_change": "-10.15%",
+    "volume": 783700.0
+  },
+  "performa": {
+    "1D": "34.38%",
+    "1W": "-5.50%",
+    "1M": "-8.20%",
+    "6M": "-45.10%",
+    "1Y": "-10.15%",
+    "updated_at": "26/06/2026",
+    "source": "Sectors.app"
+  },
+  "fundamental": {
+    "aset_percentage": "-",
+    "liabilitas_percentage": "-",
+    "pendapatan_percentage": "1.55%",
+    "laba_bersih_percentage": "-52.70%",
+    "updated_at": "31/12/2025",
+    "source": "Financial Report"
+  }
+}

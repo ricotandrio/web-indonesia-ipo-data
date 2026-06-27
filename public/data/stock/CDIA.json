@@ -1,0 +1,96 @@
+{
+  "ipo_status": "Closed",
+  "ticker_code": "CDIA",
+  "image": "",
+  "company_name": "PT Chandra Daya Investasi Tbk",
+  "sector": "Infrastructures",
+  "subsector": "Electric Utilities",
+  "listing_board": "Development",
+  "final_price": 190.0,
+  "line_of_business": "Aktivitas Perusahaan Holding dan Penyedia Solusi Infrastruktur Terintegrasi (Energi, Air, Kepelabuhanan, dan Logistik)",
+  "address": "Wisma Barito Pacific Tower A, Lt. 5, Jl. Let. Jend. S. Parman Kav. 62-63, Kel. Slipi, Kec. Palmerah, Jakarta Barat 11410",
+  "website": "https://chandradaya-investasi.com",
+  "number_of_shares_offered": 12482937500,
+  "%_of_total_shares": 10,
+  "participant_admin": {
+    "code": "HP",
+    "name": "HENAN PUTIHRAI SEKURITAS"
+  },
+  "book_building_opening": "19/06/2025",
+  "book_building_closing": "24/06/2025",
+  "lowest_book_building_price": 170,
+  "highest_book_building_price": 190,
+  "opening_of_offering_period": "02/07/2025",
+  "closing_of_offering_period": "07/07/2025",
+  "closing_date": "07/07/2025",
+  "distribution_date": "08/07/2025",
+  "listing_date": "09/07/2025",
+  "ara_arb_percentage": "35%",
+  "underwriters": [
+    {
+      "code": "HP",
+      "name": "HENAN PUTIHRAI SEKURITAS",
+      "percentage": "-"
+    },
+    {
+      "code": "DP",
+      "name": "PT DBS VICKERS SEKURITAS INDONESIA",
+      "percentage": "-"
+    },
+    {
+      "code": "LG",
+      "name": "TRIMEGAH SEKURITAS INDONESIA TBK",
+      "percentage": "-"
+    },
+    {
+      "code": "NI",
+      "name": "PT BNI SEKURITAS",
+      "percentage": "-"
+    },
+    {
+      "code": "SQ",
+      "name": "PT BCA SEKURITAS",
+      "percentage": "-"
+    },
+    {
+      "code": "TP",
+      "name": "OCBC SEKURITAS INDONESIA",
+      "percentage": "-"
+    }
+  ],
+  "warrant": {
+    "code": "-",
+    "per_share_ratio": 0.0,
+    "exercise_price_(rp)": 0.0,
+    "open": "-",
+    "high": "-",
+    "low": "-",
+    "close": "-"
+  },
+  "listing_price": {
+    "open": "256",
+    "high": 2450.0,
+    "low": 190.0,
+    "close": 635.0,
+    "change": 445.0,
+    "percentage_change": "234.21%",
+    "volume": 3737400.0
+  },
+  "performa": {
+    "1D": "34.74%",
+    "1W": "-",
+    "1M": "-",
+    "6M": "-",
+    "1Y": "234.21%",
+    "updated_at": "26/06/2026",
+    "source": "Google Finance"
+  },
+  "fundamental": {
+    "aset_percentage": "-",
+    "liabilitas_percentage": "-",
+    "pendapatan_percentage": "35.0%",
+    "laba_bersih_percentage": "1633.0%",
+    "updated_at": "31/12/2024",
+    "source": "Prospectus"
+  }
+}

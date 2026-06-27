@@ -1,0 +1,81 @@
+{
+  "ipo_status": "Closed",
+  "ticker_code": "WBSA",
+  "image": "",
+  "company_name": "PT BSA Logistics Indonesia Tbk",
+  "sector": "Transportation & Logistic",
+  "subsector": "Logistics & Deliveries",
+  "listing_board": "Main",
+  "final_price": 168.0,
+  "line_of_business": "Bergerak Dalam Bidang Usaha Angkutan Multimoda, Pergudangan dan Penyimpanan, Aktivitas Cold Storage",
+  "address": "Jl. Raya Cakung Cilincing KM 3 Kelurahan Cakung Barat, Kecamatan Cakung Jakarta Timur 13910",
+  "website": "https://www.bsa-logistics.co.id",
+  "number_of_shares_offered": 1800000000,
+  "%_of_total_shares": 20.75,
+  "participant_admin": {
+    "code": "MG",
+    "name": "SEMESTA INDOVEST SEKURITAS"
+  },
+  "book_building_opening": "25/03/2026",
+  "book_building_closing": "27/03/2026",
+  "lowest_book_building_price": 150,
+  "highest_book_building_price": 170,
+  "opening_of_offering_period": "02/04/2026",
+  "closing_of_offering_period": "08/04/2026",
+  "closing_date": "08/04/2026",
+  "distribution_date": "09/04/2026",
+  "listing_date": "10/04/2026",
+  "ara_arb_percentage": "35%",
+  "underwriters": [
+    {
+      "code": "MG",
+      "name": "SEMESTA INDOVEST SEKURITAS",
+      "percentage": "-"
+    },
+    {
+      "code": "TP",
+      "name": "OCBC SEKURITAS INDONESIA",
+      "percentage": "-"
+    },
+    {
+      "code": "IU",
+      "name": "INDO CAPITAL SEKURITAS",
+      "percentage": "-"
+    }
+  ],
+  "warrant": {
+    "code": "-",
+    "per_share_ratio": 0.0,
+    "exercise_price_(rp)": 0.0,
+    "open": "-",
+    "high": "-",
+    "low": "-",
+    "close": "-"
+  },
+  "listing_price": {
+    "open": "225.0",
+    "high": 1605.0,
+    "low": 225.0,
+    "close": 695.0,
+    "change": 527.0,
+    "percentage_change": "313.69%",
+    "volume": 0.0
+  },
+  "performa": {
+    "1D": "33.92%",
+    "1W": "-7.95%",
+    "1M": "-10.32%",
+    "6M": "313.69%",
+    "1Y": "313.69%",
+    "updated_at": "26/06/2026",
+    "source": "TradingView"
+  },
+  "fundamental": {
+    "aset_percentage": "-",
+    "liabilitas_percentage": "-",
+    "pendapatan_percentage": "1.58%",
+    "laba_bersih_percentage": "-",
+    "updated_at": "31/12/2025",
+    "source": "Prospectus"
+  }
+}

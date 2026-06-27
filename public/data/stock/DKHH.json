@@ -1,0 +1,71 @@
+{
+  "ipo_status": "Closed",
+  "ticker_code": "DKHH",
+  "image": "",
+  "company_name": "PT Cipta Sarana Medika Tbk",
+  "sector": "Healthcare",
+  "subsector": "Healthcare Providers",
+  "listing_board": "Development",
+  "final_price": 132.0,
+  "line_of_business": "Rumah Sakit Swasta",
+  "address": "Jl Siliwangi No. 139, Cibadak, Kec Cibadak, Kabupaten Sukabumi, Jawa Barat 43351",
+  "website": "https://www.dkhhospitals.com",
+  "number_of_shares_offered": 530000000,
+  "%_of_total_shares": 20.78,
+  "participant_admin": {
+    "code": "EP",
+    "name": "MNC SEKURITAS"
+  },
+  "book_building_opening": "24/04/2025",
+  "book_building_closing": "28/04/2025",
+  "lowest_book_building_price": 100,
+  "highest_book_building_price": 132,
+  "opening_of_offering_period": "02/05/2025",
+  "closing_of_offering_period": "06/05/2025",
+  "closing_date": "06/05/2025",
+  "distribution_date": "07/05/2025",
+  "listing_date": "08/05/2025",
+  "ara_arb_percentage": "35%",
+  "underwriters": [
+    {
+      "code": "EP",
+      "name": "MNC SEKURITAS",
+      "percentage": "100%"
+    }
+  ],
+  "warrant": {
+    "code": "DKHH-W",
+    "per_share_ratio": 0.5,
+    "exercise_price_(rp)": 155.0,
+    "open": "-",
+    "high": "-",
+    "low": "-",
+    "close": "-"
+  },
+  "listing_price": {
+    "open": "178",
+    "high": 178.0,
+    "low": 132.0,
+    "close": 178.0,
+    "change": 46.0,
+    "percentage_change": "34.85%",
+    "volume": 5300000.0
+  },
+  "performa": {
+    "1D": "34.85%",
+    "1W": "-",
+    "1M": "-",
+    "6M": "-",
+    "1Y": "-14.71%",
+    "updated_at": "08/05/2025",
+    "source": "IDX"
+  },
+  "fundamental": {
+    "aset_percentage": "-",
+    "liabilitas_percentage": "-",
+    "pendapatan_percentage": "36.5%",
+    "laba_bersih_percentage": "46.0%",
+    "updated_at": "31/03/2025",
+    "source": "Prospectus"
+  }
+}
