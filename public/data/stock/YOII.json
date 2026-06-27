@@ -14,7 +14,7 @@
   "%_of_total_shares": 12.03,
   "participant_admin": {
     "code": "LS",
-    "name": "RELIANCE SEKURITAS INDONESIA TBK."
+    "name": "RELIANCE SEKURITAS INDONESIA TBK"
   },
   "book_building_opening": "10/12/2024",
   "book_building_closing": "18/12/2024",
@@ -29,7 +29,7 @@
   "underwriters": [
     {
       "code": "LS",
-      "name": "RELIANCE SEKURITAS INDONESIA TBK.",
+      "name": "RELIANCE SEKURITAS INDONESIA TBK",
       "percentage": 1.0
     }
   ],

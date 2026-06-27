@@ -9,6 +9,7 @@
     "lint": "eslint .",
     "preview": "vite preview",
     "prettier": "prettier --write .",
+    "sync:data": "node ./scripts/sync_data.mjs",
     "check:json": "node ./scripts/check_json_format.mjs",
     "check:underwriter": "node ./scripts/check_underwriter.mjs",
     "check:underwriters": "node ./scripts/check_underwriters.mjs",
