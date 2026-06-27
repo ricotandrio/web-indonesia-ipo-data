@@ -5,7 +5,26 @@
     "underwriters": 45
   },
   "new": {
-    "stocks": [],
+    "stocks": [
+      "YUPI",
+      "MDLA",
+      "FORE",
+      "DKHH",
+      "ASPR",
+      "PSAT",
+      "COIN",
+      "PMUI",
+      "CDIA",
+      "BLOG",
+      "MERI",
+      "CHEK",
+      "EMAS",
+      "PJHB",
+      "RLCO",
+      "SUPA",
+      "WBSA",
+      "JELI"
+    ],
     "underwriters": []
   }
 }
