@@ -13,8 +13,8 @@
   "number_of_shares_offered": 235132500,
   "%_of_total_shares": "22.72",
   "participant_admin": {
-    "code": "BCA",
-    "name": "PT BCA SEKURITAS"
+    "code": "YJ",
+    "name": "LOTUS ANDALAN SEKURITAS"
   },
   "book_building_opening": "24/06/2025",
   "book_building_closing": "26/06/2025",
@@ -28,8 +28,8 @@
   "ara_arb_percentage": "35%",
   "underwriters": [
     {
-      "code": "SQ",
-      "name": "PT BCA SEKURITAS",
+      "code": "YJ",
+      "name": "LOTUS ANDALAN SEKURITAS",
       "percentage": "100%"
     }
   ],

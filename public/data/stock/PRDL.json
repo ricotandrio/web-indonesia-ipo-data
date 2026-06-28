@@ -1,0 +1,65 @@
+{
+  "ipo_status": "Waiting For Offering",
+  "ticker_code": "PRDL",
+  "image": "",
+  "company_name": "PT Prodia Diagnostic Line Tbk",
+  "sector": "Healthcare",
+  "subsector": "Healthcare Equipment",
+  "listing_board": "",
+  "final_price": "",
+  "line_of_business": "Bergerak dalam bidang pembuatan dan pengolahan alat kesehatan terkait diagnosa medis",
+  "address": "Kawasan Industri Jababeka III Jl. Tekno Boulevard Blok A3 Unit 3A-5-6 Jawa Barat, 17530 - Indonesia",
+  "website": "https://www.proline.co.id",
+  "number_of_shares_offered": 522900000,
+  "%_of_total_shares": "30.0",
+  "participant_admin": {
+    "code": "AZ",
+    "name": "SUCOR SEKURITAS"
+  },
+  "book_building_opening": "",
+  "book_building_closing": "",
+  "lowest_book_building_price": 100,
+  "highest_book_building_price": 120,
+  "opening_of_offering_period": "",
+  "closing_of_offering_period": "",
+  "closing_date": "",
+  "distribution_date": "",
+  "listing_date": "",
+  "ara_arb_percentage": "",
+  "underwriters": "",
+  "warrant": {
+    "code": "",
+    "per_share_ratio": "",
+    "exercise_price_(rp)": "",
+    "open": "",
+    "high": "",
+    "low": "",
+    "close": ""
+  },
+  "listing_price": {
+    "open": "",
+    "high": "",
+    "low": "",
+    "close": "",
+    "change": "",
+    "percentage_change": "",
+    "volume": ""
+  },
+  "performa": {
+    "1D": "",
+    "1W": "",
+    "1M": "",
+    "6M": "",
+    "1Y": "",
+    "updated_at": "",
+    "source": ""
+  },
+  "fundamental": {
+    "aset_percentage": "",
+    "liabilitas_percentage": "",
+    "pendapatan_percentage": "",
+    "laba_bersih_percentage": "",
+    "updated_at": "",
+    "source": ""
+  }
+}

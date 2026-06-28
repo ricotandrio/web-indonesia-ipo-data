@@ -1,29 +1,17 @@
 {
-  "updated_at": "27 June 2026",
+  "updated_at": "28 June 2026",
   "count": {
-    "stocks": 245,
+    "stocks": 250,
     "underwriters": 45
   },
   "new": {
     "stocks": [
-      "YUPI",
-      "MDLA",
-      "FORE",
-      "DKHH",
-      "ASPR",
-      "PSAT",
-      "COIN",
-      "PMUI",
-      "CDIA",
-      "BLOG",
-      "MERI",
-      "CHEK",
-      "EMAS",
-      "PJHB",
-      "RLCO",
-      "SUPA",
-      "WBSA",
-      "JELI"
+      "JELI",
+      "PRDL",
+      "EMMI",
+      "JECX",
+      "BACH",
+      "RANS"
     ],
     "underwriters": []
   }

@@ -1,0 +1,65 @@
+{
+  "ipo_status": "Waiting For Offering",
+  "ticker_code": "JECX",
+  "image": "",
+  "company_name": "PT Nitrasanata Dharma Tbk",
+  "sector": "Healthcare",
+  "subsector": "Healthcare Supplies & Distributions",
+  "listing_board": "",
+  "final_price": "",
+  "line_of_business": "Bergerak dalam perdagangan besar alat laboratorium, alat farmasi dan alat kedokteran untuk manusia",
+  "address": "Esa 8 Building, Lantai 10 Jl. Ir.Sukarno No.Kav. 3 - 5, Paramount, Gading Serpong Tangerang, Banten – 15332",
+  "website": "https://esamedikamandiri.com/",
+  "number_of_shares_offered": 522857000,
+  "%_of_total_shares": "30.0",
+  "participant_admin": {
+    "code": "OD",
+    "name": "BRI DANAREKSA SEKURITAS"
+  },
+  "book_building_opening": "",
+  "book_building_closing": "",
+  "lowest_book_building_price": 446,
+  "highest_book_building_price": 515,
+  "opening_of_offering_period": "",
+  "closing_of_offering_period": "",
+  "closing_date": "",
+  "distribution_date": "",
+  "listing_date": "",
+  "ara_arb_percentage": "",
+  "underwriters": "",
+  "warrant": {
+    "code": "",
+    "per_share_ratio": "",
+    "exercise_price_(rp)": "",
+    "open": "",
+    "high": "",
+    "low": "",
+    "close": ""
+  },
+  "listing_price": {
+    "open": "",
+    "high": "",
+    "low": "",
+    "close": "",
+    "change": "",
+    "percentage_change": "",
+    "volume": ""
+  },
+  "performa": {
+    "1D": "",
+    "1W": "",
+    "1M": "",
+    "6M": "",
+    "1Y": "",
+    "updated_at": "",
+    "source": ""
+  },
+  "fundamental": {
+    "aset_percentage": "",
+    "liabilitas_percentage": "",
+    "pendapatan_percentage": "",
+    "laba_bersih_percentage": "",
+    "updated_at": "",
+    "source": ""
+  }
+}
