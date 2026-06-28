@@ -1,0 +1,65 @@
+{
+  "ipo_status": "Waiting For Offering",
+  "ticker_code": "RANS",
+  "image": "",
+  "company_name": "PT Rans Entertainmen Indonesia Tbk",
+  "sector": "Consumer Cyclicals",
+  "subsector": "Entertainment & Movie Production",
+  "listing_board": "",
+  "final_price": "",
+  "line_of_business": "Bergerak dalam bidang usaha media dan hiburan, Pengelolaan IP, & Perusahaan Holding",
+  "address": "Komplek Bumi Serpong Damai, Blok CBD Lot VIII No. 12, Kelurahan Lengkong Gudang, Kecamatan Serpong, Tangerang Selatan, Banten 15321",
+  "website": "https://www.ransentertainment.co.id",
+  "number_of_shares_offered": 2525000000,
+  "%_of_total_shares": "20.02",
+  "participant_admin": {
+    "code": "LG",
+    "name": "TRIMEGAH SEKURITAS INDONESIA TBK"
+  },
+  "book_building_opening": "",
+  "book_building_closing": "",
+  "lowest_book_building_price": 135,
+  "highest_book_building_price": 170,
+  "opening_of_offering_period": "",
+  "closing_of_offering_period": "",
+  "closing_date": "",
+  "distribution_date": "",
+  "listing_date": "",
+  "ara_arb_percentage": "",
+  "underwriters": "",
+  "warrant": {
+    "code": "",
+    "per_share_ratio": "",
+    "exercise_price_(rp)": "",
+    "open": "",
+    "high": "",
+    "low": "",
+    "close": ""
+  },
+  "listing_price": {
+    "open": "",
+    "high": "",
+    "low": "",
+    "close": "",
+    "change": "",
+    "percentage_change": "",
+    "volume": ""
+  },
+  "performa": {
+    "1D": "",
+    "1W": "",
+    "1M": "",
+    "6M": "",
+    "1Y": "",
+    "updated_at": "",
+    "source": ""
+  },
+  "fundamental": {
+    "aset_percentage": "",
+    "liabilitas_percentage": "",
+    "pendapatan_percentage": "",
+    "laba_bersih_percentage": "",
+    "updated_at": "",
+    "source": ""
+  }
+}
