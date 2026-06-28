@@ -16,8 +16,8 @@
     "code": "AO",
     "name": "ERDIKHA ELIT SEKURITAS"
   },
-  "book_building_opening": "",
-  "book_building_closing": "",
+  "book_building_opening": "22/06/2026",
+  "book_building_closing": "24/06/2026",
   "lowest_book_building_price": 400,
   "highest_book_building_price": 500,
   "opening_of_offering_period": "",
@@ -29,7 +29,7 @@
   "underwriters": "",
   "warrant": {
     "code": "",
-    "per_share_ratio": "",
+    "per_share_ratio": "0.0",
     "exercise_price_(rp)": "",
     "open": "",
     "high": "",

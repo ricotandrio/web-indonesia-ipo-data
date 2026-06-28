@@ -5,7 +5,7 @@
   "company_name": "PT Raharja Energi Cepu Tbk",
   "sector": "Energy",
   "subsector": "Oil & Gas Production & Refinery",
-  "listing_board": "",
+  "listing_board": "Pengembangan",
   "final_price": "1150.0",
   "line_of_business": "Aktivitas Perusahaan Holding",
   "address": "Office Park Thamrin Residence A01-05 Jl. Thamrin Boulevard, Kebon Melati, Kec. Tanah Abang Jakarta Pusat, DKI Jakarta Indonesia - 10230",
@@ -40,7 +40,7 @@
   ],
   "warrant": {
     "code": "",
-    "per_share_ratio": "",
+    "per_share_ratio": "0.0",
     "exercise_price_(rp)": "",
     "open": "",
     "high": "",

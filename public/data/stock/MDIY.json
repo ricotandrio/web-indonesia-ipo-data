@@ -5,7 +5,7 @@
   "company_name": "PT Daya Intiguna Yasa Tbk",
   "sector": "Consumer Non-Cyclicals",
   "subsector": "Household Products",
-  "listing_board": "",
+  "listing_board": "Utama",
   "final_price": "1650.0",
   "line_of_business": "Perdagangan eceran alat-alat rumah tangga, dan lainnya",
   "address": "Gedung AIA, Lantai 30, Jl. Jenderal Sudirman Kav. 48A , Jakarta Selatan, 12930",
@@ -40,7 +40,7 @@
   ],
   "warrant": {
     "code": "",
-    "per_share_ratio": "",
+    "per_share_ratio": "0.0",
     "exercise_price_(rp)": "",
     "open": "",
     "high": "",

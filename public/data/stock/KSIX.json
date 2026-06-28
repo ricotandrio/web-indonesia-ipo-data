@@ -5,7 +5,7 @@
   "company_name": "PT Kentanix Supra International Tbk",
   "sector": "Properties & Real Estate",
   "subsector": "Real Estate Development & Management",
-  "listing_board": "",
+  "listing_board": "Pengembangan",
   "final_price": "452.0",
   "line_of_business": "Bergerak dalam bidang pembangunan kawasan perumahan (real estate)",
   "address": "Plaza Property, Komplek Pertokoan Pulomas Blok VIII No. 1 Jl. Perintis Kemerdekaan, Desa/Kelurahan Pulo Gadung, Kec. Pulogadung, Kota Adm. Jakarta Timur, Provinsi DKI Jakarta, Kode Pos: 13260",
@@ -35,7 +35,7 @@
   ],
   "warrant": {
     "code": "",
-    "per_share_ratio": "",
+    "per_share_ratio": "0.0",
     "exercise_price_(rp)": "",
     "open": "",
     "high": "",

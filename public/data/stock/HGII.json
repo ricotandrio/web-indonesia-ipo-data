@@ -5,7 +5,7 @@
   "company_name": "PT Hero Global Investment Tbk",
   "sector": "Infrastructures",
   "subsector": "Electric Utilities",
-  "listing_board": "",
+  "listing_board": "Pengembangan",
   "final_price": "200.0",
   "line_of_business": "Bergerak dalam bidang aktivitas perusahaan holding di bidang energi baru terbarukan",
   "address": "Jl. Setiabudi Tengah No. 22 Kuningan, Setiabudi, Jakarta Selatan 12910, DKI Jakarta, Indonesia Tel. (+62 21) 522 7533 Fax. (+62 21) 525 0019",
@@ -40,7 +40,7 @@
   ],
   "warrant": {
     "code": "",
-    "per_share_ratio": "",
+    "per_share_ratio": "0.0",
     "exercise_price_(rp)": "",
     "open": "",
     "high": "",

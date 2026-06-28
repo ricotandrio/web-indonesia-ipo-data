@@ -5,7 +5,7 @@
   "company_name": "PT Delta Giri Wacana Tbk",
   "sector": "Basic Materials",
   "subsector": "Agricultural Chemicals",
-  "listing_board": "",
+  "listing_board": "Utama",
   "final_price": "230.0",
   "line_of_business": "Perdagangan Besar Pupuk dan Produk Agrokimia",
   "address": "Gedung DGW Group Jl. Agung Karya VI, Kav. A, No.7, Kelurahan Papanggo, Kecamatan Tanjung Priok, Kota Administrasi Jakarta Utara 14340, Provinsi DKI Jakarta",
@@ -45,7 +45,7 @@
   ],
   "warrant": {
     "code": "",
-    "per_share_ratio": "",
+    "per_share_ratio": "0.0",
     "exercise_price_(rp)": "",
     "open": "",
     "high": "",

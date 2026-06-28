@@ -5,13 +5,13 @@
   "company_name": "PT Yupi Indo Jelly Gum Tbk",
   "sector": "Consumer Non-Cyclicals",
   "subsector": "Processed Foods",
-  "listing_board": "Main",
+  "listing_board": "Utama",
   "final_price": "2390.0",
   "line_of_business": "Industri Kembang Gula",
-  "address": "Jl. Pancasila IV, Desa Cicadas, Kecamatan Gunung Putri, Kabupaten Bogor, 16964, Jawa Barat, Indonesia.",
+  "address": "Jl. Pancasila IV, Desa Cicadas, Kecamatan Gunung Putri, Kabupaten Bogor, 16964, Jawa Barat, Indonesia",
   "website": "https://www.yupi.co.id",
   "number_of_shares_offered": 854448900,
-  "%_of_total_shares": 10,
+  "%_of_total_shares": "10.0",
   "participant_admin": {
     "code": "CC",
     "name": "MANDIRI SEKURITAS"
