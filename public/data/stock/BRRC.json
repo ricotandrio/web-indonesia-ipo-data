@@ -5,7 +5,7 @@
   "company_name": "PT Raja Roti Cemerlang Tbk",
   "sector": "Consumer Non-Cyclicals",
   "subsector": "Processed Foods",
-  "listing_board": "",
+  "listing_board": "Pengembangan",
   "final_price": "210.0",
   "line_of_business": "Produksi tepung roti (breadcrumbs)",
   "address": "Kampung Pulo Kendal RT002/RW003, Kel. Setia Asih, Kec. Tarumajaya, Kab. Bekasi, Provinsi Jawa Barat 17215 Telepon: 021-29084611",
@@ -34,9 +34,9 @@
     }
   ],
   "warrant": {
-    "code": "",
-    "per_share_ratio": "",
-    "exercise_price_(rp)": "",
+    "code": "BRRC-W",
+    "per_share_ratio": "0.5",
+    "exercise_price_(rp)": "210.0",
     "open": "",
     "high": "",
     "low": "",

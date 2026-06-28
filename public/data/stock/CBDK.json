@@ -5,7 +5,7 @@
   "company_name": "PT Bangun Kosambi Sukses Tbk",
   "sector": "Properties & Real Estate",
   "subsector": "Real Estate Development & Management",
-  "listing_board": "",
+  "listing_board": "Utama",
   "final_price": "4060.0",
   "line_of_business": "Bergerak dalam bidang Real Estat dan Aktivitas Perusahaan Holding",
   "address": "Jl. Inspeksi PIK 2, Terusan Jalan Perancis No.5 Tangerang 15211, Indonesia",
@@ -35,7 +35,7 @@
   ],
   "warrant": {
     "code": "",
-    "per_share_ratio": "",
+    "per_share_ratio": "0.0",
     "exercise_price_(rp)": "",
     "open": "",
     "high": "",
